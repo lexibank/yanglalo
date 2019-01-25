@@ -1,0 +1,10 @@
+ID	NAME	GLOTTOLOG	LOCATION	Coordinates	Notes
+Pla	Proto-Lalo				
+CW-QY	Qingyun	xish1235	Dali Prefecture, Weishan County, Ma'anshan, Qingyun		§3.2; GL: "Central Lalo (West Mt) of Qingyun village in Ma'anshan-Weishan-Dali"
+W-SZP	Shuizhuping	west1506	Dali Prefecture, Yangbi County, Longtan, Shuizhuping		§3.5 = W-YL (W-SZP = 3.5.2); GL: "Western Lalo in Shuizhuping village in Longtan-Yangbi-Dali"
+E-DC	Diaocao	dong1286	Dali Prefecture, Dali Municipality, Shijiao qu Diaocao		§3.6; GL: "Eastern Lalo in Diaocao village Shijiao qu-Dali-Dali"
+XZ	Xuzhang	xuzh1234	Baoshan Prefecture, Longyang Area, Wafang, Xuzhang		§3.8
+MD	Mangdi	sout3210	Lincang Prefecture, Gengma County, Hepai, Mangdi		§3.3; GL: "Mangdi in Mangdi village in Hepai-Gengma-Lincang"
+Eka	Yijiacun	ekaa1234	Lincang Prefecture, Shuangjiang County, Heliu, Yijiacun		§3.4
+YL	Yangliu	yang1304	Baoshan Prefecture, Longyang Area, Yangliu		§3.7 (Name corrected from original Yanglliu)
+#Note: dong1286 is grouped under Central-Western Lalo in GL, whereas Yang has it as Eastern. Code assignment based on the name Diaocao.					
