@@ -11,6 +11,7 @@ from pylexibank.dataset import Concept, Language
 
 import csv
 import lingpy
+from sinopy.segments import get_structure
 
 class Dataset(BaseDataset):
     id = 'yanglalo'
@@ -67,15 +68,39 @@ class Dataset(BaseDataset):
                 if parameter:
                     for language in languages:
                         value = entry[language]
+                        value = value.replace(';', ',')
+                        value = value.replace('烂饭', '')
                         forms = [form.strip() for form in value.split(',')]
                         forms = [form for form in forms if form]
                         for form in forms:
-                            # deal with tones and segment (capital H is for
-                            # aspiration)
-                            form = form.replace('H', '¹')
-                            form = form.replace('ᶫ', '³')
+                            # do replacements fixing BIPA
+                            # TODO: move to orthographic profile later
+                            replacements = [
+                                ('H', '¹'), # superscript H is for aspiration
+                                ('ᶫ', '³'),
+                                ('ɤ̪', 'ɤ'),
+                                ('(', ''), # keep everything in parentheses
+                                (')', ''),
+                            ]
 
-                            segments = lingpy.ipa2tokens(form)
+                            for repl in replacements:
+                                form = form.replace(repl[0], repl[1])
+
+                            # perform segmentation with sinopy: extract
+                            # syllabic information and then extract the
+                            # segmented tokens (with the morpheme boundary)
+                            syllables = [
+                                syl[0] for syl in
+                                get_structure(form, zipped=True)]
+                            segments = [
+                                [segment[1] for segment in syllable] + ['+']
+                                for syllable in syllables
+                            ]
+
+                            # flatten the list of segments, as requested by
+                            # lexibank, removing the final morpheme mark
+                            segments = [seg for syl in segments for seg in syl]
+                            segments = segments[:-1]
 
                             for row in ds.add_lexemes(
                                 Language_ID=language,
