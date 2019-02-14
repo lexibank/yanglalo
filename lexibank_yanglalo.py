@@ -10,6 +10,7 @@ from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.dataset import Concept, Language
 
 import csv
+import lingpy
 
 class Dataset(BaseDataset):
     id = 'yanglalo'
@@ -65,19 +66,29 @@ class Dataset(BaseDataset):
                 parameter = entry['Parameter'].split('.')[0]
                 if parameter:
                     for language in languages:
-                        for row in ds.add_lexemes(
-                            Language_ID=language,
-                            Parameter_ID=parameter,
-                            Form=entry[language],
-                            Value=entry[language],
-                            # HIC SUNT DRACONES!!! THIS SEGMENTATION IS ONLY FOR COMPILING A FIRST PASS!
-                            Segments=[c for c in entry[language]],
-                            Source=['Yang2011Lalo'],
-                            Cognacy=cogid,
-                            ):
-                            ds.add_cognate(
-                                lexeme = row,
-                                Cognateset_ID=cogid,
+                        value = entry[language]
+                        forms = [form.strip() for form in value.split(',')]
+                        forms = [form for form in forms if form]
+                        for form in forms:
+                            # deal with tones and segment (capital H is for
+                            # aspiration)
+                            form = form.replace('H', '¹')
+                            form = form.replace('ᶫ', '³')
+
+                            segments = lingpy.ipa2tokens(form)
+
+                            for row in ds.add_lexemes(
+                                Language_ID=language,
+                                Parameter_ID=parameter,
+                                Form=form,
+                                Value=value,
+                                Segments=segments,
                                 Source=['Yang2011Lalo'],
-                                Alignment_Source='Yang2011Lalo',
-                            )
+                                Cognacy=cogid,
+                                ):
+                                ds.add_cognate(
+                                    lexeme = row,
+                                    Cognateset_ID=cogid,
+                                    Source=['Yang2011Lalo'],
+                                    Alignment_Source='Yang2011Lalo',
+                                )
