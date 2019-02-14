@@ -70,7 +70,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 69	68	dusk/evening	黄昏	68,0 / 68,1	dusk/evening / dusk/evening	1629	EVENING	4			
 70	69	night(time)	夜(里)/黑夜	69	night(time)	1233	NIGHT	4			
 71	70	this evening	今晚	70,0 / 70,1	this evening / this evening				lacuna	THIS EVENING	
-72	71	this morning	今早	71,0 / 71,1	this morning / this morning	1339	MORNING	2			
+72	71	this morning	今早	71,0 / 71,1	this morning / this morning			2			
 73	72	time	时间	72	time	892	TIME	2			
 74	73	cow	牛	73,0 / 73,1	cow / cow	1007	COW	2			
 75	74	buffalo (water)	水牛	74,0 / 74,1	buffalo (water) / buffalo (water)	934	BUFFALO	4			
@@ -80,7 +80,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 79	78	sow	母猪	78	sow	1351	SOW (FEMALE PIG)	2			
 80	79	piglet	小猪	79	piglet	2564	PIGLET	4			
 81	80	boar	公猪	80	boar	1348	BOAR	2			
-82	81	boar (wild)	野猪	81,0 / 81,1	boar (wild) / boar (wild)	1348	BOAR	4			
+82	81	boar (wild)	野猪	81,0 / 81,1	boar (wild) / boar (wild)	3154	WILD BOAR	4			
 83	82	goat	山羊	82	goat	1502	GOAT	2			
 84	83	ram	公羊	83	ram	1344	RAM	2			
 85	84	sheep	绵羊	84	sheep	1331	SHEEP	2			
@@ -152,7 +152,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 151	150	hoof	蹄	150	hoof	152	HOOF	2			
 152	151	horn	角	151	horn	1393	HORN (ANATOMY)	2			
 153	152	tail	尾巴	152,0 / 152,1	tail / tail	1220	TAIL	2			
-154	153	tusk	长牙	153	tusk	2495	ELEPHANT TUSK	2			
+154	153	tusk	长牙	153	tusk			2			
 155	154	(cocks)comb	冠（鸡冠）	154	(cocks)comb	188	COMB OF BIRD	4			
 156	155	tree	树	155,0 / 155,1	tree / tree	906	TREE	2			
 157	156	pine tree	松树	156,0 / 156,1	pine tree / pine tree	1740	PINE	2			
@@ -167,7 +167,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 166	165	sorghum	高粱	165	sorghum	347	SORGHUM	2			
 167	166	job's tears	薏苡	166	job's tears						
 168	167	corn	玉米	167,0 / 167,1	corn / corn	506	MAIZE	2			
-169	168	ear of grain	穗子	168	ear of grain						
+169	168	ear of grain	穗子	168	ear of grain	3244	EAR (OF GRAIN)				
 170	169	peanut	花生	169	peanut	2364	PEANUT	2			
 171	170	walnut	核桃	170,0 / 170,1	walnut / walnut	2042	WALNUT	2			
 172	171	cotton	棉花	171,0 / 171,1	cotton / cotton	1850	COTTON	2			
@@ -316,8 +316,8 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 315	314	Dai	傣族	314	Dai						
 316	315	child	儿童	315	child	2099	CHILD	2			
 317	316	elderly person	老人	316	elderly person	725	OLD PERSON				
-318	317	older man	老男人	317	older man				lacuna	OLDER MAN	
-319	318	older woman	老女人	318	older woman				lacuna	OLDER WOMAN	
+318	317	older man	老男人	317	older man	406	OLD MAN		lacuna	OLDER MAN	
+319	318	older woman	老女人	318	older woman	907	OLD WOMAN		lacuna	OLDER WOMAN	
 320	319	boy	青年男人	319	boy	1366	BOY	2			
 321	320	girl	青年女人	320	girl	1646	GIRL	2			
 322	321	friend	朋友	321	friend	1325	FRIEND	2			
@@ -412,7 +412,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 411	406	collar	衣领	406	collar	2012	COLLAR	2			
 412	407	sleeve	袖子	407	sleeve	2953	SLEEVE	2			
 413	408	button	钮扣	408	button	757	BUTTON	2			
-414	409	palm bark rain cape	蓑衣	409,0 / 409,1	palm bark rain cape / palm bark rain cape	1662	CAPE	2			
+414	409	palm bark rain cape	蓑衣	409,0 / 409,1	palm bark rain cape / palm bark rain cape			2			
 415	410	pants	裤子	410	pants	809	TROUSERS	4			
 416	411	belt	裤带	411	belt	772	BELT	2			
 417	412	shoes	鞋	412	shoes	1381	SHOE	2			
@@ -424,7 +424,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 423	418	mat	(垫)席	418,0 / 418,1	mat / mat	195	MAT	2			
 424	419	rice powder	米粉	419	rice powder						
 425	420	flour	面粉	420,1 / 420,0	flour / flour	1594	FLOUR	2			
-426	421	porridge	粥	421	porridge	1167	GRUEL				
+426	421	porridge	粥	421	porridge	2049	CONGEE				
 427	422	oil	油	422	oil	1484	OIL (ORGANIC SUBSTANCE)	2			
 428	423	lard	动物油	423	lard	1282	FAT (FROM ANIMALS)				
 429	424	salt	盐	424,1 / 424,0	salt / salt	1274	SALT	2			
@@ -443,7 +443,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 442	437	hoe (large)	锄头	437	hoe (large)	284	HOE	4			
 443	438	plow	犁	438	plow	2154	PLOUGH (INSTRUMENT)	2			
 444	439	yoke	牛轭	439	yoke	14	YOKE	2			
-445	440	thing	东西	440	thing	738	THING	2			
+445	440	thing	东西	440	thing			2			
 446	441	loom	织布机	441	loom	1787	LOOM	2			
 447	442	needle	针	442	needle	1382	NEEDLE (FOR SEWING)	2			
 448	443	awl	锥子	443	awl	278	AWL	2			
@@ -504,7 +504,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 503	498	gun	枪	498	gun	1566	GUN	2			
 504	499	bow	弓	499,0 / 499,1	bow / bow	994	BOW	2			
 505	500	arrow	箭	500	arrow	977	ARROW	2			
-506	501	arrow (head)	箭头	501	arrow (head)	977	ARROW	4			
+506	501	arrow (head)	箭头	501	arrow (head)			4			
 507	502	cage (e.g., for ducks)	笼	502	cage (e.g., for ducks)				lacuna	CAGE	
 508	503	drum	鼓	503	drum	908	DRUM	2			
 509	504	gong	铜锣	504	gong	2502	GONG	2			
@@ -558,7 +558,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 557	552	catch; seize	捉 (捉鸡)	552	catch; seize	702	CATCH	4			
 558	553	scatter; sprinkle (e.g., seed)	撒 (撒种子)	553	scatter; sprinkle (e.g., seed)	2064	SCATTER (SEEDS)	4			
 559	554	throw away	丢掉	554	throw away						
-560	555	pitch (throw from side way)	摔 (石头)	555	pitch (throw from side way)	664	RESIN	4			
+560	555	pitch (throw from side way)	摔 (石头)	555	pitch (throw from side way)			4			
 561	556	toss (overhand)	投	556	toss (overhand)	1456	THROW				
 562	557	stretch; stretch out	伸 (伸手)	557,0 / 557,1 / 557,1	stretch; stretch out / stretch; stretch out / stretch; stretch out	214	STRETCH	4			
 563	558	pound	舂/捣碎	558	pound	354	POUND	4			
@@ -620,7 +620,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 619	611	die	死	611	die	1494	DIE	2			
 620	612	sharpen (grinding)	磨 (磨刀)	612	sharpen (grinding)	251	SHARPEN (SOMETHING)	4			
 621	613	mill (grinding)	磨 (磨米)	613	mill (grinding)	636	MILL	4			
-622	614	winnow with a fan	簸 (簸米)	614	winnow with a fan				uncertain		Can 2462 WINNOWING (gerund) be used here?
+622	614	winnow with a fan	簸 (簸米)	614	winnow with a fan	2462	WINNOWING		uncertain		Can 2462 WINNOWING (gerund) be used here?
 623	615	ladle out; spoon up	舀 (舀水)	615	ladle out; spoon up	2788	LADLE (WATER)				
 624	616	wear; put on	穿 (衣服)	616	wear; put on	976	WEAR	4			
 625	617	wear (hat); put on (hat)	戴 (帽子)	617	wear (hat); put on (hat)				lacuna	WEAR (ON HEAD)	
@@ -728,7 +728,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 727	718	stride	跨 (跨小沟)	718	stride						
 728	719	ride; ride on	骑 (骑马)	719	ride; ride on	367	RIDE	4			
 729	720	EXIST; to be	在; 有	720	EXIST; to be	1579	BE	3			
-730	721	dry (in the sun)	晒 (晒太阳)	721	dry (in the sun)				comment		2015 MAKE DRY too general
+730	721	dry (in the sun)	晒 (晒太阳)	721	dry (in the sun)	1786	DRY UP		comment		2015 MAKE DRY too general
 731	722	rain (V)	下雨	722	rain (V)	1253	RAIN (RAINING)	4			
 732	723	(of the wind) blow	刮风	723	(of the wind) blow	175	BLOW (OF WIND)	4			
 733	724	light (on fire)	点 (点火)	724	light (on fire)	737	LIGHT (IGNITE)	4			
@@ -747,7 +747,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 746	737	roll	滚 (石头滚)	737	roll	827	ROLL	2			
 747	738	revolve; rotate; spin	旋转	738	revolve; rotate; spin	121	SPIN	4			
 748	739	fall; drop	掉 (掉在地下)	739	fall; drop	1280	FALL	4			
-749	740	snap in two (rope, string)	断 (绳子断了)	740	snap in two (rope, string)	459	SNAPP (OF STICK)		concepticon error		rename as SNAP (OF STICK)
+749	740	snap in two (rope, string)	断 (绳子断了)	740	snap in two (rope, string)				concepticon error		rename as SNAP (OF STICK)
 750	741	break	破 (罐子破了)	741	break	680	BREAK (DESTROY OR GET DESTROYED)	2			
 751	742	leak	漏 (水桶漏水)	742	leak	2253	DRIP (EMIT LIQUID)	2			
 752	743	boil	沸	743	boil	2493	BOIL	2			
@@ -953,7 +953,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 952	939	half	半 (一半)	939,1 / 939,1 / 939,0	half / half / half	816	HALF	2			
 953	940	bowlful (MW)	碗	940	bowlful (MW)						
 954	941	arm spread (2 arms)	庹(两臂伸直）pai	941	arm spread (2 arms)				lacuna	FATHOM (TWO ARM'S LENGTHS)	
-955	942	span (hand-width)	柞 (拇指-中指)	942	span (hand-width)	81	FATHOM	4			
+955	942	span (hand-width)	柞 (拇指-中指)	942	span (hand-width)			4			
 956	943	CLF.times	次	943	CLF.times						
 957	944	1S	我	944	1S	1209	I				
 958	945	1PL	我们	945,0 / 945,1	1PL / 1PL	1212	WE				
