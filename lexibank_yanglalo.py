@@ -13,6 +13,54 @@ import csv
 import lingpy
 from sinopy.segments import get_structure
 
+# dataset specific cleaning
+def clear_value(text):
+    value = text.replace(';', ',')
+    value = value.replace('烂饭', '')
+
+    return value
+
+
+# dataset specific cleaning
+def get_clear_tokens(value):
+    # TODO: move to orthographic profile later
+    replacements = [
+        ('H', '¹'), # superscript H is for aspiration
+        ('ᶫ', '³'),
+        ('ɤ̪', 'ɤ'),
+        ('(', ''), # keep everything in parentheses
+        (')', ''),
+    ]
+
+    forms = [form.strip() for form in value.split(',')]
+    forms = [form for form in forms if form]
+
+    for repl in replacements:
+        forms = [
+            form.replace(repl[0], repl[1]) for form in forms
+        ]
+
+    return forms
+
+
+def run_segmentation(form):
+    # perform segmentation with sinopy: extract
+    # syllabic information and then extract the
+    # segmented tokens (with the morpheme boundary)
+    syllables = [
+        syl[0] for syl in
+        get_structure(form, zipped=True)]
+    segments = [
+        [segment[1] for segment in syllable] + ['+']
+        for syllable in syllables
+    ]
+
+    # flatten the list of segments, as requested by
+    # lexibank, removing the final morpheme mark
+    segments = [seg for syl in segments for seg in syl]
+
+    return segments[:-1]
+
 class Dataset(BaseDataset):
     id = 'yanglalo'
     dir = Path(__file__).parent
@@ -67,41 +115,17 @@ class Dataset(BaseDataset):
                 parameter = entry['Parameter'].split('.')[0]
                 if parameter:
                     for language in languages:
-                        value = entry[language]
-                        value = value.replace(';', ',')
-                        value = value.replace('烂饭', '')
-                        forms = [form.strip() for form in value.split(',')]
-                        forms = [form for form in forms if form]
-                        for form in forms:
-                            # do replacements fixing BIPA
-                            # TODO: move to orthographic profile later
-                            replacements = [
-                                ('H', '¹'), # superscript H is for aspiration
-                                ('ᶫ', '³'),
-                                ('ɤ̪', 'ɤ'),
-                                ('(', ''), # keep everything in parentheses
-                                (')', ''),
-                            ]
+                        value = clear_value(entry[language])
+                        forms = get_clear_tokens(value)
+                        form_segments = [
+                            run_segmentation(form) for form in forms
+                        ]
 
-                            for repl in replacements:
-                                form = form.replace(repl[0], repl[1])
+                        # skip if form is empty
+                        if not forms:
+                            continue
 
-                            # perform segmentation with sinopy: extract
-                            # syllabic information and then extract the
-                            # segmented tokens (with the morpheme boundary)
-                            syllables = [
-                                syl[0] for syl in
-                                get_structure(form, zipped=True)]
-                            segments = [
-                                [segment[1] for segment in syllable] + ['+']
-                                for syllable in syllables
-                            ]
-
-                            # flatten the list of segments, as requested by
-                            # lexibank, removing the final morpheme mark
-                            segments = [seg for syl in segments for seg in syl]
-                            segments = segments[:-1]
-
+                        for form, segments in zip(forms, form_segments):
                             for row in ds.add_lexemes(
                                 Language_ID=language,
                                 Parameter_ID=parameter,
@@ -111,6 +135,7 @@ class Dataset(BaseDataset):
                                 Source=['Yang2011Lalo'],
                                 Cognacy=cogid,
                                 ):
+                                print(row)
                                 ds.add_cognate(
                                     lexeme = row,
                                     Cognateset_ID=cogid,
