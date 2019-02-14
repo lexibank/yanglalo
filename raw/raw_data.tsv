@@ -1,0 +1,1336 @@
+ID	Parameter	English	Chinese	Pinyin	PLa	CW-QY	W-SZP	E-DC	XZ	MD	Eka	YL
+0	749.0	fly	飞	fēi	bjy¹	by⁵⁵	by²⁴	biɔ²⁴	by²⁴	bə⁵⁵	bə²⁴	bɨ³³
+1	813.0	straight	直 (棍子很直)	zhí	dʒaŋ²	tʂʅ¹³	dʑy³³	dza²¹	dʐa²¹		dza²¹	tsɿ²⁴
+2	403.0	bracelet	手镯	shǒuzhuó	le̠ᶫgoŋ¹	lɛ̠²¹a²¹wo⁵⁵	le⁵⁵wo³³	lei⁴²gɤ̪²⁴	lɛi³³gv̩˞²⁴	lu²¹gu⁵⁵	lu²¹gu²⁴,lv̩²¹gv̩²⁴	lei⁵⁵go³³
+3	67.0	afternoon	下午	xiàwǔ	a¹mo²kʰɨ̠ᶫ	a⁵⁵ŋ̩̩²¹kʰɨ̠²¹ji⁵⁵	a⁵⁵mu²¹kʰəʔ⁵⁵	dzɔ²⁴ji³³dzɔ²¹ji²¹	a³⁵mv̩⁴¹kʰɨ³³li³³	la²¹vã⁵⁵	la²¹vaŋ⁵³	n̩²¹kʰɨ⁵³
+4	68.0	dusk/evening	黄昏	huánghūn	a¹mo²ɣɨ¹	a⁵⁵ŋ̩̩²¹ɣɨ⁵⁵ø⁵⁵ji⁵⁵	a⁵⁵mu²¹ɣɨ²⁴ɕi³³ɕi³³	a⁵⁵mə²¹ɣə²⁴tɕia³³	a³⁵mv̩⁴¹ɣɨ²⁴	la²¹vã⁵⁵wo²¹vɛ³³	aŋ²⁴kʰɨ̠²¹	miɛ˞⁴⁵tə⁴²ɲa³³
+5	68.1	dusk/evening	黄昏	huánghūn	a¹mo²kʰɨ̠ᶫ		a⁵⁵mu²¹ɣɨ²⁴ɕi³³ɕi³³	a⁵⁵mə²¹ɣə²⁴tɕia³³			aŋ²⁴kʰɨ̠²¹	miɛ˞⁴⁵tə⁴²ɲa³³
+6	737.0	roll	滚 (石头滚)	gǔn	ʔly³/²	koŋ²¹,ʔlø̠³³	ly³³	va³³	va³³	lə³³kɛ⁵⁵	lə³³	kuən²¹
+7	234.0	mouth	嘴	zuǐ	kʰa²pe̠ᶫ	kʰa²¹pʰɛ³³	kʰə/a²¹pʰɛʔ⁵³	kʰa²¹pei⁴²	kʰa³³pɛi³³	mə³³tʃu⁵⁵	ɛ²¹mə³³	ma²¹nɛ˞⁵³
+8	234.1	mouth	嘴	zuǐ	kʰa²pe̠ᶫ	kʰa²¹pʰɛ³³	kʰə/a²¹pʰɛʔ⁵³	kʰa²¹pei⁴²	kʰa³³pɛi³³		ɛ²¹mə³³	ma²¹nɛ˞⁵³
+9	235.0	lips	嘴唇	zuǐchún	mɨ²la³				mɛ˞³³lɛ˞³³gɨ²⁴	n̩²¹la̠³³	ɛ²¹mə³³pʰi³³la̠ʔ²¹	
+10	235.1	lips	嘴唇	zuǐchún	mɨ²be³dzi³	mʉ³³dzɿ³³	m̩²¹bei⁴⁴dzɿ³³	mə³³dzɿ³³kə²¹				ma²¹nɛ˞⁴⁵bɛ˞⁵³
+11	851.0	cool	凉快	liángkuài		lia̠ŋ²¹		ɕi⁵⁵ɕi⁴²	liaŋ²¹xue²¹	tɕʰi̠²¹	a³³tɕʰi⁵⁵tɕʰio⁵³	lo³³xei³³
+12	415.0	shoulder bag	肩袋	jiāndài	ta²la²py³	tɛ̤²¹lɛ̠²¹py³³	ta²¹la(n)²¹py³³	tɔ²¹pə⁵⁵xə⁵⁵	to²¹py³³pɛ˞³³ʂʅ²¹	ta²¹pə³³	ɛ⁵⁵bɛ³³pu²⁴tso²¹	ta²¹pɨ³³
+13	191.2	grass	草	cǎo	mo̠ᶫ					mo²¹	mu̠ʔ²¹	
+14	191.0	grass	草	cǎo	ʃɨ²by̠ᶫ	ʂʅ²¹	ʂʅ²¹	sɿ²¹pə⁴²	ʂʅ²¹bɛi²¹			pə⁵⁵sɿ²¹
+15	191.1	grass	草	cǎo	ʃɨ²by̠ᶫ			sɿ²¹pə⁴²	ʂʅ²¹bɛi²¹			pə⁵⁵sɿ²¹
+16	228.0	eye	眼睛	yǎnjīng	ʔmje̠Hsɛ²	ʔmɛ̠³³sɛ²¹	mei⁵⁵sɛ²¹nɛ⁴⁴	mi³³sɛ²¹	mi⁴⁵³sɛ˞²¹	mi³³ɕɛ²¹	mɨ³³ɕɛ²¹	mi⁵⁵sɛ˞⁴¹
+17	569.0	sit	坐	zuò	ni¹	ni⁵⁵		ni²⁴	ɲi²⁴			tsʰo⁵³
+18	569.1	sit	坐	zuò	di¹		di²⁴			di⁵⁵	di²⁴	tsʰo⁵³
+19	580.0	awake	醒 (睡醒)	(shuì) xǐng	xa̠ᶫ	ɦɛ⁵⁵xa̠²¹	hã⁵³	xo⁴²tɕʰi²¹	xo³³	tʃɿ³³mɨ⁵⁵	xo̠²¹loŋ⁵³	han⁵⁵tə³³
+20	222.0	brains	脑髓	nǎosuǐ	ʔnu̠ᶫ	ʔnə̠²¹	nu⁵³	nu⁴²	no³³hõ³³	xo²¹pu⁵⁵nu²¹ɣɨ⁵⁵, pu⁵⁵no²¹	ɛ³³nu̠²¹	no⁴⁵³
+21	729.0	smoke	冒烟	màoyān	ʃɨ̠H/ᶫ	ŋ²¹kʰə²¹tə⁵⁵	n̩²¹kʰu²¹tu⁵³	du³³		sɿ²¹do³³	a²⁴tu̠³¹xə³³ai²¹	mi⁵⁵kʰo²¹du³³
+22	280.0	navel	脐 (肚脐)	qí(dùqí)	tʃʰe̠H du¹/²	tɕʰɛ̠³³ma³³də²¹	du²⁴tsʰɛ²¹	zɿ⁴²kɤ̪³³tei³³	tɕʰi⁴⁵mu⁵⁵du²¹	toŋ²¹tsu⁵⁵lu³³	tɕiŋ²⁴du³³	tsʰai⁵⁵do⁴¹
+23	527.0	chew	嚼	jiáo	ga²	ɦa̤²¹	ɣa²¹	gɔ²¹	go²¹	go²¹	go²¹	gua²¹
+24	441.0	loom	织布机	zhībùjī		dzɛ̠³³	mɛ˞⁵⁵dɛ²¹	pʰiɔ²¹dzɿ³³lɔ³³	mɛ˞³⁵tʂʰɛ˞²¹lɛ˞⁵³	dzaŋ²¹, koŋ²¹	goŋ²¹,mɛ²⁴tɕɛ²¹lu²⁴	ʝi⁵³
+25	563.0	massage	按摩	ànmó	ʒi̠ᶫ	tso̠³³	zɿ⁵³	tsu³³	tsu̠³³gɨ²¹	tsa̠⁵⁵	nɛ̠³¹pʰuɛ²⁴	i⁵³
+26	600.0	sell	卖	mài	vo²	a̤²¹	ɣo²¹	ɣʷɔ²¹	vv̩˞²¹	vu²¹, vuŋ²⁵	vv̩²¹	vv̩²¹
+27	82.0	goat	山羊	yáng	a¹tʃʰi̠ᶫ	a⁵⁵tʂʰʅ̠²¹	a³³tʂʰʅ⁵³	a⁵⁵tsʰɿ⁴²	a³³tʂʰʅ³³	a⁵⁵tɕʰi̠²¹	a²⁴tɕʰio⁴²	a⁴⁴tsʰɿ⁵³
+28	845.0	late	迟 (来迟了)	chí	mja³	mi³³	ma³³	miɔ³³	mo³³	la³³mɨ⁵⁵	laŋ²⁴	ma³³
+29	601.0	count (number)	数 (数东西)	shù	ɣo³			ɣə³³	vv̩˞²⁴ʔĩ⁴⁵³		ɣɨ³³	
+30	601.1	count (number)	数 (数东西)	shù	gjaŋ¹	gu⁵⁵				ku³³tʃa⁵⁵		
+31	601.2	count (number)	数 (数东西)	shù	tʃa¹		tʂa⁴⁴			ku³³tʃa⁵⁵		
+32	708.0	arrive	到	dào	kʰje¹	tɕʰi⁵⁵	tɕʰi²⁴	tɕʰi⁵⁵	tɕʰi⁴⁵³	kʰɛ⁵⁵	kʰɛ²¹lo³³	tɕʰi³³
+33	102.0	rat; mouse	老鼠	lǎoshǔ	hɛ̠H	a⁵⁵ha̠³³	a⁴⁴hɛ̃⁴⁴	xa³³tsɿ⁴²pu⁴²	a⁵⁵hɛ̃³³	a⁵⁵tɕʰɛ²¹	a²⁴ŋa³³xa⁵⁵kʰu⁵⁵mi²¹	ɛ˞⁴⁴hɛ˞⁵³
+34	100.0	sambar deer	水鹿/黑鹿	shuǐlù/héilù	tsʰe̠ᶫ		tsʰɛ⁴⁴	ma²¹lu²⁴	tsʰai³³	tɕʰɛ̠³³	tɕʰi³³ka̠ʔ²¹	tsʰai⁵⁵
+35	20.0	mud	泥(巴)	ní	e²haŋ²	i²¹hə²¹	i²¹tsʰɿ²¹	ei²¹tɕʰi²¹	ɣɨ³⁵tsʰɿ²¹ha²¹	u³³na̠³³	i²⁴tɕʰi²¹na̠ʔ²¹	ai³³tsʰɿ²¹la⁵³
+36	364.0	son's son	孙子	sūnzi	ʔli²pa̠ᶫ	ʔʐʅ²¹pa̠²¹	li²¹pa⁵³	li²¹pu⁴²	ʐʅ²²po³³	lu²¹pɑ̠²¹	li³³poʲ⁴²jo³¹	i²¹za²¹
+37	365.0	son's daughter	孙女	sūnnǚ	ʔli²ma³	ʔʐʅ²¹ma³³	li⁴⁴ma³³	li²¹mɔ³³	ʐʅ²²mo³³	lu²¹mo³³	li²¹moʲ³³jo³¹	i²¹ma³³
+38	301.0	penis	阴茎	yīnjīng	hɛ²	hɛ̤²¹	hɛ̃²¹	xɛ²¹	hɛ̃²¹	do²¹bi⁵⁵	do²¹bi²⁴	
+39	263.0	thigh	大腿	dàtuǐ		pʰa̤²¹tʰuei̤²¹	kʰɨ⁵⁵tʰy³³	pʰi³³pɛ³³dzɿ³³		da⁵⁵ɣɨ²¹pɨ⁵⁵tsa²¹	bɨ⁵⁵tɕɛ²¹	li²¹ku³³vɛ˞²¹
+40	304.0	tendon	筋/腱	jīn/jiàn	gju²tʃa³	gə²¹tʂa³³	gv̩²¹tʂa³³	tɕi⁵⁵tsa³³	gɤ̪˞²¹tʂo³³	xo²¹gu²¹po³³tso³³	gɨ²¹tso³³gɨ²¹mo³³	
+41	838.0	wet	湿 (衣服湿)	shī	tʃʰɨ²		tʂʰʅ²¹		tʂʰʅ²¹	tsʰɿ²¹	ɣɨ²⁴tsʰɿ²¹	tsʰɿ²¹
+42	838.1	wet	湿 (衣服湿)	shī	dzi²			dʑi²¹				
+43	838.1	wet	湿 (衣服湿)	shī	tʃe²	tɕi⁵⁵						
+44	838.2	wet	湿 (衣服湿)	shī	ha(ŋ)²							
+45	286.0	lung	肺/肺脏	fèi	tsʰɛ²ma³pʰu²	tsʰɿ²¹fv̩²¹	tsʰɛ²¹ma³³fv̩²¹	tsʰɿ²¹pʰə²¹	fɛi⁴⁵³	xo²¹sɿ²¹pʰɑ²¹	ɛ²¹fv̩ʲ²⁴	fei⁴¹
+46	286.1	lung	肺/肺脏	fèi	tsʰɛ²ma³pʰu²	tsʰɿ²¹fv̩²¹	tsʰɛ²¹ma³³fv̩²¹	tsʰɿ²¹pʰə²¹	fɛi⁴⁵³		ɛ²¹fv̩ʲ²⁴	fei⁴¹
+47	285.0	liver	肝	gān	se²tsɛ¹	sɿ²¹tsɛ⁵⁵	sɿ²¹tsɛ²⁴	sei²¹	sɿ²¹tsɛ˞⁵⁵	xo²¹sɿ²¹	ɛ⁵⁵ɕi²¹kʰa̠ʔ³³	sɿ²¹kɨ³³
+48	285.1	liver	肝	gān	se²tsɛ¹	sɿ²¹tsɛ⁵⁵	sɿ²¹tsɛ²⁴	sei²¹	sɿ²¹tsɛ˞⁵⁵	xo²¹sɿ²¹	ɛ⁵⁵ɕi²¹kʰa̠ʔ³³	sɿ²¹kɨ³³
+49	278.0	stomach	胃	wèi	he̠ᶫ	hɛ̠²¹ma³³ko̠³³	xɛ⁵⁵ma³³ko³³	ni³³mɔ³³kʰɔ²¹	wɛi⁵³	xo²¹xɛ²¹mo³³	ɛ³³xɛ̠ʔ²¹mo³³	xai⁵⁵m̩²¹tʰə⁵³
+50	739.0	fall; drop	掉 (掉在地下)	diào	tsʰe¹	tsʰi⁵⁵,ka⁵⁵	tsʰɛ¹³	tsʰei⁵⁵	tsi⁴⁴	tɕɛ⁵⁵a²¹	pɨ³³tɕi³³	bɛ˞³³
+51	689.0	fear	怕	pà	gjo̠H	ɡuo̠³³	gu⁵³	gu³³	gu³³	gu̠³³	gu³⁵la²¹	gu⁵³
+52	424.1	salt	盐	yán	tsʰa²bo̠H	tsʰa²¹bo̠³³	tsʰa²¹bu²⁴	tsʰɔ²¹bu³³	tsʰo²¹		tsʰa²¹bu³³	tsʰa²¹mi⁵⁵mi⁵³
+53	424.0	salt	盐	yán	tsʰa²bo̠H	tsʰa²¹bo̠³³	tsʰa²¹bu²⁴	tsʰɔ²¹bu³³	tsʰo²¹	la²¹ba²¹kʰɨ⁵⁵	tsʰa²¹bu³³	tsʰa²¹mi⁵⁵mi⁵³
+54	608.0	shoot (a gun)	射	shè	bɛ̠H	ba̠³³	bɛ⁴⁴	bɛ³³	bɛ˞³³	ba̠³³	ba̠ʔ³³	bɛ˞⁵⁵
+55	898.0	HIGH	高	gāo	ʔmu¹	ə⁵⁵	ɨ̃²⁴	ɤ̪̪̃⁵⁵	ɨ̃⁴⁵³	mu⁵⁵	mu²⁴	õ³³
+56	412.0	shoes	鞋	xié	kʰi¹ne̠H	kʰɨ⁵⁵nɛ̠³³	kʰɨ⁴⁴ne⁴⁴	tɕʰi⁵⁵nə³³	kʰɨ³⁵nɛi⁵³	kʰɨ⁵⁵nɛ³³	kʰi⁵⁵ni³³	kʰei⁵⁵ni⁵³
+57	42.0	day	天	rì	ʔni³	ʔɲɛ³³	ĩ³³	nɛ³³	ĩ³³	ni³³	ni³³	ĩ³³
+58	175.0	gourd	葫芦	húlú	pʰy²	a⁵⁵mʉ̠²¹	a²¹my⁵³	a⁵⁵pʰə²¹tʰə³³	hu²¹lu²⁴	a⁵⁵pʰɨ²¹	a²⁴pʰɨ²¹	a⁵⁵pʰɨ⁴¹
+59	416.3	blanket; quilt	被子	bèizi	ʔmɛ¹bo³		mɛ⁴⁴dzɿ⁴⁴		mɛ˞⁴⁵³			
+60	416.0	blanket; quilt	被子	bèizi	ʔla²ba²	ʔla²¹ba²¹		lɔ²¹bɔ²¹		la²¹bo²¹	la³³bo²¹	ɛ˞⁵⁵vv̩⁵³la²¹ba²¹
+61	416.1	blanket; quilt	被子	bèizi	ʔla²ba²	ʔla²¹ba²¹		lɔ²¹bɔ²¹		la²¹bo²¹	la³³bo²¹	ɛ˞⁵⁵vv̩⁵³la²¹ba²¹
+62	416.2	blanket; quilt	被子	bèizi	ʔmɛ¹bo³		mɛ⁴⁴dzɿ⁴⁴		mɛ˞⁴⁵³			
+63	681.0	love	爱 (爱小孩)	ài	sɛ²	gə⁵⁵,sɛ̤²¹,fi²¹	sɛ²¹	sɛ²¹	sɛ˞²¹	goŋ²⁵	xaŋ²⁴	ɣai⁵³
+64	883.0	brave	勇敢	yǒnggǎn		pʉ̤²¹		xə²¹ɕiu³³	pi⁵⁵pɨ²¹	mɔ³³jɛ²¹	ni̠³³mo³³jɛ²¹	tan²¹tsɿ³³ɣɛ˞²¹
+65	859.0	fragrant	香 (花香)	xiāng	sy¹(by²)ny¹	sy⁵⁵ny⁵⁵,ʂo̠²¹	ɕy⁴⁴ny⁴⁴	ɕiɔ⁵⁵nə⁵⁵	gɨ˞²¹nɨ˞³³ɕiaŋ³³	bi²¹sa²¹	pi²⁴sa²¹	su³³bə̃²¹nə³³
+66	866.0	tired	累 (疲乏/疲劳/疲倦)	lèi		va̤²¹mʉ³³		sɔ²⁴kʰu³³	tʰiɛ²¹	ɲa⁵⁵mɨ⁵⁵	vo²¹gɨ²⁴	fɛ˞⁵⁵
+67	603.0	study	学	xuě	dzaŋ¹	dzu⁵⁵	dzu²⁴	dza²⁴	dza²⁴	dza⁵⁵	xĩŋ⁵³	ɣɨ⁵³
+68	190.0	tobacco	烟/烟草	yān		jin³³tsɿ³³	tsʰao²¹jɛ̃n³³	i⁵⁵nə³³pʰei²¹	kʰɤ̪˞²¹mɤ̪˞²¹	a⁵⁵kʰɨ²¹	su³³mu²⁴	jo³³jo³³
+69	72.0	time	时间	shíjiān	tʰa²		tʰaʔ²¹	ja³³dzɿ²⁴		jɛ²¹jaŋ²¹	ɛ²¹zaŋ⁵³	tɕʰi³³
+70	116.0	eagle; hawk	老鹰	lǎoyīng	a¹dzy¹	a⁵⁵dzy⁵⁵	dʑy²⁴ma²¹nɛ³³	a⁵⁵dzə²⁴	a⁴⁵dzy³³pɑ³³mu³³	a⁵⁵dʒə⁵⁵	a²⁴dzə²⁴mo³³	tsə³³ma³³
+71	939.1	half	半 (一半)	bàn	bo¹			bə²⁴				
+72	939.1	half	半 (一半)	bàn	bɛ²				bɛ˞²¹			a³³bɛ˞²¹
+73	939.0	half	半 (一半)	bàn	kʰy²	kʰy²¹	kᶠʰv̩²¹			kʰə²¹	ti³³kʰə²¹	
+74	902.0	MANY	多	duō	mja²	kʰø⁵⁵	dzɿ²⁴ma²¹, ɛ̃³³	miɔ²¹	mo²¹	mo²¹	mo³³la²¹	ma²¹
+75	781.0	swim	游泳	yóuyǒng	ɣi¹ga³	ɣɨ⁵⁵ɦa³³	ɣɨ²⁴ɣa³³	ji²⁴lə²¹	ɣɨ²⁴ka³³pi⁵⁵gu³³	ɣɨ⁵⁵vɛ²¹	lu³³lioŋ²⁴	ta⁵⁵õ⁵³
+76	760.0	remain	留下	liúxià		ta̠²¹	ta³³ti⁵³	dza²⁴ti³³		ta²¹ji³³	to̠ʔ²¹tɛ³³	fai²¹tai⁵³
+77	507.0	custom	风俗	fēngsú			tʂʰu³³	ɕɯ⁵⁵tu²¹	fəŋ²¹su³³	li⁵⁵ki³³	ɛ²¹li⁵³	ɕĩŋ³³
+78	505.0	town	城	chéng		tʂʰəŋ²¹ʂʅ³³	tʂʰəŋ²¹ʂʅ³³	tsɛ²⁴	tʂʰəŋ²¹tsɿ³³		tsʰəŋ²¹	pa³³tsɿ³³
+79	886.0	different	不同	bùtóng	ma²sy²	ma²¹sy²¹	ma²¹ɕy²¹	ma²¹sə²¹	a²¹sy²¹	ma²¹sə²¹	ma³³sə²¹	m̩²¹sə²¹
+80	509.0	invocation	祈祷	qidǎo		ʂa³³fv̩³³	ta²¹pɛ²¹	sa³³fv̩³³		tə²¹ka⁵⁵tsʰa⁵⁵to³³	a²⁴ɣɨ³³xo²⁴	to²¹ko⁵³
+81	498.0	gun	枪	qiāng		tsʰiaŋ⁵⁵	py²¹	tsʰv̩⁵⁵	kʰv̩˞²¹m̩²¹tʰy³³	a⁵⁵to²¹ma²¹	naŋ⁵³	tɕʰiaŋ³³
+82	917.0	HOW HIGH?	有多高？				a³³ma³³sɿ²¹õ²⁴		a²¹dɨ²⁴mo³³si²¹ɨ̃⁴⁵³			kʰa³³kʰɨ³³õ³³dzɛ˞³³
+83	918.0	HOW LONG?	有多长？				a³³ma³³sɿ²¹ʂʅ²⁴		a²¹dɨ²⁴mo³³si²¹ʂʅ⁴⁵³			kʰa³³kʰɨ³³sɿ³³dzɛ˞³³
+84	919.0	HOW WIDE?	有多宽？						a²¹dɨ²⁴mo³³si²¹kʰuã³³			kʰa³³kʰɨ³³kʰua⁵³dzɛ˞³³
+85	916.0	HOW FAR?	有多远？				a³³ma³³sɿ²¹ʝi²¹		a²¹dɨ²⁴mo³³si²¹ʝi²¹			kʰa³³kʰɨ³³vai²¹dzɛ˞³³
+86	920.0	HOW BIG?	有多大？				a³³ma³³sɿ²¹ɣɛ˞²¹		a²¹dɨ²⁴mo³³si²¹ɣɛ˞²¹			kʰa³³kʰɨ³³ɣɛ˞²¹dzɛ˞³³
+87	921.0	HOW DEEP?	有多深？				a³³ma³³sɿ²¹nɛ⁵³					kʰa³³kʰɨ³³nai⁵³dzɛ˞³³
+88	922.0	HOW HEAVY?	有多重？						a²¹dɨ²⁴mo³³si²¹ʐʅ²¹			kʰa³³kʰɨ³³ʝi²¹dzɛ˞³³
+89	85.1	dog	狗	gǒu	a¹na²					a⁵⁵no²¹	a²⁴no̠ʔ²¹	
+90	112.0	crow	乌鸦	wūyǎ	a¹ŋja̠Hbɛ̠H	a⁵⁵ɲɛ̠³³ba̠³³	a⁴⁴ɲi⁴⁴bɛ⁴⁴		a⁵⁵ɲa³³bɛ³³mu³³			
+91	112.1	crow	乌鸦	wūyǎ	a¹ŋja̠Hbɛ̠H	a⁵⁵ɲɛ̠³³ba̠³³	a⁴⁴ɲi⁴⁴bɛ⁴⁴	a⁵⁵nɛ³³bɛ³³	a⁴⁴ɲa⁴⁴bɛ⁴⁴mu³³			
+92	112.2	crow	乌鸦	wūyǎ	a¹ne̠H	a⁵⁵ɲɛ̠³³ba̠³³				a⁵⁵nɛ̠³³	a⁵⁵ni̠³³mo³³	a⁵⁵ni⁵³
+93	705.0	go down	下去	xiàqù	ze̠ᶫʒe¹	zɛ̠²¹ji⁵⁵	ze⁵⁵ʝi³³	zei⁴²ji³³	zɛi³³ʝi³⁴		jiŋ²⁴o³³	zai⁵⁵ʝi³³
+94	188.0	banana	香蕉	xiāngjiāo	ʔŋja̠Hbjo²be³	ɕiaŋ³³tɕiao³³	ɲi⁴⁴be⁴⁴	ɲia³³ɲiu⁴²	ɲa³³dzɿ²¹bɛi³³	a⁵⁵dʑi²¹sɛ²¹	a³³kuiŋ²¹, a³³kuɛ²¹	pa³³tɕiao³³
+95	188.1	banana	香蕉	xiāngjiāo	ʔŋja̠Hbjo²be³	ɕiaŋ³³tɕiao³³	ɲi⁴⁴be⁴⁴	ɲia³³ɲiu⁴²	ɲa³³dzɿ²¹be³³		a³³kuiŋ²¹, a³³kuɛ²¹	pa³³tɕiao³³
+96	233.0	cheeks	颊	jiá	ba²	ba̤²¹kʰə⁵⁵tsɿ³³	ba²¹gv̩²⁴, pʰu²¹gu²⁴		bo²¹tɛ˞⁴⁵³		pʰa̠ʔ²¹ni³³kʰu²¹tsuɛ⁵⁵jo³¹	ba²¹wv̩²¹te³³
+97	913.0	THIN (2d)	薄	báo	ba²	ba̤²¹	ba²¹	bɔ²¹	bo²¹	bo²¹	bo²¹	ba²¹
+98	338.0	deaf (person)	聋(子)	lóng	ʔna²baŋ²	ʔna²¹bu²¹	na²¹bu²¹	na²¹ba²¹kʰə²¹	na²¹ba²¹	tʰa²¹	na³³tʰa⁵⁵ko²¹	na²¹bu²¹
+99	125.0	spider	蜘蛛	zhīzhū		a³³mai³³	a²¹wu⁵⁵mi³³tɕi³³kʰə³³	ɲia³³mɔ³³bə²¹	a³³kaŋ⁴⁴laŋ⁴⁴tɕi̠³³	bom²¹bɛ²¹lɛ²¹xɛ⁵⁵	bi²¹laʔ³³	xam³³pao²¹
+100	302.1	vulva-2	女阴	nǔyīn	bje̠ᶫ				tɤ̪˞̩²¹bɛ³³	bi³³la²¹	do⁵⁵bi³³	bĩ²¹tʂʰɛ³³
+101	302.0	vulva-1	女阴	nǔyīn	tu²	tə²¹	tv̩²¹	tɤ̪²¹	tɤ̪˞̩²¹bɛ³³		do⁵⁵bi³³	
+102	264.0	calf (of leg)	小腿	xiǎotuǐ		kʰɨ⁵⁵wu²¹a⁵⁵pʉ²¹pʉ²¹	xɛ⁵⁵tʰu²¹	tɕa³³pa³³dzɿ³³	kʰɨ⁴⁵³dzɿ³³ɕi⁴⁴li⁴⁴	da⁵⁵ɣɨ²¹na²¹kʰɛ³³	bɨi⁵³ta²¹tio⁵³	li²¹ku³³za²¹
+103	678.0	divide; separate; distribute	分 	fēn (pèi)	by¹	by⁵⁵	by²⁴	bə²⁴	by²⁴	bɨ⁵⁵lɛ³³	bɨ²⁴	bɨ³³
+104	767.0	give; BEN	给	gěi	gu²	gu²¹	gv̩²¹	gə²¹	gɨ²¹	gɨ²¹	guɛ²¹	gɨ²¹
+105	4.0	moon-1	月亮	yuèliàng	ʔxa³ba³(kʰɨ¹)	xa³³ba³³kʰɨ⁵⁵	xa³³ba³³kʰə³³	xa³³bɔ³³bɔ³³, xɑ³³mɔ³³mɔ³³	a²¹bu²⁴ba³³mo³³	xo³³bo³³mo³³	xa⁵⁵bo³³	xa³³ba³³kʰɨ³³
+106	4.1	moon-2	月亮	yuèliàng	ʔxa³ba³	xa³³ba³³kʰɨ⁵⁵	xa³³ba³³kʰə³³	xa³³bɔ³³bɔ³³		xo³³bo³³mo³³	xa⁵⁵bo³³	xa³³ba³³kʰɨ³³
+107	126.0	insect	昆虫	kūnchóng	bo²			bə²¹				
+108	126.2	insect	昆虫	kūnchóng	bi²di¹	bʉ̤²¹di⁵⁵	dzɿ²¹di²⁴		dzɿ²¹dy²⁴	bi²¹di⁵⁵	pɨ³³tɕɛ³³lɛ³³	bi²¹bi³³
+109		anvil	砧 (砧子)	zhēn								
+110	926.0	four	四	sì	ʔli³	ʔʐʅ³³	ʐʅ³³	li³³	ʐʅ³³	lɨ³³	li³³	ji³³
+111	9.0	lightning	闪电	shǎndiàn	a¹mo²bja̠ᶫ	a⁵⁵m̩²¹ba̠²¹	m̩²¹pɛʔ⁵³	a⁵⁵mə²¹biɛ⁴²	a³⁵mv̩⁴¹biɛ˞³³	a⁵⁵m̩²¹bæ²¹	a³⁵ba̠²¹	a⁵⁵m̩²¹bɛ˞⁴²
+112	897.0	NEAR	近	jìn	nɛ²	nɛ̤²¹	nɛ²¹	nɛ²¹	ɛi³³	næ²¹	a³³naŋ²¹	ai³³
+113	118.0	bat	蝙蝠	biānfú	a¹py̠Hma³	mai³³ma²¹ha³³	a⁴⁴py⁴⁴	pə⁵⁵pə³³	ko⁵⁵pø̠³³	a⁵⁵pɑ̠³³	a³³pʷɨʲ⁵⁵jo³¹	jiɛ³³tʰiɛ˞³³
+114	118.1	bat	蝙蝠	biānfú	a¹py̠Hma³	mai³³ma²¹ha³³	a⁴⁴py⁴⁴	pə⁵⁵pə³³	ko⁵⁵pø̠³³		a³³pʷɨʲ⁵⁵jo³¹	jiɛ³³tʰiɛ˞³³
+115	570.0	carry, on back	背 (背小孩)	bēi	bo²	vi̤²¹,mɛ⁵⁵	dzɿ²¹	bə²¹	dzɿ²¹	bi²¹	bɨ²¹	bi²¹
+116	802.0	blue	蓝	lán	ʔni¹	ʔɲi⁵⁵tʂʅ³³		tɕʰɛ⁵⁵	lɤ̪˞³³	kʰiu⁵⁵, kʰi⁵⁵wu⁵⁵	nɨ²⁴	tʂʰɛ˞³³
+117	766.0	finish	完成	wánchéng		do̠³³	mu⁴⁴we³³	gə²⁴ja³³		ga³³	ga⁵⁵ŋo³³	pai³³tɛ³³lɛ³³
+118	143.0	worm	虫	chóng	bo²di¹	bʉ̤²¹di⁵⁵	dzɿ²¹di²⁴	bə²¹	a⁵⁵ɲa³³dzɿ²¹dy²⁴	bi²¹di⁵⁵	bɨ²¹tɕi²⁴tɕi²⁴	bi²¹bi³³
+119	142.0	earthworm	蚯蚓	qiūyǐn	a¹di¹	ʂa⁵⁵kʰə³³bʉ̤²¹di⁵⁵ʔɲi⁵⁵	ĩ²¹dzɿ²¹di²⁴	a⁵⁵di²⁴	a⁵⁵ɲa³³dzɿ²¹dy²⁴	a⁵⁵di⁵⁵	an²⁴ti³³ki³³li³³	bi²¹la³³kɛ˞⁵⁵
+120		shirt	衬衫	chènshān		tsʰɛn⁵⁵ji³³						
+121	967.0	left	左边	zuǒbiān	ʔvɛ²	ʔvɛ̤²¹si⁵⁵	lɛ⁴⁴vɛ˞⁵⁵se⁴⁴	lei⁴²vɛ²¹	ɛ˞²¹pʰɛi³³	vɛ²¹sɿ⁵⁵	ma³³pʰa̠²¹	tʰa²¹pʰiɛ˞³³bei³³lei³³
+122	132.0	honeybee	蜜蜂	mìfēng	bja²	ba̤²¹	bɑ²¹	bia²¹	hĩ⁵⁵ba²¹	do⁵⁵ka³³bo²¹	bo²¹	ba²²ɲo²¹
+123	867.0	blessed; happy	幸福 (日子好过)	xìngfú	ko̠ᶫsa¹	dʑɛ̠³³dɛ̠²¹	kv̩⁵⁵sa³³	dza³³dei⁴²	ko⁴⁴no⁴⁵³	wo²¹sɿ⁵⁵	ko²⁴mɛ²¹	kai⁵⁵la²¹
+124	648.0	pile up; heap up	堆 (堆积泥土)	duī	kʰjo³	kʰø³³	ty⁴⁴	kʰə³³	ø³³	pə³³	koŋ²⁴	ɣa³³
+125	795.0	live	活	huó	zɛ¹	zɛ⁵⁵	zɛ²⁴					zɛ˞³³
+126	795.1	live	活	huó	ka²			ka⁴²	xo³³	ko²¹	ko⁵⁵a⁵⁵ŋa³³	
+127	206.0	unhulled rice	谷子（稻谷）	dàomǐ	tʃʰe¹se²	tɕʰi⁵⁵,tɕʰi⁵⁵sɛ²¹	tɕʰi⁴⁴sɛ²¹	tɕʰi⁵⁵sɛ²¹	tɕʰi³⁵²sɛ²¹	tɕi⁵⁵sɛ²¹	tɕi²⁴ɕɛ²¹	tɕʰi⁵⁵sɛ˞⁴¹
+128	131.0	fly	苍蝇	cāngyíng	ɣaŋ¹ʃɛ¹	ɣɨ⁵⁵ɕɛ⁵⁵	vu²⁴ʂɛ³³	ja²⁴mə²¹	ja²⁴mɨ˞²¹	i⁵⁵sɛ⁵⁵	ɣɨ²⁴suɛ⁵⁵jo³¹	ɲɛ˞³³m̩²¹
+129	131.1	fly	苍蝇	cāngyíng	ɣaŋ¹ʃɛ¹	ɣɨ⁵⁵ɕɛ⁵⁵	vu²⁴ʂɛ³³	ja²⁴mə²¹	ja²⁴mɨ˞²¹	i⁵⁵sɛ⁵⁵	ɣɨ²⁴suɛ⁵⁵jo³¹	ɲɛ˞³³m̩²¹
+130	501.0	arrow (head)	箭头	jiàntóu		ta²¹na³³mi̤²¹¹n̩²¹dy⁵⁵	tsɿ⁵³n̩²¹dy²⁴		lo²¹kʰɛ˞²¹tɛ˞³³zo²¹	mu²¹jon²¹də⁵⁵	muɛ³³ɛ²¹mə²²kʰu³³dzu²¹	
+131	533.0	suck	吸	xī		ɕi⁵⁵	hã²⁴	ɕi²⁴	ɕi²⁴	tʃʰɿ⁵⁵	ga²⁴	ɕi³³
+132		box	盒子(箱子)	hézi								
+133	408.0	button	钮扣	niǔkòu	pʰja(ŋ)¹sɛ²	kʰɨ⁵⁵ta³³	pʰu⁵⁵ʂʅ²¹sɛ²¹	kue⁵⁵	pʰa³⁵kɛ˞²¹sɛ˞²¹	pʰa⁵⁵sɛ²¹	a³³tsu²⁴ɕɛ²¹	pʰa³³sɛ˞²¹
+134	743.0	boil	沸	fèi	tsu¹	tsɿ⁵⁵	tsɿ²⁴	tsɿ⁵⁵	tsɿ⁴⁵³	tsu⁵⁵	pʰv̩³³	tsɤ̪³³
+135	604.0	cook; boil	煮	zhǔ	tse̠ᶫ	tɕɛ̠²¹	tɕi⁵³	tɕi⁴²	tɕiɛ̠³³	tɕɛ̠²¹	gɛ³³,ti²⁴	tsai⁵³
+136	251.0	wrist	手腕	shǒuwàn	tsi̠ᶫ	lɛ̠²¹wo̠²¹tsɿ̠²¹	lɛ⁴⁴wo⁵³	lei³³n̩²¹tɕi⁴²	lɛi³³tsɿ³³	li²¹tʰa³³tɕi²¹	la̠²¹pʰe³³tɕiŋ²¹	lei⁴⁴tsɿ⁵⁵kuɛ˞⁴²kuɛ˞²¹
+137	252.0	elbow	肘	zhǒu	tsi̠ᶫ	lɛ̠²¹kuai̠²¹tsɿ̠³³	lɛ⁵⁵kuai²¹tsɿ³³	lei⁴²ma²⁴dzɿ³³	lɛi³³kuɛi³³tsɿ³²	li²¹pi²¹ni̠³³	la̠²¹pʰe³³lu²¹so²⁴	lei⁴⁴tsɿ⁵⁵kuɛ˞⁴²kuɛ˞²¹
+138	511.1	flute	笛子	dízi	gjy²ly²	gy²¹ly²¹	dy²¹ly²¹	dʑi²¹lu⁴²	dʑy²¹ly²¹	də²¹lə²¹	pi²¹sao²⁴	ti²¹li²¹
+139	511.0	flute	笛子	dízi	gji²ly²	gy²¹ly²¹	dy²¹ly²¹	dʑi²¹lu⁴²	dʑy²¹ly²¹	də²¹lə²¹	pi²¹sao²⁴	ti²¹li²¹
+140		in front of house	房子前			hi⁵⁵n̩²¹di̤²¹		xei⁵⁵ŋ̩²¹sə⁵⁵				
+141	204.0	branch	树枝	shùzhī	si̠Hka̠ᶫle̠ᶫ	sɿ̠³³pʰḁ²¹	sɿ⁴⁴kaʔ⁵³	ɕi³³ku³³lei⁴²	sɿ³⁵³ka³³lɛi³³	ɕi³³ka²¹la²¹	ɕi³³do²⁴ka³³la̠²¹	sɿ⁵⁵lə²¹
+142	435.0	sickle	镰刀	liándāo	n̩²tsʰo̠H	liaŋ⁵⁵tao³³	pa²¹lĩ²¹	sei³³n̩²¹tsʰu³³	pa²¹lɛi²⁴	n̩²¹tʃʰu³³	kʰi⁵⁵kʰa²⁴	n̩²¹tsʰu⁵³
+143	849.0	cold (weather)	冷	lěng	gje̠H		dʑi⁴⁴	kɤ̪³³	dʑi⁴⁴	gɛ̠³³	a³³gi̠³³	dʑi⁵³
+144	5.0	star	星星	xīngxing	kjɛ¹	kɨ⁵⁵	kɛ²⁴za²¹	kɛ˞⁵⁵	kɛ˞⁴⁴o³³	a⁵⁵kɛ⁵⁵kɛ⁵⁵	a²⁴ki⁵⁵jo³¹	kɛ˞³³
+145	156.0	pine tree	松树	sōngshù	tʰaŋ²dze¹	tʰu̥²¹dzɿ⁵⁵	tʰu²¹dzɿ²⁴	sə⁵⁵dzei²⁴	tʰaŋ²¹dzɿ²⁴	tʰu²¹po³³dʑɛ⁵⁵, su²¹po³³dʑɛ⁵⁵	tʰaŋ²¹dʑi²⁴	tʰa²¹ɕy³³sɿ⁵³
+146	156.1	pine tree	松树	sōngshù	tʰaŋ²dze¹	tʰu̥²¹dzɿ⁵⁵	tʰu²¹dzɿ²⁴	sə⁵⁵dzei²⁴	tʰaŋ²¹dzɿ²⁴		tʰaŋ²¹dʑi²⁴	tʰa²¹ɕy³³sɿ⁵³
+147	205.0	tree bark	树皮	shùpí	si̠Hgi¹ko̠H	sɿ̠³³gɨ⁵⁵	sɿ⁴⁴gɨ²⁴	ɕi³³dzei²⁴gə⁴²	sɿ³⁵³gɨ²⁴ku̠³³	ɕi³³gi⁵⁵	ɕi³³ka̠²¹ku³³	sɿ⁵⁵gɨ³³gɨ³³
+148	205.1	tree bark	树皮	shùpí	si̠Hgi¹ko̠H	sɿ̠³³gɨ⁵⁵	sɿ⁴⁴gɨ²⁴		sɿ³⁵³gɨ²⁴ku̠³³		ɕi³³ka̠²¹ku³³	sɿ⁵⁵gɨ³³gɨ³³
+149	637.0	hang	挂 (挂在墙上)	guǎ	kɛ¹	kɛ⁵⁵	kɛ²⁴	kɛ⁵⁵	kɛ˞⁴⁵³	xɛ³³	xuai²⁴	kɛ˞³³
+150	741.0	break	破 (罐子破了)	pò		tɕʰɛ̠²¹	tʰu²¹hõ²¹	tʰɛ³³		tɕʰɛ²¹	kʰa²¹	tʰɛ˞⁵³
+151	337.0	blind (person)	盲; 瞎子	xiǎzi	ʔmje̠Htɛ¹	ʔmɛ̠³³ɕa³³			mi⁴⁵ɕa³³	mɛ³³tɛ⁵⁵	mɨ³³tia⁵³ko²¹	mi⁵⁵tɛ˞³³
+152	337.1	blind-1	盲; 瞎子	xiǎzi	la³tɛ¹							
+153	337.1	blind-2	盲; 瞎子	xiǎzi	tɛ¹					mɛ³³tɛ⁵⁵	mɨ³³tia⁵³ko²¹	mi⁵⁵tɛ˞³³
+154	965.0	behind	后面	hòumiàn	i²se¹			kɔ²¹ta³³		pʰɛ²¹tɛ²¹kɛ⁵⁵		ŋa³³ni²¹
+155	965.1	behind	后面	hòumiàn	ɣa¹du³	lɛ⁴⁵də³³	ɣa²⁴dv̩³³		ɣɛ˞²⁴dɛ˞³³		o⁵⁵tu³³	ŋa³³ni²¹
+156	219.0	ashes	灰(草木灰)	huī	kʰu²tsʰa¹	kʰə̤²¹tsʰa⁵⁵	kʰv̩²¹tsʰa²⁴	kʰɤ̪²¹tsʰɔ̪⁵⁵	kʰo²¹tsʰo⁴⁵³	kʰu²¹	ko²¹tsʰo²⁴	kʰo²¹tsʰa³³
+157	662.0	give back; return; repay	还 (还钱)	huán	si¹	sɿ⁵⁵	sɿ²⁴	tə⁵⁵ɣə²¹	ty⁴⁵³gɨ²¹	tsɑ⁵⁵	xuan²⁴li⁵⁵	tə³³gɨ³¹
+158	966.0	between	中间		ka̠ᶫkaŋ¹	ka²¹kə⁵⁵	ka⁵⁵kv̩⁴⁴	ka⁵⁵la⁵⁵	a²¹li³³li³³ka³³	ka⁵⁵dʒɿ³³	taŋ³³ka²⁴	ka³³la³³
+159	460.0	bamboo basket	箩筐 (背东西用)	luókuāng		kʰa³³lə⁵⁵	da²¹wo²⁴	kʰa³³tɕʰi⁵⁵	ty³⁵ø³³	kʰa³³lu⁵⁵, kʰa³³dʒu²¹	ko³³ta⁵⁵la²¹	pɛ˞³³lo³³
+160	928.0	six	六	liù	kʰo̠ᶫ	kʰo̠²¹	kʰu⁵³	kʰu⁴²	kʰu³³	kʰu̠²¹	kʰu̠²¹	kʰo⁵³
+161	28.0	valley	(山)谷	gǔ	laŋ¹ka̠ᶫ	kʰə⁵⁵dʑɛ̤²¹tsɿ³³	lu²⁴kɑ⁵³	la²⁴kɛ⁴²tɕʰi³³	la²⁴qa³³	la⁵⁵ka²¹mo³³	la²⁴ka²⁴	li³³tɛ˞³³
+162	28.1	valley	(山)谷	gǔ	laŋ¹ka̠ᶫ		lu²⁴kɑ⁵³	la²⁴kɛ⁴²tɕʰi³³	la²⁴qa³³	la⁵⁵ka²¹mo³³	la²⁴ka²⁴	li³³tɛ˞³³
+163	911.0	HEAVY	重	zhòng	li²	ʐʅ²¹,kɨ⁵⁵ɲi⁵⁵	ʝi²¹	li²¹	ʐʅ²¹	wu⁵⁵lu²¹	lɨ²¹	ʝi²¹
+164	666.0	wait; await; expect	等(候)	děnghòu	ʔlaŋ³	ʔlə³³	lv̩³³	la³³	la²³³	la³³	la³³ɕi²¹	lu³³
+165	136.0	butterfly	蝴蝶	húdié	bo²ʔlu³	vi̤²¹ʔlə³³	dzɿ²¹lv̩³³	kɔ⁵⁵lei³³	ko⁵⁵no³³	a⁵⁵bɛ²¹fu³³	xi⁵⁵xo³³lo²⁴	kɛ˞⁵⁵lɛ˞⁵⁵pu²¹
+166	136.1	butterfly	蝴蝶	húdié	bo²ʔlu³	vi̤²¹ʔlə³³	dzɿ²¹lv̩³³	kɔ⁵⁵lei³³	ko⁵⁵no³³	a⁵⁵bɛ²¹fu³³	xi⁵⁵xo³³lo²⁴	kɛ˞⁵⁵lɛ˞⁵⁵pu²¹
+167	440.0	thing	东西	dōngxī	dʒe¹ku¹	xa⁵⁵ŋa⁵⁵	dʑi²¹v̩²¹	dʑi²¹tsɛ³³kɤ̪⁵⁵	tɕʰĩ⁵⁵tɕʰĩ⁵⁵ja³³	kʰo⁵⁵mo³³	kʰõ³³kʰə²¹	dzɛ˞⁵⁵ko³³
+168	256.0	thumb	拇指	mǔzhǐ	ma³	lɛ̠²¹ʔni⁵⁵ma³³ko̠³³	lɛʔ⁵⁵i³³ma³³ko³³	lei⁴²ni⁵⁵mɔ³³ku³³	lɛi⁴⁵ʔĩ⁴⁵³mo³³	li²¹mo³³	na²¹ni²⁴zo²¹mo³³	lei⁵⁵kʰɨ³³ma³³
+169	374.0	female suffix	母的		jaŋ²ma³	ma³³	ma³³	ja³³mu³³ku³³	ja³³mu³³ku³³	jɛ³³mo³³	ɛ²¹mo³³	ja²¹ma³³
+170	332.0	soldier	兵/士兵	bīn/shìbīn	me̠ᶫ	mɛ̠²¹pa̠²¹	me⁴⁴pa⁵³	mei⁴²			leŋ²⁴	mai⁵³
+171	490.0	dream	梦	mèng	ʒi̠ᶫʔme̠H	ʐʅ²¹ʔmɛ̠³³	ʐʅ̃n⁵³(kʰuai³³)	zɿ²¹mei³³	ʐʅ²¹mo³³	i²¹mɛ³³kʰa⁵⁵	ɛ²¹mə³³	zɿ⁴⁵m̩⁴³kʰa³³
+172	490.1	dream	梦	mèng	ʒi̠ᶫʔme̠H	ʐʅ²¹ʔmɛ̠³³	ʐʅ̃n⁵³(kʰuai³³)	zɿ²¹mei³³	ʐʅ²¹mo³³		ɛ²¹mə³³	zɿ⁴⁵m̩⁴³kʰa³³
+173	202.0	board	板子	bǎnzi	pɛ³		te²¹pɛ³³	pɛ³³	sɿ³⁵³pɛ˞³³			pɛ˞³³
+174	202.1	board	板子	bǎnzi	pʰe²	ti̤²¹pʰi̤²¹				to²¹pʰɛ²¹	ta³³pʰi²¹	
+175	38.0	fire	火	huǒ	a¹to̠ᶫ	a⁵⁵to̠²¹	a⁴⁴tuʔ⁵⁵	a⁵⁵tu̠⁵²	a³³tu³³	a⁵⁵toʔ²¹	a²⁴tu̠ʔ³¹	a⁵⁵tu⁵⁵
+176	309.0	female	女人	nǔrén	za²mɛ²	ma̠²¹ʔɲi⁵⁵u²¹	mɛ²¹za²¹	zɔ³³mɛ²¹	za²¹mɛ˞²¹zo²¹	n̩²¹nə⁵⁵jo²¹	zɿ³³mɨ³³tsʰɿ²¹	za²¹mɛ˞²¹
+177	309.1	female	女人	nǔrén	za²mɛ²	ma²¹ʔɲi⁵⁵u²¹, ma̠²¹ʔɲiu⁵³	mɛ²¹za²¹	zɔ³³mɛ²¹	za²¹mɛ˞²¹zo²¹		zɿ³³mɨ³³tsʰɿ²¹	za²¹mɛ˞²¹
+178	358.0	daughter	女儿 (姑娘)	nǚér	za²mɛ²	zɛ̤²¹mɛ̤²¹	za²¹mɛ²¹	zɔ²¹mɛ²¹	za²¹mɛ˞²¹	jo²¹mɛ²¹, zo²¹mɛ²¹	zo³³mɛ²¹	za²¹mɛ˞²¹
+179	500.0	arrow	箭	jiàn	mja²za²	ta²¹na³³mi̤²¹	tsɿ⁵³	mei²¹zɔ²¹	mo²¹tɕian⁵³	mu²¹jo²¹	muɛ²¹	
+180	775.0	weed	除草	chūcǎo	mo̠ᶫ	ʂʅ³³mo̠²¹	ʂʅ²¹mu⁵³	sɿ⁴²tsɿ³³	ʂʅ²¹mo³³	mo²¹mo²¹	mu⁵⁵pʰi²⁴	mo⁵³
+181	864.0	hungry	饿	è	mɨ̠ᶫ	mʉ̠²¹	mɨʔ⁵³	mə⁴²	mɨ³³	mɨ̠²¹	mɨ̠²¹	mu⁵³
+182	774.0	clear field	除田				ɕy²⁴tʰi⁵³	mi²⁴mu²¹		pʰɛ²¹mə⁵⁵, pʰiŋ²⁴	gu̠⁵³pʰi²⁴	ti³³mi³³pai³³
+183	871.0	sick	病 (生病)	(shēng) bìng	na¹	na⁵⁵	na²⁴	nɔ²⁴	no²⁴	no⁵⁵	no²⁴	na³³
+184	799.0	black	黑	hēi	ʔne̠H	ʔnɛ̠³³	nɛ⁴⁴	nei³³	nɛi³³	nɛ̠³³	ni̠³³	ni⁵³
+185	459.0	medicine; herbal medicine	药	yào	nɛ̠/e̠Htsʰi²	ʔnɛ̠³³tsʰɿ²¹	nɛ⁴⁴tsʰɿ²¹	nɛ³³tɕʰi²¹	nɛ³³tsʰɿ²¹		na³³tɕʰi²¹	nɛ˞⁵⁵tsʰɿ⁴¹
+186	459.1	medicine; herbal medicine	药	yào	nɛ̠/e̠Htsʰi²	ʔnɛ̠³³tsʰɿ²¹	nɛ⁴⁴tsʰɿ²¹	nɛ³³tɕʰi²¹	nɛ³³tsʰɿ²¹	na³³tɕʰi²¹	na³³tɕʰi²¹	nɛ˞⁵⁵tsʰɿ⁴¹
+187	64.0	dawn	黎明	límíng		a⁵⁵n̩²¹tʰi³³la⁵⁵	n̩²¹tʰɛ²¹gɨ³³li⁴⁴gɨ³³la³³	i⁵⁵li⁵⁵va³³la³³	a³⁵mv̩⁴¹tʰɛi³³	xo³³məŋ²¹soŋ⁵³	a²⁴tʰv̩²¹bo³³lo²⁴	n̩²¹tʰai³³ɲa³³
+188	643.0	press; fill in; squeeze in; stuff	塞 (塞在洞口)	sāi	tsu¹	tʂə⁵⁵	tɕy⁵³	tsu²⁴	dʐʅ²⁴¹	tə̃⁵⁵	kɛ³³	ho³³
+189	495.0	spirit (evil)	鬼	guǐ	ne²	la̤²¹kɨ³³	la²¹kɨ³³	nei⁴²	ʐa²¹tʂa²⁴	pʰɛ⁵⁵	niŋ²¹	nai²³¹
+190	618.0	wear (turban)	戴(头巾)		so̠ᶫ		su⁵³	nei⁴²		kʰu̠³³	kʰu̠³³	tɨ⁵³
+191	516.0	look at	看	kàn	ʔni¹	ʔɲi⁵⁵	ĩ²⁴	i⁵⁵	ĩ⁴⁵³	i⁵⁵	i²⁴	vaŋ⁵³
+192	818.0	soft	软	ruǎn	nu²	nə̤²¹	nv̩²¹	nɤ̪²¹	nɤ̪˞²¹	nu²¹	nu²¹	nɤ̪²¹
+193	944.0	1S	我	wǒ	ŋa¹	ŋa⁴⁵	ŋa²⁴	ŋɔ⁵⁵	ũ⁴⁵³	ŋa⁵⁵	ŋo²⁴	ŋa³³
+194	945.0	1PL	我们	wǒmén	ŋa¹tsa³	ŋa³³tsa³³		ŋɔ³³tsɔ³³				
+195	945.1	1PL	我们	wǒmén	ʔŋa²		u²¹	na⁵⁵tɕia³³	nu⁴⁵³	ə⁵⁵xɨ³³	ŋo⁵⁵so³³	ŋa⁵³
+196	295.0	milk	奶	nǎi	a¹tʃɨ̠H	a⁵⁵tʂʅ̠³³	i⁴⁴tʂʅ⁴⁴	a⁵⁵tsɿ³³	a⁵⁵tʂʅ³³	a⁵⁵tʃɿ̠³³	o²⁴tɕi³³	a⁵⁵tsɿ⁵³
+197	198.0	leaf	叶子	yèzi	pʰe̠ᶫ	pʰɛ̠²¹	sɿ⁴⁴pʰɛ⁵³	ɕi³³pʰei⁴²	sɿ³⁵³pʰɛi³³	jɛ²¹pʰɛ²¹	ɛ³³pʰi̠²¹	sɿ⁵⁵pʰai⁵⁵
+198	532.0	vomit	呕吐	ǒutù	pʰe̠ᶫ	pʰɛ̠²¹	pʰɛ⁵³	pʰei⁴²	pʰɛi³³	pʰɛ̠²¹	pʰi²¹	pʰai⁵³
+199	184.0	chili pepper	辣椒	làjiāo	pʰe¹	la⁵⁵tsɿ³³	la⁴⁴tsɿ⁴⁴	la²⁴dzɿ²¹	a³⁵mv̩²¹hĩ³⁵²	ma⁵⁵pʰi²¹	tsa²¹pʰi²⁴	la³³tsɿ³³
+200	720.0	EXIST; to be	在; 有	zài	dʒe̠H	dʑɛ̠³³	dʐɛ⁴⁴	dza²⁴		dza³³	dzaŋ³⁵³ŋa³³	dzɿ⁵⁵
+201	665.0	send-off; deliver	送	sòng	xɛ²xa¹	xɨ²¹a⁵⁵gu²¹	xɛ˞²¹xa⁴⁴i⁴⁴, xɛ˞²¹xai⁴⁴	gə²¹	xo⁴⁵³	xɛ²¹xo⁵⁵ɛ⁵⁵	xɛ³³pʰɨʲ²⁴	xa³³
+202	748.0	swell	肿	zhǒng	pʰy̠ᶫ	pʰø̠²¹	pʰy⁵³	pʰə⁴²	pʰɨ³³	pʰɑ̠²¹	pʰə²¹	pʰɨ⁵³
+203	937.0	hundred	百	bǎi	ha¹	ha⁵⁵	hã²⁴	xɔ⁵⁵	hõ⁴⁵³	xo⁵⁵	ɛ²¹xo²⁴	ta²¹ha³³
+204	179.0	cabbage greens	青菜	qīngcài	ɣaŋ²	wṳ²¹	wu²¹pʰɛ²⁴	ja²¹lɔ³³tsɿ³³	ɣa²¹tɕi̠³³	ɣa²¹pʰɛ⁵⁵	va²¹pʰi²⁴	tɕʰiŋ³³tsʰai³³
+205	305.0	breath	呼吸	hūxī	se̠ᶫxa¹	sɛ̠²¹xa⁵⁵	se⁵⁵xa³³	sei⁴²xa⁵⁵	sɛi³³xo⁴⁵³	sɛ²¹xo⁵⁵	ɕi³³pʰv̩²¹	
+206	305.1	breath	呼吸	hūxī	se̠ᶫxa¹	sɛ̠²¹xa⁵⁵	se⁵⁵xa³³	sei⁴²xa⁵⁵	sɛi⁴⁴xo⁴⁵³		ɕi³³pʰv̩²¹	
+207	606.1	steam	蒸	zhēng	pu²	pʉ²¹	kv̩²¹	kɤ̪⁴²		pu²¹	bv̩̠²¹	pu²¹
+208	606.0	steam	蒸	zhēng	se̠ᶫ				sɛi³³			
+209	610.0	kill	杀 (杀鸡)	shā	se̠ᶫ	sɛ̠²¹	se⁵³	sei⁴²	sɛi̠³³	ɕɛ̠²¹	su̠ʔ³³	sai⁵³, xɛ˞⁵³
+210	929.0	seven	七	qī	xɨ²	xɨ²¹	xɨʔ²¹	ɕi²¹	xɨ²¹	xɨ²¹	xɨ²¹	xɨ²¹
+211	840.0	new	新	xīn	xɨ̠ᶫ	xɨ̠²¹	xɨʔ⁵³	ɕi⁴²	xɨ³³	xɨ̠²¹	ɛ³³xɨ̠²¹	xɨ⁵³
+212	865.0	thirsty	渴	kě	si̠ᶫ	sɿ̠²¹	sɿ⁵³	ɕi⁴²	ɣɨ²⁴sɿ³³	ɕi̠²¹	ɕi̠²¹	sɿ⁵³
+213	925.0	three	三	sān	sa¹/³	sa³³	sa²⁴	sɔ⁵⁵	so³³	sa⁵⁵	so³³	sa³³
+214	894.0	correct	正确	zhèngquè		xo⁵⁵	tsɛ²⁴	ŋa²⁴tsɿ⁵⁵		dʒu²¹	ka³³tɛ̠²¹	xɨ³³
+215	526.0	bite	咬	yǎo	kʰo̠ᶫ	kʰo̠²¹	kʰo⁵³	kʰu⁴²	kʰo³³	kʰu²¹	kʰu̠²¹	kʰo⁵³
+216	453.0	hammer	锤子	chuízi		tɕʰue²¹		tsʰue²¹	xu³⁵tɕʰuɛ²¹tɕʰuɛ²¹	tɛ²¹lu⁵⁵	a²⁴tsu⁵⁵kʰuʲ⁵⁵jo³¹	xɨ³³tsʰuən²¹
+217	215.0	thorn	刺	cì	dzy²	a⁵⁵dzy²¹	a⁵⁵dʑy²¹	dzə²¹	a⁴⁵dzy²¹	a⁵⁵dʒə²¹	a²⁴dʑi²¹	dzə²¹
+218	547.0	pick (e.g., fruit)	摘 (摘果子)	zhāi	tsʰɛ̠H	tsʰa³³	tsʰɛ⁴⁴	tʰa³³		tɛ̠⁵⁵		pʰɛ˞⁵³
+219	547.1	pick (e.g., fruit)	摘 (摘果子)	zhāi	xa̠ᶫ				xo⁴⁵³	xɛ̠²¹	xa̠ʔ²¹	
+220	576.0	spend night	过夜	guòyè	he̠ᶫ	hɛ̠²¹	hɛ̃⁵³	xei⁴²	xai³³	xɛ̠²¹	ta̠ʔ²¹tɛʲ³³, xi̠²¹a³³	xai⁵³
+221	930.0	eight	八	bā	he̠ᶫ	hiɛ̠²¹	hẽ⁵³	xei⁴²	xai³³	xɛ̠²¹	xɛ²¹	xai⁵³
+222	289.0	bile	胆汁	dǎnzhī	ki¹ɣi¹	kɨ⁵⁵ɣɨ⁵⁵	kɨ²⁴ɣɨ²⁴	tɕi⁵⁵kʰa²¹ji²⁴	kɨ⁴⁵³ɣɨ³³	ja²¹ki⁵⁵ɣɨ⁵⁵	ɛ²¹ki²⁴ɣɨ²⁴	dan²¹ɣɨ³³
+223	472.0	chopsticks	筷子	kuàizi	a¹dʒu³	a⁵⁵ɖʐə³³	a⁵⁵dʐv̩³³	a⁵⁵dzu³³	a⁵⁵dʐɤ̪˞³³	a⁵⁵dʒu³³	a²⁴dzu³³	a⁵⁵dzə³³
+224		turtle	龟	guī								
+225	152.0	tail	尾巴	wěibǎ	ʔmɛ²	ʔmɛ̤²¹	mɛʔ⁵³	mɛ²¹	mɛ˞²¹gɤ̪˞²¹ʂʅ²¹	jɛ²¹mɛ²¹	ɛ³³mɛ̠²¹	mɛ˞²¹tʰɛ˞²¹sɿ³³
+226	152.1	tail	尾巴	wěibǎ	ʔmɛ²pʰɛ²							
+227	258.0	buttocks	屁股	pìgǔ	daŋ¹	tsʰɿ²¹tə³³kʰə⁵⁵	du²⁴bə/ɛ²¹dzɿ³³	ta⁵⁵pə⁵⁵	da⁴⁴pʰi⁵⁵ku²¹	pʰɛ²¹dɛ²¹	kʰi³³dv̩²¹	tsʰɛ˞²¹bi³³bi³³
+228	486.0	speech	话	huà	ɣɛ¹ʔli¹	vɛ⁵⁵	ɣɛ²⁴ʐʅ³³	ɣɔ²⁴li⁵⁵	gv̩˞²⁴ʐʅ⁵³	da²¹	da²¹,kʰe²¹	bei⁵⁵ŋɛ³³
+229	486.1	speech	话	huà	ɣɛ¹ʔli¹	vɛ⁵⁵	ɣɛ²⁴ʐʅ³³		gv̩˞²⁴ʐʅ⁵³		da²¹,kʰe²¹	bei⁵⁵ŋɛ³³
+230		language	语言	yǔyán								
+231	882.0	alive	活着	huózhe	ka²				xo³³kʰɨ³³la³³		ko⁵⁵a³³ko³³	
+232	882.1	alive	活着	huózhe	zɛ¹dʒɛ²	zɛ⁵⁵dʑɛ̤²¹	zɛ²⁴	dza²⁴		tsa⁵⁵la²¹		zɛ˞³³
+233	593.0	whittle	削	xiāo	tʃʰo̠H	tʂʰo̠³³	tʂʰu⁴⁴	ɕu³³	tʂʰu³³	pu⁵⁵	tsʰu³³	ɕu⁵³
+234	515.0	poison	毒药	dúyào	do̠ᶫ	to̠²¹ʔnɛ̠³³tsʰɿ²¹	tu⁵⁵nɛ³³tsʰɿ²¹	tu⁴²nɛ³³tɕʰi²¹	du³³	tu²¹na³³tɕʰi²¹	tu̠ʔ³¹na³³tɕʰi²¹	tu⁵⁵
+235	148.1	wing	翅膀	chìbǎng	du¹le̠ᶫ	də⁵⁵lɛ̠²¹	dv̩²⁴le⁵³	dɤ̪²⁴lei⁴²	dɤ̪˞²⁴lɛi³³		ɛ²¹dv̩²⁴li²¹	dɤ̪³³lai⁵³
+236	148.0	wing	翅膀	chìbǎng	du¹le̠ᶫ	də⁵⁵lɛ̠²¹	dv̩²⁴le⁵³	dɤ̪²⁴lei⁴²	dɤ̪˞²⁴lɛi³³	du⁵⁵lɛ̠²¹	ɛ²¹dv̩²⁴li²¹	dɤ̪³³lai⁵³
+237	887.0	same	一样 (相同)	yīyàng	ʃy²	sy²¹	ɕy²¹	sə²¹	sy²¹	sə²¹	sə²¹	sə²¹, a²¹ja⁵³
+238	268.0	knee	膝/膝盖	xī/xīgài		ɦɛ⁵⁵o³³dzɿ³³	kʰɨ⁴⁴tsɿ⁵³	tɕʰi⁵⁵tɕʰi³³na⁵⁵kʰɤ̪³³	po³³lo³³kai⁴⁵³	bu⁵⁵lu³³kʰu⁵⁵	ba²⁴na⁵⁵kʰu³³	kʰə⁴⁴tsɿ⁴⁴tʰɛ˞⁵³
+239	725.0	burn	焚 (烧)	fén(shāo/huǐ)	kʰu¹	kʰə⁵⁵, ba⁵⁵	kᶠʰv̩²⁴	kʰɤ̪⁵⁵	ĩ³³	tɕi³³	bo²⁴	kʰo³³, pʰə²¹, i³³
+240	725.1	burn	焚 (烧)	fén(shāo/huǐ)	ty̠ᶫ			tɛ⁴²				
+241	807.0	dull	钝 (刀钝)	dùn	du²	də²¹	dv̩²⁴	bə²⁴			zu²¹	dɤ̪²¹
+242	807.1	dull	钝 (刀钝)	dùn	ly³	ly³³				lə³³		
+243	208.0	cooked rice	饭	fàn	dza¹	dza⁵⁵	dza²⁴	dzɔ²⁴	dzo²⁴	dzo⁵⁵	dzo²⁴	dza³³
+244	521.0	eat	吃	chī	dza²	dza̤²¹	dza²¹	dzɔ²¹	dzo²¹	dzo²¹	dzo²¹	dza²¹
+245	478.0	bridge	桥	qiáo	dzy¹	dzy⁵⁵	dʑy²⁴	dzə²⁴	to²¹dʑy²⁴	ɣɨ⁵⁵dʑɛ⁵⁵	gaŋ²⁴gɨ̠²¹	dzə²¹dzə³³
+246	474.1	ladder	梯子	tīzi	de̠Hgo̠ᶫ	dɛ̠³³wo̠²¹	dei⁴⁴wo⁵³	tɕiɛ⁵⁵n̩²¹tʰei⁵⁵	dɛi³³gu²¹	dɛ³³gu²¹	gaŋ²⁴gɨ̠²¹	di⁴⁵gɨ²¹
+247	474.0	ladder	梯子	tīzi	de̠Hgo̠ᶫ	dɛ̠³³wo̠²¹	dei⁴⁴wo⁵³	tɕiɛ⁵⁵n̩²¹tʰei⁵⁵	dɛi³³gu²¹	dɛ³³gu²¹	gaŋ²⁴gɨ̠²¹	di⁴⁵gɨ²¹
+248	719.0	ride; ride on	骑 (骑马)	qí	dzɛ²	dzɛ̤²¹	dzɛ²¹	dzɛ²¹	dzɛ̃²¹	dʑɛ²¹	dʑɛ²¹	dzɛ˞²¹
+249	667.1	meet; come across	遇见	yùjiàn 	tʰu³dzi¹	dzɿ⁵⁵tʰə³³	tʰu³³dzɿ²⁴		pʰɨŋ⁴⁵³tʰɛi²¹		kʰuɛ̃²⁴	tou⁵⁵ŋa³³
+250	667.0	meet; come across	遇见	yùjiàn 	tʰu³dzi¹	dzɿ⁵⁵tʰə³³	tʰu³³dzɿ²⁴	pʰə³³dzɿ²⁴	pʰɨŋ⁴⁵³tʰɛi²¹	dʒu²¹lɛ⁵⁵	kʰuɛ̃²⁴	tou⁵⁵ŋa³³
+251	659.0	dance	跳舞	tiàowǔ	ga³kʰe/ɛ³	ɦa³³kʰɛ³³	ɣa³³kʰai³³		tsai²¹	go³³tɛ²¹	pa³³go³³	bə³³
+252	659.1	dance	跳舞	tiàowǔ	ga³kʰe/ɛ³	ɦa³³kʰɛ³³	ɣa³³kʰai³³		tsai²¹	go³³tɛ²¹	pa³³go³³	bə³³
+253		empty	空	kōng				kʰo⁵⁵				
+254	904.0	WIDE	宽	kuān	fe¹					fɛ⁵⁵		
+255	931.0	nine	九	jiǔ	ko¹/³	kə³³	kv̩³³	kə³³	kɤ̪˞³³	kɨ³³	kɨ³³	kɤ̪³³
+256	814.0	crooked; bent	弯 (棍子弯)	wān	go̠ᶫ	wo̠²¹	woʔ⁵³	gu⁴²	wan³³	go²¹	da²⁴gu²¹	go⁵³, wan³³
+257	707.0	return	回	huí	ty¹	ty⁵⁵	ty³³la³³	tə⁵⁵	ty⁴⁵³	tə⁵⁵	tə²⁴a³³	tə³³
+258	520.0	hear	听见	tīng	gja²	ga̤²¹	na⁴⁴ga²¹	nɔ⁵⁵ɣɔ²¹	go²¹	po³³go²¹	no³⁵go²¹	ga³³pa²¹, na³³ŋa³³
+259	676.0	help	帮助	bāngzhù	gja³	ga³³	ga³³	gɔ³³		go³³ɣɨ²¹	tsuɛ²⁴li³³	pai³³gɨ²¹
+260	442.0	needle	针	zhēn	ɣy̠ᶫ	a⁵⁵jø̠²¹	a²¹wu⁵³	ɣə⁴²	a³³wu³³	wɑ̠²¹	ɣɨ̠ʔ²¹	a⁵⁵ɣɨ⁵³
+261	738.0	revolve; rotate; spin	旋转	xuánzhuǎn	tʃaŋ¹	tʂu⁵⁵	tʂu²⁴	tsue⁴²	tʂuẽ³³	tʃa⁵⁵	va³³	tsuɛ⁵³
+262	467.0	comb (regular)	梳子	shūzi	m̩²pjɨ²	m̩²¹pʉ²¹tɕɛ̠³³	m̩²¹pə/ɛ²¹	m̩²¹pə²¹tɕi³³	m̩²¹pɨ²¹	ŋ²¹pɨ²¹	ɛ³³pɨ²¹	m̩²¹pai²¹
+263	870.0	itchy; ticklish	痒	yǎng	dzi̠H	dzɿ̠³³	dzɿ⁴⁴	jou²¹	ɲi²¹	dʑi̠³³	dʑi³³	za²¹
+264	10.0	thunder	雷	léi	a¹mo²go²	a⁵⁵ŋ̩̩²¹ɣə²¹	a⁵⁵mv̩²¹ɣo²¹	mə²¹gə²¹ti²¹	a³⁵mv̩⁴¹gõ²¹	ŋ̩²¹gu²¹	a³⁵tɨ²¹	m̩²¹go²¹
+265	10.1	thunder-2	雷	léi	a¹mo²ɡo²ti²			mə²¹gə²¹ti²¹			a³⁵tɨ²¹	
+266	281.0	waist	腰	yāo	dʒo̠ᶫ	dʐo̠²¹	dʐu⁵⁵la⁴⁴n̩²¹dzɿ³³	dzou⁴²	dʐu̠³³	dʒo²¹	dzu̠ʔ³¹	ʐuən²¹jao³³
+267	308.0	male	男人	nánrén	ʒo̠ᶫ	ʐo̠²¹pa̠²¹	ʐu⁵⁵za²¹	ju³³pu⁴²	zo²¹ny⁵⁵zo²¹	jɛ²¹pɑ̠²¹	ŋ̩²¹kʰa³³po̠²¹	zu⁴²pa⁴⁵³
+268	626.0	sew	缝(缝衣服)	féngrèn	gu̠ᶫ	gə̠²¹	gv̩⁵³	gə⁴²	gɤ̪˞³³	gɨ̠²¹	gɨ̠²¹	gɤ̪⁵³
+269	750.0	bark	吠 (狗叫)fei	fèi	lu³	ʔlə³³	lv̩³³	tsɤ̪²¹	lɤ̪˞³³	lu³³	a⁵⁵nõ²¹ŋə³³	lɤ̪³³
+270	788.0	sneeze	打喷嚏	dǎpēntì	ha¹	ɦa³³tʰio²¹pi⁵⁵	pʰu²¹dɛ²¹	a⁵⁵tʰi²¹pe³³		ɕi⁵⁵tsa³³məŋ⁵⁵	kʰi⁵⁵tsaŋ²⁴	tsʰoŋ⁵³
+271	787.0	yawn	打呵欠	dǎkēqiàn	ʔli̠ᶫku³		ʐɿ̃n⁵³kv̩⁵³			li²¹xa⁵⁵		
+272	787.1	yawn	打呵欠	dǎkēqiàn	ha¹se³/kʰaŋ²	ha⁵⁵ji³³kʰa²¹,hai⁵³kʰḁ²¹		xa⁵⁵ji²¹sɛ³³	xai⁴⁵³ku³³		xa²⁴su²¹	xu³³xa³³dai²¹
+273	633.0	close	关	guān	tsʰɨ²¹	tsʰɿ²¹	tsʰɿ²¹	dɛ²¹tsʰɿ²¹	dɛ˞²¹tsʰɿ²¹	tsʰɿ²¹	tsʰɿ²¹	tsʰɿ²¹
+274	311.0	Han Chinese	汉族	hànzǔ	he̠ᶫ/ha̠ᶫpa̠ᶫ	ha̠²¹pa̠²¹		xei⁴²pu⁴²		xɛ²¹pɑ̠²¹	xiɛ³³po̠²¹	xai⁵³pa⁵³
+275	311.1	Han Chinese	汉族	hànzǔ	la²bɨ²		la²¹bɨ²¹		la²¹bɨ²¹			
+276	331.0	blacksmith	铁匠/锻工	tiějiàng/duàngōng		ɕy⁵⁵dɛ²¹sɿ⁵⁵	ɸu²⁴dɛ²¹sɿ⁴⁴	xə⁵⁵dɛ²¹sɿ⁵⁵	xu⁴⁵dɛ˞²¹	a⁵⁵tʰo²¹dɛ²¹su⁵⁵	xə²⁴dɛ³³po̠ʔ²¹	xɨ³³dai²¹su³³
+277	961.0	that (far)	那 (远位)			kua³³	ni⁴⁴ma³³	gu²⁴mɔ³³	na⁴⁵³ja³³	nə⁵⁵na³³	kʰo⁵⁵mo³³	nə³³ja⁵³
+278	694.0	have	有	yǒu	dʒaŋ¹	dʐu⁵⁵	dʐu²⁴	dza²⁴	dʐa²⁴	dʒa⁵⁵	dzaŋ³⁵³	dzu³³
+279	479.0	market	街子(市场)	jíshì / gàizi	dʒi³	dʐʅ³³	dʐʅ³³	dzɿ³³		ba⁵⁵dʑi³³	dʑi³³	kai³³tsɿ³³
+280	296.0	excrement	屎	shǐ	kʰji²	tsʰɿ̤²¹	tsʰɿ²¹	tɕʰi²¹	tsʰɿ²¹	kʰi²¹	kʰi²¹	tsʰɿ²¹
+281	906.0	BIG	大	dà	ɣɛ²	vɛ̤²¹	ɣɛ˞²¹	ɣɛ²¹	ɣɛ˞²¹	ʝɛ²¹	ʝɛ²¹	ɣɛ˞²¹
+282	854.0	bitter	苦	kǔ	kʰa²	kʰa̤²¹	kʰa²¹	kʰa̤²¹	kʰa²¹	kʰɑ²¹	kʰa²¹	
+283	506.0	village	村(寨)	cūn(zhài)	kʰa̠H	kʰa̠³³	kʰɛ˞⁴⁴	kʰa³³	tsʰa⁴⁵kʰɛ˞³³	kʰa³³	ka̠ʔ³³	kʰɛ˞⁵³
+284	847.0	difficult	难	nán	ʃa̠ᶫ	ʂa̠²¹	ʂaʔ⁵³	sɔ⁴²	ʂo⁴²	sɑ̠²¹	so̠²¹	saʔ⁵³
+285	892.0	expensive	贵	guì	kʰa̠H	kʰa̠³³	kʰɛ⁴⁴	pʰə²¹kʰa³³	kʰa³³	kʰa̠³³	kʰa̠³³	kʰa⁵³
+286	294.0	saliva	口水	kǒushuǐ	ti²ɣi¹	ti̤²¹ɣɨ⁵⁵	ti²¹ɣɨ¹³	ti²¹ji²⁴	ʔɛ˞²¹ɣɨ²⁴	pɨ²¹sɿ²¹ɣɨ⁵⁵	tɨ²¹ɣɨ²⁴	m̩²¹pʰai⁵⁵ɣɨ³³
+287	26.1	mountain (dirt)	山(土山)	shān	kʰu¹dʒɛ²	kʰə⁵⁵dʑɛ̤²¹	kʰv̩⁵⁵dʐv̩²¹	kʰɤ̪⁵⁵dza²¹	vv̩˞³⁵la²¹, kᶠʰv˞̩⁴⁵lɛi²¹	kʰu⁵⁵dʒa²¹	kʰv̩²⁴dʑɛ²¹	tə⁵⁵ta³¹
+288	26.0	mountain (dirt)	山(土山)	shān	kʰu¹dʒɛ²	kʰə⁵⁵dʑɛ̤²¹, kʰə⁵⁵tɕɛ̤²¹ 	kʰv̩⁵⁵dʐv̩²¹	kʰɤ̪⁵⁵dza²¹	vv̩˞³⁵la²¹, kᶠʰv˞̩⁴⁵lɛi²¹	kʰu⁵⁵dʒa²¹	kʰv̩²⁴dʑɛ²¹	tə⁵⁵ta³¹
+289	91.0	bear	熊	xióng	a²ɣy¹	a̤²¹jy⁵⁵	a²¹vv̩²⁴	ɕioŋ²⁴, ɕio²¹	wv̩²⁴po³³	a⁵⁵ɣɨ⁵⁵	a²⁴ɣɨ²⁴	ɣɨ³³pa⁵³
+290	92.0	tiger	老虎	lǎohǔ	la²pa̠ᶫ	la̤²¹pa̠²¹	la²¹pa⁵³	lɔ²¹pu⁴²	lo²¹	lo²¹pɑ̠²¹	lo²¹	la²¹dzɛ˞³³
+291	92.1	tiger	老虎	lǎohǔ	la²pa̠ᶫ	la̤²¹pa̠²¹	la²¹pa⁵³	lɔ²¹pu⁴²	lo²¹		lo²¹	la²¹dzɛ˞³³
+292	973.0	inside	里面	lǐmiàn	kʰjo²	kʰø̤²¹si⁵⁵	kʰo²¹se⁴⁴	kʰə²¹pʰia²¹	kʰu²¹si⁴⁵³	jɛ²¹na̠³³	ɛ²¹nao⁵³	kʰɨ²¹hei³³
+293		wash (clothes)	洗(衣服)			tsʰɿ²¹						
+294	36.0	stone	石头	shítóu	ka¹lu̠H	ka⁵⁵lə̠³³,ka⁵⁵lə̠³³tsʰɿ³³	lu⁴⁴tsʰɿ⁴⁴	ku⁵⁵lu³³	ɣɛ˞̠³³ʔø³³	a⁵⁵lo³³kʰɛ³³	o²⁴lu³³kʰɛ³³, u²⁴lu³³kʰɛ³³	kou⁵⁵lu⁵⁵
+295	36.1	stone	石头	shítóu	ka¹lu̠H	ka⁵⁵lə̠³³,ka⁵⁵lə̠³³tsʰɿ³³	lu⁴⁴tsʰɿ⁴⁴	ku⁵⁵lu³³	ɣɛ˞̠³³ʔø³³		o²⁴lu³³kʰɛ³³, u²⁴lu³³kʰɛ³³	kou⁵⁵lu⁵⁵
+296	764.0	shake	摇动 	yáodòng	ʔlu̠H	ʔʐʅ³³	lv̩⁴⁴	li³³tɤ̪⁵⁵	ɲo³³li³³	və²¹va³³	xi²⁴xi²⁴xa²⁴xa²⁴	lo⁵⁵
+297	636.0	release; let go; set free	放 (把鸟放走)	fàng	pʰjy²	pʰu̥²¹	pʰy²¹	pʰei²¹	pʰy²¹	pʰɨ²¹	pʰə²¹pʰuɛ²⁴	pʰɨ²¹
+298	40.1	smoke	烟 (炊烟)	(chuī) yān	ʔmu²kʰo²se̠ᶫ	ŋ̩²¹kʰə̤²¹	n̩²¹kᶠʰɨ²¹	mi³³kʰɤ̪²¹sei⁴²	kʰv˞²¹mɤ̪²¹	ŋ̩²¹kɨ²¹sɿ²¹	a²⁴tu̠³¹ai²¹	mi⁵⁵kʰɔ̪³¹
+299	674.0	steal	偷	tōu	kʰo²	kʰə̤²¹	kᶠʰv̩²¹	kʰə²¹	kʰɤ̪˞²¹	kʰɨ²¹	kʰɨ²¹	kʰɔ̪²¹
+300	40.0	smoke	烟 (炊烟)	(chuī) yān	ʔmu²kʰo²se̠ᶫ	ŋ̩²¹kʰə̤²¹	n̩²¹kᶠʰɨ²¹	mi³³kʰə²¹sei⁴²	kʰv˞²¹mɤ̪²¹	ŋ̩²¹kɨ²¹sɿ²¹	a²⁴tu̠³¹ai²¹	mi⁵⁵kʰɔ̪³¹
+301	382.0	roof	房顶	fángdǐng	he¹dzi³		hẽ²⁴dzɿ³³	xeĩ⁵⁵ŋ̩²¹tʰei²¹	hĩ³⁵dzɿ³³	xɛ⁵⁵ɲo³³	xĩŋ²⁴te²⁴	hei⁴⁴ma³³dzɿ²¹
+302	271.0	chest	胸脯	xiōngpú		ɕioŋ³³kʰou²¹	ni⁴⁴ma³³õ²¹	ə³³la²¹	tɛi⁴⁴ku⁴⁴	tu⁵⁵kʰu²¹, n̩²¹tu⁵⁵kʰu²¹	ni̠³³mo³³kua²⁴	pʰu²¹ɕoŋ³³
+303	104.0	chicken	鸡	jī	a¹ɣe̠H	a⁵⁵jɛ̠³³	a⁴⁴ʝi⁴⁴	i³³	a⁴⁴ʝi̠⁴⁴	a⁵⁵ji̠³³	a²⁴ji̠³³	a⁵⁵ji⁵³
+304	497.0	fence	栅栏	zhàlán	kʰjy¹	kʰy⁵⁵	kʰu⁴⁴tʂʰa²¹	la²⁴ka⁵⁵tsɿ³³	kʰu³⁵ba²¹	kʰə⁵⁵pɨ³³	a²⁴kɨ²⁴	pʰi³³sa⁵³
+305	98.0	pangolin	穿山甲	chuānshānjiǎ	tʰaŋ²kʰjɛ²kʰy̠H	tʰu²¹kʰa²¹kʰy³³	tʰu²¹kʰe³¹	tʰaŋ²¹kʰə³³, tʰaŋ²¹kʰɛ̤²¹	tʰaŋ²¹kʰɛ˞³¹	tsa²¹kʰɛ²¹	ta³³kʰɛ²¹	tʰa²¹kʰɨ⁵³
+306	98.1	pangolin	穿山甲	chuānshānjiǎ	tʰaŋ²kʰjɛ²kʰy̠H	tʰu²¹kʰa²¹kʰy³³	tʰu²¹kʰe³¹	tʰaŋ²¹kʰɛ̤²¹	tʰaŋ²¹kʰɛ˞³¹	tsa²¹kʰɛ²¹	ta³³kʰɛ²¹	tʰa²¹kʰɨ⁵³
+307	98.2	pangolin	穿山甲	chuānshānjiǎ	tʰaŋ²kʰjɛ²kʰy̠H	tʰu²¹kʰa²¹kʰy³³		tʰaŋ²¹kʰə³³				tʰa²¹kʰɨ⁵³
+308	260.0	foot/leg	脚·腿		kʰi¹pʰe̠H	kʰɨ⁵⁵pʰɛ̠³³	kʰɨ⁴⁴pʰe⁴⁴	tɕʰi⁵⁵pei³³	kʰɨ⁴⁵³vv̩˞²¹	kʰi⁵⁵pʰɛ³³	bɨi⁵³po²¹	kɛ˞³³vv̩²¹
+309	267.0	ankle (joint)	踝	huái	kʰi¹ʔmje̠H	kʰɨ⁵⁵ʔmɛ̠³³sɛ²¹	kʰɨ⁴⁴mi⁵⁵sɛ²¹	tɕʰi⁵⁵ni⁵⁵mi³³sɛ²¹	kʰɨ⁴⁵³vv̩˞²¹mi⁵⁵sɛ˞²¹	a⁵⁵tɕʰi²¹mɛ³³ta³³	bɨi⁵³tɕiŋ²¹kʰu²¹tsuɛ⁵⁵jo²¹	kɛ˞³³wv̩²¹lo²¹sɿ³³
+310	831.0	dirty	脏	zāng		ma²¹xu⁵⁵	ma²¹ɸu²⁴	nɛ³³	la³³tʰa³³	ma²¹xa⁵⁵	xãŋ²⁴	la³³tʰa⁵³
+311	151.0	horn	角	jiǎo	kʰo¹	kʰə⁵⁵	kᶠʰv̪̪²⁴	kʰə⁵⁵	kʰɤ̪˞⁵³	jɛ²¹kʰɨ⁵⁵	ɛ³³kʰɨ²⁴	kʰɤ̪³³
+312	817.0	hard	硬	yìng	kʰa̠H			kʰa³³		kɛ⁵⁵mɨ⁵⁵		kʰa⁵³
+313	817.1	hard	硬	yìng	xɛ¹	ɕɛ⁵⁵	xɛ²⁴		xɛ˞⁴⁵³		xiɛ²⁴	
+314	128.1	termite	白蚁	báiyǐ	a²ʒo̠Hpʰu¹	tʰu²¹bʉ²¹di⁵⁵	a³³ʐu⁴⁴fv̩²⁴	a³³ju³³fɤ̪⁵⁵	a²¹ʐu³³pʰᶠv̩⁵⁵zo²¹	ɕi³³bi²¹di⁵⁵	ma²¹vai²¹bɨ²¹di²⁴	bi²¹ma⁵⁵pʰv̩³³
+315	128.0	termite	白蚁	báiyǐ	a²ʒu²							
+316	124.0	leech	蚂蟥/水蛭	mǎhuáng/shuǐzhì	ɣi¹ve̠ᶫ	ɣɨ⁵⁵vɛ̠²¹	ɣɨ²⁴ve⁵³	i²⁴vei⁴²	vv̩²⁴vɛi³³	ɣɨ⁵⁵vɛ̠²¹	ɣɨ²⁴vi̠ʔ²¹	ɣɨ³³pai⁵⁵
+317	359.0	daughter-in-law	儿媳 (媳妇)	érxí	kʰɨ²ma³	kʰɨ²¹ma³³	kʰɨ²¹ma³³	zɔ²¹tɕʰi²¹mɔ³³	kʰɨ²¹mo³³	kʰɨ²¹mo³³	kʰɨ²¹mo³³	kʰɨ²¹ma³³
+318	538.0	call; be called	叫	jiào	ku¹	kə⁵⁵	kv̩²⁴	kɤ̪⁵⁵	kɤ̪˞⁵⁵	ku⁵⁵	ə̠²¹	kɤ̪³³
+319	250.0	palm (of hand)	手掌	shǒuzhǎng			lɛ⁵⁵pa²¹	lei⁴²tʰa³³di³³	lɛi³³pa³³tʂa³³	li²¹tʰa³³	la̠²¹kʰa²⁴	
+320	402.0	earring	耳环	ěrhuán	ʔna²vaŋ²	ʔnɛo⁵³	na³²wu²¹	na²¹ba²¹	na²¹ba²¹	nu²¹su⁵⁵	na³³vaŋ²¹	na³³vv̩²¹
+321	200.0	flower	花	huā	ga¹lu³	ɦa⁵⁵lə³³ʔvɛ̠³³	ɣa²⁴lv̩³³	gɔ²⁴lɔ³³	gɤ̪˞²⁴nɤ̪˞³³	gu⁵⁵lu³³	ga²⁴lu³³	gɛ˞³³no³³
+322	85.0	dog	狗	gǒu	a¹kʰɨ²	a⁵⁵kʰɨ̥²¹	a⁵⁵kʰə/ɨ²¹	tɕʰi²¹	a³⁵kʰɨ²¹			a⁵⁵kʰɨ²¹
+323	321.0	friend	朋友	péngyǒu		ta̠³³pɛ̠³³	ta⁴⁴pɛ⁴⁴, zɿ⁴⁴nɛ³³	xɔ²⁴da³³sɿ⁵⁵	ka³³tʂʰa²¹	tɕi⁵⁵tsʰa²¹	dza²⁴tsʰa²¹	ka³³tsʰo²¹
+324	99.0	muntjak deer	麂子／赤鹿	chìlù	tʃʰɨ¹	tʂʰʅ⁵⁵	tʂʰʅ²⁴	tsʰɿ⁵⁵	tʂʰʅ⁵³	tsʰɿ⁵⁵	tsɿ³³nio⁵³	tsʰɿ⁵³pa⁵³
+325	660.0	borrow (money)	借 (借钱)	jiè	tʃʰi²	tʂʰʅ̥²¹	pa²⁴, tʂʰʅ²¹	tsʰɿ²¹	tʂʰʅ²¹	tɕʰi²¹	tsʰɿ²¹	
+326	559.0	lift (over head)	举起	jǔqí	tʃʰɛ²		py²¹to³³	pi²¹tɤ̪⁵⁵	tɕy³³tɛ˞⁵⁵li³³	tɕʰɛ²¹tu⁵⁵	tɕʰɛ²¹di³³	dzai²¹ti⁵⁵li³³
+327	853.0	sweet	甜	tián	tʃʰɨ¹	tʂʰʅ⁵⁵	tʂʰʅ²⁴	tsʰɿ⁵⁵	tʂʰʅ⁴⁵³	tsʰɿ⁵⁵	tsʰɿ²⁴	tsʰɿ³³
+328	93.0	leopard; panther	豹	bào	zi̠ᶫ	zɿ̠²¹pa̠²¹	a²¹zɿ⁵³	i²¹pu⁴²	zɿ³³	lo²¹pɑ̠²¹sɛ⁵⁵ɣɨ³³	lo²¹ɕi²⁴ma²¹məŋ⁵³	zɿ²¹pa⁵³
+329	114.0	dove; pigeon	鸽	gē	a²pɨ¹mu²	a̤²¹pʉ⁵⁵	a²¹pɨ²⁴	a²¹pə⁵⁵mə²¹	a²¹pɨ̃ŋ⁴⁵²	a²¹pɨ⁵⁵	dɛ²¹pɨ²⁴muɛ³³jo³¹	a²¹pv̩³³
+330	119.1	frog	青蛙	wā	ʔmu¹pa̠ᶫ	ə⁵⁵pa̠²¹	om²⁴pa⁵³	u⁵⁵pu⁴²	m̩⁴⁵³po³³	u⁵⁵pɑ̠²¹	o²⁴pʷoʲ⁴²jo³¹	a⁴⁴pɛ˞⁴⁴lɤ̪⁴²
+331	119.0	frog	青蛙	wā	ʔmu¹pa̠ᶫ	ə⁵⁵pa̠²¹	om²⁴pa⁵³	u⁵⁵pu⁴²	m̩⁴⁵³po³³	u⁵⁵pɑ̠²¹	o²⁴pʷoʲ⁵⁵jo³¹	a⁴⁴pɛ˞⁴⁴lɤ̪⁴²
+332	428.0	tea	茶 （茶水）	chá	la²	la̤²¹ɣɨ⁵⁵	la²¹pʰɛ⁵³	lɔ²¹ʝi²⁴	sɿ³³pʰɛi³³	la²¹pʰo²¹	la²¹	la²¹ɣɨ³³
+333	701.0	come up	上来	shànglái	de̠Hla¹	dɛ̠³³la⁵⁵	de⁴⁴la³³	dei³³a³³	dɛi³³la³⁴	dɛ³³lɛ⁵⁵	di²⁴a³³	di⁵⁵la³³
+334	700.0	come	来	lái	la¹	la⁵⁵,li⁵⁵	la²⁴	la²⁴	la²⁴	lɛ⁵⁵	la²⁴	la³³
+335	247.0	hand/arm	手·胳臂	shǒu	le̠ᶫ	lɛ̠²¹pʰɛ̠³³	la⁴⁴pʰe⁴⁴	lei⁴²pʰei³³	lɛi³³vv̩˞²¹	lɛ²¹pʰɛ³³	la̠²¹pʰe³³poʔ²¹	lei⁴⁴pʰei⁵³
+336	247.1	hand/arm	手·胳臂	shǒu	le̠ᶫpʰe̠H	lɛ̠²¹pʰɛ̠³³	la⁴⁴pʰe⁴⁴	lei⁴²pʰei³³		lɛ²¹pʰɛ³³	la̠²¹pʰe³³poʔ²¹	lei⁴⁴pʰei⁵³
+337	21.0	river (a)	河	hé	ɣi¹dzaŋ²				ɣɨ³⁵dʐa²¹	ɣɨ⁵⁵dza²¹	ɣɨ²⁴mo³³	ɣɨ⁵⁵xo³¹
+338	21.1	river (b)	河	hé	laŋ¹dzaŋ²			la²⁴dza²¹				
+339	21.2	river (c)	河	hé	tʰi¹ba²ɣi¹		tʰi⁵⁵ba²¹ɣɨ²⁴					
+340	910.0	LIGHT	轻	qīng	laŋ¹	lu⁴⁵	lu²⁴	la²⁴	la²⁴	la⁵⁵	la²⁴	lu³³
+341	7.0	wind	风	fēng	a¹mo²ʔxy¹	a⁵⁵n̩²¹ɕy⁵⁵	n̩²¹ɕi²⁴	mə²¹ɕi⁵⁵	a³⁵mv̩⁴¹hĩ²⁴	a⁵⁵mi²¹fi⁵⁵	a²⁴xi²⁴	mi²¹he³³
+342	499.0	bow	弓	gōng	ta̠ᶫnɛ³	ta²¹na³³	ta²¹nɛ²⁴	tɛ⁴²nɛ³³	tɛ˞³³nɛ˞³³	ta²¹na̠³³	tsa̠²¹na̠²²	tɛ˞⁵⁵no³³
+343	499.1	bow	弓	gōng	ta̠ᶫnɛ³	ta²¹na³³	ta²¹nɛ²⁴	tɛ⁴²nɛ³³	tɛ˞³³nɛ˞³³		tsa̠²¹na̠²¹	tɛ˞⁵⁵no³³
+344	704.0	go up	上去	shàngqù	de̠He¹	dɛ̠³³li³³	de⁴⁴ʝi³³	dei³³ji³³	dɛi³³ʝi³⁴		di³³lɛ³³	di⁵⁵li³³
+345	702.0	come down	下来	xiàlái	ze̠ᶫla¹	zɛ̠²¹ʐʅ³³	ze⁵⁵la³³	zei⁴²a³³	zɛi³³la³⁴	jɛ²¹lɛ⁵⁵	ji²¹a³³	zai⁵⁵la³³
+346	243.0	neck	脖子	bózi	li¹kaŋ²tsi³	ʐʅ⁵⁵tsɿ³³	lɛ²⁴tsɿ³³	li²⁴ku⁴²dzɿ³³	li²⁴ka³³tsɿ³³, li²⁴tɕi³³	lɨ⁵⁵bɨ⁵⁵	lɨʲ⁵⁵jo³¹	jĩ³³pu²¹
+347	895.0	enough	足够	zúgòu	lo̠ᶫ	lo̠²¹	lu⁵³	lu⁴²	lu̠³³	lo̠²¹	lu̠²¹	lo⁵⁵la²¹
+348	504.0	gong	铜锣	tóngluó				tʰɔ⁵⁵lɔ⁵⁵	tʰɛ˞⁴⁵lɛ˞⁵³	jaŋ⁵⁵	zaŋ⁵³	mɑŋ³³
+349	273.0	breast	乳房	rǔfáng	a¹tʃɨ̠Hbe̠H	a⁵⁵tʂʅ̠³³bɛ̠³³	i⁴⁴tʂʅ⁴⁴bɛ⁴⁴	a⁵⁵tsɿ³³bei³³	a⁵⁵tʂʅ³³bɛi³³	a⁵⁵tʃɿ³³	o²⁴tɕi³³ɕɛ²¹	a⁵⁵tsɿ⁵⁵bi⁴⁵³
+350	273.1	breast	乳房	rǔfáng	a¹tʃɨ̠Hbe̠H	a⁵⁵tʂʅ̠³³bɛ̠³³	i⁴⁴tʂʅ⁴⁴bɛ⁴⁴	a⁵⁵tsɿ³³bei³³	a⁴⁴tʂʅ⁴⁴bɛi⁴⁴		o²⁴tɕi³³ɕɛ²¹	a⁵⁵tsɿ⁵⁵bi⁴⁵³
+351	850.0	warm	暖和	nuǎnhuó	ly¹	ly⁵⁵	ly²⁴	lə²⁴	ly²⁴	lə⁵⁵	lə²⁴	lue³³mən²¹
+352	999.0	not (NEG)	不 (他不来)	bù	ma²	ma̤²¹	ma²¹	ma²¹	a²¹	ma²¹	ma²¹	m̩²¹
+353	960.0	that (lower)	那 (下位)				na⁴⁴ma³³	tɕy⁵⁵mɔ³³	na⁴⁵³ja³³	kʰɨ⁵⁵	gɛ³³mo²⁴	nə³³ja⁵³
+354		blessing	祝福	zhùfú				tʃɯ⁵⁵				
+355	832.0	old (person)	老 (老人)	lǎo	maŋ²	mṳ²¹	mu²¹	ma²¹	ma²¹	mɑ²¹	ma²¹	mu²¹
+356	330.0	doctor	医生	yīshēng		ji³³sən³³	ji³³səŋ³³	ju³³sɛ²⁴	no²⁴ĩ⁵⁵sɨ⁵³	no⁵⁵ku³³su⁵⁵	na³³tɕʰi²¹ɕi⁵⁵po̠ʔ²¹	na³³ko³³su³³
+357	857.0	delicious	好吃	hǎochī	me¹	mi⁵⁵	dza²¹me²⁴	dzɔ²¹mi²⁴	dzo²¹mɤ̪˞⁴⁵³	mi⁵⁵	mi²⁴la³³	dza²¹mi³³
+358	964.0	on the other side	对面				wu³³tɕy³³	tei²¹ku²¹bɔ²¹	tɛi³³ku³³	næ⁵⁵xɛ²¹	tʰi²¹bʲa⁵³	tai⁵⁵ku²¹lai²¹
+359	819.0	bright; light	亮 (房子很亮)	liàng	ba³	ba³³	ba³³	bɔ³³	liaŋ⁴⁵³	maŋ³³	bo³³	liaŋ⁵³
+360	388.0	room	房间	fángjiān	he¹kɛ³	hi⁵⁵ka³³	py²⁴ta³³kɛ⁴⁴	xei⁵⁵tsɿ²¹kɛ³³		xɛ⁵⁵na³³	xĩŋ²⁴ku³³nəŋ⁵³	pɛ˞⁵⁵ta³³
+361	298.0	pus	脓	nóng	bi¹	vi⁵⁵	dzɿ²⁴	bi²⁴	dzɿ²⁴	bi⁵⁵ɣɨ⁵⁵	bi²⁴ɣɨ²⁴	bi³³
+362	823.0	full	满	mǎn	bi³	vi³³	bi³³	bi³³	dzɿ³³	bɨ³³	bi³³, bi³³o³³	bi³³
+363	757.0	rot (fruit)	腐烂	fǔlàn	pʰɨ²	pʰʉ̤²¹	pʰɨ²¹	tsʰɿ²¹xa²¹		tsʰɿ²¹	tsʰɿ²¹	mai⁵³
+364	761.0	write	写	xiě	ʔvɛ̠H	ʔva̠³³	vɛ˞⁴⁴	vɛ³³	ɣɛ³³	boʔ³³	bu̠³³	vɛ˞⁵³
+365	862.0	rotten	腐烂的	fǔlàn	pʰɨ²	pʰʉ̤²¹	pʰɨ²¹	tsʰɿ²¹xa²¹	pʰɨ²¹	tsʰɿ²¹, tɕʰi²¹	tsʰɿ²¹ga⁵⁵ŋo³³	la⁵⁵xɛ⁵⁵ja³³
+366	983.0	now	现在	xiànzài	tʃu¹tʰa¹	tʂʅ⁵⁵pʉ⁵⁵	tʂʅ⁵⁵tʰa⁴⁴	tsɿ⁵⁵kə³³	tʂʅ³³ʂʅ²¹	a²¹mɛ³³sɛ⁵⁵	tsʰa³³mo³³	a⁵⁵tɕʰi³³
+367	879.0	lazy	懒	lǎn	ʃa²ma²dɛ̠ᶫ	ʂa̠²¹ma̠²¹dɛ̠²¹	ʂa²¹ma²¹dɛ⁵³	bɛ³³jɔ³³	mɤ̪˞²⁴ma²¹dɛi³³	ba⁵⁵	ba²⁴	bɛ˞³³za²¹
+368	591.0	chop (down)	砍 (砍树)	kǎn	kʰe̠H	kʰɛ̠³³	kʰai⁴⁴	kʰei³³,tsʰɿ⁵⁵	kʰai³³	da̠³³	da̠ʔ³³	kʰɛi⁵³
+369	217.0	fern	蕨草	juécǎo	da¹vaŋ²	da⁵⁵	da²⁴vv̩²¹	dɔ²⁴ɣə²¹, dɔ²⁴wu²¹		da⁵⁵wo²¹	do²⁴va²¹	da³³gɨ³³
+370	217.1	fern	蕨草	juécǎo	da¹vaŋ²		da²⁴vv̩²¹			da⁵⁵wo²¹	do²⁴va²¹	
+371	217.2	fern	蕨草	juécǎo	da¹kʰy¹				dy²⁴ly³³kue⁵⁵			da³³gɨ³³
+372	1001.0	each other	互相	hùxiāng			tʂɛ⁴⁴tʂʅ⁴⁴ma³³	dzɿ²⁴dzɿ²⁴da³³	ta²¹xo²¹	tɕʰi²¹gɨ⁵⁵	tʰi²¹bʲa⁵³	dzə³³dzə³³lai²¹
+373	524.0	drink	喝	hē	daŋ¹	du⁵⁵	du²⁴	da²⁴	da²⁴	da⁵⁵	da²⁴	da³³
+374	686.0	think	思考	xiǎng	di²	di̤²¹	di²¹ĩ⁴⁴	dzue²¹	di²¹	dɨ²¹	dɨ²¹ʔi²⁴	mɨ³³
+375	686.1	think	思考	xiǎng	ga²							ga²¹
+376	998.0	really; certainly	一定 (我一定去)	yīdìng		da⁵⁵ma̤²¹da⁵⁵	hã³³tsɛ³³	ŋa²⁴tsɿ⁵⁵	i²¹tĩ⁴⁵³	jɛ²¹tɛ²¹	ka⁵⁵tɛ̠²¹	da⁵⁵n̩²¹da³³
+377	218.0	yeast	酵母	jiàomǔ	dy²	dy²¹	dy²¹	də²¹	dy²¹pa³³	də²¹	dɨ²¹	də²¹
+378	386.0	post; pillar	柱子(大)	zhùzi		zɿ³³kʰə⁵⁵dzɿ³³	vɛ³³dzɿ²¹	tsə⁵⁵	zɿ²⁴mo³³	tɕi⁵⁵kʰu⁵⁵	ɕi³³kʰu²⁴	tso²¹zɿ³³
+379	363.0	sis' child (Mvpt)	外甥/外甥女	wàishēng	ʃa̠ᶫ	sa̠²¹		su⁴²dɤ̪²⁴				
+380	585.1	dig (a hole)	挖 (挖洞)	wā	ku²	kə̤²¹	kv̩²¹					
+381	585.0	dig (a hole)	挖 (挖洞)	wā	kɛ̠ᶫ		kɛ⁵³	kɛ⁴²	kɛ˞³³	ka̰ʔ²¹	ka̠ʔ²¹	kɛ˞⁵³
+382	619.0	wear (upper clothes)	穿(上衣)		vi̠ᶫ	jɛ̠²¹		vei⁴²	ʝiɛ̠ʔ³³, ʝi³³	vɛ̠²¹	vi̠ʔ²¹	vai⁵³
+383	356.1	wife	妻子	qīzi	mɛ²ʔny¹	ma̠²¹ʔny⁵⁵	mɑ²¹ny²⁴	tɕʰi²¹mɔ³³	mɛ˞²¹ny⁴⁵³		ni²⁴	mɛ˞²¹nə³³
+384	607.0	hunt; go hunting	打猎	dāliè	kaŋ²dzi²de²	ko²¹dʑi²¹dɛ²¹	ko²¹dʑi²¹dɛ²¹	ja³³ka⁴²dɛ²¹	ka²¹dʑi²¹bɛ˞³³	tʃʰɿ⁵⁵tʃu²¹	ɛ³³ka̠ʔ²¹bai²⁴	ga⁵³
+385	565.0	pull a	拉		xi³	tɕi³³		tɕɛ³³	ɕi³³			
+386	565.1	pull b	拉	lā	gaŋ¹	wo⁵⁵	ɣo²⁴		ga²⁴	ga⁵⁵	ga²⁴	gu³³
+387	836.0	fast	快 (走得快)	kuài	ʔmjy̠H	tsʰa̤²¹	my⁴⁴	ji²⁴dʑə²¹		mɛ̠³³	pʰai⁵³	məŋ⁵³
+388	656.0	play	玩	wánshuǎ	ga³	ɦa³³	ɣa³³	ka³³ɔ³³	pi⁴⁵³gu³³	go³³	go³³	gei²¹ke³³
+389	418.0	mat	(垫)席	(diàn)xí	gɨ¹pʰu²	gɨ⁵⁵fv̩²¹	gɨ²⁴fv̩²¹	gə²⁴fɤ̪̠̪⁴²	bo²⁴fv̩˞²¹	sa³³fu²¹	kʰa³³ta̠ʔ²¹za³³	pɛ˞³³fv̩²¹
+390	418.1	mat	(垫)席	(diàn)xí	gɨ¹pʰu²	gɨ⁵⁵fv̩²¹	gɨ²⁴fv̩²¹	gə²⁴fɤ̪̠̪⁴²	bo²⁴fv̩˞²¹		kʰa³³ta̠ʔ²¹za³³	pɛ˞³³fv̩²¹
+391	997.0	again	再 (明天再来)	zài		tse⁴⁵	tse¹³	tsei²⁴	tsai⁴⁴	kɛ⁵⁵	to²⁴	da²¹
+392	417.1	pillow	枕头	zhěntóu	nu²ka̠ᶫdu¹	ŋ̩²¹ka̠²¹də⁵⁵	ŋ̩²¹ka⁵⁵dv̩³³	zɿ²¹ka²¹dɤ̪²⁴	ŋ̩²¹ka³³dv˞̩²⁴	i²¹kʰa²¹du⁵⁵	na³³kʰa̠²¹du³³mu²⁴	m̩²¹ka⁵⁵dɤ̪³³
+393	417.0	pillow	枕头	zhěntóu	nu²ka̠ᶫdu¹	ŋ̩²¹ka̠²¹də⁵⁵	ŋ̩²¹ka⁵⁵dv̩³³	zɿ²¹ka²¹dɤ̪²⁴	ŋ̩²¹ka³³dv˞̩²⁴	i²¹kʰa²¹du⁵⁵	na³³kʰa̠²¹du³³mu²⁴	m̩²¹ka⁵⁵dɤ̪³³
+394	594.1	stab	刺	cì	tʰe̠ᶫ		tʰe⁵³			tɛ²¹		
+395	594.0	stab	刺	cì	dʒe̠ᶫ			dzɿ⁴²			dʑi̠²¹	
+396	594.1	stab	刺	cì	gu̠ᶫ	gə̠²¹	gv̩⁵³		gɤ̪˞³³	gɨ³³		
+397	583.0	labor; work	劳动	láodòng	mja²ni²ʔmu¹	lo̠²¹mʉ⁵⁵	ma²¹ni²¹mv̩⁴⁴	mei²¹li²¹mɤ̪⁵⁵	ma²¹ɲi²¹mɤ̪⁴⁵³	lo²¹mu⁵⁵	mɨ³³dʑɛ²¹	ma²¹ni²¹m̩⁴⁴
+398	658.0	sing	唱（歌）	chànggē	ga³	ɕɛ⁵⁵	mu⁴⁴, ɣa³³	gɔ³³kʰei³³	go³³	go³³mu⁵⁵	gi²¹	ga³³
+399	356.0	wife	妻子	qīzi	mɛ²ʔny¹	ma̠²¹ʔny⁵⁵	mɑ²¹ny²⁴	tɕʰi²¹mɔ³³	mɛ˞²¹ny⁴⁵³	n̩²¹nə⁵⁵	ni²⁴	mɛ˞²¹nə³³
+400	111.0	sparrow	麻雀	máquè	dʒa¹mu²	dʑɛ⁵⁵n̩²¹	dʐa˞²⁴mv̩²¹	dza²⁴ma²¹	kʰɨ²¹dʐa²⁴mɨ˞̩²¹	a³³ŋa³³dʒo⁵⁵ka³³la²¹	dzoŋ²⁴ka⁵⁵jo³¹	mi³³kə³³tɛ˞⁵³
+401	111.1	sparrow	麻雀	máquè	dʒa¹mu²	dʑɛ⁵⁵n̩²¹	dʐa˞²⁴mv̩²¹	dza²⁴ma²¹	kʰɨ²¹dʐa²⁴mɨ˞̩²¹	a³³ŋa³³dʒo⁵⁵ka³³la²¹	dzoŋ²⁴ka⁵⁵jo³¹	mi³³kə³³tɛ˞⁵³
+402	196.0	root	根	gēn	kji³	tɕi³³	tɕi³³	ja³³tɕi³³	sɿ³⁵³tɕi³³	jɛ²¹kɛ³³	ɛ²¹kiŋ³³	kən³³tɕi³³
+403	297.0	urine	尿	niàoshuǐ	zi²	zɿ²¹	zɿ²¹	zɿ²¹	zɿ³³	n̩²¹ɕi⁵⁵	tɕi²⁴xə²¹ɣɨ²⁴	zɿ²¹
+404	696.0	walk	走	zǒu	sy²	sy̤²¹	ɕy²¹	gɛ²¹	gɛ˞²¹	jɛ³³	xa²⁴	
+405	510.0	bell	铃	líng		tɕi⁵⁵sɛ⁵⁵nə⁵⁵	pi⁴⁴tʂu⁴⁴	wɛ⁵⁵lɛ⁵⁵	ʂɛ˞⁴⁵nɛ˞⁵³	xɛŋ⁵⁵	a²⁴tsu³³lu³³	xə³³lə³³lə³³
+406	776.0	stir	搅拌	jiǎobàn	gɛ̠H	ga̠³³	gɛ⁴⁴	ɣɛ³³	gɛ˞³³	ɣa³³	ga̠³³	
+407	776.1	stir	搅拌	jiǎobàn	baŋ²							ba²¹
+408	794.0	scratch	挠/搔	náo/sāo	ku²			kɤ̪²¹				
+409	794.1	scratch	挠/搔	náo/sāo	kje̠H	tɕɛ̠³³	tɕi⁴⁴		tɕiɛ̠³³	kɛ³³	kʰi³³	
+410	797.0	butt	(用头)碰撞	pèngzhuàng	tʰu³	tʰu³³	tʰv̩³³	tuɛ³³dzɿ²⁴	kʰao³³hĩ³³	tɛ²¹	tʰɨ⁵⁵xɛ³³	naŋ⁵⁵a³³, gɨ⁵⁵
+411	613.0	mill (grinding)	磨 (磨米)	mò	gaŋ³	wu³³	wu³³	ga²⁴				gu³³
+412	355.0	husband	丈夫	zhàngfū	dʒɛ¹	ŋ̩²¹dʑɛ⁴⁵	n̩²¹dʐɛ²⁴	n̩²¹sɿ⁵⁵pʰɔ²¹	n̩³⁵dʐɛ˞³⁴	n̩²¹dʑɛ⁵⁵	ŋ̩²¹dʑɛ²⁴	m̩²¹dzɛ³³
+413	528.0	lick	舔	tiǎn	lɛ̠ᶫ	la̠²¹	lɛ⁵³	lɛ⁴²	lɛ˞³³	la̠²¹	la̠ʔ²¹	liɛ˞⁵³
+414	6.0	cloud	云	yún	a¹mo²ti¹	a⁵⁵n̩²¹ti⁵⁵	ti²⁴	ti⁵⁵tɕʰi³³	di⁵⁵dɛ˞³³	mi⁵⁵kɨ²¹	mə²⁴	mi⁵⁵kʰɔ̪³¹
+415	1.0	sky-1	天 (天空)	tiān	mo²di²ma³	n̩²¹di²¹ma³³	n̩²¹dɛ²¹	mə²¹		i⁵⁵sɛ⁵⁵mo³³	a³³mi²⁴mo³³	ŋ̩²¹kɤ̪²¹
+416	1.1	sky-2a	天 (天空)	tiān	mo²di²ma³	n̩²¹di²¹ma³³	n̩²¹dɛ²¹	mə²¹		i⁵⁵sɛ⁵⁵mo³³	a³³mi²⁴mo³³	ŋ̩²¹kɤ̪²¹
+417	1.2	sky-2b	天 (天空)	tiān	mo²daŋ¹				n̩²¹da²¹mo³³			
+418	2.0	sun-2	太阳	tàiyáng	a¹mo²ɣi¹	a⁵⁵ŋ̪²¹ɣ̩ɨ⁵⁵ma³³	n̩²¹tsʰa²⁴	a⁵⁵mə²¹ji²⁴mɔ³³	a³⁵mv̩⁴¹hĩ⁴⁴mo³³	a⁵⁵mi⁵⁵	a³³mi²⁴	a⁵⁵m̩²¹tsʰa³³
+419	2.1	sun-3	太阳	tàiyáng	a¹mo²ɣi¹	a⁵⁵ŋ̪²¹ɣ̩ɨ⁵⁵ma³³	n̩²¹tsʰa²⁴	a⁵⁵mə²¹ji²⁴mɔ³³			a³³mi²⁴	a⁵⁵m̩²¹tsʰa³³
+420	993.0	quickly	快快 (快快走)	kuàikuài	ʔmjy̠H	xa⁵⁵tsʰa²¹kʰɛ⁵⁵	my⁴⁴my⁴⁴	la²⁴pɛ³³	gɨ³³ɕi²¹	mɛ⁵⁵mɛ⁵⁵	pʰai⁵⁵la⁵³	tiɛ˞³³məŋ⁵³
+421	76.0	horse	马	mǎ	a¹mju²	tʃa̠ŋ²¹	a⁴⁴mu²¹	mɤ̪²¹	a³⁵mɤ̪˞̪²¹	a⁵⁵mu²¹	a²⁴mə²¹	a⁵⁵mu²¹
+422	517.0	see	看见	kànjiàn	mjaŋ¹	mu⁵⁵	mu²⁴	mia²⁴	ma²⁴	i⁵⁵ma⁵⁵	i²⁴ma²⁴	va⁵⁵m̩³³
+423	122.0	snake	蛇	shé	la¹ʃɛ¹	la⁵⁵ɕɛ⁵⁵	la²⁴ʂɛ⁴⁴	sɛ⁵⁵	lo³³ʂɛ˞⁴⁴	lo³³ɕɛ⁵⁵	lu³³ɕɛ²⁴	la³³sɛ˞³³
+424	122.1	snake	蛇	shé	la¹ʃɛ¹	la⁵⁵ɕɛ⁵⁵	la²⁴ʂɛ⁴⁴	sɛ⁵⁵	lo³³ʂɛ˞⁴⁴	lo³³ɕɛ⁵⁵	lu³³ɕɛ²⁴	la³³sɛ˞³³
+425	672.0	hit; beat	打 (打人)	dārén	dɛ²	dɛ̤²¹	dɛ˞²¹	dɛ²¹	dɛ˞²¹	dɛ²¹	dɛ²¹	dai²¹
+426	335.0	widow	寡妇	guǎfù	mɛ²tʃʰu²ma³	lɛ̠³³ma³³	za²¹tʂʰʅ²¹ma³³	mɛ²¹tsʰɿ²¹mɔ³³	mɛ˞²¹tʂʰʅ²¹	mɛ²¹tʃʰu²¹mo³³	mɛ³³tsʰɿ²¹mo³³	mɛ˞²¹tsʰɿ²¹ma³³
+427	530.0	swallow	咽	yān	gjo¹	ɦø⁵⁵				gɨ⁵⁵	gə²⁴tɕi³³li³³	gɨ³³
+428	530.1	swallow	咽	yān	naŋ³		nv̩³³	na³³	naŋ³³			
+429	95.0	monkey	猴子	hóuzi	mjo̠ᶫ	a⁵⁵mo̠²¹	a³³mu⁵³	a⁵⁵miu⁴²	a³³mv̩³³zo²¹	a⁵⁵mu̠²¹	a²⁴mu̠³¹	a³³mo⁵³
+430	597.0	raise animals	饲养	sìyǎng	hu¹	hə⁵⁵	ʂu³³	fɤ̪⁵⁵kɛ³³	ʂu⁵⁵	xu⁵⁵	fv̩²⁴ta³³	su³³
+431	13.1	water (b)	水	shuǐ	gje̠H					ŋ̩³³gɛ̠³³	ŋ²⁴ɡi³³	
+432	545.0	grasp; grip	握(握刀把)	wò		tsa³³tɕɛ²¹	ti⁴⁴	tsu³³tsɛ²¹	ti̠⁴⁴	sɿ²¹	nɛ̠ʔ²¹	vv̩³³
+433	947.0	2S	你	nǐ	ni¹	ŋ̩⁵⁵	ĩ⁵³	ni⁵⁵	ɲi⁴⁵³	ni⁵⁵	ni²⁴	ni³³
+434	948.0	2PL	你们	nǐmén	ɲa²		n̩⁴⁴tsa³³				ni⁵⁵so³³	ɲa²¹
+435	948.1	2PL	你们	nǐmén	ni¹tsa³	n̩³³tsa³³	n̩⁴⁴tsa³³	ni³³tsɔ³³		ni⁵⁵xɨ³³	ni⁵⁵so³³	
+436	903.0	FEW	少	shǎo	ne²	ʔni̤²¹	hẽ⁴⁴ma²¹tʂʰʅ²¹	nei²¹	nɛi²¹	nɛ²¹	saŋ⁵⁵la²¹	ai²¹
+437	833.2	young	年轻	niánqīng	tʰy²nu²/¹	tʰy²¹nə̤²¹		kʰu²¹tɕi²¹ja⁵⁵		nu⁵⁵		
+438	833.0	young	年轻	niánqīng	le̠ᶫ	lɛ̠²¹	lɛʔ⁵³					
+439	833.1	young	年轻	niánqīng	tʰy²ɲa¹				tʰy²¹ɲa⁴⁵³			tʰə²¹ɲo³³
+440	833.1	young	年轻	niánqīng	tʰy²nu²/¹	tʰy²¹nə̤²¹		kʰu²¹tɕi²¹ja⁵⁵				
+441	310.1	Autonym	(自称)	(zìchéng)	la²lo̠Hpa̠ᶫ	la̠²¹ʔlo̠³³pa̠²¹	la²¹lu³³pa⁵³	la⁴²lu³³pu⁴²	la²¹lu⁴⁴	lo²¹lo³³pɑ̠²¹	o²¹kʰa²⁴	la²¹lu⁴⁵³
+442	310.0	Autonym	(自称)	(zìchéng)	la²lo̠Hpa̠ᶫ	la̠²¹ʔlo̠³³pa̠²¹	la²¹lu³³pa⁵³	la⁴²lu³³pu⁴²	la²¹lu³³		o²¹kʰa²⁴	la²¹lu⁴⁵³
+443	86.0	cat	猫	māo	a¹ne¹	a̤²¹ni⁵⁵	a²¹ni⁴⁴		a²¹ɲi²⁴		kʰi³³nɛ²⁴	a²¹ni³³
+444	86.1	cat	猫	māo	a¹mi¹			a²¹mi²⁴tsɿ⁵⁵		a²¹mia⁵⁵		
+445	946.0	1PL (inclusive)	咱们	zánmén	a²va²	a̤²¹va²¹				ə²¹	o⁵⁵so³³	
+446	266.0	heel	脚后跟	zhǒng			kʰɨ⁴⁴tɛʔ²¹	ɣə²¹bə³³ni⁵⁵	kʰɨ⁴⁵³ai³³tsɿ³³	kʰi⁵⁵bi²¹ni³³	bɨi⁵³ɕi²¹ti²¹	kɛ˞³³wv̩²¹hou²¹kən³³
+447	284.0	heart	心	xīn	ʔni̠Hma³	ʔɲɛ̠³³ma³³	ni⁴⁴ma³³	ni³³mɔ³³	ĩ⁴⁵³mo³³	mo³³sɛ²¹	ni̠³³mo³³cɛ²¹	i⁵⁵ma³³
+448	73.0	cow	牛	niú	a¹ni²	a⁵⁵ŋ̩²¹	an⁵¹	nɛ²¹	a³⁵ɲi²¹	a⁵⁵ni²¹	a²⁴ni²¹	a⁴⁵ni⁵¹
+449	73.1	cow	牛	niú	a¹ni²	a⁵⁵ŋ̩²¹	an⁵¹	nɛ²¹	a³⁵ɲi²¹	a⁵⁵ni²¹	a²⁴ni²¹	a⁴⁵ni⁵¹
+450	907.0	LITTLE	小	xiǎo	ɲa¹				ɲa⁴⁵³			ɲo³³
+451	907.1	LITTLE	小	xiǎo	ʒaŋ¹	u⁵⁵	u⁴⁴	ja⁵⁵		ja⁵⁵	za²⁴	
+452	121.0	fish	鱼	yú	ʔŋa²	a̤ŋ²¹	ãŋ²¹	ɔ²¹	õ²¹	õm²¹pa⁵⁵	oŋ²¹pʰv̩²⁴	aŋ²¹
+453	927.0	five	五	wǔ	ŋa²	ŋa̤²¹	ŋa²¹	ŋɔ²¹	ŋo²¹	ŋo²¹	ŋo²¹	ŋa²¹
+454	680.0	cry	哭	kū	ŋo¹	ŋə⁵⁵	ŋv̩²⁴	ŋə²⁴	mɤ̪˞²⁴	ŋɨ⁵⁵	ŋɨ²⁴	ŋo³³
+455	383.0	tile (ceramic)	瓦片		ŋwɛ²pʰe²	vɛ̤²¹	vɛ²¹	ŋɛ²¹	ɛi²¹tsʰɿ²¹pɛ˞³³	bəm²⁴pʰɛ²¹	bəŋ²¹	
+456	74.0	buffalo (water)	水牛	shuǐniú	ɣo¹ni²	v̩⁵⁵ŋ̩̩²¹	vɨn⁵¹		vv̩³⁵ɲi²¹		xɨ²⁴ni²¹	ve⁴⁵ni⁴²
+457	74.1	buffalo (water)	水牛	shuǐniú	ɣo¹ni²	v̩⁵⁵ŋ̩̩²¹	vɨn⁵¹	ɣə²⁴nɛ²¹	vv̩³⁵ɲi²¹	ɣɨ⁵⁵ni²¹	xɨ²⁴ni²¹	ve⁴⁵ni⁴²
+458	791.0	fart	放屁	pàngpì	bjo²tsʰɿ²bjo²	zɿ²¹tsʰɿ²¹zɿ²¹	zɿ²¹tsʰɿ²¹zɿ²¹	tɕʰi²¹bi²¹	zɿ²¹tsʰɿ²¹zɿ²¹	vi²¹tə²¹	bɨ²¹xɨ̠³³	zɿ²¹tsʰɿ²¹zɿ²¹
+459	245.0	shoulder	肩膀	jiānbǎng	pʰa¹kʰɛ²dzɿ³	pʰa⁵⁵kʰɛ̤²¹ŋ²¹dzɿ³³	pʰæ⁵⁵kʰɛ³³dzɿ³³	pʰiɛ⁵⁵kɛ²¹dzɿ³³	pʰɛ˞⁴⁵kʰɛ˞³³dzɿ³³	lu⁵⁵pʰu²¹dʒu³³	lu²⁴pʰaʔ²¹dzu³³	m̩²¹pʰə²¹
+460	413.0	cloth (fabric)	布	bù	ʔmɛ¹	ʔmɛ⁵⁵	mɛ²⁴	pʰiɔ²¹	mɛ˞⁴⁵³	mɛ⁵⁵	mɛ²⁴	pʰiao²¹
+461	970.0	side	边		ba²dzi¹	beʲ̤²¹	dze²⁴	pʰia²¹		dʒə⁵⁵	ɛ³³kʰɛ²¹	piɛ³³piɛ³³lai²¹
+462	49.0	day after tomorrow	后天	hòutiān	tsʰa¹pʰe̠Hʔni³	tsʰa⁵⁵pʰɛm³³	tsʰa⁴⁴pʰɛ⁴⁴	tsʰa⁵⁵pe³³nɛ³³	tsʰa⁵⁵pʰi³³ɲi³³	tsa⁵⁵pʰin³³	tsa³³pʰɛ³³ni²⁴	tsʰa⁵⁵pe⁵⁵ni³³
+463	49.1	day after tomorrow	后天	hòutiān	tsʰa¹pʰe̠Hʔni³	tsʰa⁵⁵pʰɛm³³	tsʰa⁴⁴pʰɛ⁴⁴	tsʰa⁵⁵pe³³nɛ³³	tsʰa⁵⁵pʰi³³ɲi³³	tsa⁵⁵pʰin³³	tsa³³pʰɛ³³ni²⁴	tsʰa⁵⁵pe⁵⁵ni³³
+464	714.0	flee; escape  	逃	táo	kʰu²gjɛ²	kʰə̤²¹	kᶠʰu²¹gɛ²¹	tʰɛ⁵⁵	kᶠʰɤ̪˞²¹pɛ˞³³	kʰɨ²¹gɛ²¹	kʰɨ³³gu²¹	pɛ˞⁵⁵gɛ˞²¹
+465	639.0	tie; bind	系	jì	pʰɛ³	pʰɛ³³	pʰɛ˞⁴⁴	pʰɛ³³	su̠⁴⁴	tʰɨ²¹		pʰɛ˞³³
+466	804.0	grey	灰色	huīsè	pʰɛ¹	pʰɛ⁵⁵	pʰɛ²⁴	pʰɛ⁵⁵	pʰɛ˞⁴⁵³	pʰa⁵⁵	ɛ²¹pʰɛ²⁴	pʰɛ˞³³
+467	174.0	melon	瓜	guǎ	pʰy²	a⁵⁵pʰy̥²¹	a⁵⁵pʰy²¹	tɕi⁵⁵kua⁵⁵	a⁵⁵pʰy²¹	pʰən²¹	pʰəŋ²¹	kua³³
+468		pumpkin; squash	南瓜	nánguǎ		a⁵⁵pʰɨ̥²¹ɕɛ⁵⁵						
+469	855.0	hot (spicy)	辣	là	pʰe¹	pʰi⁵⁵		pʰei⁵⁵		pʰi⁵⁵, pʰe⁵⁵	pʰi²⁴	
+470	855.1	hot (spicy)	辣	là	dzi̠H		dzɿ⁴⁴		dzɿ⁴⁴			dzɿ⁵³
+471	50.0	three days from now	大后天	dàhòutiān	a²pʰe̠Hʔni³	a̤²¹pʰɛm³³	a²¹pʰe⁴⁴	a²¹pʰe³³nɛ³³	a²¹pʰi³³ɲi³³	a²¹pʰin³³	xa²¹pʰɛ²¹ni²⁴	a²¹pʰe⁵⁵ni³³
+472	798.0	white	白	bái	pʰu¹	fv̩⁵⁵	fv̩²⁴	fɤ̪⁵⁵	pᶠʰɤ̪˞⁴⁵³	pʰu⁵⁵	pʰv̩²⁴	pʰv̩³³
+473	798.1	white	白	bái	ʔve̠H	ʔvɛ̠³³	vɛ⁴⁴					
+474	32.0	silver	银	yín(zi)	pʰu¹	fv̩⁵⁵	fv̩²⁴	fɤ̪⁵⁵	pʰᶠv˞̩⁴⁵³	pʰu⁵⁵	na²⁴dʑi²¹	tsai³¹pʰu³³
+475	105.0	rooster	公鸡	gōngjī	a¹ɣe̠Hpʰo¹pa̠ᶫ	a⁵⁵jɛ̠³³fi⁵⁵pa̠²¹	a⁴⁴ʝi⁴⁴tsʰɿ²²pa⁵³	i³³pʰə⁵⁵	a⁴⁴ʝi̠⁴⁴tsʰɿ⁵⁵po³³mo³³	a⁵⁵ji̠³³pʰi⁵⁵	a²⁴ji̠³³pʰɨ⁵⁵ta⁵⁵ko²¹	a⁴⁴ji⁴⁴pa⁶³
+476	481.0	price	价钱 (价格)	jiàqián/gé	pʰo²	fi²¹	tsʰɿ²¹	pʰə²¹	ja³³tsʰɿ²¹	jɛ²¹pʰi²¹	ɛ³³pʰɨ²¹	pʰu²¹
+477	640.0	untie	解 (解绳结)	jiě(shéngjié)	pʰɨ¹	pʰʉ⁵⁵	pʰɨ²⁴	pʰə⁵⁵	pʰɨŋ⁴⁵³	pʰɨ⁵⁵	pʰɨ²⁴	pʰu³³
+478	697.0	run	跑	pǎo	gjɛ²	gɨ̤²¹	gɛ²¹	tsə³³		gɛ²¹	gu²¹	gɛ˞²¹
+479	697.1	run	跑	pǎo	pɛ¹				pɛ˞³³			pɛ˞⁵³
+480	127.0	ant	蚂蚁	māyi	bo²ʒo̠H					bi²¹ɕi⁵⁵	bɨ²¹jo⁵³	bi²¹jao⁵³
+481	127.1	ant	蚂蚁	māyi	a²ʒo̠H		a³³ʐuʔ⁴⁴	a³³ju³³	a²¹ʐu³³			
+482	127.2	ant	蚂蚁	māyi	a²ʒu²	a̤²¹ʐṳ²¹						
+483	727.0	roast (in fire)	烧(火里)	shāokǎo		kʰə⁵⁵, ba⁵⁵	kᶠʰv̩²⁴	kʰɤ̪⁵⁵		kʰu⁵⁵	kʰv̩̩²⁴	kʰo³³
+484	632.0	open	开 (开门)	kāi	pʰu³	fv̩³³	fv̩³³	vɤ̪²⁴kʰei⁵⁵	pʰᶠɤ̪˞³⁴	pʰu³³	pʰv̩³³	pʰu³³
+485	212.0	chaff	谷壳	gǔké	ha¹kjo²	ha⁵⁵kø̤²¹	pʰɛ²¹	dzɔ²⁴kʰɔ⁵⁵kə²¹			ɛ³³vɛ̠ʔ²¹	
+486	211.0	rice hulls	稻壳	dàoké	tʃʰe¹pʰɛ²	tɕʰi⁵⁵pʰɛ̤²¹	tɕʰi⁴⁴pʰɛ²¹	tɕʰi⁵⁵pʰɛ²¹	tɕʰi³⁵²pʰɛ˞²¹	tɕi⁵⁵pʰæ²¹	tɕi²⁴pʰɛ²¹, dzo²⁴kɨ²¹	tɕʰi⁵⁵pʰɛ˞⁴¹
+487		table	桌子	zhuōzi		tʂʷo⁵⁵tsɿ³³						
+488	768.0	destroy	破坏	pòhuài	pʰe̠H	pi⁵⁵pʰɛ̠³³	hõ²¹	vɤ̪²⁴xa²¹	lɛ˞²⁴pi⁴⁴	na²¹to²¹pɛ⁵⁵	na²¹tsa̠³³	
+489	835.0	bad	坏 (人坏)	huài	pʰe̠H	pʰɛ̠³³	pʰɛ⁴⁴	ma²¹tue⁴²	hue⁴⁵³	mɑ²¹nɑ⁵⁵	luŋ²⁴	
+490	381.0	wall	墙壁	qiángbī	lu¹di³	lu⁵⁵di³³	lu²⁴di³³	lu²⁴ti³³bɔ⁴²	tɕʰiaŋ²¹bo²¹	lu⁵⁵liŋ³³tɛ²¹	saŋ²¹	tɕʰiaŋ²⁴
+491	226.0	face	脸	liǎn	pʰjaŋ²ʔmje̠H	pʰu̥²¹ʔmɛ̠³³	pʰu²¹me⁴⁴	pʰa²¹mei³³tɕʰi⁵⁵	pʰa²¹mɛi³³	pʰɛ²¹mɛ³³	pʰa̠ʔ²¹ni³³	ba²¹wv̩²¹, pʰa²¹mi⁵⁵
+492	226.1	face	脸	liǎn	pʰjaŋ²ʔmje̠H	pʰu̥²¹ʔmɛ̠³³	pʰu²¹me⁴⁴	pʰa²¹mei³³tɕʰi⁵⁵	pʰa²¹mɛi³³	pʰɛ²¹mɛ³³	pʰa̠ʔ²¹ni³³	ba²¹wv̩²¹, pʰa²¹mi⁵⁵
+493	306.0	strength	力气	lìqì	ɣa²	va̤²¹	ɣa²¹	ɣʷɔ²¹sei⁴²	ɣo²¹ɲi⁴⁵³	vo²¹	vo²¹	
+494	651.0	get; obtain;	得 (得到)	dé	ɣa³	va³³	ɣa³³	ɣɔ³³	wu³³	vo³³		
+495	651.1	get; obtain;	得 (得到)	dé	mɛ³					mɛ³³	mɛo³³	mai⁵⁵ŋa³³
+496	628.0	weave	编织	biānzhī	dzɛ̠ᶫ	pi⁵⁵	tseʔ⁵³	pi²⁴	pi⁴⁵³	dʒa̠²¹	dza̠²¹	
+497	679.0	laugh	笑	xiào	ɣɛ¹	gə⁵⁵	ɣɛ˞²⁴	ɣɛ²⁴	ɣɛ˞²⁴	jɛ⁵⁵	ʝɛ²⁴	ɣɛ˞³³
+498	275.0	skin	皮肤	pífū	gi¹ko̠H	gɨ⁵⁵	xa²¹sɛ²¹, gɨ²⁴	xɔ²¹sei⁴²	xo²¹gɨ²⁴kv̩³³	jɛ²¹gi⁵⁵	ɛ²¹gi²⁴	xa²¹sai⁵³
+499	492.0	deity	神	shén	ɣi¹sa¹	ɲi̤²¹	nɛ²¹		nɛi²¹	nɛ²¹	ɣɨ²⁴so²⁴	
+500	493.0	God	上帝	shàngdì	ɣi¹sa¹	n̩²¹ɕi⁵⁵	n̩²¹dɛ²¹ɣɨ²⁴sa³⁴			i⁵⁵sɛ³³mo³³tso³³	ɣɨ²⁴so²⁴	ɣɨ³³sɛ˞³³
+501	493.1	God	上帝	shàngdì	ɣi¹sa¹	n̩²¹ɕi⁵⁵	n̩²¹dɛ²¹ɣɨ²⁴sa³⁴			i⁵⁵sɛ³³mo³³tso³³	ɣɨ²⁴so²⁴	ɣɨ³³sɛ˞³³
+502	13.0	water (a)	水	shuǐ	ɣi¹	ɣɨ⁵⁵	ɣɨ²⁴	ji²⁴	ɣɨ²⁴	ɣɨ⁵⁵		ɣɨ³³
+503	592.0	cut (reap)	割 (割稻)	gē	ɣi̠ᶫ	ɣɨ̠²¹	ɣɨʔ⁵³	ʝi⁴²	ɣɨʔ³³	ɣɨʔ²¹	tɕʰɛ²¹	ɣɨ⁵³
+504	875.0	crazy	疯狂	yúchǔn	tʰɛ³	tʰɛ³³,fɛ²¹	tʰˣɛ³³	tʰɛ³³	tʰɛ˞³³	tʰɛ³³	voŋ²⁴la⁵⁵ko³³	tʰɛ˞³³
+505	392.0	dry field	田 (旱田)	hàntián	mi¹bɛ¹	mi⁴⁵	mɛ²⁴ba³³	xɔ⁵⁵da³³mi²⁴	m̩³⁵bɛ˞³³	kʰu⁵⁵dza²¹dɛ⁵⁵	mi²⁴kʰa²¹	m̩³³bɛ˞³³
+506	392.1	dry field	田 (旱田)	hàntián	mi¹bɛ¹	mi⁴⁵	mɛ²⁴ba³³	mi²⁴bɛ²⁴	m̩³⁵bɛ˞³³		mi²⁴kʰa²¹	m̩³³bɛ˞³³
+507	8.0	rain	雨	yǔ	a¹mo²ha¹	a⁵⁵ŋ̩²¹ha⁵⁵	a⁵⁵mu²¹hã³³	a⁵⁵mə²¹xɔ⁵⁵	a³⁵mv̩⁴¹hõ²⁴	a⁵⁵mi²¹xo⁵⁵	a²⁴xo²⁴	a⁵⁵m̩²¹ha³³
+508	900.0	LONG (distance)	长	cháng	ʃi¹	ʂʅ⁵⁵	ʂʅ²⁴	sɿ⁵⁵	ʂʅ⁴⁵³	ɕi⁵⁵	sɿ²⁴	sɿ³³
+509	96.0	otter	水獭	shuǐtǎ	ʃy¹		ɣɨ²⁴a²¹ni²⁴	sue²¹tʰa³³mo⁵⁵	ɕy²¹tʰa³³mao³²	boŋ²⁴	ŋ̩²⁴gi³³a²⁴ŋa³³	suei³³tʰa³³mao³³
+510	846.0	easy	容易	róngyì	lɛ¹	lɛ⁴⁵	lɛ²⁴	lɛ²⁴	pi⁴⁴lɛ˞²⁴	lɛ⁵⁵		lɛ˞³³
+511	846.1	easy	容易	róngyì	sa¹							
+512	167.0	corn	玉米	yùmǐ	ʃa¹mɨ²	ʂa⁵⁵mʉ̤²¹,ʂam⁵¹	ʂʅ⁴⁴mɨ²¹	u⁵⁵mɛ⁵⁵	ʂu⁴⁵mu³³	sə⁵⁵nə⁵⁵	ka³³sa²¹	tɕi⁵⁵mɨ³³
+513	167.1	corn	玉米	yùmǐ	ʃa¹mɨ²	ʂa⁵⁵mʉ̤²¹,ʂam⁵¹	ʂʅ⁴⁴mɨ²¹	u⁵⁵mɛ⁵⁵	ʂu⁴⁵mu³³		ka³³sa²¹	tɕi⁵⁵mɨ³³
+514	65.0	morning (early)	早晨	zǎochén	da²ne̠ᶫ	a⁵⁵n̩²¹tʰi̥²¹si⁵⁵i²¹sy⁵⁵ny⁵⁵si⁵⁵	da²¹nɛʔ⁵⁵	nei⁴²nei⁴²xə⁵⁵	ba²⁴dzo²¹lɛi²¹	xɨ³³pɨ⁵⁵	ni²¹ɕɛ²⁴tʰi³³ni²¹	pa³³tsu²¹
+515	65.1	morning (early)	早晨	zǎochén	da²ne̠ᶫ	a⁵⁵n̩²¹tʰi̥²¹si⁵⁵i²¹sy⁵⁵ny⁵⁵si⁵⁵	da²¹nɛʔ⁵⁵	nei⁴²nei⁴²xə⁵⁵	ba²⁴dzo²¹lɛi²¹		ni²¹ɕɛ²⁴tʰi³³ni²¹	pa³³tsu²¹
+516	37.0	sand	沙	shǎ	ʃa³	ʂa³³tsɿ³³	lu⁴⁴tsʰɿ⁴⁴mu³³	sɔ³³tsɿ³³	ɣɛ˞̠³³ʂa³³	a⁵⁵lu³³sei³³	sa⁵⁵i²¹ɕɛ²¹, sa⁵⁵ɕɛ²¹	ɕa³³
+517	523.0	feed animals	喂 (喂鸡)	wèi	tʃa̠ᶫ	tʂa̠²¹	tʂa⁵³	tsu⁴²	tʂo³³	tsɑ²¹		tsa⁵³
+518	523.1	feed animals	喂 (喂鸡)	wèi	taŋ³	tu³³				ta³³	tai³³	
+519	611.0	die	死	sǐ	xɨ¹	xɨ⁵⁵	xɨ²⁴	ɕi⁵⁵	xɨ⁴⁵³	xɨ⁵⁵	xɨ²⁴	xɨ³³
+520	677.0	cure; treat; heal	医治	yīzhì	goŋ³	ɣə³³	ɣo³³	gɤ̪³³wu²¹	ʝi³³	no⁵⁵gu³³	gu³³kʰo²¹	gɤ̪³³gɤ̪⁵³
+521	724.0	light (on fire)	点 (点火)	diǎn	to̠ᶫ	ʔnɛ²¹,to̠²¹	tu⁵³		tu̠⁵⁵	to²¹	po²⁴	to⁵³
+522	522.0	feed	喂（人、猪）		tʃa̠ᶫ	dza̤²¹to³³	tʂa⁵³	tsu⁴²	tʂo³³	tsɑ²¹	tsuɛ̠²¹	tsa⁵³
+523	564.0	bend	使弯曲	wānqū	go̠ᶫ	vv̩⁵⁵wo̠²¹	ni⁴⁴woʔ⁵³	wu²⁴gu⁴²	wv̩²⁴waŋ³³ʝi⁵³	tsa⁵⁵gu²¹	nɛ̠³³gu̠²¹	tsʰɿ²¹
+524	525.0	give to drink	给喝		taŋ³	du⁵⁵to³³	tu³³	da²⁴tu³³	da²⁴tu³³, ɣɨ²⁴ta³³	da⁵⁵to³³	tai³³	gɨ²¹ta³³, ɣɨ³³tu³³
+525	644.0	bury; cover up	埋 (埋物)	mái	ty²	ty²¹	ty²¹	tə²¹	ty²¹	tə²¹	tɨ²¹	tə²¹
+526	518.0	show	给看			ʔɲi⁵⁵to³³	ĩ³³tu³³	i⁵⁵tu³³	ĩ⁴⁵tu³³	i⁵⁵to³³	i²⁴to²¹	gɨ²¹vaŋ⁵³
+527	581.0	awaken	唤醒	huànxíng	ku²xa̠ᶫ	kə⁵⁵xa̠²¹	kv̩²¹hã⁵³	kɤ̪⁵⁵xo⁴²tɕʰi²¹	kɤ̪˞⁴⁴xo³³	ni²¹	ə²¹tu²⁴	kɤ̪²¹haŋ⁵⁵
+528	276.0	bone	骨头	gútóu	ɣo²	ɦa̤²¹da⁵⁵dzɿ³³	wo²¹da²⁴dzɿ³³	xɔ²¹ka³³tʰə³³	vv̩²¹ka²¹	xo²¹ɣɨ²¹	ŋ̩̩³³ga²¹	vv̩²¹kɨ³³
+529	645.0	hide (thing)	藏 (东西)	cáng	tʃɛ¹	tʂʅ⁵⁵	tʂɛ̃²⁴	tsʰa³³	tʂʰɛ˞⁴⁵³	tɕɛ⁵⁵	tɕɛ²⁴	tsɛ˞³³
+530	620.0	clothe	给穿		ʔvi̠ᶫ tu³/gu²	jɛ̠²¹gṳ²¹	ʝi⁵⁵gv̩²¹	vei⁴²tu³³	ʝiɛ̠³³tu³³	vɛ̠²¹	vi̠ʔ⁵³	vai⁵³gɨ²¹
+531	579.0	put to sleep	使睡		xi̠ᶫ	ʔɲɛ̠²¹da̠²¹to³³	du²¹tu⁴⁴	gei²¹zɿ⁴²tu⁴²	ʐʅ³³to³³tu³³	ɕiʔ²¹	xiɛ⁵⁵tai⁵³	gɨ²¹zɿ⁵³
+532	185.0	fruit	水果	shuǐguǒ	sɛ²	sɛ̤²¹	sɛ²¹	sɛ²¹	ʔø³³	jɛ²¹ɕɛ²¹	ɕɛ²¹ma²⁴	sɿ⁵⁵sɛ⁴¹sɛ²¹
+533	612.0	sharpen (grinding)	磨 (磨刀)	mó	sɛ²	sɛ̤²¹	sɛ̃³¹	sɛ²¹	sɛ˞²¹	sɛ²¹	ɕɛ²¹	sɛ˞²¹
+534	683.0	know; understand	懂; 知道	dǒng	sɛ̠ᶫ	sa̠²¹	sɛʔ⁵³	sɛ⁴²	sɛ˞³³	sa̠²¹	sa̠²¹	sɛ˞⁵³
+535	793.0	urinate	解小便	zuòxiǎobiàn	zi²tʃʰe̠H	zɿ²¹tɕʰɛ̠³³	zɿ²¹tɕʰi⁴⁴	zɿ²¹tɕʰi³³	zɿ²¹tɕʰi³³	su²¹	tɕi⁵⁵xɨ²¹	zɿ²¹tɕʰi⁵³
+536	11.0	rainbow	彩虹	cǎihóng	a¹mo²se¹ɣi¹daŋ¹		vu²⁴sa³³	a⁵⁵mə²¹sɛ⁵⁵ji³³dɔ³³	a³⁵mv̩⁴¹ʂɛ⁴⁴ɣɨ⁴⁴do³³	a⁵⁵sɛ⁵⁵ɣɨ³³	a²⁴fio⁵³ɣɨ²⁴	ɣɨ⁴⁵bɨ²¹ɕio⁵⁵lo⁴²
+537	11.1	rainbow	彩虹	cǎihóng	a¹mo²tsʰa¹ɣi¹daŋ¹	a⁵⁵n̩²¹tsʰa⁵⁵ʔɲɛ̠³³də⁵⁵						
+538	155.0	tree	树	shù	si̠Hdze¹	sɿ̠³³dzɿ⁵⁵	sɿ⁴⁴dzɿ³⁴	ɕi³³dzei²⁴	sɿ⁴⁵³dzɿ²⁴	ɕi³³dʑɛ⁵⁵	ɕi³³dʑi²⁴	sɿ⁵³
+539	155.1	tree	树	shù	si̠Hdze¹	sɿ̠³³dzɿ⁵⁵	sɿ⁴⁴dzɿ³⁴	ɕi³³dzei²⁴	sɿ⁴⁵³dzɿ²⁴	ɕi³³dʑɛ⁵⁵	ɕi³³dʑi²⁴	sɿ⁵³
+540	257.0	fingernail	指甲	zhǐjiā	le̠ᶫku²sɛ²	lɛ̠²¹kə̤²¹sɛ̤²¹	lɛʔ⁵⁵kʰv̩²¹sɛ²¹	lei⁴²ni⁵⁵kʰu²¹sɛ²¹	lɛi³³kɨ˞²¹sa²¹	li²¹ku²¹sɛ²¹	lv̩²²kv̩²²ɕɛ²¹	lei⁵⁵kʰɨ³³sɛ˞²¹
+541	431.0	saw	锯子	jùzǐ	ɣi̠ᶫtsy³	ɣɨ̠²¹tsy³³	ɣɨ⁵⁵tɕy³³	ʝi⁴²tsə³³	ɣɨ³³tɕy³³	ɣɨ²¹tsə³³	lɛʲ³³,lẽ³³	ɣɨ⁵⁵tsɿ³³
+542	431.1	saw	锯子	jùzǐ	ɣi̠ᶫtsy³	ɣə̠²¹tsy³³	ɣɨ⁵⁵tɕy³³	ʝi⁴²tsə³³	ɣɨ³³tɕy³³	ɣɨ²¹tsə³³	lɛʲ³³,lẽ³³	ɣɨ⁵⁵tsɿ³³
+543	602.0	teach	教	jiào	ʔma²	ʔma̤²¹	ma⁵³	mɔ²¹	mo²¹	mo²¹	mo³³ɛ̠²¹	
+544	546.0	grab	抓住	zhuā zhù		tʂua³³tɕɛ²¹	vv̩²⁴tʂə/ɛ²¹	tsua³³tsɛ²¹	ga²⁴tʂʅ²¹	tsu³³	ga²⁴ta³³	vv̩³³
+545	552.0	catch; seize	捉 (捉鸡)	zhuō		tʂə²¹	vv̩²⁴	tsua³³	ga²⁴tʂʅ²¹	tsu³³	nɛ̠ʔ²¹	tsɤ̪²¹
+546	843.0	cooked; ripe	熟 (熟肉)	shú	ʔmi³	ʔmi³³	me³³	mi³³	my³³	mi³³	mi³³ŋo³³	mi³³
+547	194.0	mushroom	菌子	jùnzi	mo¹	mu⁵⁵lu⁵⁵,ŋ⁵⁵lu⁵⁵	mu/v̩²⁴	mə²⁴	n̩³⁵³to³³	ma⁵⁵lɛ⁵⁵jɛ⁵⁵	mɨ³³li²⁴ko²¹	m̩³³nai²¹
+548	420.1	flour	面粉	miànfěn	ha¹mu³	ʂa⁵⁵mʉ³³	hã⁴⁴mv̩³³kʰa³³		ʂo⁵⁵mv̩˞³³		so²⁴muʲ⁵⁵jo³¹	ga²¹m̩³³
+549	420.0	flour	面粉	miànfěn	mu³	ʂa⁵⁵mʉ³³	hã⁴⁴mv̩³³kʰa³³	sɔ⁵⁵mə³³	ʂo⁵⁵mv̩˞³³	kʰa²¹ɕɛ⁵⁵mu³³	so²⁴muʲ⁵⁵jo³¹	ga²¹m̩³³
+550	419.0	rice powder	米粉	miǐfěn	mu³	dza²¹kʰa⁵⁵mʉ³³	dza²¹kʰa⁴⁴mv̩³³	tɕʰi⁵⁵tɕʰi⁵⁵mə³³	tɕʰi⁵⁵tʰi²¹pʰᶠv̩˞⁵³	dzo⁵⁵mu³³	dzo²⁴muʲ⁵⁵jo³¹	tɕʰi³³fv̩³³ga²¹m̩³³
+551	534.0	blow (on)	吹 (吹火)	chuī	ʔmy̠H	ʔmʉ̠³³	mv̩⁴⁴	mə³³	mø³³	mi³³	mɨ̠³³	mi⁵³
+552	160.0	bamboo shoot	竹笋	zhúsūn		ma⁵⁵bə̠³³	ma²⁴ny⁴⁴	mɔ²⁴dzɛ²⁴	mo²⁴dʐɛ˞³³	waŋ²¹	o³³mu²¹tsʰi⁵⁵jo³¹	ma³³mo⁵³
+553	512.0	gourd reed-organ	芦笙	lusheng	by¹	by⁵⁵	by²⁴	bə²⁴		bə⁵⁵	bə²⁴	
+554	292.0	snot	鼻涕/粘液	bītì	ʔny̠ᶫ	ʔnø̠²¹	ny⁵⁵tsʰɿ²¹	nə⁴²	nø̠³³pʰᶠɤ̪⁴⁵³	nɑ̠̠²¹	nɨ̠²¹	nəŋ⁴⁵³
+555	575.0	lean (against)	靠 (人靠在树上)	kào	e̠H		tɛ³³	tei³³	da²¹	ɛ̃³³	ɛ̠⁵³	
+556	924.0	two	二	èr	ni²	ŋ̩²¹	n̩²¹	ŋ̩²¹	n̩²¹	n̩²¹	ŋ̩²¹	ni²¹
+557	52.0	year	年	nián	kʰo̠ᶫ	kʰo̠²¹	kʰoʔ⁵³	kʰo⁴², kʰu⁴²	kʰo³³	kʰuʔ²¹	kʰu̠²¹	kʰo⁵⁵
+558	561.0	squeeze	挤压/榨	jǐyā	ni̠ᶫ		ti⁴⁴	ni⁴²		ɲɛ³³	nɛ̠²¹na̠³³	naŋ⁵³
+559	253.0	finger	指/手指	zhǐ	ʔni¹	lɛ̠²¹ʔni⁵⁵	lɛʔ⁵⁵i³³za²¹	lei⁴²ni⁵⁵	lɛi³³ʔĩ⁴⁵³	li²¹ni⁵⁵	na²¹ni²⁴	lei⁵⁵kʰɨ³³
+560	173.0	bean	豆子	dòuzi	nu̠H	a⁵⁵nə̠³³	a⁴⁴nu⁴⁴	no³³, nu³³	a³³nuʔ³³	a⁵⁵nuʔ³³	a²⁴nu²¹	nu⁴⁵³
+561	661.0	borrow (thing)	借(借东西）	jiè	ʔŋa²	aŋ²¹	aŋ²¹, ã²¹	ɔ²¹	õŋ²¹	o²¹	o²¹	aŋ²¹
+562	557.0	stretch; stretch out	伸 (伸手)	shēn	dʒe³	dʑi³³		dʑi³³			dʑɛ³³	
+563	557.1	stretch; stretch out	伸 (伸手)	shēn	dʒe²		dʑi²¹		dʐʅ²¹			dzai²¹
+564	557.1	stretch; stretch out	伸 (伸手)	shēn	tʃʰe³	tɕʰi³³		tɕʰi³³		tɕʰi⁵⁵		
+565		spread	伸展	shēnzhǎn		dʑi³³					dzu⁵⁵tsʰa³³	
+566	109.0	bird	鸟	niǎo	ŋja̠H	a⁵⁵ɲɛ̠³³	a⁴⁴ɲi⁴⁴	ɲia³³	a⁵⁵ɲa³³	a³³ŋa³³	bə²⁴xa̠³³	a⁵⁵ɲa⁵³
+567	869.0	ashamed	惭愧/害羞	cánkuì	ʃe̠ᶫtaŋ¹	ɕɛ̠²¹tu⁵⁵	ɕi⁵⁵tu³³	ɕi⁴²ta⁵⁵	ɕi³³ta³³	ɕɛ̠²¹ta⁵⁵	ɕi̠²¹ta²⁴	sai⁵⁵tu³³
+568	869.1	ashamed	惭愧/害羞	cánkuì	ʃe̠ᶫtaŋ¹	ɕɛ̠²¹tu⁵⁵	ɕi⁵⁵tu³³		ɕi²¹ta⁴⁴		ɕi̠²¹ta²⁴	sai⁵⁵tu³³
+569	801.0	yellow	黄	huáng	ʃɛ¹	ɕɛ⁵⁵	ʂɛ˞²⁴	sɛ⁵⁵	ʂɛ˞⁴⁵³	ɕɛ⁵⁵	ɕɛ²⁴	sɛ˞³³
+570	31.0	gold	金	jīn(zi)	ʃɛ¹	ɕɛ⁵⁵	ʂɛ˞²⁴	sɛ⁵⁵	ja³³ʂɛ˞⁵⁵	sɛ⁵⁵	ɕɛ²⁴	tsai³¹sɛ˞³³
+571	951.0	3SR (another)	其他人／别人		su¹	sɿ⁵⁵,tse⁵⁵ɣɨ²¹	ka²¹se³³	kə⁵⁵lə²¹sə⁵⁵		su⁵⁵, tɕʰi²¹dzə⁵⁵ma⁵⁵	ɛ²¹wai²⁴tɕʰio⁵³	piɛ³³ni³³su³³
+572	491.0	shadow	影子	yǐngzi	a¹ɣɨ³	li⁵⁵ɣɨ³³	a⁴⁴ɣɨ³³	a⁵⁵ɣə³³zɔ²¹	a³⁵ɣɨ³³lɨ³³	xo⁵⁵ɣɨ³³	ba²⁴ɣɨ³³	ha⁵⁵ɣɨ³³
+573	461.0	broom	扫帚	sàozhou	gɨ¹si̠H	gɨ⁵⁵sɿ̠³³	gɨ²⁴sɿ⁴⁴	mə⁵⁵sɿ³³	gɛ˞²⁴sɿ³³	gɨ⁵⁵sɿ³³	ɣɨ²⁴sɿ̠³³	gɛ˞³³sɿ⁵³
+574	631.0	sweep	扫 (扫地)	sǎo	si̠H	sɿ̠³³	sɿ⁴⁴	sɿ³³	sɿ̠³³	sɿ̠³³	sɿ̠³³	sɿ⁵³
+575	236.0	teeth	牙齿	yáchǐ	sy²	sy²¹ɦa⁵⁵	sɛ²¹wo²⁴	sə²¹	sy²¹	so²¹ko⁵⁵, soŋ²¹ko⁵⁵	ɕi²¹	sə²¹
+576	181.0	garlic	蒜	suàn	kʰa²sy¹	kʰa̤²¹sy⁵⁵	kʰa²¹ɕy²⁴	kʰa²¹tsʰə⁵⁵	kʰa²¹sy³⁵²	ko²¹sɿ⁵⁵	kə²¹sə²⁴	kʰa²¹sɨ³³
+577	291.0	blood	血	xuè	si²	sɿ²¹	sɿʔ²¹	sɿ²¹	sɿ²¹ʔĩ⁴⁵³	ɕiŋ²¹ki⁵⁵	ɕi²¹	sɿ²¹
+578	839.0	dry	干 (衣服干)	gān	fɛ³	fɛ³³	fɛ³³	fɛ³³	xɛ˞³³	fɛ³³	fɛ³³	fɛ˞³³
+579	785.0	wither	枯（树叶枯）	kū	gu³	gə³³	gv̩³³	gɤ̪³³	gɤ̪˞³³	gu⁵⁵	pʰɨ²¹	bɛ˞³³
+580	390.0	charcoal	木炭	mùtàn	sa²ŋi²	sɛ²¹n̩²¹tsʰɿ²¹	sa²¹n̩²¹tɛ⁵³	sa²¹ŋɛ²¹	sa²¹ɲi²¹	sɛŋ²¹kʰi²¹	ɕi²¹kʰɛ³³	sa²¹mi²¹
+581	390.1	charcoal	木炭	mùtàn	sa²ŋi²	sɛ²¹n̩²¹tsʰɿ²¹	sa²¹n̩²¹tɛ⁵³	sa²¹ŋɛ²¹	sa²¹ɲi²¹	sɛŋ²¹kʰi²¹	ɕi²¹kʰɛ³³	sa²¹mi²¹
+582	550.0	twist; wring	拧 (拧毛巾)	níng	ʃɨ̠ᶫ	ɲio̤²¹	ʂʅ²¹	ɲio²¹	lo²¹	sɿ³³	sɿ̠³¹pʰi²⁴	nio²¹
+583	1000.0	don't	别 (别去)	bié	tʰa²	tʃʰa̤²¹,tʰa̤²¹	tʰa²¹	tʰa²¹	tʰa²¹	ta²¹	tʰa²¹	tʰa²¹
+584		jews harp	单簧风琴	dānhuángfēngqíng								
+585	806.0	sharp (blade)	快 (刀快)	kuài	tʰe̠H	ʔna⁵⁵,tʰiɛ̠³³	tʰɛ⁴⁴	tʰe³³	tʰɛi³³	du⁵⁵	du²⁴	tʰi⁵³
+586	971.0	upon	上面	shàngmiàn	ka̠ᶫ	ka̠²¹si⁵⁵	kv̩²¹se⁴⁴, ka⁵⁵se⁴⁴	tʰei⁴²sə⁵⁵	ka³³si³³	ka̠²¹xɨ⁵⁵, kæ²¹kɨ⁵⁵	ɛ³³tɛ²⁴	õ³³lai²¹
+587	87.0	rabbit	兔子	tùzi	hɛ̠Htʰa³la³	ha̠³³tʰo̠³³lo̠³³	hɛ̃⁴⁴tʰo³³lo³³	tʰɔ³³lɔ³³	hɛ̃³³tʰo³³lo³³	kan³³tai²¹	koŋ³¹ta³³lɛo³¹	hɛ˞⁵⁵tʰa³³la³³
+588	87.1	rabbit	兔子	tùzi	hɛ̠Htʰa³la³	ha̠³³tʰo̠³³lo̠³³	hɛ̃⁴⁴tʰo³³lo³³	tʰɔ³³lɔ³³	hɛ̃³³tʰo³³lo³³		koŋ³¹ta³³lɛo³¹	hɛ˞⁵⁵tʰa³³la³³
+589	87.2	rabbit	兔子	tùzi	hɛ̠Htʰa³la³	ha³³tʰo³³lo³³	hɛ̃⁴⁴tʰo³³lo³³	tʰɔ³³lɔ³³	hɛ̃³³tʰo³³lo³³		koŋ³¹ta³³lɛo³¹	hɛ˞⁵⁵tʰa³³la³³
+590	432.0	knife	刀	dāo	a¹tʰa²	a⁵⁵tʰa̤²¹	a⁵⁵tʰa²¹	a⁵⁵tʰɔ²¹	a³⁵tʰo²¹	a⁵⁵tʰo²¹	a²⁴tʰo²¹	a⁵⁵tʰa²¹
+591	265.0	sole (of foot)	脚底	jiǎodǐ		kʰɨ⁵⁵tsʰa̤²¹ti̤²¹tsɿ³³	kʰɨ⁴⁴di³³	tɕʰi⁵⁵ta³³ti³³	kʰɨ⁴⁵³pa⁴⁴di²¹tsɿ³³	kʰi⁵⁵tʰa³³	bɨi⁵³kʰi³³tʰa²¹	kɛ˞³³vv̩²¹ti³³pɛ˞²¹
+592	567.0	kick	踢 	tī	tʃʰɛ̠H	tʂʰa³³	tsʰɛ⁴⁴	tɕʰɛ³³	tsʰɛ˞³³	pɛ⁵⁵	tsʰa̠³³	tʂʰɛ˞⁵³
+593	955.0	this (1)	这 (个)	zhè	tʃu¹	tʂʅ⁵⁵	tʂa²⁴	tsɿ⁵⁵lə²¹	tʂʅ⁴⁵³	tsʰa⁵⁵	tʰo²⁴	tsɿ⁵³
+594	923.0	one	一	yī	tʰi²	tʂʰʅ̥²¹	tʂʰʅ²¹	tsɿ²¹	tʂʅ²¹	tɕʰi²¹	tʰi²¹	tsɿ²¹
+595	909.0	SHALLOW	浅 (水浅)	qiǎn	ma²ʔne̠ᶫ	ma̤²¹nɛ̠²¹	ba²¹			ma²¹nɛ̠²¹	ma³³ni²¹	
+596	543.0	touch; feel; stroke	摸 (摸摸刀口)	mō	mo̠H	mo̠³³	mu⁴⁴	mu³³	mv̩³³	vo²¹	vo²¹ʔi²⁴	mu⁵³
+597	103.0	squirrel	松鼠			ha̠³³tʂʰu²¹pa̠²¹	hɛ̃⁴⁴ma⁵⁵bɛ²¹		hɛ̃³³tʂʰʅ³³po³³	a⁵⁵tɕʰɛ²¹mɛ²¹bu³³	a²¹tso²⁴	hɛ˞⁵⁵pɛ˞⁴¹pɛ˞³¹
+598	3.0	sunshine	阳光	yángguāng	a¹mo²tsʰa¹	a⁵⁵n̩²¹tsʰa⁵⁵		a⁵⁵mə²¹tsʰɔ⁵⁵	a³⁵mv̩⁴¹tsʰo³³	a⁵⁵mi⁵⁵kʰi⁵⁵pʰɛ³³	a²⁴tsʰo²⁴sɛ⁵⁵jo²¹	a⁵⁵m̩²¹tsʰa³³sai⁵⁵
+599	307.0	person	人	rén	tsʰaŋ¹	tsʰu⁵⁵	tsʰu⁴⁴	tsʰa⁵⁵	tsʰa⁴⁵³	tsʰa⁵⁵jo²¹	tɕʰio⁵³	tsʰu³³
+600	932.0	ten	十	shī	tsʰe¹	tsʰi⁵⁵	tsʰe²⁴	tsʰei⁵⁵	tɕʰi⁴⁵³	tɕʰɛ⁵⁵	tɕʰɛ²⁴	tsʰei³³
+601	933.0	eleven	十一	shíyī	tsʰe¹ti̠ᶫ	tsʰi⁵⁵ti̤²¹	tsʰe²⁴tʰi⁵³	tsʰei⁵⁵ti²¹	tɕʰi⁴⁵³tʰi³³	tɕʰɛ⁵⁵tɕʰi²¹	tɕʰɛ⁵⁵tʰi²¹	tsʰei³³tɕʰi⁵³
+602	423.0	lard	动物油	dongwuyóu	tsʰɛ¹	tsʰɛ⁵⁵	tsʰɛ²⁴	tsʰɛ⁵⁵	tsʰɛ˞⁴⁵³	xo²¹tsʰɛ⁵⁵	xo³³na²¹maŋ⁵³	tsʰɛ˞³³
+603	827.0	fat; fatty (meat)	肥 (肉肥)	féi	tsʰu¹	zi⁴⁵	tsʰɿ²⁴	xɔ²¹tsʰɿ⁵⁵	tsʰɿ⁴⁵³	tsʰu⁵⁵	ɛ²¹tsʰv̩²⁴	tsʰɤ̪³³
+604	777.0	weigh	称	chēng	ki¹							
+605	777.1	weigh	称	chēng	tsʰi¹	tsʰɿ⁵⁵	tsʰɿ²⁴	tɕʰue⁵⁵	tsʰɿ⁴⁵³	tɕʰi⁵⁵	tɕʰi²⁴	tuei³³
+606	562.1	pinch	捏	niē	tso̠H	tso̠³³		tsu³³	tsu̠³³	tsu³³tɕʰi²¹	tsu³³tɕʰi²¹	
+607	562.0	pinch	捏	niē	tsʰi̠ᶫ		tsʰɿ⁵³		kɤ̪˞²¹	tsu³³tɕʰi²¹	tsu³³tɕʰi²¹	
+608	786.0	cough	咳嗽	késòu	tsi²	tsɿ²¹	tsɿ²¹	tsɿ²¹	tsɿ²¹	tsɿ²¹	tsɿ²¹	tsɿ²¹
+609	759.0	stop	停	tíng	na²	na̤²¹	na²¹	nɔ²¹	no²¹	no²¹	no²¹	na²¹
+610	826.0	fat (person)	胖	pàng	tsʰu¹	zi⁴⁵	tsʰɿ²⁴	pʰa⁴², ze²⁴	bo³³	tsʰu⁵⁵	tsʰv̩²⁴	tsʰɤ̪³³
+611	912.0	THICK (2d)	厚	hòu	tʰu¹	tʰə⁵⁵	tʰv̩²⁴	tʰɤ̪⁵⁵	tʰɤ̪˞⁴⁵³	tʰu⁵⁵	tʰv̩²⁴	tʰo̪³³
+612	503.0	drum	鼓	gǔ		ku²¹	kv̩²¹	ku³³	toŋ²¹toŋ²¹	koŋ⁵⁵	koŋ³³	
+613	560.0	fold	折	zhé		tɕɛ⁵⁵	ɕy³³ka³³	tɕa⁵⁵	tiɛ˞²⁴	tɨ⁵⁵	da³³	dzɨ³³
+614	221.2	head	头	tóu	nu²kaŋ²			n̩̩²¹də²⁴kə³³	ŋ̩²¹ka²¹		n̩²¹dɨ²⁴ka³³ɕɛ²¹	
+615	221.0	head	头	tóu	nu²dy¹	n̩²¹dy⁵⁵	n̩²¹dy²⁴	n̩̩²¹də²⁴kə³³	ŋ̩²¹ka²¹	n̩²¹də⁵⁵	n̩²¹dɨ²⁴ka³³ɕɛ²¹	n̩²¹də³³
+616	221.1	head	头	tóu	nu²dy¹	n̩²¹dy⁵⁵	n̩²¹dy²⁴	n̩̩²¹də²⁴kə³³	ŋ̩²¹ka²¹	n̩²¹də⁵⁵	n̩²¹dɨ²⁴ka³³ɕɛ²¹	n̩²¹də³³
+617	147.0	egg	蛋	dàn	fu³	fv̩³³	fv̩³³	fɤ̪³³	fɤ̪˞³³	jɛ²¹fu³³	ɛ³³fv̩³³	fv̩³³fv̩³³
+618	790.0	belch	打饱嗝	dǎbǎogé	ɨ̠ᶫ	ti⁵⁵kɨ³³ɦou²¹mʉ³³	ĩ⁵⁵kʰu²¹sɛ³³	ə²¹pʰə²¹	ɨ²¹dɛ²¹	ə²¹	a²⁴kʰə̠³³ʔə̠²¹	ɨ²¹m̩³³
+619	12.0	snow	雪	xuě	va²	va̤²¹	va²¹	ɣɔ²¹	ɣʷo²¹	mi⁵⁵pʰu⁵⁵	vo³³ɕɛ²¹	va²¹
+620	17.0	hail	雹 (雹暴)	báo	ʔlo̠Hha¹	ʔlo³³ha⁵⁵	lv̩³³	tsa⁵⁵bu⁵⁵lu⁵⁵	ɣʷo²¹sɛ˞²¹	ko²¹sɛ²¹	vo²¹pʰoŋ⁵³	va²¹
+621	159.0	bamboo	竹子	zhúzi	va²	va̤²¹ma⁵⁵	va²¹ma³³dzɿ²⁴			wan²¹to⁵⁵	vu²¹do²⁴	
+622	159.1	bamboo	竹子	zhúzi	ma¹	ma⁵⁵dzɿ⁵⁵	ma²⁴dzɿ²⁴	mɔ²⁴dzei²⁴	mo²⁴dzɿ²⁴	mon⁵⁵dʑɛ⁵⁵		ma³³
+623	514.0	trap	陷阱	xiànjǐng	va³	va³³	va³³	sua³³tɤ̪²¹		voŋ³³	vo³³tʰv̩a⁵³ko³³kʰu²⁴	va³³
+624	77.0	pig	猪	zhū	a¹ve̠ᶫ	a⁵⁵vɛ̠²¹	a³³veʔ⁵³	vei⁴²	a³³vɛi̠³²	a⁵⁵vɛ̠²¹	a²⁴vi̠ʔ³¹	a⁴⁴vei⁵³
+625	646.0	hide (self)	藏/躲 (自己)	cáng	vy²	jy²¹	ve²¹	tʰɛ⁵⁵ɣə²¹	pʰa⁴⁵³mɛi²¹	zɿ²¹	kʰɨ²¹ɣɨ³³	bə²¹
+626	279.0	belly	肚子/腹部	dùzi	he̠ᶫma³dzɿ³		xɛ⁵⁵ma³³dzɿ³³		tu⁵⁵tsɿ²¹			
+627	279.1	belly	肚子/腹部	dùzi	he̠ᶫpy¹	hɛ̠²¹pə⁵⁵də⁵⁵		xei⁴²pə⁵⁵		xɛ²¹pə⁵⁵	ɛ²¹pɨ²⁴po³³	xai⁵⁵pɨ³³
+628	712.0	enter	进 (进来)	jìn	dy²	dy̤²¹	dy²¹	də²⁴	dy²¹	gɨ³³	dɨ²¹kua²⁴	də²¹
+629	616.0	wear; put on	穿 (衣服)	chuān	vi̠ᶫ	jɛ̠²¹	ʝiʔ⁵³	vei⁴²	ʝiɛ̠ʔ³³, ʝi³³	vɛ̠²¹	vi̠ʔ²¹	vai⁵³
+630	599.0	buy	买	mǎi	vɛ¹	vɛ⁵⁵	vɛ²⁴	vɛ²⁴	ɣɛ˞²⁴	vɛ⁵⁵	vɛ²⁴	vɛ˞³³
+631	954.0	POSS	的		ɣɨ²	ɣɨ²¹	ɣɨ³³	ɣə²¹	xɨ²¹	la³³	no²¹	ɣɨ²¹
+632	896.0	FAR	远	yuǎn	vi²	ʝi²¹	ʝi²¹	vei²¹	ʝi²¹	və²¹	mi²⁴vu²¹	vai²¹
+633	808.0	round	圆 (球很圆)	yuán	va³	a⁵⁵li⁵⁵va³³	va³³	va³³	a³³o³³li³⁴	ta⁵⁵lə³³	a³³va²¹vaŋ³³,a⁵⁵lə²¹lɛ⁵⁵jo³¹	bə³³lə³³
+634	425.0	meat	肉	ròu	xa²	xa̤²¹	xa²¹	xɔ²¹	xo²¹	xo²¹	xo²¹	xa²¹
+635	33.0	iron (ore)	铁	tiě	xy¹	ɕy⁵⁵	ɸu²⁴	xə⁵⁵	xv̩⁴⁵³	xə⁵⁵	xə²⁴	xɨ³³
+636	140.0	louse (clothing)	虱子(衣上)	shīzi	xe¹	ɕi⁵⁵	ɕi²⁴	ɕi⁵⁵	ɕi⁵³	i⁵⁵pu⁵⁵	xi²⁴	ɕi⁵⁵ma³³pʰu³³
+637	654.0	seek (look for)	找/寻找	xúnzhǎo	tʃa³	tʂa³³	tʂa³³	tsɔ³³	tʂo³³	i⁵⁵tʰə²¹	xo³³tʰə²¹	tsa³³
+638	703.0	go	去	qù	ʒe¹	ji⁵⁵	ʝi²⁴	ʝi²⁴	ʝi²⁴	jɛ³³	duʲ²⁴, du³³i²⁴	li³³, ʝi³³
+639	732.0	overflow; spill	溢	yì	ɣy̠ᶫ	jø̠²¹	bɛ²¹tʰi⁵³			jɑ̠³³	ko²⁴pʰi²⁴	
+640	387.0	door	门	mén	a¹kʰjɛ²/ᶫ	a⁵⁵kʰai̠²¹	a⁵⁵kʰɛ²¹	a⁵⁵kʰɛ²¹	a³⁵kʰɛ˞²¹	a⁵⁵ku³³kʰi²¹	a³³gu³⁵kʰi³¹	a⁵⁵kʰɛ˞²¹
+641	692.0	affirmative	是 (这是什么)	shì	ŋa¹	ŋa⁵⁵	ŋa²⁴	ŋa²⁴	ŋo²⁴	ŋo⁵⁵	ŋa²⁴	ŋa³³
+642	992.0	slowly	慢慢 (慢慢走)	mànmàn	a²de³de³	a̤²¹di³³di³³	a²¹de³³de³³	a⁵⁵pɛ²³tɕɛ²¹	a²¹di³³di³³	a²¹ja³³	a²²jɛ²²ja⁴¹	a²¹di³³di³³
+643	43.0	today	今天	jīntiān	i²ʔni³	ʔɲiŋ³³,iŋ³³	i̠⁴³na³³	i²¹nɛ³³	ĩ³³ɲĩ³³	i²¹ni³³	i²¹mi²⁴	n̩²¹ti⁵⁵ĩ³³
+644	536.0	speak	讲	jiǎng	tʰy¹	tʰy⁵⁵	tʰy²⁴	dʑa²¹	tʰy⁴⁵³	tʰə⁵⁵	kʰuaŋ⁵³, tʰə²⁴	bei⁵³
+645	884.0	drunk	醉	(hē)zuì le	ʒe̠ᶫ	jɛ̠²¹	ʝiʔ⁵³	ʝi⁴²	ʝi̠³³		dʑi²⁴bu³³	zai⁵³
+646	379.0	house	房子	fángzi	he¹	hi⁵⁵	hẽ²⁴	xei⁵⁵	hĩ³⁵kɛ˞⁵³	xɛ⁵⁵	xĩŋ²⁴	hei⁴⁴
+647	578.0	sleep	睡觉	shuì jiào	ʒi̠ᶫda(ŋ)²		ʐʅ⁵³du²¹, du²¹	zɿ⁴²tu⁴²	ʐʅ³⁴to³³	ʝiʔ²¹		zɿ⁵⁵ta⁵⁵
+648	578.1	sleep	睡觉	shuì jiào	ʒi̠ᶫda(ŋ)²		ʐʅ⁵³du²¹, du²¹	zɿ⁴²tu⁴²	ʐʅ³⁴to⁴⁴		tao⁵³, tao²¹	zɿ⁵⁵ta⁵⁵
+649	578.2	sleep	睡觉	shuì jiào	ʔne̠ᶫda²	ʔɲɛ̠²¹da²¹						
+650	195.0	seed	种子	zhǒngzi	ʃɨ²	ʂʅ²¹,ha⁵⁵ʂʅ²¹	hã⁴⁴ʂʅ²¹	ja³³sɿ²¹	ja³³ʂʅ²¹	jɛ²¹sɿ²¹	ɛ³³sɿ²¹	sɿ²¹kʰa³³
+651	195.1	seed	种子	zhǒngzi	ʃɨ²kʰa³	ʂʅ²¹,ha⁵⁵ʂʅ²¹	hã⁴⁴ʂʅ²¹	ja³³sɿ²¹	ja³³ʂʅ²¹		ɛ³³sɿ²¹	sɿ²¹kʰa³³
+652	544.0	take	拿 (拿书)	ná	vu¹	vv̩⁵⁵	vv̩²⁴	vɤ̪²⁴	vv̩²⁴	vv̩⁵⁵, vu⁵⁵	vv̩²⁴	vv̩³³
+653	89.0	animal	动物	dòngwù	a¹dze²	a⁵⁵dʑi̤²¹a⁵⁵la̤²¹	a⁵⁵dʑi²¹	ja³³ka⁴²	dʑi²¹xo²¹		ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹	a⁵⁵dzə³¹m̩²¹
+654	192.0	thatch (cogon grass)	茅草	máocǎo		ʂʅ²¹hə⁵⁵ʂʅ²¹	kʰɨ²¹ʂʅ²¹mɛ⁵³	tɕi²¹tɕʰi⁵⁵	lo²¹sɿ³⁵³	ɨ⁵⁵sɿ²¹	tɕʰi⁵⁵ɣɨ³³tsuɛ⁵⁵jo³¹	mao³³tsʰao³³
+655	357.0	son	儿子	érzi	za²	za̤²¹	za²¹	zɔ²¹	zo²¹	jo²¹, zo²¹	zo²¹pʰv̩²⁴	za²¹
+656	699.0	descend	下 (下山)	xià	ze̠ᶫ	zɛ̠²¹	ze⁵³	zei⁴²	zɛi³³	jɛ²¹	ʝi²⁴	zai⁵⁵
+657	949.0	3S	他	tā	(ʒ)aŋ²/³	wu³³	ʐu³³	ja³³	ja³³	jɛ²¹	ɛ²¹	ja³³
+658	950.0	3PL	他们	tāmén	ʒaŋ³tsa³	wu³³tsa³³	u³³tsa³³	ja³³tsɔ³³				
+659	950.1	3PL	他们	tāmén	(ʒ)aŋ²/³					jɛ²¹xɨ³³	ɛ²¹so³³	ja²¹
+660	360.1	son-in-law	女婿	nǚxù	ʔme̠ᶫɣo¹	mɛ̠²¹v̩⁵⁵	me⁵⁵vv̩³³	mei⁴²ɣə²⁴	mɛi³³vv̩˞²⁴	mɨŋ²⁴	mɨ²⁴	mei⁵⁵vv̩³³
+661	360.0	son-in-law	女婿	nǚxù	ʔme̠ᶫɣo¹	mɛ̠²¹v̩⁵⁵	me⁵⁵vv̩³³	mei⁴²ɣə²⁴	mɛi³³vv̩˞²⁴		mɨ²⁴	mei⁵⁵vv̩³³
+662	84.0	sheep	绵羊	miányáng	a¹ʒaŋ¹	a⁵⁵ʐu⁵⁵	a⁵⁵ʐu⁴⁴, a³³ʐu²⁴	ja²⁴	a²¹ja²⁴		a²⁴za²⁴	ɲa³³
+663	655.0	use	用 (使用)	yòng	zy²	zy²¹	ʝy²¹	zə²¹	zy²¹	zə²¹	joŋ²⁴	zə²¹
+664	687.0	be angry	生气	shēngqì		tsʰɿ²¹	kv̩⁴⁴ʂa⁵³	tɕʰi³³zei²¹	a³³tu³³fɛ˞³³	də³³mɨ³³	ni̠³³mo³³ma²¹mi²⁴	xo²¹fɛ˞⁵³
+665	605.0	fry (stirfry)	炒	chǎo	ʔlu¹	ʔlə⁵⁵	lv̩²⁴	tsʰo³³, lɤ̪⁵⁵	lɤ̪˞⁴⁵³	lu⁵⁵	lu²⁴	lɤ̪³³
+666	410.0	pants	裤子	kùzi	ʔla²	ʔla̤²¹	la²¹	lɔ²¹	lo²¹tsʰɿ²¹	lo²¹	lo̠ʔ²¹	la²¹
+667	901.0	SHORT	短	duǎn	ʔɲy²	ʔny̤²¹	y²¹	ei²¹	ỹ²¹	ni²¹	nɨ²¹	nĩ²¹
+668	868.0	sad	忧愁	yōuchóu	ko̠ᶫʃa̠ᶫ	dʑɛ̠³³ma²¹dɛ̠²¹	kv̩⁴⁴ʂa⁵³	bi²⁴tɕʰi³³	ku⁴⁴a²¹nu⁴⁵³	tsa⁵⁵sɑ²¹	dɨ³³so̠²¹	kʰɨ⁵³
+669	404.0	ring (for finger)	戒指	jièzhi	ku³	tɕɛ⁵⁵tʂʅ²¹	de²¹wo²⁴	lei⁴²ɕi²¹	lɛi³³ʔĩ⁵⁵dy³³lɛ˞⁵³	li²¹ni⁵⁵sɛ³³	lv̩²¹gv̩²⁴la³³tsuɛ⁵⁵jo³¹	kai⁵⁵tsɛ˞³³
+670	107.0	duck	鸭子	yāzi	a¹bɛ²					a⁵⁵bɛ²¹	a²⁴bɛ²¹	
+671	107.1	duck	鸭子	yāzi	a¹e̠H		ɛ⁴⁴ɛ⁴⁴	ɔ²⁴a³³	ã³³ã³³			
+672	107.2	duck	鸭子	yāzi	a¹e̠H	a̤²¹jɛ̠³³						
+673	841.0	old	旧	jiù	ʔli¹	ʔʐʅ⁵⁵	li²⁴	li⁵⁵	ʐʅ⁴⁵³	jɛ²¹lɨ⁵⁵	ɛ²¹lɨ²⁴	i³³
+674	282.0	kidney	肾/腰子	shèn	di¹	di⁵⁵	di²⁴	ja³³di²⁴zɔ²¹	di²⁴ʔø³³	ma⁵⁵laŋ³³	ɛ²²ma²¹laŋ⁵³	xuo²¹jao³³dzɿ³³
+675	717.0	jump; leap	跳	tiào	pɛ̠H	pa̠³³	pɛ⁴⁴	tʰiɔ⁵⁵	tsai²¹	pa̠³³	pa̠³³	bə³³
+676	809.0	flat	平 (路很平)	píng	bɛ¹		mi⁴⁴tʰɛ⁵³	bɛ²⁴	bɛ˞²⁴	ta²¹go³³	ta²⁴dɛ³³	bɛ˞³³
+677	589.0	slice; cut	切 (切苹果、西瓜)	qiē	bɛ²	bɛ²¹	bɛ²¹	bɛ²¹	bɛ˞²¹	bɛ²¹	bi²¹	tsʰai³³
+678	590.0	split; chop; cleave	劈 (劈木柴)	pī	kʰjɛ²	kʰɛ̤²¹	kʰe²¹	kʰɛ²¹	kʰɛ˞²¹	kʰɛ²¹	kʰɛ²¹	kʰɛ˞²¹
+679	120.0	toad	癞蛤蟆	chánchú	ʔmu¹pa̠ᶫ	ə⁵⁵pa̠²¹dzaŋ⁵⁵pʰy³³	om²⁴pa⁵³lv̩⁴⁴tsɿ⁴⁴	nɛ³³dɛ³³sɛ³³u⁵⁵pu⁴²	m̩⁴⁵³po³³	u⁵⁵pɑ̠²¹dzo⁵⁵jɛ²¹	o²⁴poʔ²¹ɕi⁵⁵ɕi³³	lai³³tui³³li³¹
+680	447.0	chain	链子	liàn	ʃo̠H		kʰɨ⁴⁴ʂu⁴⁴	xə⁵⁵su³³	xu³⁵ʂu³³	tɕɛ⁵⁵mo³³	lu²⁴ku³³tɕɛ²¹	xɨ³³so⁵³
+681	436.0	hatchet	斧头	fǔtóu	a¹tsʰo̠H	a⁵⁵tsʰo̠³³	a⁴⁴tsʰu³³	a⁵⁵tsʰu³³	a³³tsʰu³³	a⁵⁵tʃʰu³³	a²⁴tsu⁵⁵kʰuʲ⁵⁵jo³¹	a⁵⁵tsʰu⁵³
+682	385.0	beam[small]	梁(小)	liáng	he¹du²	hi⁵⁵dv̩²¹	hẽ²⁴du²¹	wa²¹	hĩ³⁵dɨ˞²¹	a⁵⁵tʃa⁵⁵jo²¹	liaŋ³¹	hein⁴⁴dɤ̪²¹
+683	153.0	tusk	长牙	chángyá	dʒɛ¹	dʑɛ⁵⁵	sɛ²¹fɛ²⁴, ɕy²¹fɛ²⁴	dzɛ²⁴	dʐɛ˞²⁴	jɛ²¹dʑɛ⁵⁵	ɕi²¹dʑi²⁴	xu²¹ja²¹
+684	698.0	ascend	上 (上山)	shàng	de̠H	dɛ̠³³	de⁴⁴	dei³³	dɛi³³	dɛ³³	di³³lɛ³³	di⁵⁵
+685	391.0	field; wet field	田 (稻田)	tián	de¹mi¹	tɕʰi⁵⁵mi⁵⁵	ti²⁴mi³³	tɕʰi⁵⁵tɛ⁵⁵mi³³	di²⁴mv̩˞⁴⁵³	dɛ⁵⁵	dɛ³³	ti³³mi³³
+686	558.0	pound	舂/捣碎	chōng/dǎosuì	te²	ti²¹	tɛ²¹	tei²¹	tɛi²¹	tɛ²¹	tɛ²¹	dzɿ²¹
+687	588.0	slice; cut	切 (切菜)	qiē	tsʰe̠H	da̠³³	tsʰe³³	ɣə²⁴	tsʰai³³	su³³	su³³	tsʰai³³
+688	711.0	exit (come out)	出 (出去)	chū	do̠H	do̠³³	du⁴⁴	du³³	du̠³³	do³³	du³³kuɛ²⁴	du⁵⁵
+689	642.0	take out	拿出	náchū	vu¹tʰe̠ᶫ	v̩⁵⁵tʰɛ̠²¹	vv̩²⁴tʰe⁵³	v̩²⁴tʰi³³	vv̩²⁴tʰiɛ˞³³	vu⁵⁵to³³	vu²⁴tua²⁴	vv̩³³tu³³la²¹
+690	343.0	father	父亲	fùqīn	a¹ba²	a⁵⁵ti³³	a⁴⁴ba²¹	a⁵⁵bɔ²¹	a³⁵je²¹	a⁵⁵bə²¹	ao³¹	a⁵⁵tiɛ³³
+691	344.0	mother	母亲	mǔqīn	a¹ma³	a⁵⁵ma³³	a⁴⁴ma³³	a⁵⁵mɔ³³	a³³mo³³	mə³³	mo³¹	a³³ma⁵³
+692	372.0	mother's OS	姨母	yímǔ		ta⁵⁵ma³³	ʝi²⁴mɑ³³	a⁵⁵dɔ²¹mɔ³³	a²¹pa³³ja³³	a⁵⁵ma²¹	a²¹ni²⁴	ji²¹ma³³
+693		mother's YS	阿姨	āyí		ʝi¹³ma³³						
+694	982.0	how much?	多少?	duōshǎo	a¹ma³	a̤²¹da⁵⁵ma³³sɿ²¹	a⁴⁴ma³³sɿ²¹	a²¹mɔ³³sei²¹	a³³mo³³sɿ²¹	a²¹di³³mo³³	a²¹do²⁴tsʰu²¹mu³³	kʰa³³ma³³
+695	977.0	what?	什么?	shénme	a¹tsa¹	a⁵⁵tsa⁵⁵	a⁴⁴tsa⁴⁴	a⁵⁵tsa⁵⁵	a⁴⁴tso⁴⁴	a⁵⁵tsa⁵⁵	tʰa⁵⁵la⁵⁵	a³³tsa⁵³
+696	369.0	father's OS	姑妈	gūmā	ku³³ma³³	ku³³ma³³	ku³³ma³³	a⁵⁵ni⁵⁵	a²¹pa³³ja³³	a⁵⁵ti²¹tɕi³³	a²⁴mo³³	ku³³ma³³
+697	978.0	where?	哪里?	nǎlǐ	a²di¹	a̤²¹di⁵⁵	a²¹di²⁴	a²¹ka⁵⁵	a²⁴ka⁴⁴	a²¹ta²¹ka⁵⁵, a²¹lɛ²¹ka⁵⁵	a²¹ka²⁴	a²¹di⁵⁵hei³³
+698	44.0	yesterday	昨天	zuótiān	a²ʔni³	aŋ³³	an³³, a³³na³³	a²¹nɛ³³	a²¹ɲi³³	a²¹ni³³	a²¹mi²⁴	a²¹ni³³
+699	349.0	younger brother of a male	弟弟	dìdi	ɲe¹za²	ɲɛ⁵⁵za̤²¹	ne²⁴za²¹	a⁵⁵tʰei³³	ɲɛ˞²⁴zo²¹	ɲɛ⁵⁵jo²¹	nɛ³⁵jo²¹	ja³³tʰai³³zu⁵⁵pa⁵³
+700	349.1	younger brother of a female	弟弟	dìdi	pʰa²maŋ¹							
+701	350.1	younger sister of a female			ɲe¹ma³	ɲi⁵⁵ma³³	ny²¹ma³³	niɛ²⁴mɔ³³	ɲɛ˞²⁴mo³³	ɲɛ⁵⁵mo³³	nɛ²⁴mo³³	
+702	340.0	father's mother	奶奶	nǎinǎi	a²ne³	a⁵⁵ɲi³³	a⁴⁴nei³³	a⁵⁵nai³³	a³³nɛi³³	a⁵⁵nai²¹, a²¹pʰi²¹	a²⁴pʰi²¹	a⁵⁵nai³³
+703	339.0	father's father	爷爷	yéyé	a²pa¹	a⁵⁵ku³³	a²¹pa²⁴	a²¹pɔ⁵⁵	a²¹pu⁵³	a²¹po⁵⁵	a²⁴po²⁴	a²¹pa³³
+704	371.0	mother's OB	舅舅	jiùjiù		a⁵⁵tɕo⁵⁵	a⁴⁴tɕiu⁴⁴	a⁵⁵tɕo⁵⁵	a⁴⁴tɕiu⁴⁴	a⁵⁵tɛ²¹	a²¹ɣɨ²⁴	a²¹tɕo⁵³
+705	361.0	brother's son	侄子	zhízi	za²du¹	za̤²¹də⁴⁵	za²¹dv̩²⁴	su⁴²dɤ̪²⁴	zo²¹dv̩˞²⁴	da⁵⁵du²¹	duʲ³⁵jo⁴²	za²¹do³³
+706	362.0	brother's daughter	侄女	zhínǔ	za²mɛ²du¹	zɛ̤²¹mɛ̤²¹də⁴⁵	za²¹mɛ²¹dv̩²⁴	su⁴²mɔ³³	za²¹mɛ˞²¹dv̩˞²⁴	da⁵⁵mo³³	du²⁴mo³³	za²¹mɛ²¹do³³
+707		bros' child (Mvpt)	侄子/侄女	zhízǐ/zhinǚ								
+708	45.0	day before yesterday	前天	qiántiān	ʃi̠Hʔni³	ʂəŋ³³	ʂɛ̃n³³, ʂʅ³³na³³	sɿ³³nɛ³³	ʂʅ³³ɲi³³	ɕi³³ni³³	sɿ⁵⁵mi²⁴	sɿ³³ni³³
+709	350.0	younger sister of a male	妹妹	mèimei	ʔny²ma³		ne²⁴ma³³					ja³³tʰai³³za²¹mɛ˞²¹
+710	976.0	who?	谁?	shuí	a²sa²	a̤²¹sa̤²¹	a²¹sa²¹	a²¹sa²¹	a²¹so²¹	a²¹so²¹	a²⁴tʰaŋ²¹lɛ³³	a²¹sa²¹
+711	367.0	father's OB	伯父	bófù	ta⁵⁵tiɛ³³	pa²¹ti̤²¹	ta⁴⁴ta⁴⁴	a⁵⁵ta⁵⁵	ta⁵⁵ti³³	a⁵⁵jɛ²¹	a²⁴jɛ²¹	ta⁵⁵tiɛ³³
+712	348.0	older sister	姐姐	jiějie	a¹tse²	a⁵⁵tsi̤²¹	a⁵⁵tse²¹	a⁵⁵tɕi³³	a³⁵tse²¹	a⁵⁵tɕi³³	tɕi²¹	a⁵⁵tɕiɛ²¹
+713	347.0	older brother	哥哥	gēge	a¹ka¹	a⁵⁵ka³³	a⁴⁴ka³³	a⁵⁵kɔ³³	a³³ko³³	a²¹a⁵⁵	a²¹zu²⁴	a⁵⁵kɨ³³
+714	477.0	road	路	lù	gja¹ma³ 	ga⁵⁵ma³³	ga²⁴ma³³	gɔ²⁴mɔ³³	gu²⁴mu³³	go⁵⁵kɑ³³	go²⁴mo³³	
+715	477.1	road	路	lù	gja¹ka³			gɔ²⁴kə³³		go⁵⁵kɑ³³		
+716	477.2	road	路	lù	ka³kɨ̠H						ka²⁴kə³³	ka³³kɨ⁵³
+717	274.0	armpit	腋下/腋窝	yèxià	ka²	lɛ̠²¹ta̠²¹i⁵⁵ta⁵⁵kʰə³³	lɛ⁵⁵ka²¹tsɿ³³	ti⁵⁵ku⁴²li³³	lɛi³³da⁴⁴kʰɤ̪˞³³	li²¹ku²¹lɛ³³	pʰa³³kua²⁴	tsɛ˞²¹tsɛ˞⁵⁵kʰo³³
+718	728.0	roast (over fire)	烤(火上)	shāokǎo	kaŋ¹	ka⁵⁵, kʰaŋ⁵⁵	ku²⁴	ka⁵⁵	ka⁵⁵	xõ⁵⁵, xu⁵⁵	oŋ²⁴	ku³³
+719	207.0	rice (grains)	米	mǐ	dza²kʰa¹	dza²¹kʰa⁵⁵	dza²¹kʰa⁴⁴	tɕʰi⁵⁵fɤ̪⁵⁵	tɕʰi⁵⁵pʰᶠɤ̪˞̪⁵³, dzo²⁴kʰɤ̪˞⁵³	dzo²¹kʰo⁵⁵	dzo²¹kʰo²⁴	tɕʰi⁵⁵fv̩³³
+720	513.0	pipe (yuantong)	烟筒	yān		jan³³tʰoŋ²¹	lao²¹pian⁴⁴tʰoŋ²¹	lɔ²¹mə⁵⁵tʰo²¹	lao²¹piɛn⁴⁴tʰoŋ²¹	a⁵⁵kʰɨ²¹a³³da³³	a²⁴lu³³sa²¹bo²⁴po̠²¹	jo³³jo³³ta⁵⁵tʰoŋ²¹tʰoŋ²¹
+721	437.0	hoe (large)	锄头	chútóu	tse²	tsi²¹tsʰo̠³³	tsei²¹tsʰu³³	tsei²¹mɔ³³	tsɛi²¹tʂʰɛ˞³³	tɕɛ²¹mo³³	tɕʰi²¹tsʰu³³	tsai²¹
+722	395.0	granary	仓（装粮食的柜子）	liángcāng	gɨ¹tʰu²	ha⁵⁵sɛ²¹gɨ²¹tʰə²¹	ka⁴⁴	gɤ̪²¹	ɣa²⁴	dʒo⁵⁵ka²¹	xio⁵³	
+723	792.0	defecate	解大便	zuòdàbiàn	kʰji²ɛ²	tsʰɿ²¹ɛ̤²¹	tsʰɿ²¹ɛ̃˞²¹	tɕʰi²¹xɔ⁵⁵	tsʰɿ²¹ɛ̃˞²¹	ɛ²¹	tɕʰi²¹ɛ²⁴	tsʰɿ²¹ɛ˞²¹
+724	792.1	defecate	解大便	zuòdàbiàn	kʰji²ɛ²	tsʰɿ²¹ɛ̤²¹	tsʰɿ²¹ɛ̃˞²¹	tɕʰi²¹xɔ⁵⁵	tsʰɿ²¹ɛ̃˞²¹	ɛ²¹	tɕʰi²¹ɛ²⁴	tsʰɿ²¹ɛ˞²¹
+725	239.0	gums	齿龈	chǐyín		sy²¹ɦa⁵⁵kʰə⁵⁵tɕi³³	ɕy²¹tɕi³³	sə²¹dɔ²¹	sy²¹no²¹gɨ²⁴, sy²¹tɕi³³	soŋ²¹ko⁵⁵xo²¹	ɕi²¹xou²⁴	
+726	244.0	throat	喉咙	hōulóng	ly¹tʰy³	ly⁵⁵tʰy³³	le³³wo⁴⁴tʰy³³	lə²⁴tʰə³³	saŋ²¹ko³³lo³³	lɨ⁵⁵bɨ⁵⁵kʰoŋ³³kʰoŋ³³	kɨ²¹tʰə²⁴dzo³³	jĩ³³tʰə²¹
+727	290.0	sweat	汗	hàn	kjɛ²	kɨ²¹	kɛ²¹	kiɛ²¹ji²⁴	kɛ˞²¹	kɛ²¹	kɨ²¹ɣɨ²⁴	kɛ˞²¹
+728	641.0	load; pack (put in)	装 (装进袋里)	zhuāng	kɛ³	kɛ³³	kɛ³³	kɛ³³	kɛ˞³³	kɛ³³	kɛ³³	ho³³
+729	617.0	wear (hat); put on (hat)	戴 (帽子)	dài	kʰo̠H	kʰo̠³³	kʰo⁴⁴	də⁴²	kʰu³³	kʰu̠³³	kʰu̠³³	tɨ⁵³
+730	70.0	this evening	今晚	jīnwǎn	i²mi¹	i²¹mi⁵⁵	i²¹mi²⁴	i²¹mi²⁴	y²¹my²⁴	ɪ²¹mi⁵⁵	i²¹mi²⁴la²¹vaŋ⁵³	n̩²¹ti⁵⁵sa³³pʰi³³
+731	70.1	this evening	今晚	jīnwǎn	i²mi¹	i²¹mi⁵⁵	i²¹mi²⁴		y²¹my²⁴	ɪ²¹mi⁵⁵	i²¹mi²⁴la²¹vaŋ⁵³	n̩²¹ti⁵⁵sa³³pʰi³³
+732	852.0	sour	酸	suān	tʃe¹	tɕi⁵⁵	tɕi²⁴	tɕi⁵⁵	tɕi⁴⁵³	tɕi⁵⁵	tɕi²⁴	tsei³³
+733	240.0	tongue	舌头	shé	ʔla¹	ʔla⁵⁵	la⁴⁴	lɔ⁵⁵	lo⁴⁵³	lɛ⁵⁵pɛ⁵⁵	lo²⁴	la³³
+734	494.0	soul (1)	魂	hún	ʔxa¹	ha⁵⁵	hã²⁴	tsʰa⁵⁵xɔ⁵⁵	hõ⁴⁵³	a⁵⁵ɣɨ³³	ɛ²¹xo²⁴	ha⁵⁵ɣɨ³³
+735	39.0	flame	火焰	huǒyàn	a¹to̠ᶫʔly¹	a⁵⁵to̠²¹ʔly⁵⁵	a⁴⁴tuʔ⁵⁵ba³³	a⁵⁵tu̠⁵²lə⁵⁵	a³³tu³³li⁵³	a⁵⁵to²¹lə⁵⁵	a²⁴tu̠³¹xə²¹	a⁵⁵tu⁵⁵pʰai⁵⁵
+736	596.0	graze; herd (a flock)	放牧	fàngmù	ʔlo̠ᶫ	lo̠²¹	lu⁵³	lu⁴²	lu̠³³	luɛ̠³³	luʲ²²i³³, luʲ²⁴	i³³
+737	848.0	hot (temp.)	热	rè	tsʰa¹	tsʰa⁵⁵	tsʰa²⁴	ə²¹, tsʰɔ⁵⁵	tsʰo⁴⁵³	tsʰo⁵⁵	tsʰo²⁴	tsʰa³³
+738	489.0	name	名字	míngzi	ʔmi¹	ʔmi⁵⁵	ĩ⁵³	mi⁵⁵	mĩ²¹tsɿ⁵⁵	mi⁵⁵kʰu⁵⁵	ɛ²¹tsɿ³³	mi⁴⁴ʂɛ⁵³
+739	685.0	forget	忘记	wàngjì	ma²xa̠ᶫ	ma²¹xa̠²¹	ma²¹hã⁵³	ma²¹xu⁴²ji³³	a²¹xo³³huɛi²¹	mɑ²¹xɑ̠²¹ji³³	lɨŋ⁵³gao³³	i³³pʰi³³
+740	834.0	good	好 (东西好)	hǎo	mɛ²	da⁵⁵	da²⁴	tue⁴²	mɛ˞²¹	na⁵⁵	mɛ²¹	kai³³
+741	18.0	earth-1	地 (大地/草地)	dì	ʔmi¹di²	mi⁵⁵	mi²⁴di²¹	mi²⁴	n̩³⁵³di²¹	mi⁵⁵mo³³loʔ³³	mi²⁴kʰa²¹	ai³³tsʰɿ²¹bə³³
+742	18.1	earth-2	地 (大地/草地)	dì	ʔmi¹di²	mi⁵⁵	mi²⁴di²¹	mi²⁴	n̩³⁵³di²¹		mi²⁴kʰa²¹	ai³³tsʰɿ²¹bə³³
+743	189.0	taro	芋头	yùtóu	a¹tʃʰo̠H	a⁵⁵tʂʰo̠³³	a⁴⁴tʂʰu⁴⁴	tsʰo³³, tsʰu³³	sɿ³³tɕʰi³³			
+744	189.1	taro	芋头	yùtóu	bi²					bɨ²¹	bi²¹za²⁴	bi²¹tʰo³³
+745	300.0	body hair; feathers	毛(翎毛)	(líng)máo	tsʰy¹	tsʰy⁵⁵	tɕʰy²⁴	n̩²¹tsʰə⁵⁵	tsʰy⁴⁵³	ja²¹tʃʰɿ⁵⁵	tɕi²⁴gu²¹muʲ⁵⁵jo³¹	
+746	75.0	field cow	黄牛	huángniú	a¹ni²ʃɛ¹	a⁵⁵ŋ̩²¹	an⁵¹ʂɛ˞²⁴	la²¹ni⁵⁵	a³⁵ɲi²¹ʂɛ˞⁵³	a⁵⁵ni²¹	a²⁴ni²¹	a⁴⁵ni⁵³sɛ˞³³
+747	519.0	listen	听	tīng	ʔna¹	ʔna⁵⁵	na⁴⁴	nɔ⁵⁵	no⁴⁵³	no⁵⁵	go²¹	na³³
+748	905.0	NARROW	窄	zhǎi	ʔɲa̠ᶫ					ɲɑ̠³³		
+749	908.0	DEEP	深 (水深)	shēn	ʔne̠ᶫ	nɛ̠²¹	nɛʔ⁵³	nei⁴²		nɛ̠²¹	ni̠²¹	nai⁵³
+750	959.0	that (higher)	那 (上位)		na(ŋ)¹	nao⁵⁵	na⁴⁴ma³³	nu⁵⁵mɔ³³	na⁴⁵³ja³³	nə⁵⁵	no³³mo²⁴	nə³³ja⁵³
+751	860.0	stinky	臭	chòu	by²ny¹	by²¹ny⁵⁵	by²¹ny²⁴		by²¹ny²⁴			
+752		tongs	钳子	qiánzi		hʷo²¹tɕa⁵⁵						
+753	800.0	red	红	hóng	ʔni¹	ʔɲi⁵⁵f̩²¹	i⁵⁵fv̩²¹	ni⁵⁵	ĩ⁴⁵³	ni⁵⁵	ni²⁴	ʔi³³
+754	803.0	green	绿	lū	ʔni¹	ʔɲi⁵⁵tʂʅ³³	ni⁴⁴kʰɨ⁵³	lə³³		kʰɛŋ⁵⁵, kʰi⁵⁵mu²¹	ɛ²¹nio⁵³	lo⁵³
+755	899.0	LOW	低	dī	ʔni¹	ai̠²¹	dɛ²⁴	ʝi³³	ɛi³³	ni⁵⁵	ə²⁴	tɕi³³
+756	462.0	pot; pan; wok	锅 (炒菜的)	guō	a²tʃʰɛ¹	a⁵⁵tɕʰɛ⁵⁵	a⁴⁴tʂʰɛ⁴⁴	a⁵⁵tsʰɛ⁵⁵	a³³tʂʰɛ˞⁴⁵³	a⁵⁵tsʰa⁵⁵pɛ³³	a²⁴tɕʰɛ²⁴	a²¹tsʰɛ˞³³
+757	972.0	beneath	下面	xiàmiàn		ṳ²¹si⁵⁵,da⁵⁵kʰə³³	u⁵⁵se⁴⁴	tɕʰi⁵⁵kʰə³³	da²⁴kʰɤ̪˞³³	tɨ²¹xɨ⁵⁵	ɛ²¹dai²⁴	ta³³lai²¹
+758	796.0	exchange	交换	jiāohuàn	pa¹	pa⁵⁵	pa²⁴	pɔ⁵⁵	po⁴⁵³	po⁵⁵	po²⁴xɛ³³	pa³³
+759	373.0	male suffix	公的		jaŋ²pa̠ᶫ	pa̠²¹	pa⁵³	ja³³pu⁴²	ja³³po³³mo³³	jɛ²¹pɑ̠²¹	ɛ²¹pʰv̩²⁴,ɛ³³po̠ʔ²¹	ja²¹pa⁵³
+760	130.0	roach	蟑螂	zhāngláng		pʉ⁵⁵tʂʅ̠²¹	lu⁵⁵tsu²¹dzɿ²¹	ta³³kʰa³³za²¹	lu³⁵tsu²¹dy²¹	me³³sæ⁵⁵la⁵⁵	dzo²⁴xa̠ʔ²¹mo³³	tsao⁴⁴m̩²¹tʂɛ˞³³
+761	242.0	chin	下巴	xiàbā	mu²pɨ¹daŋ¹	n̩²¹la³³dzɿ³³	m̩²¹bɨ⁴⁴dy⁴⁴/⁵⁵	m̩²¹pə⁵⁵da³³dzɿ³³	m̩²¹pɨ⁵⁵ku³³	m̩²¹pɨ⁵⁵	ɛ²¹mə³³pĩ²²ŋa²¹	ɕa³³ba³³kʰo³³
+762	624.0	comb	梳 (梳头)	shū	pjɨ²	pʉ²¹	pɨ²¹	kʰɔ³³	pɨ²¹	pɨ²¹	pɨ²¹	pai²¹
+763	101.0	porcupine	豪猪/箭猪	háozhū/jiànzhū	pu¹		ɛ²¹ve⁵³	kɤ̪⁵⁵	hɛ̃˞³³dzɛi²¹	pu⁵⁵	a²⁴pu²⁴	pv̩³³
+764	48.0	tomorrow	明天	míngtiān	a²gy¹ʔni³	a²¹gy⁵⁵n̩³³	ɛ²¹goŋ⁴³	a²¹gə²⁴nɛ³³	ɛ²¹gu²⁴ɲi³³	a²¹gɨŋ⁵⁵	a²¹gi²¹ni²⁴	ɛ²¹gɨ³³mi³³
+765	691.0	can (well)	会 (会做)	huì	kʰɛ¹	kʰɛ⁵⁵	kʰɛ²⁴	kə⁴²	kʰɛ˞⁴⁵³	kʰɛ⁵⁵	dʑɛ²¹kʰɛ²⁴	kʰɛ˞³³
+766	41.0	night	夜	yè	he̠ᶫ	hɛ̠²¹	hɛ̃ʔ⁵⁵	xei⁴²	xai³³	xɛ̠²¹	ŋ̩³³kə²¹ɕi²⁴	xai⁵⁵
+767	27.0	cliff	悬崖		ɣɛ̠̠ᶫ	va̠²¹tsɿ̠²¹	lu²⁴di³³; vɛ⁵³tsɿ³³	wa⁴²bɔ²¹tʰɛ⁵⁵	ɣɛ˞̠³³dʑi²⁴	va²¹kʰu²¹	va̠²¹tɕi²¹	i⁵⁵kʰɛ˞⁴²
+768	963.2	in front	前面	qiánmiàn	u²si¹				wu²¹ɕi⁵⁵	wo²¹sɛ⁵⁵	sa⁵⁵pə²¹	ɣɨ²¹hei³³
+769	963.0	in front	前面	qiánmiàn		ʔɲi²¹di²¹	wu⁴⁴bɛ/y²¹	ə²¹sə⁵⁵	wu²¹ɕi⁴⁴	wo²¹sɛ⁵⁵	sa⁵⁵pə²¹	ɣɨ²¹hei³³
+770	963.1	in front	前面	qiánmiàn	u²by²	ʔɲi²¹di²¹	wu⁴⁴bɛ/y²¹				sa⁵⁵pə²¹	
+771		stand up	站起来			hø̠²¹						
+772	758.0	begin; start	开始	kāishǐ	tu¹		mu⁴⁴to³³	mɤ̪⁵⁵tɤ̪⁵⁵	mɤ̪˞⁴⁵³	ko⁵⁵mə⁵⁵	sa⁵⁵pə²¹	pai⁵⁵ta³³
+773	635.0	put down; put/place	放 (下) [放置]	fàng(xià) [fàngzhì]	ta̠ᶫ	ta̠²¹	pʰy²¹ta⁵³	nɔ²¹	to̠⁴⁴	to³³	to̠ʔ²¹	pʰɨ²¹
+774	586.1	plant; grow	种/栽秧	zhòng	tɛ¹	tɛ⁵⁵	tɛ²⁴	tɛ⁵⁵	tɛ˞⁴⁵³	tɛ⁵⁵	tɛ²⁴	tɛ˞³³
+775	938.0	thousand	千	qiān	tu¹	tə⁵⁵	tv̩²⁴	tɤ̪⁵⁵	kɨ⁴⁵³	xɛn⁵⁵	ɛ²¹xĩn⁵³	tɕʰĩ³³
+776	224.0	head hair	头发	tóufà	n̩²tsʰy¹	n̩²¹tsʰy⁵⁵	n̩²¹tɕʰy²⁴	n̩²¹tsʰə⁵⁵	n̩²¹tsʰy⁴⁵³	n̩²¹də⁵⁵tsʰə⁵⁵	ŋ̩²¹tsʰə²⁴	n̩²¹tsʰə³³
+777	401.0	hat	帽子	màozi	nu²tsi²	n̩²¹tsɿ²¹	n̩³²tsɿ²¹	kʰa²¹tʰu⁵⁵	n̩²¹tsɿ²¹	a²¹tsu²¹	ɛ³³tsu²¹	n̩²¹tsɿ²¹
+778	241.0	beard; mustache	胡子	húzi	tsʰi̠H	n̩²¹tsʰɿ̠³³	n̩²¹tsʰɿ⁴⁴	n̩²¹tsʰɿ³³	n̩²¹tsʰɿ³³	m̩²¹pɨ⁵⁵tʃʰɿ³³	doŋ²¹tsʰɿ³³	fv̩²¹tsɿ³³
+779	771.0	be standing	站 (站位)	zhàn	hy̠ᶫ	hø̠²¹	ɸy⁵³	xə⁴²	hø̃⁴⁵³	xɑ̠²¹	xi̠⁵³	xɨ⁵³
+780	283.0	intestines	肠子	chángzi	he̠ᶫvu¹	hɛ̠²¹v̩⁵⁵	xɛ⁵⁵vv̩³³	xei⁴²vɤ̪²⁴	xai⁴⁴vv̩²⁴	xo²¹wu⁵⁵	ɛ²¹vɨi⁵⁵jo³¹	xai⁵⁵vv̩³³
+781	535.0	say	说	shuō	be̠H 	bɛ̠³³	bɛ⁴⁴	bei³³	bi³³	bɛ̠³³	tʰɨ²⁴	bei⁵³
+782	789.0	hiccup	打嗝	dǎgé	ɨ̠H	ti⁵⁵kɨ³³ɦou²¹mʉ³³	kɨ²⁴dɛ²¹	ə³³tə²¹	ɨ⁴⁵³tɨ³²dɛ˞²¹	ɛ³³fu³³kɨ³³	a²⁴kʰə̠³³ʔə̠²¹	ɨ²¹m̩³³
+783	449.0	winnowing basket	簸箕 (簸米用)	bòji	ʔva¹	ʔva⁵⁵ma³³	le⁴⁴va⁴⁴	ɔ⁵⁵mɔ³³	lɛi³³o⁵³	o⁵⁵mo³³	o²⁴mo³³	oaŋ³³
+784	614.0	winnow with a fan	簸 (簸米)	bǒ	ʔva¹	ʔva⁵⁵	va⁴⁴	ɔ⁵⁵	ou⁴⁵³	o⁵⁵	o²⁴	oaŋ³³
+785	981.0	how?	怎么?			a̤²¹da⁵⁵si³³,a̤²¹sɿ⁵⁵	ɛ̃²¹hẽ²⁴	a²¹sei³³	a²¹dɛ˞²⁴	a²¹dɛ⁵⁵pɛ⁵⁵	a²¹da²⁴	a²¹kʰə²¹lə³³
+786	745.2	birth	生 (生孩子)	shēng	hu¹							ho³³
+787	745.0	birth	生 (生孩子)	shēng	bɛ³						ba³³	
+788	745.1	birth	生 (生孩子)	shēng	dza¹			dza²⁴		tsa⁵⁵		
+789	745.3	birth	生 (生孩子)	shēng	ka²		ka²¹		kʰɨ⁴⁵³			
+790	745.4	birth	生 (生孩子)	shēng	tsʰy²	tsʰy²¹						
+791	427.0	liquor	酒	jiǔ	dʒi¹	dʐʅ⁴⁵	dʐʅ²⁴	dzɿ²⁴bɛ²¹	dʐʅ²⁴	dʑi⁵⁵	dʑi²⁴	dzɿ³³
+792	161.0	wheat	小麦	xiǎomài	ʃa¹	ʂa⁵⁵	ʂa²⁴	sɔ⁵⁵	ʂo⁴⁵³	kʰa²¹ɕɛŋ⁵⁵	so²⁴	sa³³
+793	231.0	nose	鼻子	bīzi	ʔna¹kʰaŋ²/³	ʔna⁵⁵kʰə³³	na⁴⁴kʰv̩³³	na⁵⁵kʰɤ̪³³	nɨ˞⁴⁵kʰɤ̪˞³³	no⁵⁵kʰu³³	na²⁴kʰv̩²¹	na⁵⁵kʰo²¹
+794	231.1	nose	鼻子	bīzi	ʔna¹kʰaŋ²/³	ʔna⁵⁵kʰə³³	na⁴⁴kʰv̩³³	na⁵⁵kʰɤ̪³³	nɨ˞⁴⁵kʰɤ̪˞³³	no⁵⁵kʰu³³	na²⁴kʰv̩²¹	na⁵⁵kʰo²¹
+795	935.0	twenty	二十	èrshí	ni²tse¹	n̩²¹tsi⁵⁵	n̩²¹tsʰe²⁴	n̩²¹tsei⁵⁵	n̩²¹tɕʰi⁴⁵³	n̩²¹tɕʰɛ⁵⁵	ŋ̩²¹tɕi²⁴	n̩²¹tsei³³
+796	968.0	right	右边	yòubiān	ʒa¹	jɛ⁵⁵si⁵⁵	lɛ⁵³tʂʅ³³se⁴⁴	lei⁴²tsɿ⁵⁵	ʐu⁵⁵pʰɛi³³	dʒə⁵⁵sɿ⁵⁵	pʰa̠²¹ka³³	suən³³sou²¹bei³³lei³³
+797	488.0	book	书	shū	tʰo²ɣu²	tʰiau²¹pʉm²¹	tʰiu²¹pə̃²¹	tʰa²¹ji²¹pə²¹	tʰa²¹ɣɨ²¹bɨ̃ŋ²¹			
+798	762.0	wash (self)	洗(手)	xǐ	tsʰi²	tsʰɿ²¹	tsʰɿ²¹	tɕʰi²¹	tsʰɿ²¹	tɕʰi²¹	tɕʰi²¹	tsʰɿ²¹
+799	164.0	barley	大麦	dàmài	zi³	zɿ³³	zɿ³³	zɿ³³	zɿ³³		so²⁴	zo³³
+800	232.0	ear	耳朵	érduo	ʔna²paŋ¹	ʔna̤²¹pu⁵⁵	na²¹pu⁴⁴	na²¹pa⁵⁵	na²¹pa⁵⁵kv̩³³	no²¹pa⁵⁵kɛ³³	na²¹pa²⁴	na²¹pu³³
+801	444.0	thread	线 (缝衣用的)	xiàn	kʰi¹	kʰɨ⁵⁵	kʰɨ²⁴	xɔ²⁴xə³³	kʰɨ⁴⁵³	kʰi⁵⁵tso³³	kʰi⁵⁵tso̠³³	kʰɨ³³
+802	15.0	frost-1	霜	shuāng	ʔni¹pʰu¹	i⁵⁵fv̩⁵⁵	ni⁵⁵fv̩²⁴/³³	i⁵⁵fɤ̪⁵⁵	ji³⁵pʰᶠv˞̩⁵⁵	mi⁵⁵pʰu⁵⁵	mi²⁴pʰv̩²⁴	i⁵⁵fv̩³³
+803	51.0	four days from now	四天后	sìtiānhòu	a²ɣo³ʔni³		ɛ²¹ɣõ³³	li³³nɛ³³kɔ²¹ta³³	a²¹mɛ˞²⁴ɲi³³	a²¹paŋ³³	li³³ni³³dɨi⁵³	a²¹wu³³ni³³
+804	19.0	soil; dirt-1	土(干) (土壤)	tǔ(rǎng)	e²tsʰi²	i²¹tsʰɿ²¹	i²¹tsʰɿ²¹	ei²¹tɕʰi²¹	ai²¹tsʰɿ²¹	n̩²¹tɕʰi²¹na̠³³	i²⁴tɕʰi²¹	mi³³
+805	19.1	soil; dirt-2	土(干) (土壤)	tǔ(rǎng)	e²tsʰi²	i²¹tsʰɿ²¹	i²¹tsʰɿ²¹	ei²¹tɕʰi²¹	ai²¹tsʰɿ²¹	n̩²¹tɕʰi²¹na̠³³	i²⁴tɕʰi²¹	mi³³
+806	22.0	ditch	沟	gōu	ɣi¹kʰa²	ɣɨ⁵⁵kʰḁ²¹	ɣɨ²⁴kʰa²¹	ji²⁴kʰa²¹	ɣɨ³⁵kʰo²¹	ɣɨ⁵⁵kʰo²¹	o²⁴kʰo²¹	wv̩³³kv̩³³
+807	22.1	ditch	沟	gōu	laŋ¹ka̠ᶫ	lu⁵⁵ka̠²¹					na²¹kʰoŋ⁵³	
+808	24.0	puddle	小池塘	xiǎochítáng	ɣi¹by³za²		ɣɨ²⁴by³³za²¹	bə³³zɔ²¹	ɣɨ³⁵dv̩˞²¹dɛ˞³³zo²¹	ɣɨ⁵⁵dəŋ³³jo²¹	ɣɨ²⁴la²¹bo²²jo⁴²	a²¹bə³³za²¹
+809	25.0	well inside	井	jǐng	tsɛ³du²	tsɛ³³də²¹		tɕɛ³³dɤ̪²¹				
+810	29.2	cave	(山)洞	dòng	kʰu¹du¹me¹	sy²¹kʰə⁵⁵	kʰv̩⁵⁵dʐv̩²¹kʰv̩²⁴	kʰɤ̪⁵⁵dɤ̪²¹	koŋ²¹mɛi³³, saŋ²¹kʰv̩⁵⁵mɛi³³			
+811	154.0	(cocks)comb	冠（鸡冠）	jīguān	kjo¹	a⁵⁵jɛ̠³³kø⁵⁵	kuɛ²⁴	i³³kə⁵⁵	kue⁵⁵	jɛ²¹ko⁵⁵	ka̠²¹kɨ²⁴	kei³³
+812	34.0	tin	锡	xī			gɨ²⁴	ɕi⁵⁵pa²¹tɛ²¹, la³³	tʰi³³	la³³	gɨ²¹	ɕi³³
+813	35.0	coal	煤	méi			mei²⁴	mei²¹tʰa³³	mɛi²¹tʰaŋ⁵⁵	mei²¹	ɕi³³mi²¹	mei²⁴
+814	214.0	shell (egg, etc)	皮/壳(蛋)	(dàn)pí/ké	kjo²	fv̩³³kø̤²¹	fv̩³³gɨ²⁴	i³³fɤ̪³³kə²¹	fv˞̩³³kʰo³³	jɛ²¹ko²¹	a²⁴ji³³fv̩³³kɨ²¹	kʰɛ²¹kʰɛ˞⁵³
+815	380.0	home	家	jiā	he¹ko³	hi⁵⁵kə³³	hẽ²⁴ko³³lɛ³³	xei⁵⁵kə³³	hĩ⁴⁵³	o²¹xɛ⁵⁵	xĩŋ²⁴ka²⁴	hai⁴⁴ko³³
+816	47.0	four days ago	四天前	sìtiānqián		ʔʐʅ³³ʔɲɛ³³n̩²¹ti³³		li³³nɛ³³n̩²¹sɿ³³	ʂʅ³³wu²¹ɲi³³	lɨ³³ni³³wo²¹sɛ⁵³	li³³ni³³ɣɨi⁵³	sɿ³³lu³³ni³³
+817	487.0	sound; voice	声音	shēngyīn	kʰo²tʰy¹			kʰu²¹tʰei³³		ɕɛ²¹tʰə⁵⁵	kə²¹tʰə²⁴	kʰo²¹tʰə³³
+818	53.1	new year	新年	xīnnián	kʰo̠ᶫxɨ̠ᶫ	kʰo̠²¹xɨ²¹	kʰo⁴³xɨ⁵³	kʰo⁴²ɕi⁴²	kʰo³³kʰɨ²¹	kʰu²¹xɨ²¹	kʰu̠⁴²xɨ²¹	kʰo⁵⁵kʰo⁵⁵lɛ⁴²
+819	54.0	this year	今年	jīnnián	tʃʰi²ni̠H	tʂʰʅ²²ɲiɛ̠³³	tʂʰʅ²¹ni⁴⁴	tsɿ²¹nei³³	tʂʰʅ³³nɛi̠³³	tɕʰi²¹ni̠³³	tsʰɿ²¹nɨ̠³³	tɕʰi⁵⁵ĩ⁵³
+820	54.1	this year	今年	jīnnián	tʃʰi²ni̠H	tʂʰʅ²²ɲiɛ̠³³	tʂʰʅ²¹ni⁴⁴	tsɿ²¹nei³³	tʂʰʅ³³nɛi̠³³	tɕʰi²¹ni̠³³	tsʰɿ²¹nɨ̠³³	tɕʰi⁵⁵ĩ⁵³
+821	55.0	last year	去年	qùnián	a²ni̠H	a̤²¹ɲiɛ̠³³si⁵⁵	a²¹ni⁴⁴	a²¹nei³³sə⁵⁵	a²¹nɛi̠³³	a²¹ni̠³³	a²¹nɨ̠³³	a²¹ĩ⁵³
+822	56.0	year before last	前年	qián nián	ʃi̠Hni̠H	ʂʅ³³ɲiɛ̠³³si⁵⁵	ʂʅ⁴⁴ni⁴⁴sɛ³³	sɿ³³nei³³sə⁵⁵	ʂʅ³³nɛi̠³³	ɕi³³ni̠³³	sɿ⁵⁵nɨ̠³³	sɿ³³i⁵³
+823	56.1	year before last	前年	qián nián	ʃi̠Hni̠H	ʂʅ³³ɲiɛ̠³³si⁵⁵	ʂʅ⁴⁴ni⁴⁴sɛ³³	sɿ³³nei³³sə⁵⁵	ʂʅ³³nɛi̠³³	ɕi³³ni̠³³	sɿ⁵⁵nɨ̠³³	sɿ³³i⁵³
+824	58.0	four years ago	四年前	sìniánqian	a²ɣu²ni̠H		a³³xɛ²¹ni⁴⁴	li³³kʰu²¹n̩²¹sə⁵⁵	ʂʅ³³wu²¹nɛi̠³³	lɨ³³kʰu²¹wo²¹sɛ⁵³	li³³kʰu²¹gɨi⁵³	sɿ³³lu³³i⁵³
+825	59.0	next year	明年	míngnián	ʔna²he̠ᶫ	na²¹ɲ̥ɛ̠²¹si⁵⁵	nɛ²¹hɛʔ⁵³	na²¹xei⁴²	no²¹xai³³	nɛ²¹xɛ²¹	na³³xi²¹	na²¹xai⁵³
+826	59.1	next year	明年	míngnián	ʔna²he̠ᶫ	na²¹ɲ̥ɛ̠²¹si⁵⁵	nɛ²¹hɛʔ⁵³	na²¹xei⁴²	no²¹xai³³	nɛ²¹xɛ²¹	na³³xi²¹	na²¹xai⁵³
+827	60.0	year after next	后年	hòunián	na(ŋ)¹ni̠H	nə⁵⁵ɲɛ̠³³si⁵⁵	nu⁴⁴ni⁴⁴	nɔ²⁴nei³³	no²⁴ɲi̠³³	no⁵⁵niʔ³³	na⁵⁵nɨ³³	nu⁵⁵ĩ⁵³
+828	60.1	year after next	后年	hòunián	na(ŋ)¹ni̠H	nə⁵⁵ɲɛ̠³³si⁵⁵	nu⁴⁴ni⁴⁴	nɔ²⁴nei³³	no²⁴ɲi̠³³	no⁵⁵niʔ³³	na⁵⁵nɨ³³	nu⁵⁵ĩ⁵³
+829	61.0	three years from now	大后年	dàhòunián	na(ŋ)¹ɣu²ni̠H	nə⁵⁵wu²¹ɲɛ̠³³si⁵⁵	ɛ²¹xɛ⁵⁵ni⁴⁴	no²⁴wu²¹nei³³	no²⁴wu²¹ɲi̠³³	no⁵⁵mo²¹niʔ³³	na⁵⁵tɕʰi²⁴	nu⁵⁵wu²¹ĩ⁵³
+830	62.0	four years from now	四年后	sìniánhòu			ɛ²¹wu³³ni⁴⁴	li³³kʰu²¹kɔ²¹ta³³		lɨ³³kʰu²¹wa⁵⁵ti³³	li³³kʰu²¹dɨi⁵³	nu⁵⁵lu³³ĩ⁵³
+831	63.0	daytime	白天	báitiān		iŋ³³si⁵⁵	n̩²¹lu³³sɛ³³	mɔ⁴²mɔ³³ka⁵⁵	ŋ²¹gɤ̪²⁴lɛ²¹	la̠³³	mo³³lua²⁴	mi²¹li²¹ka³³
+832	66.0	noon	中午	zhōngwǔ	dza¹dʒi²dza²	dza⁵⁵dʑe³³dza²¹va³³	dza⁵⁵tɕʰi²¹dza²¹la³³	dzɔ²⁴ji³³dzɔ²¹xa³³	dzo²⁴i³³dzo²¹kv̩²⁴		va⁵³ŋai⁵³	dza²¹i³³dza²¹kɛ˞³³
+833	69.0	night(time)	夜(里)/黑夜	yèlǐ/hēiyè	mo²kʰɨ̠ᶫse¹	i²¹mi⁵⁵si⁵⁵,ŋ̩²¹kʰɨ̠²¹si⁵⁵	n̩²¹kʰɨ⁵³ɕi³³	a⁵⁵mə²¹kʰə⁴²	ŋ̩²¹kʰɨ³³lɛi²¹	ŋ̩²¹kɨ²¹sɿ⁵⁵	ŋ̩³³kə²¹ɕi²⁴	sa³³pʰi³³
+834	663.0	owe	欠	qiàn	bo³	vi³³	tʂʰa³³	bə³³	dzɿ³³	bi³³	tsʰaŋ²⁴	tsʰa³³
+835	78.0	sow	母猪	mǔzhū	a¹ve̠ᶫma³	a⁵⁵vɛ̠²¹ma³³ky³³	a³³ve⁵⁵ma³³ko³³	vei⁴²mu³³ku³³	a³³vɛi̠³³mv̩³³kv̩³²	a⁵⁵vɛ̠²¹mo³³	a²⁴vi̠ʔ³¹zo²¹mo³³	a⁴⁴vei⁵⁵ma³³
+836	79.0	piglet	小猪	xiǎozhū	a¹ve̠ᶫza²	a⁵⁵vɛ̠²¹za̤²¹	a³³ve⁵⁵za²¹	vei⁴²zɔ²¹	a³³vɛi̠³³zo²¹	a⁵⁵vɛ̠²¹jo²¹	a²⁴vi̠ʔ³¹jo³¹	a⁴⁴vei⁵³za³¹
+837	80.0	boar	公猪	gōngzhū	a¹ve̠ᶫpa̠ᶫ	vɛ̠²¹pa̠²¹	a³³ve⁴⁴pa⁵³	vei⁴²lu⁵⁵	a⁴⁴vɛi̠³³po³³	a⁵⁵vɛ̠²¹xæ⁵⁵	a²⁴vi̠ʔ³¹ɛ³³po²¹	a⁵⁵vei⁵³pa⁵³
+838	81.0	boar (wild)	野猪	yězhū	a¹ve̠ᶫkaŋ²		a³³ve⁵⁵ko²¹		a⁴⁴vɛi̠³³ka̠²¹	a⁵⁵vɛ̠²¹te̠²¹	a²⁴vi̠ʔ³³ka̠ʔ²¹	
+839	81.1	boar (wild)	野猪	yězhū	e²ve̠ᶫ	i̤²¹vɛ̠²¹		e²¹vei⁴²				ai²¹vei⁵³
+840	83.0	ram	公羊	gōngyáng	a¹tʃʰi̠ᶫpa̠ᶫ	a⁵⁵tʂʰʅ̠²¹pa̠²¹	a³³tʂʰʅ⁴⁴pa⁵³	a⁵⁵tsʰɿ⁴²lu⁵⁵	a³³tʂʰʅ³³po³³	a⁵⁵tɕʰiʔ²¹pʰi⁵⁵	a²⁴tɕʰio⁴²ɛ³³po̠ʔ²¹	a⁴⁴tsʰɿ⁵⁵pa⁵³
+841	90.0	wild animal	野兽	yěshòu	dze²kaŋ²	ko̤²¹dʑi̤²¹	ko²¹dʑi²¹	ja³³ka⁴²	ka²¹dʑi²¹	jɛ²¹ka²¹	ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹	də²¹vv̩³³
+842	90.1	wild animal	野兽	yěshòu	dze²kaŋ²	ko̤²¹dʑi̤²¹	ko²¹dʑi²¹		ka²¹dʑi²¹		ɛ³³ka̠ʔ²¹mu²⁴ka̠ʔ²¹	də²¹vv̩³³
+843	94.0	wolf	狼	láng	ve¹	tʃʰa̠²¹laŋ²¹	zɿ⁵⁵la²¹pʰɛ²⁴	vei²⁴pu⁴²	vɛi²⁴	a³³no²¹ma³³nai³¹	a²⁴vi²⁴	vei²³pʰə³³ma³³
+844	751.0	call; crow (of animals)	啼 (公鸡啼)	tí	bo¹	vi⁵⁵	dzɿ²⁴	bə²⁴	dzɿ²⁴	bi⁵⁵	bɨ²⁴	bi³³
+845	97.0	weasel	黄鼠狼	huángshǔláng	hɛ̠Hla²pa̠ᶫ	ha³³la̤²¹ɕɛ⁵⁵	hɛ̃⁴⁴la²¹	xa³³lɔ²¹	ɕi⁵⁵lo²¹		fɛ⁵⁵lo²¹	vei²³pʰə³³ma³³za²¹
+846	106.0	hen	母鸡	mǔjī	a¹ɣe̠Hma³ko̠H	a⁵⁵jɛ̠³³ma³³ko³³	a⁴⁴ʝi⁴⁴ma³³ko³³	i³³mu³³ku³³	a⁴⁴ʝi̠⁴⁴mv̩³³kv̩³²	a⁵⁵ji̠³³mo³³	a²⁴ji̠³³zo²¹mo³³	a⁵⁵ji⁵⁵ma³³
+847	108.0	goose	鹅	é	a¹ŋwa¹	a⁵⁵ŋø⁵⁵	a⁴⁴ŋv̩⁴⁴	ɣɔ²⁴,ɔ²⁴	a³³ŋu⁵³	a⁵⁵ŋo⁵⁵	a³³ŋao²⁴	o²¹aŋ⁵³
+848	110.0	swallow	燕子	yàn	py̠H	a⁵⁵pø̠³³	pɨ²¹tʂɛ˞⁵³	xɛ⁵⁵n̩²¹tsɛ²¹	ɲa³³dzɿ²¹	a³³ŋa³³no²¹ʔɛ⁵⁵	bɨ²⁴nɛ⁵⁵o²¹, bɨ²⁴nɛ⁵⁵	jan⁵⁵tsɿ³³
+849	113.0	magpie	喜鹊	xǐquè	a¹tʃɛ̠ᶫ	a⁵⁵tʂa̠²¹	a⁴⁴tʂa⁵³	a⁵⁵tsɛ⁴²	a³⁵tʂɛ˞̠³³		kʰa⁵⁵tsa̠ʔ²¹	a⁵⁵tsɛ˞⁵³
+850	53.0	new year	新年	xīnnián	kʰo̠ᶫxɨ̠ᶫ	kʰo̠²¹xɨ²¹	kʰo⁴³xɨ⁵³	kʰo⁴²ɕi⁴²	kʰo³³kʰɨ²¹	kʰu²¹xɨ²¹	kʰu̠⁴²xɨ²¹	kʰo⁵⁵kʰo⁵⁵lɛ⁴²
+851	106.1	hen	母鸡	mǔjī	a¹ɣe̠Hma³ko̠H	a⁵⁵jɛ̠³³ma³³ko³³	a⁴⁴ʝi⁴⁴ma³³ko³³	i³³mu³³ku³³	a⁴⁴ʝi̠³³mv̩³³kv̩³²		a²⁴ji̠³³zo²¹mo³³	a⁵⁵ji⁵⁵ma³³
+852	123.0	lizard	蜥蜴／壁虎	xīyì		a̤³³mɛ̤³³lɛ²¹ɑ²²wo³³	lu²⁴ba²¹	a⁵⁵mə²¹i⁵⁵mɔ²¹tɕʰi²¹	a²¹mɛ˞²¹ʂɛ˞⁴⁴lɛi³³kv̩²⁴	ɛ̃²¹xã⁵⁵	tʰaŋ³³gi³³li⁵⁵pʰɛ²⁴mo³³	tɕiŋ³³tsoŋ³³mɛ˞²¹, tɕʰyən²¹sɛ˞²¹
+853	129.1	mantis	螳螂	tángláng	a¹tʃʰi̠ᶫlo̠ᶫ		a³³tʂʰʅ⁴⁴lu⁵⁵a²¹pa²⁴ma³³	a⁵⁵vu⁵⁵ja³³lu⁴²pu⁴²	ja²⁴laŋ²¹mu³³		nai²⁴mo³³	tsʰai⁵⁵dza³³pv̩³³
+854	145.0	maggot	蛆/蛆虫	qū	ʔxo̠H	vi̤²¹	hõ⁴⁴	fɤ̪³³	hõ˞³³	xo³³jo²¹	xuʲ⁵³jo³¹	ho⁵³
+855	129.0	mantis	螳螂	tángláng	a¹tʃʰi̠ᶫlo̠ᶫ		a³³tʂʰʅ⁴⁴lu⁵⁵a²¹pa²⁴ma³³		ja²⁴laŋ²¹mu³³	i⁵⁵sɛ⁵⁵mo³³ga²¹lɨ²¹ɣɨ²¹	nai²⁴mo³³	tsʰai⁵⁵dza³³pv̩³³
+856	133.1	wasp	黄蜂	huángfēng	bja²ʃɛ¹			ɕi³³sɛ⁵⁵	ba²¹ʂɛ˞⁴⁵³zo²¹	bo²¹sɛ⁵⁵	dʑi³³dzo³³bo²¹	ba²²to³³sɛ˞³³
+857	134.0	mosquito	蚊子	wénzi	ɣaŋ¹bi̠ᶫ	ɣɨ⁵⁵ɕɛ⁵⁵n̩²¹dzɿ̠³³	vu²⁴dzɿ⁵³	ja²⁴sɛ³³	ja³³ʂɛ˞⁵⁵	i⁵⁵sɛ⁵⁵kɛ⁵⁵kaŋ²¹	ɣɨ²⁴suɛ⁵⁵jo³¹	ɲɛ˞³³m̩²¹dzɿ⁵³
+858	134.1	mosquito	蚊子	wénzi	ɣaŋ¹bi̠ᶫ	ɣɨ⁵⁵ɕɛ⁵⁵n̩²¹dzɿ̠³³	vu²⁴dzɿ⁵³	ja²⁴sɛ³³	ja³³ʂɛ˞ʔ³³		ɣɨ²⁴suɛ⁵⁵jo³¹	ɲɛ˞³³m̩²¹dzɿ⁵³
+859	135.0	dragonfly	蜻蜓	qīngtíng	dʒɛ²m̩²kʰa³la³	dʑɛ̤ŋ²¹kʰa³³la³³	dʑɛ²¹m̩²¹pa³³kʰa³³la³³	dɔn²¹dɔn²¹kʰɛ³³lɛ³³	ɣɨ²⁴tʰɤ̪˞²¹ta³³kue⁴⁴lu⁴⁴	bi⁵⁵ɕi⁵⁵li⁵⁵	dza⁵⁵pa²¹tɕi³³li²⁴	tɕʰiŋ³³tʰiŋ³³
+860	135.1	dragonfly	蜻蜓	qīngtíng	dʒɛ²m̩²kʰa³la³	dʑɛ̤ŋ²¹kʰa³³la³³	dʑɛ²¹m̩²¹pa³³kʰa³³la³³	dɔn²¹dɔn²¹kʰɛ³³lɛ³³	ɣɨ²⁴tʰɤ̪˞²¹ta³³kue⁴⁴lu⁴⁴		dza⁵⁵pa²¹tɕi³³li²⁴	tɕʰiŋ³³tʰiŋ³³
+861	135.2	dragonfly	蜻蜓	qīngtíng	dʒɛ²m̩²kʰa³la³	dʑɛ̤ŋ²¹kʰa³³la³³	dʑɛ²¹m̩²¹pa³³kʰa³³la³³	dɔn²¹dɔn²¹kʰɛ⁵⁵lɛ⁵⁵	ɣɨ²⁴tʰɤ̪˞²¹ta³³kue⁴⁴lu⁴⁴		dza⁵⁵pa²¹tɕi³³li²⁴	tɕʰiŋ³³tʰiŋ³³
+862	345.0	wife's father	岳父	yuèfù	ʒo̠ᶫpʰa²	ʐo̠²¹pʰḁ²¹	ʐu⁵⁵pʰa²¹	ju⁴²pʰɔ²¹	ʐu³³pʰo²¹	o³³vi⁵⁵	ao³¹	zu⁵⁵pa⁵³
+863	137.0	cricket	蟋蟀	xīshuài	bɨ¹tʃɛ̠ᶫ	bɤ̤²¹tʂʅ̠²¹	bɨ²⁴tʂɛ⁵³	bə³³tsɿ⁴²	bɨ²¹tsɿ³³sy⁵⁵ly⁵⁵	ɛ³³toŋ³³	pɨ³⁵tɕɛ²¹nio³¹	a⁵⁵kʰɨ⁴¹tsa²¹pɛ˞³³lo²¹
+864	137.1	cricket	蟋蟀	xīshuài	bɨ¹tʃɛ̠ᶫ	bɤ̤²¹tʂʅ̠²¹	bɨ²⁴tʂɛ⁵³	bə³³tsɿ⁴²	bɨ²¹tsɿ³³sy⁵⁵ly⁵⁵		pɨ³⁵tɕɛ²¹nio³¹	a⁵⁵kʰɨ⁴¹tsa²¹pɛ˞³³lo²¹
+865	138.0	grasshopper	蚱蜢	zhàměng	tʃɛ¹pu¹	a⁵⁵pa̠²¹tʂə⁵⁵fv̩⁵⁵	pɛ˞⁴⁴tʂu⁴⁴	tsa⁵⁵kɔ⁵⁵	pu⁵⁵tʂu⁵⁵lu⁵³	tɕɛ⁵⁵pu⁵⁵	pɨ³³tɕɛ³³lɛ³³	tsa³³pu³³
+866	346.0	wife's mother	岳母	yuèmǔ	ʒo̠ᶫma³	ʐo̠²¹ma³³	ʐu⁵⁵ma³³	ju⁴²mɔ³³	ʐu³³mo³³	o³³ni⁵⁵	mo³¹	zu⁵⁵ma³³
+867	139.0	flea	跳蚤	tiàozǎo	kʰɨ²xe¹	kʰɨ²¹ɕi⁵⁵	kʰɨ²¹ɕi²⁴	kʰu²¹ɕi⁵⁵	kʰɨ²¹ɕi⁵³	ko²¹xɛ⁵⁵	a²⁴no³³ko²¹xi²⁴	kʰo²¹ɕi⁵⁵
+868	141.0	centipede	蜈蚣	wùgōng	ʃa¹xe¹	ʂa⁵⁵ɕi⁵⁵	ʂa²⁴ɕi²⁴	mi²⁴ɕi⁵⁵		sa⁵⁵xɛn⁵⁵	mɛ⁵⁵dza²¹xa²⁴ni²⁴mo³³	
+869	141.1	centipede	蜈蚣	wùgōng	ʃa¹xe¹	ʂa⁵⁵ɕi⁵⁵	ʂa²⁴ɕi²⁴	mi²⁴ɕi⁵⁵		sa⁵⁵xɛn⁵⁵	mɛ⁵⁵dza²¹xa²⁴ni²⁴mo³³	
+870	141.2	centipede	蜈蚣	wùgōng	xe¹ʃɛ¹				ɕi⁵⁵ʂɛ˞ʔ⁵⁵			
+871	397.0	tomb; grave	坟墓	fénmù	mo̠H/ᶫbɛ¹	mo̠²¹bɛ⁵⁵	mv̩⁴⁴bɛ³³	mu⁴²bɛ²⁴	mo²⁴bɛ˞²⁴	liŋ²¹dʒo⁵⁵	li²¹dzu³³	m̩⁵⁵bɛ˞³³
+872	144.0	caterpillar	毛虫	máochóng		bʉ̤²¹di⁵⁵ʔna³³	dzɿ²¹di²⁴ni⁴⁴tɕʰy³³be³³	bə²¹ni²⁴tsɿ⁵⁵	dzɿ²¹dy²⁴tsʰɛ˞⁵⁵po³³	bi²¹di⁵⁵tsʰɿ⁵⁵ɣɨ⁵⁵	bɨ²¹tɕi²⁴tɕi²⁴	bi²¹sɿ²¹pa⁵³
+873	144.1	caterpillar	毛虫	máochóng		bʉ̤²¹di⁵⁵ʔna³³	dzɿ²¹di²⁴ni⁴⁴tɕʰy³³be³³				bɨ²¹tɕi²⁴tɕi²⁴	bi²¹sɿ²¹pa⁵³
+874	146.0	nest	窝 (鸟窝)	wō	kʰɨ¹	kʰɨ⁵⁵	kʰɨ²⁴	nia³³tɕʰi⁵⁵	by²⁴	jɛ²¹kʰɨ⁵⁵	kʰi²⁴	tə³³tə³³
+875	438.0	plow	犁	lí	si̠Hgo̠ᶫ	sɿ̠³³wo̠²¹	sɿ̠³³wo⁵³	ɕi³³gu⁴²	sɿ̠³³gu³³	mo²¹kʰi²¹	tʰaʲo⁵³, tʰa⁵⁵jɔ²¹	so³³ko⁵³
+876	149.0	claw; talon	爪	zhǎo; zhuǎ	kʰi¹kji³		kʰɨ⁴⁴tɕi⁴⁴					
+877	149.1	claw; talon	爪	zhǎo; zhuǎ	kʰi¹kaŋ³	kʰɨ⁵⁵ko³³			kʰɨ⁵⁵ka³³la³³			
+878	150.0	hoof	蹄	tí	kʰi¹by̠ᶫ	bø̠²¹	kʰɨ⁴⁴by⁵³	bə⁴²	tʰi²⁴	kʰi⁵⁵bɑ̠²¹	kʰi⁵⁵bə²¹	tʰi²¹kʰɛ˞³³
+879	448.0	whip (horse whip)	鞭子 (马鞭子)	biānzi	la²kʰo̠H	lei⁴⁵pʰi²¹	la²¹kʰu⁴⁴pʰa²¹	lɔ²¹də²⁴	a³⁵ɲi²¹lo²¹ti⁵⁵pʰa²¹	tso⁵⁵wai⁵⁵	tsoŋ³³	la²¹ti³³
+880	158.0	willow tree	柳树	liǔshù	ɣi¹mɨ²dze¹	ɣɨ⁵⁵ŋ²¹dzɿ⁵⁵	ɣɨ²⁴mə²¹dzɿ²⁴	i²⁴mʉ²¹dzei²⁴	vv̩˞²⁴ɲi²¹dzɿ²⁴		o²⁴muʲ⁵³jo³¹dʑi²⁴	ɲɛ˞³³m̩²¹sɿ⁵³
+881	158.1	willow tree	柳树	liǔshù	ɣi¹mɨ²dze¹	ɣɨ⁵⁵ŋ²¹dzɿ⁵⁵	ɣɨ²⁴mə²¹dzɿ²⁴	i²⁴mʉ²¹dzei²⁴	vv̩˞²⁴ɲi²¹dzɿ²⁴		o²⁴muʲ⁵³jo³¹dʑi²⁴	ɲɛ˞³³m̩²¹sɿ⁵³
+882	158.2	willow tree	柳树	liǔshù	ɣi¹mɨ²dze¹	ɣɨ⁵⁵ŋ²¹dzɿ⁵⁵	ɣɨ²⁴mə²¹dzɿ²⁴	i²⁴mʉ²¹dzei²⁴	vv̩˞²⁴ɲi²¹dzɿ²⁴		o²⁴muʲ⁵³jo³¹dʑi²⁴	ɲɛ˞³³m̩²¹sɿ⁵³
+883	162.0	buckwheat	荞麦/荞子	qiāomài	ga²	ɦa̤²¹sɛ̤²¹	ɣa²¹	gɔ²¹	go²¹kʰa²¹	go²¹	go²¹	ga²¹kʰa²¹
+884	163.0	millet	稷	jì	tsʰy̠ᶫ	tsʰø̠²¹	tɕʰy⁵³	nɔ²¹nə⁵⁵	tsʰʷø³³	tsʰɑ̠²¹	vi²⁴	suei³³pai⁵⁵tsa³³
+885	166.0	job's tears	薏苡	yìyǐ	na²baŋ²sɛ²	tsɿ⁵⁵ka⁵⁵	na²¹pu²¹sɛ²¹		ʂʅ²¹sɛ˞²¹	a⁵⁵mu²¹tɕi⁵⁵la³³pɛ⁵⁵	ki³³li³³	ho⁵⁵sɛ˞⁴¹
+886	169.0	peanut	花生	huāshēng	loan	lɛ̠²¹ti⁵⁵soŋ³³,lo̠²¹ti⁵⁵soŋ³³	lo²¹ti⁵⁵soŋ³³	lɔ²¹ti⁵⁵ɕiu³³	lo²¹ty⁵⁵soŋ³³	a⁵⁵nu³³tʰa⁵⁵tʰa²¹	a²⁴nu²¹tʰo³³lɛ̃³³	lo²¹soŋ³³
+887	170.0	walnut	核桃	hétao	sa²me¹	sɛ̤²¹mi⁵⁵	sa²¹me²⁴	sa²¹mei²⁴	sa²¹my²⁴		ma³³maŋ⁵³	sa²¹mi³³
+888	170.1	walnut	核桃	hétao	sa²me¹	sɛ̤²¹mi⁵⁵	sa²¹me²⁴	sa²¹mei²⁴	sa²¹my²⁴	ma⁵⁵ma³³	ma³³maŋ⁵³	sa²¹mi³³
+889	171.0	cotton	棉花	miánhua	sa¹la²	sa⁵⁵la̤²¹	sa⁴⁴la²¹	xɔ⁵⁵miao²¹	so⁴⁵lo⁴¹	so⁵⁵lo²¹	so⁵⁵lo²¹	sa³³la³³xuɛ˞³³
+890	171.1	cotton	棉花	miánhua	sa¹la²	sa⁵⁵la̤²¹	sa⁴⁴la²¹		so⁴⁵lo⁴¹	so⁵⁵lo²¹	so⁵⁵lo²¹	sa³³la³³xuɛ˞³³
+891	172.0	ramie	苎麻	zhùmá	dzi²	dzɿ²¹	dzɿ²¹	dʑi²¹	dzɿ²¹	dʑi²¹	dzɿ³³sɿ²¹	dzɿ²¹sɛ˞²¹sɿ⁵³
+892	540.0	answer	答 (回答)	dá	po̠H	po̠³³	pu⁴⁴	da²¹	pu³³gɨ²¹		xuaŋ²⁴li̠ʔ³³	ta²⁴
+893	551.0	pick up	拾 (拾起)	shíqǐ	go̠H	wo̠³³	ɣoʔ⁴⁴	gu³³	gu³³	gu⁵⁵	gu³³	gu⁵³
+894	176.0	cucumber	黄瓜	huángguǎ	sa²kje²	sɛ̤²¹kɛ̤²¹	sa²¹q/kai²¹	sa²¹kei²¹	saŋ²¹kai²¹	sa²¹kɨ²¹	ɕi³³kĩŋ²¹	sa²¹kai²¹
+895	176.1	cucumber	黄瓜	huángguǎ	sa²kjɛ²	sɛ̤²¹kɛ̤²¹	sa²¹q/kai²¹		saŋ²¹kai²¹		ɕi³³kĩŋ²¹	sa²¹kai²¹
+896	177.0	eggplant	茄子	qiézi	ga¹zi³	ɦa⁵⁵zɿ³³	ɣa²⁴zɿ³³	ɣɔ²⁴zɿ³³	go²⁴zɿ³³	aŋ⁵⁵kɛ⁵⁵lɛ⁵⁵	ma³³kʰɨ²⁴	tɕʰue²¹tsɿ³³
+897	177.1	eggplant	茄子	qiézi	ga¹zi³	ɦa⁵⁵zɿ³³	ɣa²⁴zɿ³³	ɣɔ²⁴zɿ³³	go²⁴zɿ³³		ma³³kʰɨ²⁴	tɕʰue²¹tsɿ³³
+898	178.0	vegetable	蔬菜	shūcài	ɣaŋ²tʃe̠ᶫ	wṳ²¹	wu²¹tɕi⁵³	ja²¹	ɣa²¹tɕi̠³³	ɣa²¹	va²¹pʰi²⁴	wv̩²¹tsʰai³³
+899	178.1	vegetable	蔬菜	shūcài	ɣaŋ²tʃe̠ᶫ	wṳ²¹	wu²¹tɕi⁵³	ja²¹	ɣa²¹tɕi̠³³			wv̩²¹tsʰai³³
+900	180.0	radish	萝卜	luóbo	ɣaŋ²tʃʰe¹	wṳ²¹tɕʰi⁵⁵	wu²¹tɕʰi⁴⁵	ja²¹tɕi⁵⁵mɔ³³	ɣa²¹dzɿ²¹	ɣa²¹tɕʰɛ⁵⁵	va⁵⁵dʑi²¹da³³	wv̩²¹tsɿ²¹
+901	554.0	throw away	丢掉	rēng	ʔlo̠H	ʔlo̠³³	lu⁴⁴hẽ³³	lu³³n̩²¹tɕi³³	dza³³mɛi²⁴	u⁵⁵tsa⁵⁵pɛ³³	lu̠³³pʰi²⁴	lu⁵⁵ei³³
+902	182.0	ginger	姜	jiāng	tʃʰaŋ²	tʂʰṳ²¹	tʂʰu²¹	tsʰa²¹	ja³³ga²⁴tʂʰʅ²¹	tsa²¹pʰɛ⁵⁵	tsa²¹pʰi²⁴ka³³la̠ʔ²¹	tsʰo²¹tɕia³³pɛ˞³³
+903	183.0	galangal	高良姜 (山奈)	gāoliángjiāng/shānnài		a⁵⁵ʂo³³lo³³	ka⁵⁵tʂʰu²¹	tsa²¹tsɤ̪⁵⁵lɤ̪⁵⁵	mi³⁵ʂu³³	pa³³tʃa³³ji⁵⁵	jaŋ²¹tsʰɿ²¹ku³³	kɛ˞³³no²¹tʰu³³tʰu⁴³
+904	186.0	peach	桃子	táozi	sa²vy²	sø̤²¹ʔø̤²¹	sa²¹ve²¹	sa²¹ɣə²¹	sa²¹wu²¹ʔø³³	tsʰa²¹ɣɨ²¹	sa³³pʰɛ²¹	
+905	555.0	pitch (throw from side way)	摔 (石头)	zhì/tóu	ʔlo̠H	ʔlo̠³³	lu⁴⁴tɛ²¹	dzə³³	dza³³tʰiɛ³²	lu⁵⁵	lu̠³³kuɛʲ²⁴	lu⁵⁵ei³³
+906	556.0	toss (overhand)	投	tóu	ʔlo̠H	ʔlo̠³³	ɣɨ²¹	lɔ³³	lu³³	pɛ³³kɛ⁵⁵	lu̠³³kɛ³³	lu⁵⁵ei³³
+907	187.0	persimmon	柿子	shìzi	mu²bɛ¹	m̩²¹bɛ⁵⁵	m̩²¹bɛ²⁴	m̩²¹bɛ²⁴	ʝi³⁵³bɛ˞²⁴ʔø³³		a²⁴tʰo⁵⁵ɕi³³pʰi²¹	a⁵⁵m̩²¹bɛ˞³³
+908	193.0	reed	芦苇	lúwěi		a⁵⁵kʰa³³	tʰu²¹hã²⁴	kɛ⁵⁵mɔ²⁴	a³⁵mɤ̪˞⁴¹pʰᶠɤ̪˞̪⁵⁵mu³³dzɿ²⁴	o²¹na²¹	ma³³naŋ²¹	
+909	615.0	ladle out; spoon up	舀 (舀水)	yǎo	kʰo̠ᶫ	kʰo̠²¹	kʰoʔ⁵³	kʰu⁴²	kʰo³³	vi̠³³	ga³³	kɛ˞³³
+910	197.0	stem; stalk	茎	jīng	dze¹		dzɿ²⁴	ja³³dzei²⁴	sɿ⁴⁵³dzɿ²⁴	jɛ²¹to⁵⁵	ɛ³³uʲ⁵⁵jo³¹	sɿ⁵⁵dzɿ³³
+911	199.0	sprout; bud	芽(种子芽)	yá	bɨ̠H	bi³³	bɨ⁴⁴	ja³³dzei²⁴zɔ²¹	ja³³dʐɛ˞³³	jɛ²¹bɨʔ³³	ɛ³³luʲ⁵⁵jo³¹	dzɛ˞³³
+912	201.0	wood	木	mù	si̠Hda¹	sɿ̠³³da⁵⁵	sɿ⁴⁴da⁴⁴	mɛ⁵⁵tɤ̪⁵⁵	sɿ³⁵³tʰy³³	ɕiʔ³³	ɕi³³do²⁴	sɿ⁵⁵da³³
+913	203.1	stick	棍子	gùnzi	ʔmɛ¹tu¹	ʔmɛ⁵⁵tə⁵⁵kʰɨ⁵⁵	mɛ⁴⁴tu⁴⁴	mɛ⁵⁵tɤ̪⁵⁵	mɛ˞⁴⁴tɛ˞⁴⁴		pa²⁴tsʰa²¹	ka⁴⁴tsɿ³³
+914	623.0	shave	剃 (头)	tì	tʃʰo̠H	tʂʰo̠³³	tʂʰu⁴⁴	tsʰɛ²¹	tʂʰu³³	tʃ̠ʰu̠³³	tsʰu³³	tsʰu⁵³
+915	209.0	glutinous rice	糯米	nuòmǐ	tʃʰe¹ɲa²	tɕʰi⁵⁵nə̤²¹dza²¹kʰa⁵⁵	tɕʰi⁴⁴nv̩²¹	tɕʰi⁵⁵ɲia²¹fɤ̪⁵⁵	tɕʰi³⁵²ɲa²¹pʰᶠɤ̪⁵³	tɕʰi⁵⁵ɲa²¹	tɕʰi³³nɛ²¹	tɕʰi⁵⁵ɲa⁴¹
+916	210.0	rice seedling	秧苗	yāngmiáo	ʔli²	ʔʐʅ̠²¹	ʝi⁵³	li²¹	tɕʰi³⁵²ʐʅ²¹	lɨ²¹	lɨ²¹	jaŋ³³
+917	639.1	tie a belt	系		so̠ᶫ						xi³³	sei⁵³
+918	213.0	fruit peel	果皮	guǒpí	gi¹ko̠H	gɨ⁵⁵ko³³	gɨ²⁴	ja²¹dʑi³³gə⁴²	gɨ²⁴ku³³	jɛ²¹sɛ²¹gi⁵⁵	ɕɛ²¹ma²⁴kɨ³¹	gɨ³³gɨ³³
+919	709.0	cross (over)	过 (过河)	guò	kjo̠ᶫ	ky²¹		ku⁴²		kɨ²¹	gɨ²¹kuɛ²⁴	tɛ˞⁵⁵ji³³, gɨ²¹ji³³
+920	216.0	moss	苔(青苔)	tái (táixiǎn)	ɣi¹me²						na²⁴mĩ²¹	
+921	216.1	moss	苔(青苔)	tái (táixiǎn)	ɣi¹ɲa̠Hbe²	bi̤²¹	ɣɨ³⁵na⁴²be²¹	lɔ³³bɔ³³tsʰɿ²¹	ɣɨ²⁴ʂʅ²¹	na³³xã³³	na²⁴mĩ²¹	fu³³pʰi²¹
+922	710.0	go through	经过	jīngguò	ko̠ᶫ	ko̠²¹	ʝi²⁴kv̩⁵³	gɛ²¹ku⁴²	ko³³tʂɛ˞³³	jɛ³³dʒa³³	ji²⁴tsoŋ²⁴	ko⁵⁵
+923	863.0	full (stomach)	饱	bǎo	bo̠H	bo̠³³	bβu⁴⁴	bu³³	bu³³	bo̠³³	bo³³	bu⁵⁵
+924	223.0	forehead	额头	étóu	ʔnu̠ᶫkaŋ¹	ʔnao²¹ko⁵⁵	na⁵⁵ko⁵⁵	nu⁴²ka²¹kə⁵⁵	no⁴⁵³ko³³dzɿ²⁴	ŋ̩²¹ko⁵⁵tɕɛ⁵⁵	na³³kʰa̠²¹tɕi²⁴	no⁴⁴kʰo⁵³
+925	225.0	braid	辫子	biànzi	n̩²tsʰy¹pʰe²	n̩²¹tsʰy⁵⁵pʰi²¹	n̩²¹tɕʰy²⁴pʰɛ²¹	n̩²¹tsʰə⁵⁵pi³³	n̩²¹tsʰy⁴⁵³pʰɛi²¹	n̩²¹də⁵⁵tsʰə⁵⁵dʒa²¹	ŋ̩²¹tsʰə²⁴pɨ³³tsa²¹	n̩²¹tsʰə³³pʰai³¹
+926	227.0	eyebrow	眉毛	méimáo	ʔmje̠Htsʰam¹	ʔmɛ̠³³ha⁵⁵	me⁴⁴tsɿ⁴⁴tɕʰy³³	mei³³kə⁵⁵	mi⁴⁵tsʰy⁵⁵tsʰy⁵³	mɛ³³ko⁵⁵tsʰə⁵⁵nə⁵⁵	mɨ³³tɕi²⁴	mi⁵⁵tsʰə³³
+927	229.0	eyeball	眼球	yǎnqiú	ʔmje̠Hsɛ²	ʔmɛ̠³³ʔly³³	mei⁵⁵sɛ²¹	mei³³ni³³mɔ³³	mi⁴⁵³a³³ɣɨ³³	mi³³ɕɛ²¹ka⁵⁵ni³³	mɨ³³ɕɛ²¹ka³³nio⁵³	mi⁵⁵o³³lo³³
+928	230.0	tears	眼泪	yǎnlèi	ʔmje̠H(bi¹)ɣi¹	ʔmɛ̠³³ɣɨ⁵⁵	me⁵⁵dzɿ⁴⁴ɣɨ³³	mei³³ji²⁴	mi⁴⁵³dzɿ³³ɣɨ²⁴	mɛ³³bi⁵⁵	ŋ̩̩³³bi²⁴	mi⁵⁵ɣɨ³³
+929	237.0	front teeth	前牙	qiányā		a⁵⁵kʰai²¹ma³³pʰɛ³³	ɕy²¹wo²⁴	a⁵⁵kʰɛ²¹mɔ³³sə²¹	wu²¹ɕi⁵⁵xɨ²¹sy²¹	dzo⁵⁵ko⁵⁵jo²¹	ɕi²¹a²⁴gu⁵⁵kʰi²¹	ɣɨ²¹ĩ³³su³³sə²¹
+930	238.0	back teeth	后牙	hòuyā			ɕy²¹wo²⁴ɣa⁴⁴du³³	dzə²⁴gə²¹sə²¹	ɣɛ˞²⁴tɛ˞³³xɨ²¹sy²¹	dzo⁵⁵ko⁵⁵mo³³	ɕi²¹tsa³³gɨ²¹mo³³	ŋa³³ni²¹su³³sə²¹
+931	943.0	CLF.times	次		pʰo̠H	pʰo³³	pʰa³³	tɕa²¹	po³³	tə⁵⁵	tʰi²¹po³³	a²¹po⁵³
+932	246.0	joint	关节	guānjié	vu²tsi̠ᶫ	wo̠²¹tsɿ̠²¹	tsɿ⁵³	tsei⁴²tsɿ³³gɛ²⁴	tsɿ³³	xo²¹ɣɨ²¹tɕi²¹	ɛ³³tɕiŋ²¹	wv̩²¹kɨ³³tsɿ⁵⁴tsɿ⁵³
+933	248.0	hand	手			lɛ̠²¹pa³³tʂaŋ²¹	lɛ⁵⁵pa²¹tʂʰa³³	lei⁴²tʰa³³di³³	lɛi³³vv̩˞²¹	lɨ²¹ɣɨ²¹	la̠²¹pʰe³³	lei⁵⁵tsa⁴³pa³³
+934	249.0	arm	手臂	gēbèi		lɛ̠²¹ka³³n̩²¹da⁵⁵	lɛ⁴⁴tsɿ⁵⁵dɛ³³	lei⁴²n̩²¹dɔ³³	a⁴⁵vɛi⁵⁵ly³³ly³³	lɨ²¹ɣɨ²¹tɨ²¹	la̠²¹pʰe³³lv̩²¹dzv̩³³	lei⁴⁵m̩⁴²pa²¹
+935	254.0	index finger	食指	shízhǐ		lɛ̠²¹ʔni⁵⁵kʰɨ²¹sɿ³³	lɛʔ⁵⁵i³³ma³³ka⁴⁴laʔ⁵⁵			li²¹ni⁵⁵mo³³		
+936	255.0	pinkie finger	小手指	xiǎoshǒuzhǐ		lɛ̠²¹ʔni⁵⁵za̤²¹	lɛʔ⁵⁵i³³za²¹	lei⁴²ni⁵⁵zɔ²¹	lɛi³³ʔĩ⁴⁵³zo²¹	tɛ⁵⁵kɛ⁵⁵nɛ⁵⁵	na²¹ni²⁴jo³¹	lei⁵⁵kʰɨ³³za²¹
+937	259.0	hip	臀部	tūnbù		du⁵⁵pʰɛ̠²¹tsɿ³³		da²⁴n̩²¹dzɿ³³	da⁴⁴ti⁵⁵pɛ˞³³	da⁵⁵ɣɨ²¹tʃo³³	kʰi³³dv̩³³pa²¹pʰa²⁴	
+938	261.0	leg	腿	tuǐ	kʰi¹	kʰɨ⁵⁵pʰɛ̠³³	kʰɨ⁴⁴pʰe⁴⁴	tɕʰi⁵⁵pei³³	kʰɨ⁴⁵³vv̩˞²¹	kʰi⁵⁵pʰɛ³³	bɨ⁵⁵tɕɛ²¹	li²¹ku³³
+939	262.0	foot	脚	jiǎo		kʰɨ⁵⁵pʰɛ̠³³	kʰɨ⁴⁴pʰe⁴⁴	tɕʰi⁵⁵pei³³pia²¹	kʰɨ⁴⁵pa⁴³³	kʰi⁵⁵tʰa³³	bɨ⁵⁵i³³	kɛ˞³³vv̩²¹
+940	269.0	toe	趾/脚趾	zhǐ		kʰɨ⁵⁵ʔni⁵⁵	kʰẽ⁵⁵i³³za²¹	tɕʰi⁵⁵ni⁵⁵	kʰɨ⁵⁵ʔĩ⁴⁵³	kʰi⁵⁵ni⁵⁵	bɨi⁵³na²¹ni²⁴	kɛ˞³³wv̩²¹lei⁵⁵kʰɨ³³
+941	270.0	big toe	大趾	dàzhǐ		kʰɨ⁵⁵ʔni⁵⁵ma³³ko̠³³	kʰɨ⁵⁵i³³ma³³ko³³	tɕʰi⁵⁵ni⁵⁵mɔ³³ku³³	kʰɨ⁵⁵ʔĩ⁴⁵³mo³³	kʰi⁵⁵mo³³	bɨi⁵³na²¹ni²⁴zo²¹mo³³	kɛ˞³³wv̩²¹lei⁵⁵kʰɨ³³ma³³
+942	272.0	back	脊背	jíbèi	ka(ŋ)²ta(ŋ)³si³	kə²¹ta³³	ko²¹tɛ³³sɛ³³	kɔ²¹ta³³sə⁵⁵	ka²¹tɛi³³	pʰɛ⁵⁵	lv̩²¹dzv̩³³	zu⁵⁵pa⁴¹
+943	14.0	fog	雾	wùgōng	mu¹	mu⁵⁵ɣɨ³³	ti²⁴kv̩²¹	mə²⁴ə²¹gə²¹	a³⁵mv̩⁴¹mi³⁴dzɿ³³kʰv̩²¹	mi⁵⁵kɨ²¹	mə²⁴	mi⁵⁵kʰɔ̪³¹
+944	15.1	frost-2	霜	shuāng	ʔni¹pʰu¹	i⁵⁵fv̩⁵⁵	ni⁵⁵fv̩²⁴/³³		ji³⁵pʰᶠv˞̩⁵⁵	mi⁵⁵pʰu⁵⁵	mi²⁴pʰv̩²⁴	i⁵⁵fv̩³³
+945	25.1	well outside	井	jǐng	ɣi¹du²	ɣɨ⁵⁵də²¹	ɣɨ²⁴dv̩²¹	ji²⁴dɤ̪²¹	ɣɨ³⁵dv̩˞²¹	ɣɨ⁵⁵du²¹	na²¹bo²⁴	ɣɨ⁵⁵tɕin²¹
+946	288.0	gallbladder	胆/苦胆	dǎn	ki¹	kɨ⁵⁵	kɨ²⁴	tɕi⁵⁵	kɨ⁴⁵³	ja²¹ki⁵⁵	ɛ²¹ki²⁴	dan²⁴
+947	293.0	phlegm	痰	tán	ti²kʰa²	ti̤²¹kʰa̤²¹	ti²¹kʰɨ²¹	ti²¹tɕʰi²¹	ti²¹kʰɛ˞²¹	tɨ²¹ɣɨ⁵⁵	tɨ³³xa̠ʔ²¹	tɕi²¹kʰɛ˞²¹
+948	293.1	phlegm	痰	tán	ti²kʰa²	ti̤²¹kʰa̤²¹	ti²¹kʰɨ²¹	ti²¹tɕʰi²¹	ti²¹kʰɛ˞²¹		tɨ³³xa̠ʔ²¹	tɕi²¹kʰɛ˞²¹
+949	299.0	sore (wound)	疮	chuāng	gɛ²	ɦɛ̤²¹	ɣɛ²¹	gɛ²¹	gɛ˞³³ʔo̠⁴⁴	po³³no⁵⁵	bɨ³³no²⁴	pu⁵⁵na³³
+950	29.0	cave	(山)洞	dòng	kʰu¹du¹	sy²¹kʰə⁵⁵	kʰv̩⁵⁵dʐv̩²¹kʰv̩²⁴	kʰɤ̪⁵⁵dɤ̪²¹	koŋ²¹mɛi³³, saŋ²¹kʰv̩⁵⁵mɛi³³	kʰu⁵⁵dʒa²¹kʰu⁵⁵	ɛ²¹kʰv̩²⁴	
+951	29.1	cave	(山)洞	dòng	kʰu¹du¹	sy²¹kʰə⁵⁵	kʰv̩⁵⁵dʐv̩²¹kʰv̩²⁴	kʰɤ̪⁵⁵dɤ̪²¹	koŋ²¹mɛi³³, saŋ²¹kʰv̩⁵⁵mɛi³³			i⁵⁵tu⁵⁵tu⁵³
+952	303.0	anus	肛门	gāngmén		tsʰɿ²¹tə²¹kʰə⁵⁵	tsʰɿ²¹tv̩²¹kʰv̩²⁴	ta⁵⁵pə⁵⁵mi³³	tsʰɿ²¹tɨ²¹mɛi⁴⁴	pʰɛ²¹tɛ²¹kʰu⁵⁵	kʰi³³du²¹ko³³xoŋ⁵³	
+953	30.0	hole (in ground)	洞	kūlóng/kēng	kʰu¹	kʰə⁵⁵də⁵⁵	kʰv̩²⁴	kʰɤ̪⁵⁵dɤ̪²¹mi³³xɛ³³	toŋ⁵⁵toŋ⁵⁵mɛi³³	ʝɛ²¹kʰu⁵⁵	ɛ²¹kʰv̩²⁴	tu⁵⁵tu⁵³
+954	312.0	Yi/Lo	彝族	yízǔ								
+955	313.0	Bai	白族			la̤²¹bʉ̤²¹	a²¹pa⁴⁴ni²¹	la̤²¹bə²¹	a³³pɛi³³			la²¹bi²¹
+956	314.0	Dai	傣族	dǎizú		tai²¹⁴			pɛ˞⁵⁵ʝi⁵⁵	pɛ⁵⁵pɑ̠²¹	bai²⁴	bɛ˞⁵⁵ji⁵³
+957	315.0	child	儿童	értóng	a¹ne¹za²	a⁵⁵ɲi⁵⁵za̤²¹	a²¹nɛ⁴⁴za²¹	a⁵⁵ni⁵⁵zɔ²¹	a⁴⁴nɛ˞⁴⁴zo²¹	a⁵⁵ni⁵⁵jo²¹	a²⁴ni⁵⁵jo⁴²	a²¹ɲɛ³³ma⁵³
+958	316.0	elderly person	老人	lǎorén	tsʰaŋ¹maŋ²	tsʰu⁵⁵mu²¹	tsʰu⁴⁴mu²¹	tsʰa⁵⁵ma²¹	tsʰa⁴⁵³ma²¹	ja²¹ma²¹	tsʰa⁵⁵ma²¹	tsʰu³³mu²¹
+959	317.0	older man	老男人	lǎonánrén	a²pa¹	a²¹pa⁵⁵mu²¹	a²¹pa⁴⁴ma³³	a²¹pɔ⁵⁵ma²¹	a²¹pu⁵⁵mo³³	a²¹po⁵⁵ma²¹	a³³po²⁴ma²¹	tsʰu³³mu²¹pa⁵³
+960	318.0	older woman	老女人	lǎonǚrén	a²pʰi²	a²¹fi²¹mu²¹	a²¹tsʰɿ²¹ma³³	a²¹pʰi²¹ma²¹	a²¹tsʰɿ²¹mo³³	a²¹pʰi²¹ma²¹	a³³pʰi³³ma²¹	tsʰu³³mu²¹ma³³
+961	46.0	three days ago	大前天	dàqiántiān	ʃi̠Hɣu²ʔni³	ʂʅ³³wuŋ²³	ʂʅ³³woŋ³³, ʂʅ³³wu²¹	sɿ³³wu²¹li³³nɛ³³	ʂʅ³³wu²¹ɲi³³	ɕi³³wu²¹ni³³	sɿ⁵³sɿ⁵⁵mi²⁴	sɿ³³wu²¹ni³³
+962	320.0	girl	青年女人	qīngnián nǚrén	su¹le̠ᶫma³	sɿ⁵⁵lɛ̠²¹ma³³	zɛ²¹mə²¹za²¹	sɿ⁵⁵li⁴²mɔ³³	za²¹mɛ˞²¹zo²¹	dʒo²¹mɛ²¹lɛ²¹	zo³³mi³³jo²¹	za²¹mɛ²¹ə³³nə³³
+963	322.0	enemy	敌人	dírén		ti³³ʐɛn³³	tsʰu⁴⁴tsʰɿ²¹	tsʰu²¹pʰɔ²¹sɿ⁵⁵	hə̃³³la²¹diɛ³³	kʰɨ²¹jo²¹	tsa⁵⁵kʰɨ⁵⁵jo³¹	
+964	323.0	host	主人	zhǔrén	si²pʰa²		wu⁵⁵sɿ²¹pʰa²¹	i⁵⁵kə³³sɿ⁵⁵, ɕi²¹pʰɔ²¹	ja⁴⁴dʑy⁴⁴	ɕi⁵⁵pʰo²¹	ɛ²¹ɕi²⁴po̠ʔ²¹	
+965	323.1	host	主人	zhǔrén	si²pʰa²		wu⁵⁵sɿ²¹pʰa²¹	i⁵⁵kə³³sɿ⁵⁵, ɕi²¹pʰɔ²¹	ja⁴⁴dʑy⁴⁴		ɛ²¹ɕi²⁴po̠ʔ²¹	sɿ²¹ma³³
+966	324.0	guest	客人	kèrén	se¹ɣe³	si⁵⁵ŋ̩²¹, siŋ̩⁵³	se⁵⁵ɣɨ³³		tʂʰa²¹pɛi³³		ɕi³³ve³³	sɿ⁵⁵vei³³
+967	324.1	guest	客人	kèrén	se¹ve³	si⁵⁵ŋ̩²¹	se⁵⁵ɣɨ³³	ɕi⁵⁵mi²¹	tʂʰa²¹pɛi³³	sɛ⁵⁵vɛ³³	ɕi³³ve³³	sɿ⁵⁵vei³³
+968	325.0	lame person	瘸子/跛子	quézi/bǒzi	kʰi¹pe³	kʰɨ⁵⁵tʰaŋ³³	kʰɨ⁴⁴pɛ²¹	tɕʰi⁵⁵tɛ²¹	kʰɨ⁴⁵tɛi²¹	pɛ²¹tɛ²¹	bɨʲ⁵³luŋ²⁴la³³ko²¹	kɛ˞³³vv̩²¹pai³³la²¹
+969	325.1	lame person	瘸子/跛子	quézi/bǒzi	kʰi¹pʰa³							
+970	326.0	official	官	guān	dzi²/³	a⁵⁵ɣɨ²¹a⁵⁵dzɿ³³	a⁴⁴dzɿ³³	sei³¹pʰɔ²¹, dzɿ²¹			va²⁴tɛ²¹	ɤ̪²¹
+971	327.0	high official	大官	dàguān	dzi²/³		dzɿ²⁴di²⁴	sei³¹pʰɔ²¹ɣɛ²¹	ja³³ɣɛ˞²¹		va²⁴tɛ²¹ja³³ko²¹	ɤ̪²¹ɣɛ˞²¹
+972	328.0	low official	小官	xiǎoguān	dzi²/³		dzɿ²⁴u²⁴	sei³¹pʰɔ²¹ja⁵⁵	ja³³ɣɛ˞²¹tɛ˞³³zo²¹	wu⁵⁵ɕi⁵⁵	va²⁴tɛ²¹za⁵⁵ko²¹	ɤ̪²¹za²¹
+973	329.0	emperor	皇帝	huángdì	vu¹te²	huaŋ²¹ti³³	dzɿ²¹	ɣɔ²⁴tɛ²¹pɔ²⁴	ja³³dzɿ³³mo³³	wu⁵⁵tɛ²¹	va²⁴tɛ²¹hwaŋ²¹ti²⁴	huan²¹ti³³
+974	333.0	bride	新娘	xīnniáng		kʰɨ²¹ma³³lɛ̠²¹xɨ̠²¹	kʰɨ²¹ma³³lei⁴⁴xɨʔ⁵³	tɕʰi²¹mɔ³³ɕi²¹	za²¹mɛ˞²¹xɨ³³mo³³	kʰɨ²¹mo³³xɨ²¹	kʰɨ²¹mo³³xɨʲ⁵⁵jo³¹	ma²¹nə³³xɨ⁵³
+975	334.0	groom	新郎	xīnláng				mei⁴²ɣə²⁴ɕi²¹	zo²¹xɨ³³mo³³	mɨ²¹xɨ²¹	mɨ²⁴xɨʲ⁵⁵jo³¹	m̩²¹dzɛ³³xɨ⁵³
+976	57.0	three years ago	大前年	dàqiántiān	ʃi̠Hɣu²ni̠H	ʂʅ³³wu²¹ɲiɛ̠³³si⁵⁵	ʂʅ⁴⁴wu²¹ni⁴⁴	sɿ³³wu²¹nei³³sə⁵⁵	ʂʅ³³wu²¹nɛi̠³³	ɕi³³wu²¹ni̠³³	sɿ⁵³sɿ⁵⁵nɨ̠³³	sɿ³³wu²¹i⁵³
+977	342.0	GP mother	祖母	zǔmǔ	a¹maŋ²/tʰe¹	a⁵⁵mu²¹	a⁴⁴tʰai⁴⁴	a²¹tʰei⁵⁵	a³⁵ma²¹	a²¹pʰi²¹liŋ⁵⁵	a²⁴pʰi²¹leŋ⁵³	a⁵⁵tsu²¹ma³³
+978	342.1	GP mother	祖母	zǔmǔ	a¹maŋ²/tʰe¹		a⁴⁴tʰai⁴⁴		a³⁵ma²¹		a²⁴pʰi²¹leŋ⁵³	a⁵⁵tsu²¹ma³³
+979	88.0	dragon	龙	lóng	lu²	ləŋ²¹	lv̩²¹	lɤ̪²¹	lɤ̪˞³¹	ɣɨ⁵⁵dʒu²¹	o²⁴dzu²¹	lɤ̪²¹
+980	351.0	siblings	兄弟姐妹	xiōngdìjiěmèi		n̩⁵⁵ʔny⁵⁵	ne²⁴za²¹ne²⁴ma³³	vei⁴²niɛ²⁴tsʰa²¹zɔ³³	a³³tsɿ³³ɲɛ˞²⁴mo³³	ɲɛ⁵⁵jo²¹ɲɛ⁵⁵mo³³	pʰɨ²¹nɛ²⁴nɛ²¹mo³³	a⁵⁵kɨ³³a⁵⁵tʰai³³
+981	352.0	oldest sibling	老大				za²¹ɣɛ²¹		pa²¹tɛi²¹			a⁵⁵mɛ˞²¹
+982	353.0	second sibling	老二				za²¹lɛ⁵³					ɛ˞³³mɛ˞²¹
+983	354.0	third sibling	老三									sa³³mɛ˞²¹
+984	354.1	youngest child	老幺				za²¹u⁴⁴					
+985	115.0	pheasant	野鸟/野鸡	zhì	a¹ʃu²	a⁵⁵ʂə²¹	a⁵⁵ʂv̩²¹	sɤ̪²¹	dy²¹ʂʅ²¹	a⁵⁵ji̠³³ka²¹	to³³xo²¹	to²¹so²¹
+986	117.2	owl	猫头鹰	xiāo/māotóuyīng	xi¹hu³							jɛ˞⁵⁵xu³³
+987	366.0	ancestor	祖先	zǔxiān	pʰi²pʰa²	a²¹fi²¹a²¹pʰa²¹	tsʰɿ²¹pʰa²¹	pʰɔ²¹pʰɔ²¹	nɛi²¹tsʰɿ²¹	a²¹pʰi²¹a²¹po⁵⁵	ni²⁴tʰa²⁴tsʰa⁵⁵ma²¹	pʰi²¹pʰa²¹
+988	366.1	ancestor	祖先	zǔxiān	pʰi²pʰa²	a²¹fi²¹a²¹pʰa²¹	tsʰɿ²¹pʰa²¹		nɛi²¹tsʰɿ²¹		ni²⁴tʰa²⁴tsʰa⁵⁵ma²¹	pʰi²¹pʰa²¹
+989	368.0	father's BW	伯母	shěnshěn	ta⁵⁵ma³³	pa²¹ti̤²¹ma³³ko³³	ta⁴⁴ma³³	a⁵⁵ta⁵⁵mɔ³³	ta⁵⁵ma³³	a⁵⁵jɛ²¹mo³³	a²⁴mo³³	ta⁵⁵ma³³
+990	370.0	father's YB	叔叔	shūshū	a¹ʒe³	a⁵⁵ʝi²¹	a⁴⁴ji³³	a⁵⁵ʝi³³	a⁴⁴ʝi³³	a⁵⁵jɛ²¹	a²¹va²⁴	a⁵⁵ʝei³³
+991	375.0	father+children (CLF)	三父子		pa̠ᶫla²	pa̠²¹la̤²¹	pa⁵⁵la²¹	pu⁴²lu²¹	pʰo²¹lo²¹	pɑ̠²¹lɑ²¹	a²⁴vo³³zo²¹	pa⁵⁵la²¹
+992	376.0	mother+children (CLF)	三母子		ʔma³la²	ʔma³³la̤²¹	ma³³la²¹	mɔ³³lɔ²¹	mo³³lo²¹	mo³³lo²¹	a³³mo³³zo²¹	ma⁵⁵la²¹
+993	377.0	grandfather+grandchildren (CLF)	三爷孙		pi²la²	pi²¹la̤²¹	tsɿ²¹la²¹	pʰi²¹lɔ²¹	tsʰo²¹lo²¹		a²⁴po²⁴li³³puɛ⁴²jo²¹	pʰi²¹li²¹
+994	378.0	grandmother+grandchildren (CLF)	三奶孙		pi²la²	pi²¹la̤²¹	tsɿ²¹la²¹	pʰi²¹lɔ²¹	tsʰo²¹lo²¹		a²⁴pʰi²¹li³³puɛ⁴²jo²¹	pʰi²¹li²¹
+995	133.0	wasp	黄蜂	huángfēng	bja²tu¹	ba̤²¹də⁵⁵	bɑ²¹tv̩²⁴				dʑi³³dzo³³bo²¹	ba²²to³³sɛ˞³³
+996	384.0	beam [main]	梁(主)	liáng		li⁵⁵mu⁵⁵kaŋ³³		wa²¹tə²¹	liaŋ²¹	a⁵⁵tʃa⁵⁵mo³³	tə⁵⁵lə²¹	liaŋ³¹
+997	135.1	dragonfly	蜻蜓	qīngtíng	dʒɛ²m̩²kʰa³la³	dʑɛ̤ŋ²¹kʰa³³la³³	dʑɛ²¹m̩²¹pa³³kʰa³³la³³	dɔn²¹dɔn²¹kʰɛ³³lɛ³³	ɣɨ²⁴tʰɤ̪˞²¹ta³³kue⁴⁴lu⁴⁴		dza⁵⁵pa²¹tɕi³³li²⁴	tɕʰiŋ³³tʰiŋ³³
+998	389.0	fire-pit	火塘	huǒtáng	a¹to̠ᶫbe̠ᶫ	a⁵⁵to̠²¹bɛ̠²¹	a⁴⁴tu⁴⁴lu⁴⁴be⁵³, a⁴⁴tu⁴⁴lu⁴⁴ka⁵³	a⁵⁵tu⁴²bei⁴²	a³³tu³³bɛi³³	a⁵⁵to²¹kʰu²¹pɨ⁵⁵	a²⁴tu̠ʔ³¹kʰu³³bi²¹	a⁴⁴tu⁴⁴bei⁵³
+999	138.1	grasshopper	蚱蜢	zhàměng	tʃɛ¹pu¹	a⁵⁵pa̠²¹tʂə⁵⁵fv̩⁵⁵	pɛ˞⁴⁴tʂu⁴⁴	tsa⁵⁵kɔ⁵⁵	pu⁵⁵tʂu⁵⁵lu⁵³	tɕɛ⁵⁵pu⁵⁵	pɨ³³tɕɛ³³lɛ³³	tsa³³pu³³
+1000	396.0	shrine; temple	庙	miào	ne²he¹	ŋ̩²¹hi⁵⁵	nɛ²¹hẽ²⁴	kɛ⁵⁵pei⁵⁵xei⁵⁵	nɛi²¹hĩ⁵⁵mo³³	va²¹	va̠³¹	nai²¹hei³³
+1001	398.1	graveyard	墓地	mùdì	mo̠H/ᶫbɛ¹kʰy¹	mo̠²¹bɛ⁵⁵kʰy⁵⁵	mv̩⁴⁴ba³³tɛ³³	mu⁴²bɛ²⁴kʰə⁵⁵	mo²⁴bɛ˞²⁴ty²¹gɨ²⁴	liŋ²¹dʒo⁵⁵ti⁵⁵	li²¹dzu³³a⁵⁵	
+1002	399.0	head-wrap	头巾	tóujīn		ʔmɛ⁵⁵n̩²¹ɕɛ³³	ʂʅ²¹ba²¹	ɕu³³tɕi⁵⁵mɔ³³	ɕi³⁵kʰɨ⁵³	a⁵⁵tʃo³³	pʰa²⁴tɕi²¹	m̩²¹tʰə⁵³
+1003	400.0	headdress	饰头巾	shìtóujīn		ʔmɛ⁵⁵n̩²¹ɕɛ³³	n̩²¹tsɿ²¹liaŋ²⁴mao⁴⁴	ɕu³³tɕi⁵⁵zɔ²¹	ɕi³⁵kʰɨ⁵³sy²¹tsɿ²¹	a²¹ta²¹	ɛ⁵⁵bɛ³³	
+1004	165.0	sorghum	高粱	gāoliang	ʔlu²	ʔlə²¹	lv̩⁵³		kao⁵⁵liaŋ⁵⁵		ko³³lɛŋ²¹	kao³³liaŋ³³
+1005	187.1	persimmon	柿子	shìzi	mu²bɛ¹	m̩²¹bɛ⁵⁵	m̩²¹bɛ²⁴	m̩²¹bɛ²⁴	ʝi³⁵³bɛ˞²⁴ʔø³³		a²⁴tʰo⁵⁵ɕi³³pʰi²¹	a⁵⁵m̩²¹bɛ˞³³
+1006	405.0	clothing	衣服	yīfú	pʰja(ŋ)¹	pʰu⁵⁵	pʰu²⁴	pʰia⁵⁵	pʰa⁴⁵³	lo²¹pʰa⁵⁵	lo²¹pʰa²⁴	pʰa³³
+1007	406.0	collar	衣领	yīlǐng	pʰja(ŋ)¹kʰjɛ²	pʰu⁵⁵kʰɛ²¹	pʰu²⁴kʰɛ²¹	pʰia⁵⁵kʰɛ²¹tsɿ³³	pʰa³⁵kʰɛ˞²¹	pʰa⁵⁵lu²¹kʰu⁵⁵	lo²¹pʰa²⁴la³³tsuɛ⁵⁵jo³¹	pʰa³³kʰɛ˞²¹
+1008	407.0	sleeve	袖子	xiùzi	pʰja(ŋ)¹le̠ᶫ	pʰu⁵⁵lɛ̠²¹	pʰu²⁴le⁵³	lei⁴²di²¹	pʰa³⁵lɛi³³	pʰa⁵⁵lɨ²¹ɣɨ²¹	lo²¹pʰa²⁴li̠³¹	pʰa³³nai⁵³
+1009	409.0	palm bark rain cape	蓑衣	suōyī	ga¹by¹	gɨ⁵⁵by⁵⁵	ɣa²⁴by²⁴	dʑi²⁴bə²⁴	go²¹by²⁴	ɕi⁵⁵kʰuai⁵⁵	tsu²¹kʰuɛʲ²⁴	ga³³bɨ³³
+1010	203.0	stick	棍子	gùnzi	ʔmɛ¹tu¹	ʔmɛ⁵⁵tə⁵⁵kʰɨ⁵⁵	mɛ⁴⁴tu⁴⁴	mɛ⁵⁵tɤ̪⁵⁵	mɛ˞⁴⁴tɛ˞⁴⁴	a⁵⁵tũ⁵⁵	pa²⁴tsʰa²¹	ka⁴⁴tsɿ³³
+1011	411.0	belt	裤带	kùdài		ʔla̤²¹kʰɨ⁵⁵ɕɛ³³pɛ³³tɕa³³	la²¹kʰv̩³³ʂʅ⁴⁴pa³³tʂã³³	lɔ²¹kʰu⁵⁵sɛ²¹	lo²¹pɛ˞³³ʂʅ²¹	lo²¹po³³tso³³	lo̠ʔ²¹kʰu²⁴	la²¹kʰo³³sɛ˞²¹
+1012	414.0	baby sling	背兜	bēidōu		a⁵⁵kɨ⁵⁵ti³³	dzɿ²¹ti³³	mɛ⁵⁵bu³³	mɛ˞³⁵dzɿ³³	a⁵⁵tso³³	a³³nio⁵³ɛ⁵⁵bɛ³³	ɛ˞⁵⁵vv̩⁵³
+1013	220.0	body	身体	shēntǐ	gu¹tsʰɿ²/³	gɨ⁵⁵tʂʰʅ̥²¹	gv̩²⁴tʂʰʅ²¹	gə²⁴tsʰɿ⁵⁵	go²⁴tʂʰʅ²¹dy²¹	gɨ⁵⁵tsʰɿ²¹	ɛ²¹tu³³	go³³tsʰɿ³³
+1014	287.0	bladder?	膀胱	pángguāng	tsʰi²pʰu²	sɛ²¹pi²¹	tsʰɛ̃n²¹fv̩²¹	sa²¹tʰɤ̪²¹	saŋ²¹pʰu²¹lu²¹	ɕi⁵⁵pʰu²¹	ɛ²¹tɕi³⁵pʰv̩²¹	tsʰa²¹pʰo²¹lo³³
+1015	421.0	porridge	粥	zhōu	烂饭	dza⁵⁵hə²¹ɣɨ²⁴	dzã⁴⁴hõ²¹	dzɔ²⁴xa²¹	dzo²⁴ha²¹	dzo⁵⁵ma²¹næ³³	dzo²⁴xa̠²¹na⁵⁵jo³¹	dza²¹fv̩²¹la⁵³
+1016	426.0	soup	汤 (菜汤)	tāng	ɣaŋ²ɣi¹	wu²¹tɕɛ̠²¹ɣɨ⁵⁵	wu²¹tɕi⁵⁵ɣɨ³³	ji²⁴tsɿ⁵⁵	ɣa²¹ɣɨ²⁴	a²¹tɕɛ²¹ɣɨ⁵⁵	ɛ²¹ɣɨ²⁴	m̩²¹m̩³³
+1017	429.0	sugar	糖	táng	ʃa¹ba²	ʂa⁵⁵ba²¹				bɨ²¹tʃʰɿ⁵⁵	pɨ²¹tsʰɿ²⁴	
+1018	429.1	sugar	糖	táng	ʃa¹da²		ʂa⁵⁵da²¹	sɔ⁵⁵ta²¹	tʂʰʅ³⁵mv̩˞²¹			
+1019	430.0	jaggery	红糖	cūtáng	ʃa¹da²(ʔni¹)	ʂa⁵⁵da⁵⁵	ʂa⁵⁵da²¹ĩ⁴⁴	xɔ²¹tʰa²¹	tʂʰʅ³⁵mv̩˞²¹	bɨ²¹tʃʰɿ⁵⁵tɛ³³	pɨ²¹tsʰɿ²⁴ni²⁴	
+1020	319.0	boy	青年男人	qīngnián nánrén	su¹le̠ᶫpa̠ᶫ	sɿ⁵⁵lɛ̠²¹pa̠²¹	za²¹le⁵³	sɿ⁵⁵li⁴²pu⁴²	zo²¹ny⁵⁵zo²¹	su⁵⁵lu²¹pɑ²¹	tsʰa³³buʲ⁵⁵jo³¹	sɛ³³lɛ⁵⁵za²¹
+1021	433.0	kitchen knife	菜刀	càidāo	a¹tʰa²ba²	a⁵⁵tʰa̤²¹ba̤²¹	a⁵⁵tʰa²¹ba²¹	ja²¹ɣə²⁴a⁵⁵tʰɔ²¹	a³⁵tʰo²¹bo²¹tao³³	a⁵⁵tʰɛ²¹lɛ²¹	a²⁴tʰo³³pʰa̠³³pʰaʲ⁵⁵jo³¹	bo³³tao³³
+1022	434.0	pointed knife	尖刀	jiāndāo	a¹tʰa²le̠ᶫ	a⁵⁵tʰa̤²¹lɛ̠²¹	a⁵⁵tʰa²¹le⁵³	a⁵⁵tʰɔ²¹nei⁴²	a³⁵tʰo²¹n̩²¹tɕʰy⁵³	a⁵⁵tʰɛ²¹lɛ²¹n̩²¹də⁵⁵pu⁵⁵	a²⁴tʰo³³nio⁴²	a⁵⁵tʰa²¹tʰi³³
+1023	336.0	widower	寡郎	guānfū	me²tʃʰu²pa̠ᶫ	lɛ̠³³pa̠²¹	ʐu⁴⁴pa⁵⁵te²¹	mɛ²¹tsʰɿ²¹pu⁴²	ʐu³³tʂʰʅ²¹	mɛ²¹tʃʰu²¹pɑ²¹	po³³tsʰɿ³³po̠ʔ²¹	mɛ˞²¹tsʰɿ²¹pa⁵³
+1024	341.0	GP father	祖父	zǔfù	a¹tsu²	a⁵⁵ku³³	a⁵⁵tsu²¹	a³³ma²¹	a³⁵ma²¹	a²¹po⁵⁵liŋ⁵⁵	a²⁴po²⁴leŋ⁵³	a⁵⁵tsu²¹pa⁵³
+1025	439.0	yoke	牛轭	niúè	la²le̠H	la̤²¹lɛ̠³³	la²¹lɛ³³	lɔ²¹lei³³	lo²¹lɛi³³	i⁵⁵kai⁵¹	a²⁴ni²¹ɛ²⁴	a⁵⁵ni⁵⁵wan²¹taŋ³³
+1026	443.0	awl	锥子	zhuīzǐ		tɕao̠²¹sa³³		zɿ³³zɔ²¹	xu³⁵tɕy³³	mo⁵⁵wo̠²¹	mɛ⁵³jɔ²¹	tsuei³³tsɿ³³
+1027	445.0	ball (of thread)	线球	xiànqiú		kʰɨ⁵⁵ʔly³³	kʰɨ²⁴tɛ³³	xɔ²⁴xə³³kʰɔ³³	kʰɨ⁴⁵³tʰɛ˞³³ø³³	kʰi⁵⁵tso³³sɛ²¹	kʰi⁵⁵tso̠³³dɛ²¹	kʰɨ³³tʰɛ˞²¹
+1028	446.0	rope; string	绳子	shéngzi		i⁵⁵tsʰɿ⁵⁵	he/ĩ⁴⁴tsʰɿ⁴⁴	xə³³tɕi⁵⁵	hɛ˞̃⁴⁵tsʰɿ⁵³	po³³tso³³	pi⁵⁵tso³³	vɛ˞³³tsa³³
+1029	450.0	bamboo sieve; sifter (fine)	筛子(细的)	shāizi	ʔva¹kɨ¹	ʔva⁵⁵kʰɨ⁵⁵tsɿ³³	va⁴⁴kɨ⁴⁴	ɔ⁵⁵tɕi⁵⁵ku⁵⁵	ɤ⁵⁵ku⁵⁵tɕi⁵³	oŋ⁵⁵ki⁵⁵	o²⁴ki²⁴	aŋ²¹kɨ³³
+1030	451.0	whetstone	磨刀石	mó	a¹tʰa²sɛ²ka¹lu̠H	a⁵⁵tʰa̤²¹sɛ²¹ka⁵⁵lə³³	ɸu²⁴sɛ²¹lu³³	a⁵⁵tʰɔ²¹sɛ²¹ku⁵⁵lu³³	lu³⁵sa²¹mɛi²⁴	a⁵⁵tʰo²¹sɛ²¹ko⁵⁵lu³³	a²⁴tʰo³³ɕɛ²¹o²⁴lo³³kʰɛ³³	xɨ³³sɛ²¹lo⁵³
+1031	452.0	millstone	石磨	shímò	ni̠ᶫ	ɲiɛ̠²¹lə²¹	nø⁵³	ku⁵⁵lu³³wei²¹	ɲi̠³³	mo⁵⁵	moŋ²⁴	wai⁵³
+1032	454.0	chisel	凿子	zāozi		tso³³tsɿ³³		zɿ³³zɔ²¹	xu³⁵tʂʰʅ²¹	xɨ⁵⁵tʰɛ²¹	dzuʲo⁵³	
+1033	456.0	rice pounder	米臼	mǐjiù		tsʰa²¹lu²¹	tsa⁴⁴la⁴⁴be⁴⁴	lei⁴²tsʰə⁵⁵	tsʰao²¹py⁵⁵kv̩³³	kʰo²¹, kʰoŋ²¹	tɕʰi³³nɛ²⁴	lei⁵⁵tsʰə³³
+1034	457.0	mortar	臼	jiù		tsʰa²¹lu²¹	tsʰa²¹tsu⁴⁴pʰɛ²¹	tsʰɔ²¹tei²¹tsʰə⁵⁵	tsʰo²¹dɛi²¹gɨ⁴⁵³	ma⁵⁵pʰiŋ²¹kʰoŋ²¹	tsʰa³³bio⁵³	tsʰa²¹tsʰo³³
+1035	458.0	pestle	杵	chǔ		tsʰa²¹ti²¹sɿ³³	tsʰa²¹tsu⁴⁴vv̩²¹ma³³	tei²¹m̩³³pə²¹		ma⁵⁵pʰiŋ²¹kʰoŋ²¹liŋ²¹tsʰɿ⁵⁵	tsʰa³³bio⁵³ɣɨ²¹do²⁴	tsʰa²¹tsʰo³³bi⁵⁵bi⁵³
+1036	465.0	washbasin	盆	liǎnpén	laŋ²	pʰu²¹ʔmɛ³³tsʰɿ²¹pʰu̥²¹	lu²¹	pʰu²¹mei³³tɕʰi²¹la²¹	pʰa²¹tsʰɿ²¹la²¹	pan²¹doŋ³³	va³³pʰaŋ²¹	pʰa²¹ni⁵⁵tsʰɿ²¹lo²¹
+1037	466.0	bag; sack	袋子	dàizi	la¹ʔli̠ᶫ	pa̠²¹kʰɛ ̥²¹	dzɿ²¹nv̩⁴⁴	mɛ⁵⁵li²¹	lo³⁵ʐʅ³³	mɛ³³nɛ³³	tʰu³³tai²⁴	dzɿ²¹no³³
+1038	468.0	fine toothed comb	细密梳子	xìmìshūzi	m̩²pjɨ²dzi¹	m̩²¹pʉ²¹dzɿ⁵⁵	m̩²¹pɛ²¹dzɿ²⁴	m̩²¹pə²¹tɕi³³zɔ²¹	m̩²¹pɨ²¹ɕi⁵⁵zo²¹	ŋ²¹pɨ²¹dʑi⁵⁵	ɛ³³pɨ²¹dʑio⁵³	m̩²¹pai²¹mo⁵³
+1039	469.0	bowl	碗	wǎn	a¹kjɛ²	a⁵⁵kai²¹	a⁵⁵kai²¹	kei²¹	a⁵⁵qai²¹	i⁵⁵ɕɛ²¹	ku⁵⁵ɕi²¹	a⁵⁵kai⁴¹
+1040	470.0	small bowl	小碗	xiǎowǎn	a¹kje²za²	a⁵⁵kai²¹	a⁵⁵kai²¹za²¹	kei²¹zɔ²¹	a⁵⁵qai²¹tɛ˞³³zo²¹	i⁵⁵ɕɛ²¹jo²¹	ku⁵⁵ɕi³³jo³¹	a⁵⁵kai⁴¹za²¹
+1041	471.0	large bowl	大碗	dàwǎn		pa⁵⁵tʰu³³	a⁵⁵kai²¹pa²¹tɛ²¹	pa⁵⁵	a⁵⁵qai²¹ti³³mo³³	i⁵⁵ɕɛ²¹mo³³	ku⁵⁵ɕi²¹vaŋ²⁴ko²¹	a⁵⁵kai⁴¹ɣɛ˞²¹
+1042	475.0	firewood	柴	chái	si̠H	sɿ̠³³	sɿ⁴⁴	ɕi³³	sɿ⁴⁵³	ɕi³³	ɕi̠³³	sɿ⁵³
+1043	476.0	manure; fertilizer	粪 (肥料)	fèn	kʰi²	kʰɨ̥²¹	kʰɨ²¹	tɕʰi²¹	kʰɨ²¹	kʰi²¹	kʰɨ²¹	kʰɨ²¹
+1044	422.0	oil	油	yóu	ʒu¹ɣɨ¹	ʐu⁵⁵ɣ̩ɨ⁵⁵	ʐu²⁴ɣɨ³⁴	zə²⁴	jo²⁴ɣɨ³⁴	la²¹maŋ³³	na²¹maŋ⁵³	zɨ³³
+1045	480.0	money	钱	qián	gi²pʰe²	gɨ²¹pʰi²¹	ga²¹pʰe²¹	ʝi²¹mɔ³³	gɨ²¹pʰɛi³³, gɨ²¹pa³³	pʰi⁵⁵dʑɛ²¹	na²⁴dʑi²¹	ɣɨ³³ma³³
+1046	480.1	money	钱	qián	gi²pʰe²	gɨ²¹pʰi²¹	ga²¹pʰe²¹		gɨ²¹pʰɛi³³, gɨ²¹pa³³	pʰi⁵⁵dʑɛ²¹	na²⁴dʑi²¹	ɣɨ³³ma³³
+1047	463.0	tub; bucket	桶	tǒng	ɣɨ¹tʰu²	ɣɨ⁵⁵tʰə̤²¹	ɣɨ²⁴tʰv̩²¹	tʰɤ̪²¹	ɣɨ²⁴tʰv̩²¹	tʰoŋ²¹	xa³³tʰuŋ⁵³	ɣɨ³³tʰɤ̪²¹
+1048	482.0	folksong	民歌／山歌	míngē		bɛ⁵⁵tsʰɛ⁵⁵	hẽ⁴⁴kv̩³³tʂɛ³³	kɔ³³tɕʰi⁵⁵	xai³⁵ko³³	bɛ⁵⁵ko³³	go²⁴mu²⁴	xai⁵³
+1049	483.0	song	歌	gē		ko³³	ko³³		ko³³	ko³³		tsʰaŋ³³ku³³
+1050	484.0	story	故事	gùshì		ko²¹pʉm²¹	ku²¹pə̃²¹	ku²¹pə²¹	ku⁵⁵tɕĩ³³	kam³³pɨm³³	ɛ²¹ku⁵³	ku²¹sɿ³³
+1051	485.0	word (written)	字	zì		tʰiau²¹tsɿ⁵⁵	tʰiu²¹tsɿ⁴⁴	tsɿ⁵⁵	tʰa²¹ɣɨ²¹tsɿ⁵⁵	su²¹tu⁵⁵	su²¹mi³³	sɤ̪²¹
+1052	464.0	barrel, ceramic	土罐	tǔguàn	ʔnu¹	ə⁵⁵lə⁵⁵pi⁵⁵	pɛ²⁴	ɤ̪⁵⁵	ɤ̪˞̃³⁵ø³³	tʰaŋ⁵³	o³³muʲo⁵³	õ³³
+1053	487.1	sound; voice	声音	shēngyīn	se̠ᶫ	sɛ̠²¹	se⁵⁵ɣɨ³³		sɛi³³	ɕɛ²¹tʰə⁵⁵		
+1054	496.0	boundary marker	边界记号	biánjiè		kɛ⁵⁵tɕʰi²¹a²¹gə⁵⁵	kʰɨ⁴⁴tv̩²¹	tɕi³³xu³³	gɨ²⁴	jɛ²¹dʑi²¹	kɨ²¹kəŋ⁵³	kai³³ɕĩ⁵³
+1055	502.0	cage (e.g., for ducks)	笼	lóng		ty⁵⁵	a⁴⁴ni³³ty²⁴	lɔ²¹tsɿ³³	a⁵⁵ɲa³³ty⁵⁵y³³	kʰa³³lu⁵⁵	ka̠ʔ²¹fu³³	lo²¹lo²¹
+1056	508.0	ritual tree	龙树	lóngshù			nɛ²¹dzɿ²⁴	lɤ̪²¹ɕi³³dzei²⁴	nɛi²¹dzɿ²⁴	nɛ²¹dʑi⁵⁵		
+1057	531.0	spit	吐 (吐口水)	tù	pʰi̠ᶫ	fɛ̠²¹	ɛ⁵³	xue²¹	tsʰɿ̠³³	pʰi²¹	pʰi²¹	pʰai⁵³
+1058	609.0	hit (a target)	中 (射中)	zhōng	tʰu³	tʰə³³	bɛ˞⁴⁴tʰv̩³³	ɣɔ³³	bɛ˞³³ti⁴⁴	ja³³	ba̠ʔ³³za³³	bɛ˞⁵⁵ŋa³³
+1059	537.0	tell	告诉	gàosù	be̠Hgu²	bɛ̠³³gṳ²¹	bɛ⁴⁴gv̩²¹	bei³³ɣə²¹	bi³⁴gɨ²¹	bɛ̠³³gɨ²¹	tʰə²⁴	bei⁵⁵gɨ³³
+1060	539.0	ask	问	wèn	ʔna¹	ʔna⁵⁵	na⁴⁴ĩ⁴⁴	nɔ⁵⁵	no³⁵ĩ⁵³	nə⁵⁵ĩ⁵⁵	no²⁴	mĩ²¹
+1061	541.0	send for; request	请		tsʰɛ³	tsʰɛ³³	tsʰɛ³³	tɕʰɛ³³	tʂʰɛ˞³³	tʰə⁵⁵tʰə²¹	tɕʰiŋ⁵³	tʂʰɛ˞³³
+1062	673.0	rob; loot	抢	qiǎng	ʔxu³	hə³³	hõ³³, tsɛ⁴⁴	tɕʰia²¹	hõ³³	fu³³	fv̩³³	tɕʰiaŋ²¹
+1063	715.0	chase 	追 (追上)	zhuī	tʃu²	tʂə²¹	tʂv̩²¹	tʃɤ̪²¹	tʂɤ̪˞²¹	tʃu²¹	tsu²¹	ga⁵³
+1064	548.0	rub (with hands)	搓 (措绳子)	cuō	vɛ̠ᶫ	va̠²¹	vɛ⁵³	sɿ³³	ga³³	va̠²¹	va̠ʔ²¹	vɛ˞⁵³
+1065	549.0	rip; tear	撕	sī	tʃʰe̠ᶫ	tɕʰɛ̠²¹	tɕʰi⁵³	tsɿ³³	tɕʰiɛ³³	ɕi³³	xa̠ʔ³³	tɕʰi⁵³
+1066	553.0	scatter; sprinkle (e.g., seed)	撒 (撒种子)	sǎ	ʃɨ²	ʂʅ²¹,pi²¹	ʂʅ²¹	pei²¹	ʂʅ²¹, pɛi³³	sɿ²¹	sɿ²¹	sɿ²¹
+1067	726.0	burn up	烧掉	shāodiào	kʰu¹	kʰə⁵⁵,ʔnɛ²¹	kᶠʰv̩²⁴	kʰɤ̪⁵⁵	kᶠʰɤ̪˞⁴⁵³	tɕi³³pɛ³³	də³³pʰi²⁴	i³³jɛ³³
+1068	752.0	lay (an egg)	生 (生蛋)	shēngdàn	fu³	fv̩³³	fv̩³³fv̩³³	fɤ̪³³	fɤ̪˞̩³³	fu³³	fv̩³³	fv̩³³
+1069	568.0	kneel	跪	guī	gɨ²tɛ¹	ni̤²¹gɨ̤²¹	gɛ²¹tɛ²⁴	dʑi²¹	gɨŋ²¹	ta⁵⁵ku²¹		go²¹
+1070	568.1	kneel	跪	guī	gɨ²tɛ¹	ni̤²¹gɨ̤²¹	gɛ²¹tɛ²⁴		gɨŋ²¹			go²¹
+1071	763.0	get up	起来	qǐlái	tu¹	tə⁵⁵la⁵⁵	tv̩²⁴la³³	mɛ³³tɤ̪⁵⁵	tɤ̪˞⁴⁵³li³³	tu⁵⁵lɛ⁵⁵	tu²⁴a⁵⁵	to³³li³³
+1072	571.0	carry,  in arms	抱 (抱小孩)	bào	te̠H	tɛ̠³³	tɛ⁴⁴	tei³³	tɛi³³	tɛ̠⁵⁵	ti̠³³	ti⁵³
+1073	572.0	carry, from hand	提	tí	tʃʰɛ²	tʰi̤²¹	tʂʰɛ²¹	tʰi⁵⁵	tʂʰɛ˞²¹	tɕʰɛ²¹	tɕʰɛ²¹	tʰi²¹
+1074	780.0	accompany someone	陪	péi	tʃʰu¹	ʝi⁴⁵	tʂʰuei²⁴	ʝi²⁴	tʂʰa⁴⁴ʝiɛ³³	da²¹mɨ⁵⁵	tsʰai²⁴	ka³³la²¹
+1075	577.0	rest	休息	xiūxī	na²	na̤²¹	na²¹	ɕa⁵⁵	no²¹	no²¹	no²¹go³³	ɕa⁵⁵la²¹
+1076	582.0	do (work)	做 (做工)	zuò (gōng)	pe¹	pi⁵⁵,mʉ⁵⁵	pɛ²⁴	mɤ̪⁵⁵	mɤ̪⁴⁵³, pi⁴⁵³	mu⁵⁵	mɨ³³dʑɛ²¹	pai³³, m̩³³
+1077	782.0	drill (a hole)	钻 (钻孔)	zuān	tʰu¹	tʰə⁵⁵	tʂu²⁴	tʰɤ̪⁵⁵	tʰɤ̪⁴⁵³	tʰu⁵⁵	tʰv̩²⁴	tɕy³³
+1078	586.0	plant; grow	种	zhòng	kʰa³	kʰa³³	kʰa³³			kʰo³³		kʰa³³
+1079	595.0	pull up; pull out	拔 (拔草)	bá	tʃi̠H	tʂʅ̠³³	tʂʅ⁴⁴	tsɿ³³	tʂʅ³³	tɕi̠⁵⁵		
+1080	595.1	pull up; pull out	拔 (拔草)	bá	pɨ̠H						pɨ³³	pu⁵³
+1081	598.0	lead along	牵 (牵牛)	qiān	si³	sɿ³³	sɿ³³	ɕi³³	sɿ³³	tɕi³³xɛ³³	xi̠ʔ³³	gu³³
+1082	835.1	bad	坏 (人坏)	huài	du¹							du³³
+1083	602.1	teach/train	教	jiào	tsaŋ³		tsu³³	mɔ²¹				ɣɨ⁵⁵tu⁵³
+1084	872.0	intelligent; clever	聪明	cōngmíng	ʔlu¹	ŋ̩²¹ŋə̠²¹ʔlə̠³³	lv̩²⁴	li⁵⁵	ka²¹ʂʅ²¹	la⁵⁵mɨ⁵⁵	na²¹sɿ³³	miao⁵³
+1085	621.0	take off	脱 (脱衣服)	tuō	ʔli̠ᶫ	ʔʐʅ̠²¹	li⁵³	li⁴²	la³³	lɨ²¹	lɨ̠ʔ²¹	li⁵³
+1086	625.0	dye	染 (染衣服)	rǎn		ʐaŋ²¹	sɛ²¹	zei³³	tɕiaŋ³³	xu³³	fv̩³³	zei³³
+1087	627.0	mend; patch	补 (补衣服)	bǔ	ʔnɛ̠ᶫ	ʔna̠²¹	nɛʔ⁵³	nɛ⁴²	nɛ˞³³	na̠²¹	na̠ʔ²¹	nɛ˞⁵³
+1088	629.0	plait; braid	编 (编辫子)	biān	pʰe²	pʰi̥²¹	pʰɛ²¹	pʰei²¹	pʰɛi²¹			pʰai²¹
+1089	630.0	make the bed	铺 (铺床)	pū chuáng	kʰaŋ²	kʰo²¹	kʰo²¹	kʰa²¹	kʰa²¹	kʰɑ²¹	kʰa̠ʔ²¹	tou²¹
+1090	634.0	shut	闭 (闭眼)	bì	tsʰɨ̠H	tsʰɿ̠³³	tsʰɿ⁴⁴					
+1091	634.1	shut	闭 (闭眼)	bì	mi̠H		tsʰɿ⁴⁴	mi³³	mi̠³⁴	mi̠³³	mi̠ʔ³³	mi⁵³
+1092	638.0	tie into a bundle	捆(绑)	kǔnbǎng	pʰɛ³	zo²¹	pa²¹	ti³³	pʰɛ˞ŋ³⁴	pʰɛ³³	pʰɛ³³	pʰɛ˞³³
+1093	730.0	explode	爆炸	bàozhà	bu̠H	pʉ³³kʰai⁵⁵	tsɛ̃³³be⁵³	tsa²¹tɤ̪⁵⁵	bu³³	bɛ̠²¹	pv̩³³tu²⁴a⁵⁵	pən³³te³³le³³
+1094	647.0	choose	挑选	tiāo xuǎn	se¹	si⁵⁵	se²⁴	tʰiao²¹tʰia³³	si⁴⁵³	ɕɛ⁵⁵	ɕi²⁴	sei³³
+1095	16.0	dew	露	lù	kjy²	ky̤²¹	tɕy²¹	tsə²¹ji²⁴	tɕy²¹ɣɨ²⁴	tsɿ²¹ɣɨ⁵⁵	tsɿ²¹ɣɨ²⁴	lu³³suei²¹
+1096	649.0	nail	钉(钉钉子)	dìng		tʰiɛ̠²¹	dɛ²¹	tɕɛ⁴²	tĩ⁴⁵³	tʰɛ²¹	tiŋ²⁴	tĩ³³
+1097	650.0	want	要 (我要这个)	yào	li¹	ʐʅ⁵⁵	ʝi²⁴	ni²⁴	li²⁴	nɨ⁵⁵	vv̩²⁴	ʝi³³
+1098	23.0	pond	池塘	chítáng	ɣi¹by³	ɣɨ⁵⁵by³³	ɣɨ²⁴by³³	ji²⁴bə³³	ɣɨ³⁵dv̩˞²¹	ɣɨ⁵⁵dəŋ³³	ɣɨ²⁴la²¹bo³³	a²¹bə³³
+1099	653.0	lose	遗失	yíshī	pʰi̠ᶫ	fɛ̠²¹	pʰiʔ⁵³	pʰi⁴²xɔ³³	tsʰɿ̠³³xo⁴⁵³	pʰi²¹, pʰiɛ²¹	tɕʰɛ³³pʰi²¹	pʰiɛ⁵³, pʰi⁵³
+1100	657.0	win	赢	yíng	ɣa̠ᶫ						vo²¹	
+1101	657.1	win	赢	yíng	ha̠ᶫ	ha̠²¹	hã⁵³	ʝi²¹ə³³	ʝĩ²¹	xɑ̠³³		
+1102	664.0	compensate for; reimburse	赔偿	péicháng	de¹	di⁵⁵	de²⁴	dei³⁵ɣə²¹	di²⁴	sa⁵⁵mə⁵⁵ɣɨ²¹	pʰui²⁴	di³³
+1103	668.0	marry a husband	嫁	jià		gu²¹	pʰɨ⁵³	gə²¹	fɤ̪˞⁴⁵³	wu⁵⁵kɛ³³	vv̩²⁴duɛ²⁴	fv̩³³dza²¹
+1104	669.0	marry a wife	娶	qǔ	tsi¹	tsɿ⁵⁵,ha̠⁵⁵	tsɿ²⁴	tsɿ⁵⁵	tsɿ⁴⁵³	wu⁵⁵ko²¹lo⁵⁵	vv̩²⁴də²⁴	mai⁵⁵tə³³la³³
+1105	670.0	scold; curse	骂	mà	kʰa²	wa̠²¹	kʰa²¹	xɛ⁵⁵	hɛ̃˞⁴⁵³	xɛ³³	xiɛ²⁴	tsʰao³³
+1106	671.0	fight	打架	dǎjià	dɛ²n²de̠ᶫ	dɛ̤²¹lɛ̤²¹hi³³	dɛ²¹n̩²¹dɛ⁵³	dɛ²¹xei³³	dɛ˞²¹hĩ³³	dɛ²¹lɛ³³	dɛ²¹xe³³	dai²¹tei³³lei³³
+1107	71.0	this morning	今早	jīnzǎo	i²sy¹ny¹	i²¹sy⁵⁵ny⁵⁵	y²¹ɕy⁴⁴ny⁴⁴	i²¹sə⁵⁵nə⁵⁵	y²¹sy⁴⁴ny⁴⁴	e²¹nə⁵⁵	i²¹ɕi²²ni²⁴	i²¹sə³³nə³³
+1108	71.1	this morning	今早	jīnzǎo	i²sy¹ny¹	i²¹sy⁵⁵ny⁵⁵	y²¹ɕy⁴⁴ny⁴⁴	i²¹sə⁵⁵nə⁵⁵	y²¹sy⁴⁴ny⁴⁴		i²¹ɕi²²ni²⁴	i²¹sə³³nə³³
+1109	675.0	cheat	骗	piàn	ke̠ᶫ	kai̠²¹	kai⁵³	kei⁴²	kai³³	fu²¹pa²¹	fv̩²¹	lai⁵³
+1110	682.0	like; enjoy	喜欢 (喜欢唱歌)	xǐhuān		sə²¹	tʂʅ³³te⁵³	pʰə²¹ni²⁴	gɤ̪˞²⁴	i⁵⁵di²¹	dʑi³³ɕɛ²¹	kai³³
+1111	684.0	remember	记得	jìdé	xa̠ᶫ	xa̠²¹ka³³	hã⁵³	xu⁴²dzɛ²¹	xo³³ko³³		dɨ²¹mɛo³³	tsəŋ⁴⁴ŋa³³
+1112	688.0	hate	恨	hèn	tsʰi²	həŋ³³	tsʰɿ²¹	xə³³	hə̃³³		ni̠³³mo³³no²⁴	
+1113	117.0	owl	猫头鹰	xiāo/māotóuyīng	gy³ly²	wu³³ly²¹	lv̩²¹ʝi⁴⁴	ə³³lə²¹	ø³³mɤ̪˞²¹	a³³ŋa³³lo²¹pɑ̠²¹	gao²¹	
+1114	690.0	have courage	敢	gǎn	pɨ²	pʉ²¹	pɨ²¹	pə²¹	pɨ²¹	pɨ²¹	ni̠³³mo³³jɛ²¹	pu²¹
+1115	693.0	is not	不是(这不是我的)	búshì	ma²ŋa¹	ma²¹ŋa⁵⁵	ma²¹ŋa²⁴	ma²¹ŋa²⁴	a²¹ŋo²⁴	ma²¹ŋo⁵⁵	ma²¹ŋa²⁴	m̩²¹ŋa³³
+1116	695.0	not have; lack; without	没有(我没有书)	méiyǒu	ma²dʒaŋ¹	ma²¹dʐu⁵⁵	ma²¹dʐu²⁴	ma²¹dza²⁴	a²¹dʐa²⁴	ma²¹dʒa⁵⁵	ma²¹dza³⁵³	m̩²¹dzu³³
+1117	117.1	owl	猫头鹰	xiāo/māotóuyīng	gy³ly²	wu³³ly²¹	lv̩²¹ʝi⁴⁴	ə³³lə²¹	ø³³mɤ̪˞²¹		gao²¹	
+1118	706.0	climb	爬(上)	pá	ʔmɛ̠H	ʔma³³,pɛ³³	mɛ˞⁴⁴	mɛ³³/⁵⁵	mɛ˞³³	tʃʰa²¹	di³³lɛ³³	mɛ˞⁵³
+1119	146.1	nest	窝 (鸟窝)	wō	ty¹		kʰɨ²⁴		by²⁴		kʰi²⁴	tə³³tə³³
+1120	157.0	fir tree	杉树	shānshù	ʔŋy¹dze¹	nə⁵⁵dzɿ⁵⁵	ŋo²⁴dzɿ²⁴	ŋɯ⁵⁵dzei²⁴	tʰaŋ²¹dzɿ²⁴		ma²¹pɛ²¹vaŋ⁵³	a⁵⁵ji⁵⁵san³³sɿ⁵³
+1121	168.0	ear of grain	穗子	suìzi	ʔny¹	ʔny⁵⁵	ny⁴⁴	ja³³lə⁵⁵za²¹	ny⁴⁵³	jɛ²¹vɛ̠³³	ɛ²¹viʔ³³	
+1122	713.0	move back	退	tuì		di³³	ɛ̃²¹	lɔ²¹	di²⁴	su³³mɨ⁵⁵	tʰoŋ²⁴kua²⁴	tə³³
+1123	716.0	step on	踩	cǎi	kʰɨ³	kʰɨ³³	kʰɨ³³	kə⁵⁵	kʰɨ³³	ko³³	gɨ³³	tɛ˞³³
+1124	718.0	stride	跨 (跨小沟)	kuà		pa̠³³	pɛ⁴⁴	la⁵⁵	tɕʰa⁴⁵	gɨ³³	kʰaŋ²⁴	tɕʰa³³
+1125	721.0	dry (in the sun)	晒 (晒太阳)	shài	ʔly̠ᶫ	lø̠²¹	løʔ⁵³	lə⁴²	lø̠³³	lɑ̠²¹	lə²¹	lə⁵⁵
+1126	722.0	rain (V)	下雨	xiàyǔ	ha¹	a⁵⁵ŋ̩²¹ha⁵⁵ha⁵⁵	a⁵⁵mu²¹hã³³	a⁵⁵mə²¹xɔ⁵⁵	hõ⁴⁵³	a⁵⁵mi²¹xo⁵⁵	a²⁴xo²⁴lo³³	a⁵⁵mu²¹ha³³ha³³
+1127	186.1	peach	桃子	táozi	sa²vy²	sø̤²¹ʔø̤²¹	sa²¹ve²¹	sa²¹ɣə²¹	sa²¹wu²¹ʔø³³	tsʰa²¹ɣɨ²¹	sa³³pʰɛ²¹	
+1128	186.2	peach	桃子	táozi	sa²ʔly²						sa³³pʰɛ²¹	
+1129	731.0	flow	流 (水流)	shuǐliú	ʃi³	ji³³	ʝi³³	vɛ⁴²	ʂʅ³³	xɛ³³kæ⁵⁵	ji̠²¹	sɿ³³
+1130	733.0	float	浮 (浮在水面)	fú		pʰiau³³	pʰiau³³	gɤ̪⁵⁵	pʰiau³³	la²¹lo³³	ɣɨ²¹bo²⁴	pʰiau³³
+1131	734.0	crack open; split open	裂开 (墙裂开)	lièkāi	be̠ᶫ	bɛ̠²¹	bɛ⁵³	bei⁴²kʰe⁵⁵	bɛi³³	bɛ̠²¹kæ⁵⁵	bi²¹tuʲ²⁴jo⁵⁵	bai⁵⁵
+1132	736.0	be short of; lack	缺 (碗缺了一个口)	quē	kʰɛ̠ᶫ	tɕʰa³³,kʰa̠²¹	kʰɛ⁵³	kʰɛ⁴²	kʰɛ˞³³	kʰa̠²¹	pi²²kʰa̠²¹mo³³	tʰɛ˞⁵³
+1133	740.0	snap in two (rope, string)	断 (绳子断了)	duàn	tsʰe̠H	tsʰɛ̠³³	tsʰɛ⁴⁴	tsʰei³³	tsʰai³³	tɕʰɛ³³a²¹	tɕʰi³³tuʲ²⁴jo⁵⁵	tsʰei⁵³
+1134	742.0	leak	漏 (水桶漏水)	lòu		ʂʅ³³	du⁴⁴	sɿ³³	dɤ̪˞²⁴	tsɿ³³mə³³	ɣɨ²⁴zə²⁴	dɤ̪³³
+1135	744.0	change	变 (蛹变蛾)	biàn		piŋ⁵⁵		pi⁵⁵	pʰiɛ˞³³		loŋ²⁴	pĩ⁵³
+1136	277.0	rib	肋骨	lèigǔ	ʔny¹	ʔly⁵⁵		nə⁵⁵gə²¹	lə²⁴pa³³	nɛ⁵⁵kʰɛ⁵⁵	ni²⁴gɨʲ³³jo³¹	nəŋ⁴⁴kɨ⁵⁵pa⁴¹
+1137	746.0	grow	长 (长大)	zhǎng	ɣɛ²	vɛ̤²¹	ɣɛ˞²¹	ɣɛ²¹	ɣɛ˞²¹	ʝɛ²¹	jɛ²¹	ɣɛ˞²¹lĩ³³
+1138	747.0	tremble; shiver	发抖	fādǒu	tʃʰe²	tɕʰi̤²¹	tɕʰi²¹	li³³	ɲo³³	ɲɛ³³	tɕʰɛ²¹	tou²¹
+1139	393.0	garden	菜园	càiyuán	ɣaŋ²(kʰy¹)mi¹	wu²¹mi⁴⁵	wv̩²¹mɛ²⁴	ja²¹kʰə⁵⁵mi³³	ɣa²¹tɕi³³mv̩˞⁴⁵³	ɣa²¹mi⁵⁵	tɕʰi²¹dzu²⁴mi³³,kʰəŋ²⁴ka²⁴ 	kʰei³³ka³³
+1140	394.0	pen; fold	圈(牛圈)	juān	by¹	by⁵⁵	by²⁴	bə²⁴xei⁵⁵	by²⁴	bɨ⁵⁵, kʰo³³	kʰo³³	bə³³
+1141	754.0	germinate, sprout, bud	发(芽)	fāyá	bɨ̠H	bʉ̠³³	bɨ⁴⁴	dzɛ²⁴bə³³		bɨ̠⁴⁴	ɛ²¹tɕɛ²¹tɕɛ³³	du⁵⁵
+1142	754.1	bud on trees	发(芽)	fāyá	tsɛ̠ᶫ	tsa̠²¹	tsɛ̃⁵³		dʐɛ˞³³			fɛ˞⁵³
+1143	755.0	bloom; blossom	开(花)	kāihuā	ʔve̠H	ʔvɛ̠³³	vɛ⁴⁴	vi³³	vɛi³³	bɛ̠⁴⁴	bə³³	vei⁵³
+1144	756.0	bear fruit	结(果)	jiéguǒ	dʒɛ²	dʑɛ̤²¹	dʐʅ/ə²¹	dzɛ²¹	dʐɛ˞²¹	ɲɛ²¹	nɛ̠ʔ²¹	dzɛ˞²¹
+1145	757.1	rot (meat)	腐烂		haŋ²	hə⁵⁵	hõ²¹, tʂʰʅ⁵³	tsʰɿ²¹xa²¹	haŋ²¹			
+1146	398.0	graveyard	墓地	mùdì	mo̠H/ᶫbɛ¹kʰy¹	mo̠²¹bɛ⁵⁵kʰy⁵⁵		mu⁴²bɛ²⁴kʰə⁵⁵				
+1147	409.1	palm bark rain cape	蓑衣	suōyī	ga¹by¹	gɨ⁵⁵by⁵⁵	ɣa²⁴by²⁴		go²¹by²⁴		tsu²¹kʰuɛʲ²⁴	ga³³bɨ³³
+1148	765.0	sink	沉 (下)	chén		lo¹³	tsʰe²⁴	lɔ²⁴	hõŋ³³	tɕɛ³³ka³³	dɨ²¹tɕio⁵³	lo³³
+1149	455.0	rice huller	碓	duì	tsʰy¹	tsʰi⁵⁵lə²¹	kʰɨ⁴⁴tɛ²¹	fɛ²¹tsʰə⁵⁵	tɕʰi³⁵kʰɨ⁵⁵mɛi³³	kʰo²¹naŋ²¹	kʰu³³naŋ²¹	tsʰə³³
+1150	769.0	draw water (well)	吊（水）	diàoshuǐ		tʰi²¹	tʂʰɛ²¹	tio³³	tʂʰɛ˞²¹	kʰu²¹	kʰu²¹	kɛ˞³³
+1151	770.0	drain, to	排（水）	páishuǐ	pʰe²	pʰʉ̤²¹		pʰei²¹	ka³³ti³³	li⁵⁵	kəŋ²⁴pʰi²⁴	lo²¹
+1152	772.0	skin (animal), to	剥皮	bāopí	tsʰi̠ᶫ	tsʰɿ̠²¹	gɨ²⁴tsʰɿ⁵³	dʑi²⁴tɕʰi²¹	gɨ²⁴tʰi̠³³	gi⁵⁵kʰɨ²¹	pʰa²¹	gɨ³³tsʰɿ⁵³
+1153	773.0	peel (eggs, fruit)	剥	bāo		tʂʰo̠³³	gɨ²⁴tʰi⁵³	ɕiu³³	tʰi̠³³	bɛ̠²¹	pʰa²¹	tsʰɿ⁵³
+1154	473.0	bed	床	chuáng	gy²	gyn²¹	gu²¹dzu³³	pʰu⁵⁵	gv̩˞²¹lv̩˞²⁴kʰɨ⁵³	go²¹tsa³³	ta̠ʔ²¹kʰi²⁴	gɨ²¹
+1155	778.0	soak; pickle	泡		ti̠H	tiɛ̠³³	ty⁴⁴	ti³³	ti³³	tɨ̠⁵⁵	ti³³	tsʰoŋ⁵³
+1156	779.0	drown	淹死/溺死	yānsǐ/nìsǐ		tsʰiaŋ⁵⁵sɛ̠²¹	ti⁴⁴xɨ³³	ɤ̪²¹sei²¹	tɕʰiŋ⁴⁵³sɛi³³	po³³xɨ⁵⁵	tɕɛŋ²⁴xə²⁴	tɕʰiŋ⁵⁵sai⁵³
+1157	783.0	insert	插	chā	tsʰy̠H	tɕʰa³³,sɛ⁵⁵		tsʰə³³		tsʰɑ³³	tsʰə³³	tsʰa⁵³
+1158	784.0	drive out	赶 (驱逐)	gǎn	ga̠ᶫ	ɦa̠²¹	ɣɛʔ⁵³	ga⁴²	ga³³	tʃu²¹	tsu²¹,na³³	ga⁵³
+1159	529.0	savor	含	hán	my¹	my⁵⁵	my²⁴	pɔ⁵⁵	my²⁴	mə⁵⁵	mə²⁴	mə³³
+1160	542.0	smell	闻 (嗅)	wén	ny²	ny̤²¹	ny²¹	nə²¹	ny²¹	nə⁵⁵	nə²¹	nəŋ²¹
+1161	566.0	push	推	tuī	dy²	tʂə̠³³	dy²¹	ɕɔ²⁴	pa³³	də²¹	də²¹	
+1162	573.0	carry, mid pole	担	dān/tiao	py² / pjy²	py²¹	ta⁵³	pi²¹	py²¹	pə²¹	va³⁵pə²¹	pɨ²¹
+1163	574.0	fall	跌 (跌倒)	diē(dǎo)	ʔly²	ʔly³³	ly²¹	da²¹	ly²¹	bɛ³³	pə³³	
+1164	810.0	steep	陡 (山很陡)	dǒu		teo²¹	di²¹	tə³³	ku̠³³	tæ³³	so̠²¹	tə⁵³
+1165	811.0	situated straight	正 (帽子戴得正)	zhèng		tʂʅ⁵⁵	ty⁴⁴	xa⁵⁵tsɔ²¹	tʂə̃⁴⁵³	dʒa²¹	dza²¹	bɛ˞³³
+1166	812.0	situated crooked	歪 (帽子戴歪了)	wāi		ʂʅ²¹	tʂɛ²⁴	wɛ²⁴	bɛ˞²¹	dʑɛ⁵⁵	ŋ̩³³sɿ²¹	wai³³
+1167	584.0	to plow	犁 (犁地)	lí	mjy²	mi²¹	ma²¹	mia²¹	mo²¹	mo²¹ɛ³³	mo²¹	ma²¹
+1168	815.0	thick; dense	稠 (粥很稠)	chóu	tʰaŋ² 	kʰa³³	nu⁵³	pe⁵⁵	tʰa²¹	væŋ⁵⁵	tʰa²¹	kʰa⁵³
+1169	816.0	thin; watery; sparse	稀 (粥很稀)	xī		nə̠²¹	gɨ²⁴	ji²⁴xu³³	haŋ²¹	na³³	na⁵⁵	la⁵³
+1170	587.0	water	浇 (浇菜)	jiāo	xy²	ɕy̤²¹	ɸu²¹		xu²¹	xø²¹	xə²¹	
+1171	820.0	dim; dark	暗 (房子很暗)	àn	ɣɨ¹	ɣɨ⁵⁵	ɣɨ²⁴	ɣə²⁴		wo⁵⁵vɛ⁵⁵	vɨ²⁴	miɛ˞⁵³
+1172	821.0	clear (sky)	晴	qíng	te̠ᶫ	a⁵⁵m̩²¹pɛ⁵⁵	tɛ⁵³	a⁵⁵mə²¹tsɔ³³	nu⁴⁵³	tʃɿ⁵⁵mɨ⁵⁵	tsʰo²⁴	na³³li³³
+1173	822.0	overcast	阴	yīn	ti¹	a⁵⁵n̩²¹ti⁵⁵	ti²⁴	a⁵⁵mə²¹ti⁵⁵	ti⁴⁵³	mɨ⁵⁵	a²⁴ŋ̩²¹tɨ²⁴	miɛ˞⁵³
+1174	824.0	beautiful	美丽 {漂亮}	měilì	mɛ²	mɛ̤²¹	mɛ˞⁴⁴	i⁵⁵di²¹ɕiu³³	mɛ˞²¹	tɕi²¹	mɛ²¹kʰɛ⁵⁵la²¹	i⁵⁵gɨ³³
+1175	825.0	ugly	丑	chǒu	he¹	hi⁵⁵	hẽ²⁴			ma²¹tɕi²¹		i⁵⁵ŋ̩²¹gɨ³³
+1176	825.1	ugly	丑	chǒu	ʔni¹ʃa̠ᶫ			i⁵⁵su⁴²	ka̠³³		i²⁴so̠²¹	
+1177	622.0	roll up	卷 (卷烟)	juǎn	ʔly³	ʔly³³	ko²¹to³³	lə³³	ly³³	lɨ³³	li³³	tɕuɛ˞²¹
+1178	828.0	lean	瘦 (瘦肉)	shòu	ne̠ᶫ	xa̤²¹nɛ̠²¹	nɛ⁵³	xɔ²¹nei⁴²	nɛi̠³³	xo²¹nɛ̠²¹	ɛ³³ni²¹	nai⁵³
+1179	829.1	skinny; thin	瘦 (人瘦)	shòu	xe̠ᶫ	ɦø̠²¹	weʔ⁵³	xei³³	tsʰa⁴⁴xai⁵⁵			xai⁵³
+1180	830.0	clean	干净	gānjìng	xaŋ¹	xu⁵⁵	ɸu²⁴	ka⁵⁵tɕi²¹	tʂɛ˞³³pə³³	xa⁵⁵	sa³³li²¹sə³³lɛo⁵³	kan³³tɕiŋ²¹
+1181	652.0	receive	收 (收起来)	shōu	sy¹	ɕy⁵⁵	ɕy²⁴	sə⁵⁵	ɕy⁴⁵³	sə⁵⁵	ɕioŋ²⁴	sə³³
+1182	837.0	slow	慢 (走得慢)	màn	gja¹	ga⁵⁵	ga²⁴	lɛ²¹		ɲa⁵⁵	nɛ³³	
+1183	842.0	raw; unripe	生 (生肉)	shēng	dʒi²	dzɿ²¹	dzɿ²¹	dʑi²¹	dzɿ²¹	dʑi²¹	ɛ³³dʑi²¹	dzɿ²¹
+1184	844.0	early	早 (来得早)	zǎo	ne̠ᶫ	nɛ̠²¹	nɛʔ⁵³	nei⁴²	nɛi³³	nɛ̠²¹	tʰi⁵⁵ni²¹	nai⁵³
+1185	849.1	cold (body)			gjaŋ¹	gu⁵⁵	gu²⁴		ga²⁴			ga³³
+1186	856.0	salty	咸	xián		ɛ⁵⁵	kʰa²¹		kʰa²¹		kʰa²¹	kʰa²¹
+1187	858.0	insipid	没味道	méiwèidào	bjɛ̠H	ba̠³³	bɛ³³		bɛ˞³³	ba̠³³	ɛ⁵⁵bɛ⁵⁵ma³³du²¹	bɛ˞⁵³
+1188	860.1	really stinky			tʃʰi²(by²)ny¹	tʂʰʅ²¹ny⁵⁵	tʂʰʅ²¹ny²⁴	tsʰɿ²¹nə²⁴	tʂʰʅ²¹ny²⁴	tɕʰi²¹nə⁵⁵	tsʰɿ²¹nə²⁴	tsʰɿ²¹bə̃²¹nə³³
+1189	861.0	fishy (smell)	腥 (鱼腥)	xīng	dzi²ny¹	dzɿ²¹ny⁵⁵	dzɿ²¹ny²⁴	ɕi²⁴	dzɿ²¹ny²⁴	bi²¹nə⁵⁵	dʑi²¹ni²⁴	xɛ˞³³bə̃²¹nə³³
+1190	723.0	(of the wind) blow	刮风	guǎfēng	kʰy¹	a⁵⁵n̩²¹ɕy⁵⁵kʰy⁵⁵	n̩²¹ɕi³³kʰu³³	mə²¹ɕi⁵⁵kʰə⁵⁵	a³⁵mu⁴¹hĩ³⁵	a⁵⁵mi²¹fi⁵⁵	a²⁴xi²⁴lao³³	mi²¹i³³kʰɨ³³
+1191	735.0	collapse; topple down	倒塌	dǎotā	by²	by²¹	by²¹	bə²¹	by²¹	bəɪŋ²⁴	bə²¹tuɛ²⁴ŋo³³	bə²¹
+1192	873.0	proud	骄傲	jiāoào		tɕiao³³ao⁵⁵	ŋa³⁵ʐu²¹	ɕa³³mu²⁴		wo²¹ta²¹sɿ⁵⁵	jɛ²¹mu²⁴	ao⁵³
+1193	874.0	stupid	愚蠢	yúchǔn	mɨ¹	mʉ⁵⁵	mɨ²⁴	ɛ⁵⁵tu⁵⁵	zo²¹mɤ̪˞⁴⁵³	ŋə²¹mɨ⁵⁵	ka²⁴ŋə³³	ɛ˞⁵³
+1194	876.0	diligent	勤(勤奋)	qín	ʃa²dɛ̠ᶫ	n̩⁵⁵dɛ̠²¹	ʂa²¹dɛ⁵³	lɤ̪³³dei⁴²	mɤ̪˞²⁴dɛi³³	ka̠²¹	dʑɛ²¹kʰɛ²⁴	məŋ⁵³
+1195	876.1	diligent	勤(勤奋)	qín	ʃa²de̠ᶫ	n̩⁵⁵dɛ̠²¹	ʂa²¹dɛ⁵³		mɤ̪˞²⁴dɛi³³		dʑɛ²¹kʰɛ²⁴	məŋ⁵³
+1196	877.0	busy	忙	máng		tɕin²¹	tɕĩn²¹	tɕiu²¹	kə³³dʑi³³ɕi²¹	ma²¹	kĩ²⁴	maŋ²⁴
+1197	878.0	capable	能干(的)	něnggànde		pʰa̠²¹	ʂa²¹dɛ⁵³	ja⁵⁵xə²¹	mɤ̪˞²⁴da²¹	pɛ⁵⁵kʰɛ⁵⁵	dʑɛ²¹du³³	ta⁵⁵la³³
+1198	880.0	rich	富	fù	baŋ³	bu³³				ba³³	ba³³	
+1199	880.1	rich	富	fù	dʒaŋ¹		dʐu²⁴tsa²¹	dza²⁴	dʐa²⁴			dzu³³
+1200	881.0	poor	穷	qióng	ʃa̠ᶫ	ʂa̠²¹	ʂa⁵³	su⁴²	ʂo⁴²	sɑ̠²¹	naŋ²⁴	sai⁵⁵i³³
+1201	885.0	backwards	落后	luòhòu		di³³xo³³	e²¹zɿ²⁴	kɔ²¹ta³³	ɣɛ˞²⁴tɛ˞³³	vɛ⁵⁵di³³	su²⁴dɨʲ⁵³	ŋa³³ni²¹
+1202	888.0	sticky	粘	zhān	pɛ³	pɛ³³na̠²¹	pu³³	nia⁴²				
+1203	888.1	sticky	粘	zhān	ɲa̠ᶫ	pɛ³³na̠²¹			ɲa³³	ɑ̠²¹	na̠²¹	ɲa²¹
+1204	889.0	slick	(光)滑	guānghuá	maŋ³	mu³³	mu³³	sua³³	mɛi²⁴	mɑ³³	ji³³	hua³³liu³³
+1205	890.0	tight	紧 (绑的紧)	jǐn	kʰɨ̠H	kʰɨ̠³³	tɕĩ²¹	tʃə²¹	kʰɨ³³	tʰa²¹, tʰaŋ²⁴	a²¹kĩŋ⁵³	tɕin²¹
+1206	891.0	loose	松 (绑的松)	sōng	loan	soŋ³³	soŋ³³	kʰua⁵⁵	soŋ³³	ga²¹	ga²¹	soŋ³³
+1207	893.0	cheap	便宜	piǎnyì		fi²¹da⁵⁵	ma²¹kʰɛ⁴⁴	pʰi⁵⁵ji³³	do²⁴	lɛ⁵⁵	poŋ⁵³	lu³³
+1208	753.0	brood, incubate	孵	fū	ʔmy²	ʔmṳ²¹	my/øʔ⁵³	mə²¹	mø²¹	mɨ²¹	mɨ²¹	məŋ⁵³
+1209	805.0	sharp (point)	尖 (笔嘴很尖)	jiān	tsʰy¹	tɕʰy⁵⁵	tɕʰy⁴⁴	tɕi⁵⁵	tɕʰy⁴⁵³	pu⁵⁵	tsʰə²⁴	tʂɛ˞³³
+1210	914.0	THICK (3d)	粗 (粗大)	cū	ta³	ta³³	ta³³		po³³	kɛ⁵⁵	jɛ²¹	ɣɛ˞²¹
+1211	915.0	THIN (3d)	细 (细小)	xì	tsʰi¹	tsʰɿ⁵⁵	tsʰɿ⁵⁵	tɕʰi⁵⁵	ɲa⁴⁵³	mu³³	mɨ³³	mo⁵³
+1212	829.0	skinny; thin	瘦 (人瘦)	shòu	gy¹					gɨ⁵⁵	gə²⁴	
+1213	934.0	twelve	十二	shíèr	tsʰe¹ni²	tsʰiŋ̩⁵²	tsʰe²⁴n̩²¹	tsʰei⁵⁵ŋ̩²¹	tɕʰĩ⁴⁵³n̩²¹	tɕʰɛ⁵⁵ŋ̩²¹	tɕʰɛ⁵⁵ŋ̩²¹	tsʰei³³ni²¹
+1214	936.0	twentyone	二十一	èrshíyì	ni²tse¹ti̠ᶫ	n̩²¹tsi⁵⁵ti̤²¹	n̩²¹tsʰe²⁴tʰi⁵³		n̩²¹tɕʰi⁴⁵³tʂʅ²¹	n̩²¹tɕɛ⁵⁵tɕʰi²¹	ŋ̩²¹tɕi²⁴tʰi²¹	n̩²¹tsei³³tɕʰi⁵³
+1215	940.0	bowlful (MW)	碗		kjɛ²	kɛ²¹	kai²¹	kei²¹	kai²¹	ɕɛ²¹	ti³³ɕi²¹	a²¹kai⁵³
+1216	952.0	self	自己	zìjǐ	ɛ¹mɛ³	kua³³	a³³me³³	tsɿ²¹tɕi²¹		dʒəŋ²¹	dza²⁴	tɕa³³kɨ⁵³
+1217	953.0	another (thing)	另外			tse¹³	ka²¹se³³	a⁵⁵pɔ²¹pi²⁴	piɛ²⁴tiɛ³³	su⁵⁵	ɛ²¹wɛʲ²⁴	wai⁵⁵ĩ³³
+1218	956.0	this kind	这种			tʃa⁵⁵si³³,tʂʅ⁵⁵ʐṳ²¹	tʂʅ⁴⁴ma³³	tsɿ⁵⁵ju³³		tsʰa⁵⁵jan⁵⁵	tʰo⁵⁵tʰi²¹tsaŋ²⁴	tsɿ⁵⁵ja⁵³
+1219	957.0	here (1)	这里	zhèli		tʂao⁵⁵ko⁵⁵	tʂʅ⁴⁴ko⁴⁴	tsɿ⁵⁵ka⁵⁵	tʂʅ⁴⁵³mɛi³³lɛi²¹	tsʰa⁵⁵tʰɛ²¹	tʰo⁵⁵ka²⁴	tei³³hei³³
+1220	958.0	that one	那个	nà		na⁵⁵tʂʅ⁵⁵ma⁵⁵	na⁴⁴ma³³	nu²⁴lu²¹	na⁴⁵³ja³³	kʰɨ⁵⁵wa³³	no³³mo²⁴	nə³³ja⁵³
+1221	962.0	there	那里	nàli		nao⁵⁵kuo⁵⁵,dʑio⁵⁵ko⁵⁵	na⁴⁴pa²¹	nu²⁴ka⁵⁵	na⁴⁵³ka⁴⁵³	ta²¹ka⁵⁵	kʰo⁵⁵ka²⁴	nei³³hei³³
+1222	941.0	arm spread (2 arms)	庹(两臂伸直）pai	tuǒ	ly¹	ly⁵⁵	tʰy²⁴	pʰei²¹	ly²⁴	lə⁵⁵	lə²⁴	a²¹lə³³
+1223	942.0	span (hand-width)	柞 (拇指-中指)	zhǎ	tʰy¹	tʰy⁵⁵	tʰy²¹	tʰə⁵⁵	tʰy⁴⁵³	tʰə⁵⁵	tʰə²⁴	a²¹tsa²¹
+1224	969.0	beside	旁边	pángbiān	ba²ta³	ba̤²¹tai⁵³	ba²¹tɛ³³se⁴⁴	bɔ²¹tɛ³³	dzi²⁴lə²¹	jɛ²¹dʒə⁵⁵	ɛ²⁴ŋɨʲ²⁴	dzə³³lai²¹
+1225	974.0	outside	外面	wàimiàn		i⁵⁵si⁵⁵	i⁴⁴se⁴⁴	wa³³sə⁵⁵	xa⁵⁵tɕʰi⁵⁵	nə⁵⁵sə⁵⁵	ɛ²¹wɛ²⁴	wai⁵⁵ĩ³³
+1226	975.0	everywhere	到处			a²¹di⁵⁵li⁵⁵	hã²⁴dʐu²⁴	xa⁵⁵i³³kɛ²⁴	a³³va³³lo²¹va³³	tɕʰi²¹di⁵⁵sɛ³³	a²¹ka²⁴ŋa⁵⁵ŋo³³	tao³³tsʰu³³
+1227	979.0	why?	为什么?		a¹tsa¹pe¹	a⁵⁵tsa⁵⁵ŋ̩²¹ka³³,a⁵⁵tsaŋ⁵³ka³³	a⁴⁴tsa⁴⁴pa³³	a⁵⁵tsa⁵⁵bɔ²⁴	a²¹dɛ˞²⁴kʰɛ˞³³	a⁵⁵tsa⁵⁵pɛ⁵⁵	tʰa⁵⁵pi³³	a²¹di⁵⁵bə²¹
+1228	980.0	which (one)?	哪 (一个)?	nǎ	a²da¹	a̤²¹da⁵⁵	a²¹da²⁴	a²⁴ji³³pʰei⁵⁵	a²¹dɛ˞²⁴ʐu³³	a̤²¹da⁵⁵ji³³	a²¹do²⁴	a²¹di⁵⁵ə³³
+1229	984.0	just now	刚才	gāngcái	a²ʃu³	a̤²¹su³³	a²¹ʂu²⁴	a⁵⁵sa²⁴kə³³		a²¹xɛ⁵⁵	ɛ²¹sa³³	n̩⁵⁵tɕʰi³³
+1230	985.0	before (sequential)	先 (先去)	xiān		vv̩⁵⁵dʑi⁵⁵	ʝi²⁴n̩²¹dzɿ²⁴	ɣə²¹sə⁵⁵	dzɿ²⁴	və⁵⁵sɿ²¹	sa⁵⁵pə²¹	ka³³m̩³³
+1231	986.0	after	后 (后去)	hòu			ɣɛ²⁴tv̩³³	kɔ²¹ta³³	ɣɛ˞²⁴dɛ˞³³	vɛ⁵⁵di³³	ka⁵⁵du³³	ŋa³³ni²¹
+1232	987.0	before (temporal)	以前			ʔɲi̤²¹di̤²¹	weĩ⁴⁴	a²¹nei³³sɿ³³nei³³	wu²¹ɕi⁵⁵	tɕʰi²¹də⁵⁵sɛ³³	a²¹nɨ³³sɿ⁵⁵nɨ³³	nei⁵⁵ni³³kʰo³³
+1233	988.0	formerly	从前	cóngqián			a²¹ni³³ɕĩ³³		a²¹nɛi³³ʂʅ³³nɛi³³	dza²¹ko³³lɑ⁵⁵	ni⁵⁵tʰa²⁴	a²¹i⁵⁵sɿ⁵⁵i⁵³
+1234	989.0	already	已经			xa⁵⁵	hã²⁴	ku⁴²ja³³	xuɛi²¹	ka³³la³³	no²¹	ji²¹tɕĩ³³
+1235	990.0	immediately	立刻	lì kè		la⁴⁵lou²¹	nai²¹dʑy³³	ji²⁴tʃɤ̪²¹	ɕi³³	tɕʰi³³tʰa³³	la⁵⁵bɛ²¹	a⁵⁵tɕʰi³³
+1236	991.0	frequently	常常 (常常来)	chángcháng	bɨ¹	bʉm²¹bʉm²¹	bɨ²⁴ĩ³³	tɕi³³tɕʰa²¹	ʂʅ⁴⁵³ʂʅ⁴⁵³	dza³³dza³³	tʰa⁵⁵sɿ²¹	ka⁵⁵mɛ˞³³
+1237	994.0	very	很 (很漂亮)	hěn		a̤²¹xɨ⁵⁵	mi²¹hĩ²⁴	xa⁵⁵	a²¹kʰai⁴⁵³	tɕia⁵⁵		
+1238	995.0	most	最 (最大)	zuì		xa⁵⁵	xa⁴⁴	xa⁵⁵	kɛ˞⁵⁵	su⁵⁵kɑ²¹kʰəŋ⁵⁵	ki⁵⁵	tɕi³³tɕi³³
+1239	996.0	all	都 (大家都来)	dōu		xa⁵⁵dʐu⁵⁵a⁵⁵ka³³	xa⁴⁴ŋa⁴⁴		tu³³	ko³³	kai⁵³	taʔ²¹ai³³
+1240		work	工作	gōngzuò		koŋ⁵⁵tso⁵⁵						
+1241		vegetable dish	菜 (饭菜)	cài		dza⁴⁵						
+1242		spend the New Year	过年	guònián				kʰu²¹ɕi²¹ku⁴²				
+1243		guess	猜	cāi								
+1244		believe in; trust	相信	xiāngxìn								
+1245		rescue; save	救 (救人)	jiù								
+1246		soak	浸 (浸种子)	jìn				ti³³				
+1247		glad	高兴	gāoxìng								
+1248		hurting; aching	痛	tòng				nɔ²⁴				
+1249		over here	这边			tʂao⁵⁵be̤²¹si⁵⁵,tʂʅ⁵⁵be̤²¹si⁵⁵		tsɿ⁵⁵pʰia̤²¹				
+1250		over there	那边			no⁵⁵tʂʅ⁵⁵bei̤²¹si⁵⁵		nə²⁴pʰia̤²¹				
+1251		(of lightning) flash	打闪	dǎshǎn								
+1252		3PR (others)	别人									
+1253		bathe (in a river)	洗澡	xǐzǎo								
+1254		cabbage (or baicai)	卷心菜/白菜	juǎn xīn cài		bei̤²¹tsʰai⁵⁵		pɛ⁴²ɕi³³tsʰə²¹				
+1255		candle	蜡烛	làzhú								
+1256		carry, two people	抬 (两人抬)	tái		pʉ²¹						
+1257		crawl	爬行 (虫在地上爬)	pá								
+1258		dry by the fire (e.g., clothes)	烤 (衣服)	kǎo								
+1259		fake	假	jiā								
+1260		flowery	花 (布是花的)	huā								
+1261		forge iron	打铁	dǎ tiě								
+1262		gnaw	啃 (啃骨头)	kěn								
+1263		grape	葡萄	pútáo		phu²¹thɑo³³						
+1264		gulp	吞	tūn								
+1265		hereafter	今后	jīnhòu				kɔ²¹ta²⁴nɛ³³				
+1266		horizontal	横 (横在路上)	héng								
+1267		lime	石灰	shíhuī								
+1268		lose (e.g.; a game)	输	shū								
+1269		malaria	疟疾	nuèjí								
+1270		manage; govern	管	guān								
+1271		marker	记号	jìhào		tɕi⁵⁵hao⁵⁵						
+1272		move; take away	搬 (搬椅子)	bān								
+1273		nerve	神经	jīng								
+1274		pit/stone	核	hé				ja³³ni³³, ja³³sɛ²¹				
+1275		prick	扎 (用针扎)	zhā								
+1276		read	读	dú								
+1277		real	真	zhēn								
+1278		reside	住 (住在家里)	zhù		dʑɛ³³					xi²¹a³³	
+1279		shout	喊	hǎn								
+1280		smallpox	天花	tiānhuá								
+1281		stool	凳子	dèngzi								
+1282		sugarcane	甘蔗	gānzhè		kan³³tʂʰʅ⁵⁵						
+1283		surround	包围	bāowéi		pao³³wɛʲ²¹						
+1284		sweet potato	甘薯	gānshǔ (/mùshǔ?)		hʷa̠n²¹tʂʰə̤²¹						
+1285		tender; delicate	嫩	nèn								
+1286		thirteen	十三	shísān				tsʰei⁵⁵sɔ⁵⁵				
+1287		thunder	打雷	dǎléi								
+1288		to warm	烤 (烤火)	kǎo								
+1289		uncover; take off	揭 (揭开盖子)	jiē		fv̩³³,v̩⁵⁵						
+1290		vertical	竖	shù								
+1291		above	上	shàng		ka⁵⁵i²¹					mə²¹xi²⁴	
+1292		below	下			da⁵⁵kʰə³³					ʔə³³ji²¹	
+1293		3DL	他们两					ja³³dzɔ³³ŋ̩²¹lə³³				
+1294		3DL (exclusive)	他们两个									
+1295		arrive at	到达	dàodá								
+1296		back of hand	手背	shǒubèi								
+1297		barrel, wooden	桶(木)	tóng								
+1298		boil, ulcer	疖子	jiēzǐ								
+1299		boulder	岩; 巨石	yán/jùshí		ka⁵⁵lə̠³³tsɿ³³						
+1300		broad hoe	耙锄	bàchú		tsi²¹tɕʰa⁵⁵ma³³						
+1301		child; son	孩子	háizǐ								
+1302		cistern	蓄水池	xùshuǐcí		ʂʷe²¹tʂʰʅ²¹						
+1303		column; tube	管子	guǎnzǐ								
+1304		compete (for)	比赛	biǐsài								
+1305		crippled	残废的	tánfèide								
+1306		culture; writing	文化	wénhuà								
+1307		cut	剪	jiǎn		da³³						
+1308		family	家庭	jiātíng		hi⁵⁵kə³³						
+1309		father's YS	姑妈(少)	gūmā		ku³³ma³³						
+1310		feel (internally)	感觉	juédé		di²¹(la²¹)						
+1311		festival	节日	jiérì		tsɛ¹³						
+1312		finely ground sugar	细糖	xìtáng		bɛ³³ʂa⁵⁵tʰaŋ²¹						
+1313		fork (of tree branch)	树杈	shùchā								
+1314		hope	希望	xīwàng								
+1315		kind (hearted)	亲切	qīnqiē								
+1316		leave	离开	lǐkāi		sy²¹					pʰaŋ²⁴kuɛ³³	
+1317		Lisu										
+1318		LOC.in	里									
+1319		LONG (time)	长 (时间)	cháng		ʂʅ⁵⁵,tʂʰʅ̥²¹ɡy̤²¹						
+1320		marry	结婚	jiéhūn		ɕi²¹sɿ³³pi⁵⁵						
+1321		marry out a daughter	嫁给									
+1322		mother's YB	舅舅(少)	jiùjiù		a⁵⁵tɕo⁵⁵						
+1323		narrow hoe	锹锄	qiāochú		dʐʷa²¹tsɿ³³						
+1324		place	地方	dìfāng		mi⁵⁵di⁵⁵						
+1325		placenta	胎盘／衣胞	tāipán		ʝi³³pao³³						
+1326		pomelo	柚子	yòuzǐ								
+1327		shed (tears)	流泪	liú								
+1328		shoulder bag strap										
+1329		small hoe	锄头(小)	chútóu		tsi²¹tsʰʷo³³za̤²¹						
+1330		spool	线轴	xiànzhóu								
+1331		that (by addressee)	那 (在你)	nà								
+1332		that (same level)	那 (平位)									
+1333		too	太					kʰə⁵⁵dzei²⁴				
+1334		tree trunk	树干	shùgān				a⁵⁵tɔ⁵⁵dzei²⁴				
