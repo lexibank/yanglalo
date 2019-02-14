@@ -1,0 +1,1001 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1,sky,1732,SKY
+2,sun,1343,SUN
+3,sunshine,,
+4,moon,1313,MOON
+5,star,1430,STAR
+6,cloud,1489,CLOUD
+7,wind,960,WIND
+8,rain,658,RAIN (PRECIPITATION)
+9,lightning,1654,LIGHTNING
+10,thunder,1150,THUNDER
+11,rainbow,1733,RAINBOW
+12,snow,784,SNOW
+13,water ,948,WATER
+14,fog,249,FOG
+15,frost,2034,FROST
+16,dew,1977,DEW
+17,hail,609,HAIL
+18,earth,2159,GROUND
+19,soil; dirt,1015,SOIL
+20,mud,640,MUD
+21,river ,666,RIVER
+22,ditch,2002,DITCH
+23,pond,2035,POND
+24,puddle,2290,PUDDLE
+25,well inside,954,WELL
+26,mountain (dirt),639,MOUNTAIN
+27,cliff,992,CLIFF
+28,valley,921,VALLEY
+29,cave,1155,CAVE
+30,hole (in ground),1667,HOLE
+31,gold,1369,GOLD
+32,silver,759,SILVER
+33,iron (ore),621,IRON
+34,tin,893,TIN (METAL)
+35,coal,2658,COAL
+36,stone,857,STONE
+37,sand,671,SAND
+38,fire,221,FIRE
+39,flame,889,FLAME
+40,smoke,778,SMOKE (EXHAUST)
+41,night,1233,NIGHT
+42,day,1225,DAY (NOT NIGHT)
+43,today,1283,TODAY
+44,yesterday,1174,YESTERDAY
+45,day before yesterday,1180,DAY BEFORE YESTERDAY
+46,three days ago,2333,THREE DAYS BEFORE NOW
+47,four days ago,,
+48,tomorrow,1329,TOMORROW
+49,day after tomorrow,1179,DAY AFTER TOMORROW
+50,three days from now,2332,THREE DAYS FROM NOW
+51,four days from now,,
+52,year,1226,YEAR
+53,new year,,
+54,this year,513,THIS YEAR
+55,last year,514,LAST YEAR
+56,year before last,2331,YEAR BEFORE LAST YEAR
+57,three years ago,,
+58,four years ago,,
+59,next year,515,NEXT YEAR
+60,year after next,2330,YEAR AFTER NEXT YEAR
+61,three years from now,,
+62,four years from now,,
+63,daytime,1225,DAY (NOT NIGHT)
+64,dawn,729,DAWN
+65,morning (early),1339,MORNING
+66,noon,12,MIDDAY
+67,afternoon,1807,AFTERNOON
+68,dusk/evening,1629,EVENING
+69,night(time),1233,NIGHT
+70,this evening,,
+71,this morning,,
+72,time,892,TIME
+73,cow,1007,COW
+74,buffalo (water),934,BUFFALO
+75,field cow,,
+76,horse,615,HORSE
+77,pig,1337,PIG
+78,sow,1351,SOW (FEMALE PIG)
+79,piglet,2564,PIGLET
+80,boar,1348,BOAR
+81,boar (wild),3154,WILD BOAR
+82,goat,1502,GOAT
+83,ram,1344,RAM
+84,sheep,1331,SHEEP
+85,dog,2009,DOG
+86,cat,1208,CAT
+87,rabbit,1136,RABBIT
+88,dragon,2038,DRAGON
+89,animal,619,ANIMAL
+90,wild animal,958,WILD ANIMAL
+91,bear,1820,BEAR
+92,tiger,846,TIGER
+93,leopard; panther,1139,LEOPARD
+94,wolf,522,WOLF
+95,monkey,1350,MONKEY
+96,otter,15,OTTER
+97,weasel,,
+98,pangolin,2508,PANGOLIN
+99,muntjak deer,,
+100,sambar deer,,
+101,porcupine,2510,PORCUPINE
+102,rat; mouse,2139,MUROID (MOUSE OR RAT)
+103,squirrel,1628,SQUIRREL
+104,chicken,1318,CHICKEN
+105,rooster,1511,ROOSTER
+106,hen,1514,HEN
+107,duck,1360,DUCK
+108,goose,1187,GOOSE
+109,bird,937,BIRD
+110,swallow,3077,SWALLOW (BIRD)
+111,sparrow,1854,SPARROW
+112,crow,913,CROW
+113,magpie,2039,MAGPIE
+114,dove; pigeon,1853,DOVE
+115,pheasant,3060,PHEASANT
+116,eagle; hawk,2683,EAGLE OR HAWK
+117,owl,735,OWL
+118,bat,1793,BAT
+119,frog,503,FROG
+120,toad,894,TOAD
+121,fish,227,FISH
+122,snake,730,SNAKE
+123,lizard,632,LIZARD
+124,leech,2273,LEECH
+125,spider,843,SPIDER
+126,insect,620,INSECT
+127,ant,587,ANT
+128,termite,883,TERMITE
+129,mantis,,
+130,roach,1575,COCKROACH
+131,fly,1504,FLY (INSECT)
+132,honeybee,665,BEE
+133,wasp,1517,WASP
+134,mosquito,1509,MOSQUITO
+135,dragonfly,2352,DRAGONFLY
+136,butterfly,1791,BUTTERFLY
+137,cricket,2354,CRICKET
+138,grasshopper,607,GRASSHOPPER
+139,flea,232,FLEA
+140,louse (clothing),1392,LOUSE
+141,centipede,1974,CENTIPEDE
+142,earthworm,2350,EARTHWORM
+143,worm,1219,WORM
+144,caterpillar,2247,CATERPILLAR
+145,maggot,2640,LARVA
+146,nest,539,NEST
+147,egg,744,EGG
+148,wing,1257,WING
+149,claw; talon,72,CLAW
+150,hoof,152,HOOF
+151,horn,1393,HORN (ANATOMY)
+152,tail,1220,TAIL
+153,tusk,,
+154,(cocks)comb,188,COMB OF BIRD
+155,tree,906,TREE
+156,pine tree,1740,PINE
+157,fir tree,1915,FIR
+158,willow tree,818,WILLOW
+159,bamboo,1927,BAMBOO
+160,bamboo shoot,2494,BAMBOO SHOOT
+161,wheat,1077,WHEAT
+162,buckwheat,2040,BUCKWHEAT
+163,millet,931,MILLET
+164,barley,932,BARLEY
+165,sorghum,347,SORGHUM
+166,job's tears,,
+167,corn,506,MAIZE
+168,ear of grain,3244,EAR (OF GRAIN)
+169,peanut,2364,PEANUT
+170,walnut,2042,WALNUT
+171,cotton,1850,COTTON
+172,ramie,3063,RAMIE
+173,bean,832,BEAN
+174,melon,507,MELON
+175,gourd,411,GOURD
+176,cucumber,496,CUCUMBER
+177,eggplant,1146,AUBERGINE
+178,vegetable,924,VEGETABLES
+179,cabbage greens,774,CABBAGE
+180,radish,2365,RADISH
+181,garlic,2368,GARLIC
+182,ginger,2500,GINGER
+183,galangal,,
+184,chili pepper,919,CHILI PEPPER
+185,fruit,1507,FRUIT
+186,peach,2043,PEACH
+187,persimmon,2044,PERSIMMON
+188,banana,868,BANANA
+189,taro,351,TARO
+190,tobacco,974,TOBACCO
+191,grass,606,GRASS
+192,thatch (cogon grass),279,THATCH
+193,reed,659,REED
+194,mushroom,641,MUSHROOM
+195,seed,714,SEED
+196,root,670,ROOT
+197,stem; stalk,2628,PLANT STEM
+198,leaf,628,LEAF
+199,sprout; bud,1684,BUD
+200,flower,239,FLOWER
+201,wood,1803,WOOD
+202,board,1227,BOARD
+203,stick,1295,STICK
+204,branch,1531,BRANCH
+205,tree bark,1204,BARK
+206,unhulled rice,2749,UNHUSKED RICE
+207,rice (grains),926,RICE
+208,cooked rice,1191,COOKED RICE
+209,glutinous rice,2750,GLUTINOUS RICE
+210,rice seedling,926,RICE
+211,rice hulls,2501,RICE HUSK
+212,chaff,2363,CHAFF (HUSK)
+213,fruit peel,2373,SKIN (OF FRUIT)
+214,"shell (egg, etc)",598,SHELL
+215,thorn,124,THORN
+216,moss,637,MOSS
+217,fern,,
+218,yeast,967,YEAST
+219,ashes,646,ASH
+220,body,1480,BODY
+221,head,1256,HEAD
+222,brains,1583,BRAIN
+223,forehead,123,FOREHEAD
+224,head hair,2648,HAIR (HEAD)
+225,braid,1043,BRAID
+226,face,1560,FACE
+227,eyebrow,1173,EYEBROW
+228,eye,1248,EYE
+229,eyeball,1248,EYE
+230,tears,1651,TEAR (OF EYE)
+231,nose,1221,NOSE
+232,ear,1247,EAR
+233,cheeks,1730,CHEEK
+234,mouth,674,MOUTH
+235,lips,478,LIP
+236,teeth,1380,TOOTH
+237,front teeth,442,FRONT TOOTH (INCISOR)
+238,back teeth,1049,MOLAR TOOTH
+239,gums,139,GUMS
+240,tongue,1205,TONGUE
+241,beard; mustache,678,BEARD
+242,chin,1510,CHIN
+243,neck,1333,NECK
+244,throat,1346,THROAT
+245,shoulder,1482,SHOULDER
+246,joint,999,JOINT
+247,hand/arm,2121,ARM OR HAND
+248,hand,1277,HAND
+249,arm,1673,ARM
+250,palm (of hand),1183,PALM OF HAND
+251,wrist,799,WRIST
+252,elbow,981,ELBOW
+253,finger,1303,FINGER
+254,index finger,577,FOREFINGER
+255,pinkie finger,2774,LITTLE FINGER
+256,thumb,1781,THUMB
+257,fingernail,1258,FINGERNAIL
+258,buttocks,834,BUTTOCKS
+259,hip,1745,HIP
+260,foot/leg,2098,FOOT OR LEG
+261,leg,1297,LEG
+262,foot,1301,FOOT
+263,thigh,800,THIGH
+264,calf (of leg),498,CALF OF LEG
+265,sole (of foot),2666,SOLE (FOOT)
+266,heel,980,HEEL
+267,ankle (joint),803,ANKLE
+268,knee,1371,KNEE
+269,toe,1389,TOE
+270,big toe,,
+271,chest,1592,CHEST
+272,back,1291,BACK
+273,breast,1402,BREAST
+274,armpit,1886,ARMPIT
+275,skin,763,SKIN
+276,bone,1394,BONE
+277,rib,801,RIB
+278,stomach,819,STOMACH
+279,belly,1251,BELLY
+280,navel,1838,NAVEL
+281,waist,1681,WAIST
+282,kidney,489,KIDNEY
+283,intestines,1991,INTESTINES
+284,heart,1223,HEART
+285,liver,1224,LIVER
+286,lung,688,LUNG
+287,bladder?,1746,BLADDER
+288,gallbladder,,
+289,bile,1780,BILE
+290,sweat,125,SWEAT (SUBSTANCE)
+291,blood,946,BLOOD
+292,snot,208,NASAL MUCUS (SNOT)
+293,phlegm,3061,PHLEGM
+294,saliva,1503,SALIVA
+295,milk,635,MILK
+296,excrement,675,FAECES (EXCREMENT)
+297,urine,1142,URINE
+298,pus,1808,PUS
+299,sore (wound),51,SORE
+300,body hair; feathers,2381,FEATHER OR FUR OR HAIR
+301,penis,1222,PENIS
+302,vulva,1837,VULVA
+303,anus,1935,ANUS
+304,tendon,1137,TENDON
+305,breath,870,BREATH
+306,strength,202,STRENGTH
+307,person,683,PERSON
+308,male,1553,MALE
+309,female,1551,FEMALE
+310,Autonym,,
+311,Han Chinese,,
+313,Bai,,
+314,Dai,,
+315,child,2099,CHILD
+316,elderly person,725,OLD PERSON
+317,older man,406,OLD MAN
+318,older woman,907,OLD WOMAN
+319,boy,1366,BOY
+320,girl,1646,GIRL
+321,friend,1325,FRIEND
+322,enemy,1358,ENEMY
+323,host,1545,HOST
+324,guest,1782,GUEST
+325,lame person,2322,LAME PERSON
+326,official,,
+327,high official,,
+328,low official,,
+329,emperor,1508,KING
+330,doctor,597,PHYSICIAN
+331,blacksmith,1001,BLACKSMITH
+332,soldier,1941,SOLDIER
+333,bride,1266,BRIDE
+334,groom,,
+335,widow,1756,WIDOW
+336,widower,1981,WIDOWER
+337,blind,1653,BLIND
+338,deaf ,996,DEAF
+339,father's father,2560,PATERNAL GRANDFATHER
+340,father's mother,3015,PATERNAL GRANDMOTHER
+341,GP father,,
+342,GP mother,,
+343,father,1217,FATHER
+344,mother,1216,MOTHER
+345,wife's father,1055,FATHER-IN-LAW
+346,wife's mother,1050,MOTHER-IN-LAW
+347,older brother,1759,OLDER BROTHER
+348,older sister,1758,OLDER SISTER
+349,younger brother of a male,2416,YOUNGER BROTHER (OF MAN)
+350,younger sister of a female,2421,YOUNGER SISTER (OF WOMAN)
+351,siblings,1640,SIBLING
+352,oldest sibling,,
+353,second sibling,,
+354,third sibling,,
+355,husband,1200,HUSBAND
+356,wife,1199,WIFE
+357,son,1620,SON
+358,daughter,1357,DAUGHTER
+359,daughter-in-law,1057,DAUGHTER-IN-LAW
+360,son-in-law,1056,SON-IN-LAW
+361,brother's son,,
+362,brother's daughter,,
+363,sis' child (Mvpt),,
+364,son's son,2702,GRANDSON (SON'S SON)
+365,son's daughter,,
+366,ancestor,1669,ANCESTORS
+367,father's OB,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER)
+368,father's BW,,
+369,father's OS,3041,PATERNAL AUNT (FATHER'S OLDER SISTER)
+370,father's YB,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)
+371,mother's OB,,
+372,mother's OS,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER)
+373,male suffix,,
+374,female suffix,,
+375,father+children (CLF),,
+376,mother+children (CLF),,
+377,grandfather+grandchildren (CLF),,
+378,grandmother+grandchildren (CLF),,
+379,house,1252,HOUSE
+380,home,2406,HOME
+381,wall,933,WALL (OF HOUSE)
+382,roof,769,ROOF
+383,tile (ceramic),,
+384,beam [main],1132,BEAM
+385,beam[small],1132,BEAM
+386,post; pillar,281,POST
+387,door,1567,DOOR
+388,room,1450,ROOM
+389,fire-pit,,
+390,charcoal,1188,CHARCOAL
+391,field; wet field,140,PADDY FIELD
+392,dry field,2794,FIELD (UPLAND)
+393,garden,586,GARDEN
+394,pen; fold,1470,FOLD
+395,granary,3025,BARN OR SHED
+396,shrine; temple,911,TEMPLE
+397,tomb; grave,1773,GRAVE
+398,graveyard,,
+399,head-wrap,,
+400,headdress,331,HEADDRESS
+401,hat,771,HAT
+402,earring,770,EARRING
+403,bracelet,1754,BRACELET
+404,ring (for finger),1374,RING
+405,clothing,1895,CLOTHES
+406,collar,2012,COLLAR
+407,sleeve,2953,SLEEVE
+408,button,757,BUTTON
+409,palm bark rain cape,,
+410,pants,809,TROUSERS
+411,belt,772,BELT
+412,shoes,1381,SHOE
+413,cloth (fabric),1616,CLOTH
+414,baby sling,,
+415,shoulder bag,,
+416,blanket; quilt,806,BLANKET
+417,pillow,1044,PILLOW
+418,mat,195,MAT
+419,rice powder,,
+420,flour,1594,FLOUR
+421,porridge,2049,CONGEE
+422,oil,1484,OIL (ORGANIC SUBSTANCE)
+423,lard,1282,FAT (FROM ANIMALS)
+424,salt,1274,SALT
+425,meat,2615,FLESH OR MEAT
+426,soup,1547,SOUP
+427,liquor,842,LIQUOR
+428,tea,1373,TEA
+429,sugar,862,SUGAR
+430,jaggery,,
+431,saw,1948,SAW
+432,knife,1352,KNIFE
+433,kitchen knife,2772,VEGETABLE KNIFE
+434,pointed knife,,
+435,sickle,341,SICKLE
+436,hatchet,677,AXE
+437,hoe (large),284,HOE
+438,plow,2154,PLOUGH (INSTRUMENT)
+439,yoke,14,YOKE
+440,thing,,
+441,loom,1787,LOOM
+442,needle,1382,NEEDLE (FOR SEWING)
+443,awl,278,AWL
+444,thread,1161,THREAD
+445,ball (of thread),1845,BALL
+446,rope; string,362,STRING
+447,chain,1627,CHAIN
+448,whip (horse whip),2630,WHIP
+449,winnowing basket,,
+450,bamboo sieve; sifter (fine),,
+451,whetstone,295,WHETSTONE
+452,millstone,2459,GRINDSTONE
+453,hammer,1481,HAMMER
+454,chisel,1979,CHISEL
+455,rice huller,,
+456,rice pounder,,
+457,mortar,224,MORTAR CRUSHER
+458,pestle,225,PESTLE
+459,medicine; herbal medicine,1372,MEDICINE
+460,bamboo basket,,
+461,broom,245,BROOM
+462,pot; pan; wok,1462,POT
+463,tub; bucket,2052,BUCKET
+464,"barrel, ceramic",2548,BARREL
+465,washbasin,915,SINK (BASIN)
+466,bag; sack,2468,BAG
+467,comb (regular),1475,COMB
+468,fine toothed comb,,
+469,bowl,1530,BOWL
+470,small bowl,2053,SMALL BOWL
+471,large bowl,,
+472,chopsticks,1987,CHOPSTICKS
+473,bed,1663,BED
+474,ladder,1464,LADDER
+475,firewood,10,FIREWOOD
+476,manure; fertilizer,2057,DUNG (ANIMAL FAECES)
+477,road,2457,PATH OR ROAD
+478,bridge,1011,BRIDGE
+479,market,633,MARKET
+480,money,1559,MONEY
+481,price,657,PRICE
+482,folksong,2059,FOLK SONG
+483,song,1096,SONG
+484,story,2060,STORY
+485,word (written),1599,WORD
+486,speech,1115,SPEECH
+487,sound; voice,1811,SOUND OR NOISE
+488,book,963,BOOK
+489,name,1405,NAME
+490,dream,2374,DREAM
+491,shadow,1388,SHADE
+492,deity,1944,GOD
+493,God,1944,GOD
+494,soul (1),811,SOUL
+495,spirit (evil),,
+496,boundary marker,,
+497,fence,1690,FENCE
+498,gun,1566,GUN
+499,bow,994,BOW
+500,arrow,977,ARROW
+501,arrow (head),,
+502,"cage (e.g., for ducks)",,
+503,drum,908,DRUM
+504,gong,2502,GONG
+505,town,1391,TOWN
+506,village,930,VILLAGE
+507,custom,1747,CUSTOM
+508,ritual tree,,
+509,invocation,,
+510,bell,2246,BELL
+511,flute,777,FLUTE
+512,gourd reed-organ,,
+513,pipe (yuantong),1124,PIPE
+514,trap,1075,TRAP (PITFALL)
+515,poison,655,POISON
+516,look at,1819,LOOK
+517,see,1409,SEE
+518,show,1039,SHOW
+519,listen,1608,LISTEN
+520,hear,1408,HEAR
+521,eat,1336,EAT
+522,feed,739,FEED
+523,feed animals,,
+524,drink,1401,DRINK
+525,give to drink,,
+526,bite,1403,BITE
+527,chew,321,CHEW
+528,lick,319,LICK
+529,savor,2190,TASTE
+530,swallow,897,SWALLOW
+531,spit,1440,SPIT
+532,vomit,1278,VOMIT
+533,suck,1421,SUCK
+534,blow (on),176,BLOW (WITH MOUTH)
+535,say,1458,SAY
+536,speak,1623,SPEAK
+537,tell,1711,TELL
+538,call; be called,180,CALL BY NAME
+539,ask,1309,ASK (INQUIRE)
+540,answer,1275,ANSWER
+541,send for; request,1828,ASK (REQUEST)
+542,smell,1586,SMELL (PERCEIVE)
+543,touch; feel; stroke,1892,TOUCH
+544,take,1749,TAKE
+545,grasp; grip,2021,GRASP
+546,grab,855,SEIZE
+547,"pick (e.g., fruit)",2148,PICK
+548,rub (with hands),1449,RUB
+549,rip; tear,1735,TEAR (SHRED)
+550,twist; wring,430,TWIST
+551,pick up,371,PICK UP
+552,catch; seize,702,CATCH
+553,"scatter; sprinkle (e.g., seed)",2064,SCATTER (SEEDS)
+554,throw away,,
+555,pitch (throw from side way),,
+556,toss (overhand),1456,THROW
+557,stretch; stretch out,214,STRETCH
+558,pound,354,POUND
+559,lift (over head),501,LIFT
+560,fold,1470,FOLD
+561,squeeze,1414,SQUEEZE
+562,pinch,378,PINCH
+563,massage,3119,MASSAGE (SOMEBODY)
+564,bend,2224,BEND (SOMETHING)
+565,pull a,1455,PULL
+566,push,1452,PUSH
+567,kick,1135,KICK
+568,kneel,66,KNEEL
+569,sit,1416,SIT
+570,"carry, on back",465,CARRY ON BACK
+571,"carry,  in arms",,
+572,"carry, from hand",412,CARRY IN HAND
+573,"carry, mid pole",,
+574,fall,1280,FALL
+575,lean (against),2219,LEAN (MEAT)
+576,spend night,,
+577,rest,168,REST
+578,sleep,1585,SLEEP
+579,put to sleep,,
+580,awake,825,AWAKE
+581,awaken,825,AWAKE
+582,do (work),813,DO
+583,labor; work,984,WORK (LABOUR)
+584,to plow,1921,PLOUGH
+585,dig (a hole),1418,DIG
+586,plant; grow,1486,PLANT (SOMETHING)
+587,water,3078,IRRIGATE
+588,slice; cut,,
+589,slice; cut,,
+590,split; chop; cleave,1437,SPLIT
+591,chop (down),463,FELL (A TREE)
+592,cut (reap),,
+593,whittle,,
+594,stab,1434,STAB
+595,pull up; pull out,2325,PULL OUT
+596,graze; herd (a flock),3058,GRAZE
+597,raise animals,,
+598,lead along,,
+599,buy,1869,BUY
+600,sell,1571,SELL
+601,count (number),1420,COUNT
+602,teach,709,TEACH
+603,study,1929,STUDY
+604,cook; boil,1100,COOK (SOMETHING)
+605,fry (stirfry),991,FRY
+606,steam,1193,STEAM
+607,hunt; go hunting,1435,HUNT
+608,shoot (a gun),1172,SHOOT
+609,hit (a target),1433,HIT
+610,kill,1417,KILL
+611,die,1494,DIE
+612,sharpen (grinding),251,SHARPEN (SOMETHING)
+613,mill (grinding),636,MILL
+614,winnow with a fan,2462,WINNOWING
+615,ladle out; spoon up,2788,LADLE (WATER)
+616,wear; put on,976,WEAR
+617,wear (hat); put on (hat),,
+618,wear (turban),,
+619,wear (upper clothes),,
+620,clothe,158,PUT ON
+621,take off,1755,UNDRESS
+622,roll up,,
+623,shave,231,SHAVE
+624,comb,2070,COMB (VERB)
+625,dye,157,DYE
+626,sew,1457,SEW
+627,mend; patch,2243,REPAIR
+628,weave,133,WEAVE
+629,plait; braid,1729,PLAIT OR BRAID OR WEAVE
+630,make the bed,,
+631,sweep,230,SWEEP
+632,open,1156,OPEN
+633,close,1046,SHUT
+634,shut,1046,SHUT
+635,put down; put/place,998,PUT
+636,release; let go; set free,1095,LET GO OR SET FREE
+637,hang,2884,HANG
+638,tie into a bundle,,
+639,tie; bind,1917,TIE
+640,untie,352,UNTIE
+641,load; pack (put in),1679,LOAD
+642,take out,,
+643,press; fill in; squeeze in; stuff,1913,PRESS
+644,bury; cover up,1719,BURY
+645,hide (thing),602,HIDE (CONCEAL)
+646,hide (self),2485,HIDE (ONESELF)
+647,choose,1750,CHOOSE
+648,pile up; heap up,1576,PILE UP
+649,nail,,
+650,want,1784,WANT
+651,get; obtain;,694,GET
+652,receive,694,GET
+653,lose,1660,LOSE
+654,seek (look for),1468,LOOK FOR
+655,use,2072,USE (VERB)
+656,play,1413,PLAY
+657,win,866,WIN
+658,sing,1261,SING
+659,dance,1879,DANCE
+660,borrow (money),1823,BORROW
+661,borrow (thing),1823,BORROW
+662,give back; return; repay,85,GIVE BACK
+663,owe,369,OWE
+664,compensate for; reimburse,,
+665,send-off; deliver,2033,DELIVER
+666,wait; await; expect,1590,WAIT (FOR)
+667,meet; come across,1831,MEET
+668,marry a husband,2163,MARRY (AS WOMAN)
+669,marry a wife,2164,MARRY (AS MAN)
+670,scold; curse,299,SCOLD
+671,fight,1423,FIGHT
+672,hit; beat,1433,HIT
+673,rob; loot,2073,ROB (VERB)
+674,steal,713,STEAL
+675,cheat,1902,BETRAY
+676,help,1897,HELP
+677,cure; treat; heal,499,CURE
+678,divide; separate; distribute,1119,DIVIDE
+679,laugh,1355,LAUGH
+680,cry,1839,CRY
+681,love,923,LOVE
+682,like; enjoy,1117,LIKE
+683,know; understand,1410,KNOW (SOMETHING)
+684,remember,707,REMEMBER
+685,forget,1523,FORGET
+686,think,1415,THINK (REFLECT)
+687,be angry,2223,BE ANGRY
+688,hate,1607,HATE
+689,fear,1419,FEAR (BE AFRAID)
+690,have courage,,
+691,can (well),972,BE ABLE
+692,affirmative,1268,YES
+693,is not,,
+694,have,773,HAVE
+695,not have; lack; without,2329,LACK (NOT HAVE)
+696,walk,1443,WALK
+697,run,1519,RUN
+698,ascend,705,GO UP (ASCEND)
+699,descend,2014,GO DOWN (DESCEND)
+700,come,1446,COME
+701,come up,,
+702,come down,,
+703,go,695,GO
+704,go up,705,GO UP (ASCEND)
+705,go down,2014,GO DOWN (DESCEND)
+706,climb,1102,CLIMB
+707,return,581,COME BACK
+708,arrive,1387,ARRIVE
+709,cross (over),574,TRANSIT
+710,go through,1742,TRAVERSE
+711,exit (come out),1107,GO OUT
+712,enter,749,ENTER
+713,move back,,
+714,flee; escape,956,FLEE
+715,chase,1435,HUNT
+716,step on,2065,STEP (VERB)
+717,jump; leap,1829,JUMP
+718,stride,,
+719,ride; ride on,367,RIDE
+720,EXIST; to be,1579,BE
+721,dry (in the sun),1786,DRY UP
+722,rain (V),1253,RAIN (RAINING)
+723,(of the wind) blow,175,BLOW (OF WIND)
+724,light (on fire),737,LIGHT (IGNITE)
+725,burn,2102,BURN
+726,burn up,,
+727,roast (in fire),1962,ROAST (SOMETHING)
+728,roast (over fire),1962,ROAST (SOMETHING)
+729,smoke,2859,SMOKE (EMIT SMOKE)
+730,explode,,
+731,flow,2003,FLOW
+732,overflow; spill,3130,SPILL (SOMETHING)
+733,float,1574,FLOAT
+734,crack open; split open,3080,SPLIT OPEN
+735,collapse; topple down,2894,TUMBLE (FALL DOWN)
+736,be short of; lack,2329,LACK (NOT HAVE)
+737,roll,827,ROLL
+738,revolve; rotate; spin,121,SPIN
+739,fall; drop,1280,FALL
+740,"snap in two (rope, string)",,
+741,break,680,BREAK (DESTROY OR GET DESTROYED)
+742,leak,2253,DRIP (EMIT LIQUID)
+743,boil,2493,BOIL
+744,change,1264,CHANGE
+745,birth,1195,GIVE BIRTH
+746,grow,479,GROW
+747,tremble; shiver,52,SHIVER
+748,swell,1573,SWELL
+749,fly,1441,FLY (MOVE THROUGH AIR)
+750,bark,1206,BARKING
+751,call; crow (of animals),2074,CROW (VERB)
+752,lay (an egg),2464,LAY EGGS
+753,"brood, incubate",2075,BROOD (VERB)
+754,"germinate, sprout, bud",2076,SPROUT (VERB)
+755,bloom; blossom,,
+756,bear fruit,3054,BEAR FRUIT
+757,rot (fruit),,
+758,begin; start,1806,BEGIN
+759,stop,1928,CEASE
+760,remain,987,REMAIN
+761,write,1672,WRITE
+762,wash (self),1453,WASH
+763,get up,1602,WAKE UP
+764,shake,1909,SHAKE
+765,sink,2908,SINK (DISAPPEAR IN WATER)
+766,finish,1766,FINISH
+767,give; BEN,1447,GIVE
+768,destroy,681,DESTROY
+769,draw water (well),1911,DRAW (WATER)
+770,drain,,
+771,be standing,1442,STAND
+772,"skin (animal), to",291,PULL OFF (SKIN)
+773,"peel (eggs, fruit)",275,PEEL
+774,clear field,,
+775,weed,,
+776,stir,696,STIR
+777,weigh,1098,WEIGH
+778,soak; pickle,2069,SOAK (VERB)
+779,drown,1904,DROWN
+780,accompany someone,1542,ACCOMPANY
+781,swim,1439,SWIM
+782,drill (a hole),1501,BORE
+783,insert,3071,INSERT
+784,drive out,,
+785,wither,2907,ROT
+786,cough,879,COUGH
+787,yawn,1028,YAWN
+788,sneeze,1621,SNEEZE
+789,hiccup,162,HICCOUGH
+790,belch,2245,BELCH
+791,fart,1159,FART
+792,defecate,676,SHIT (DEFECATE)
+793,urinate,592,PISS
+794,scratch,1436,SCRATCH
+795,live,1422,BE ALIVE
+796,exchange,2509,EXCHANGE
+797,butt,834,BUTTOCKS
+798,white,1335,WHITE
+799,black,163,BLACK
+800,red,156,RED
+801,yellow,1424,YELLOW
+802,blue,837,BLUE
+803,green,1425,GREEN
+804,grey,153,GREY
+805,sharp (point),1396,SHARP
+806,sharp (blade),1396,SHARP
+807,dull,379,BLUNT
+808,round,1395,ROUND
+809,flat,1633,FLAT
+810,steep,2717,STEEP
+811,situated straight,,
+812,situated crooked,,
+813,straight,1404,STRAIGHT
+814,crooked; bent,297,CROOKED
+815,thick; dense,1244,THICK
+816,thin; watery; sparse,207,SPARSE
+817,hard,1884,HARD
+818,soft,1856,SOFT
+819,bright; light,679,BRIGHT
+820,dim; dark,706,DARK
+821,clear (sky),,
+822,overcast,2341,CLOUDY
+823,full,1429,FULL
+824,beautiful,1427,BEAUTIFUL
+825,ugly,1548,UGLY
+826,fat ,1279,FAT (OBESE)
+827,fat; fatty (meat),2449,FAT (OF MEAT AND FOOD)
+828,lean,2219,LEAN (MEAT)
+829,skinny; thin,1400,THIN (SLIM)
+830,clean,704,CLEAN
+831,dirty,1230,DIRTY
+832,old ,2112,OLD (AGED)
+833,young,1207,YOUNG
+834,good,1035,GOOD
+835,bad,1292,BAD
+836,fast,1631,FAST
+837,slow,701,SLOW
+838,wet,1726,WET
+839,dry,1398,DRY
+840,new,1231,NEW
+841,old,2113,OLD (USED)
+842,raw; unripe,1959,RAW
+843,cooked; ripe,269,COOKED
+844,early,672,EARLY
+845,late,477,LATE
+846,easy,686,EASY
+847,difficult,584,DIFFICULT
+848,hot (temp.),1286,HOT
+849,cold (weather),2483,COLD (OF WEATHER)
+850,warm,1232,WARM
+851,cool,,
+852,sour,1906,SOUR
+853,sweet,717,SWEET
+854,bitter,887,BITTER
+855,hot (spicy),544,SPICY
+856,salty,1091,SALTY
+857,delicious,1813,TASTY
+858,insipid,1771,TASTELESS
+859,fragrant,376,FRAGRANT
+860,stinky,42,STINKING
+861,fishy (smell),,
+862,rotten,1728,ROTTEN
+863,full (stomach),106,SATIATED
+864,hungry,1533,BE HUNGRY
+865,thirsty,847,THIRSTY
+866,tired,1757,TIRED
+867,blessed; happy,2529,BLESSED
+868,sad,699,SAD
+869,ashamed,1894,ASHAMED
+870,itchy; ticklish,149,ITCHY
+871,sick,1847,SICK
+872,intelligent; clever,1310,CLEVER
+873,proud,174,PROUD
+874,stupid,1518,STUPID
+875,crazy,1899,MAD
+876,diligent,2077,DILIGENT
+877,busy,2755,BUSY
+878,capable,,
+879,lazy,1564,LAZY
+880,rich,712,RICH
+881,poor,1674,POOR
+882,alive,1422,BE ALIVE
+883,brave,3,BRAVE
+884,drunk,1463,DRUNK
+885,backwards,2911,BACKWARD
+886,different,2504,DIFFERENT
+887,same,200,SAME
+888,sticky,,
+889,slick,,
+890,tight,3053,TIGHT
+891,loose,2506,LOOSE
+892,expensive,1426,EXPENSIVE
+893,cheap,1887,CHEAP
+894,correct,1725,CORRECT (RIGHT)
+895,enough,1881,ENOUGH
+896,FAR,1406,FAR
+897,NEAR,1942,NEAR
+898,HIGH,1265,HIGH
+899,LOW,721,LOW
+900,LONG (distance),1203,LONG
+901,SHORT,1645,SHORT
+902,MANY,1198,MANY
+903,FEW,1242,FEW
+904,WIDE,1243,WIDE
+905,NARROW,1267,NARROW
+906,BIG,1202,BIG
+907,LITTLE,1246,SMALL
+908,DEEP,1593,DEEP
+909,SHALLOW,193,SHALLOW
+910,LIGHT,1052,LIGHT (WEIGHT)
+911,HEAVY,1210,HEAVY
+912,THICK (2d),1244,THICK
+913,THIN (2d),2308,THIN
+914,THICK (3d),1244,THICK
+915,THIN (3d),2308,THIN
+916,HOW FAR?,,
+917,HOW HIGH?,,
+918,HOW LONG?,2338,HOW LONG
+919,HOW WIDE?,,
+920,HOW BIG?,,
+921,HOW DEEP?,,
+922,HOW HEAVY?,,
+923,one,1493,ONE
+924,two,1498,TWO
+925,three,492,THREE
+926,four,1500,FOUR
+927,five,493,FIVE
+928,six,1703,SIX
+929,seven,1704,SEVEN
+930,eight,1705,EIGHT
+931,nine,1483,NINE
+932,ten,1515,TEN
+933,eleven,1706,ELEVEN
+934,twelve,1707,TWELVE
+935,twenty,1710,TWENTY
+936,twentyone,1734,TWENTY ONE
+937,hundred,1634,HUNDRED
+938,thousand,1843,THOUSAND
+939,half,816,HALF
+940,bowlful (MW),,
+941,arm spread (2 arms),,
+942,span (hand-width),,
+943,CLF.times,,
+944,1S,1209,I
+945,1PL,1212,WE
+946,1PL (inclusive),1131,WE (INCLUSIVE)
+947,2S,1215,THOU
+948,2PL,1213,YOU
+949,3S,262,HE OR SHE OR IT
+950,3PL,817,THEY
+951,3SR (another),,
+952,self,1993,SELF
+953,another (thing),197,OTHER
+954,POSS,,
+955,this (1),1214,THIS
+956,this kind,,
+957,here (1),136,HERE
+958,that one,78,THAT
+959,that (higher),78,THAT
+960,that (lower),78,THAT
+961,that (far),78,THAT
+962,there,1937,THERE
+963,in front,1883,IN FRONT OF
+964,on the other side,885,OPPOSITE
+965,behind,1686,BEHIND
+966,between,689,BETWEEN
+967,left,244,LEFT
+968,right,1019,RIGHT
+969,beside,1816,BESIDE
+970,side,682,SIDE
+971,upon,1741,ABOVE
+972,beneath,1485,BELOW OR UNDER
+973,inside,1606,INSIDE
+974,outside,762,OUTSIDE
+975,everywhere,2999,EVERYWHERE
+976,who?,1235,WHO
+977,what?,1236,WHAT
+978,where?,1237,WHERE
+979,why?,1270,WHY
+980,which (one)?,727,WHICH
+981,how?,1239,HOW
+982,how much?,531,HOW MUCH
+983,now,1376,NOW
+984,just now,84,JUST
+985,before (sequential),1882,BEFORE
+986,after,1685,AFTER
+987,before (temporal),1882,BEFORE
+988,formerly,1882,BEFORE
+989,already,2576,ALREADY
+990,immediately,1963,IMMEDIATELY
+991,frequently,1852,OFTEN
+992,slowly,2165,SLOWLY
+993,quickly,1631,FAST
+994,very,1311,VERY
+995,most,1198,MANY
+996,all,98,ALL
+997,again,204,AGAIN
+998,really; certainly,509,CERTAIN
+999,not (NEG),1240,NOT
+1000,don't,813,DO
+1001,each other,,

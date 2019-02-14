@@ -59,17 +59,25 @@ class Dataset(BaseDataset):
                 )
 
             # add lexemes
-            for entry in raw_entries:
+            for cogid, entry in enumerate(raw_entries):
                 # get the parameter frm the number in source, skipping over
                 # non-published data
                 parameter = entry['Parameter'].split('.')[0]
                 if parameter:
                     for language in languages:
-                        ds.add_lexemes(
+                        for row in ds.add_lexemes(
                             Language_ID=language,
                             Parameter_ID=parameter,
                             Form=entry[language],
                             Value=entry[language],
+                            # HIC SUNT DRACONES!!! THIS SEGMENTATION IS ONLY FOR COMPILING A FIRST PASS!
                             Segments=[c for c in entry[language]],
                             Source=['Yang2011Lalo'],
-                        )
+                            Cognacy=cogid,
+                            ):
+                            ds.add_cognate(
+                                lexeme = row,
+                                Cognateset_ID=cogid,
+                                Source=['Yang2011Lalo'],
+                                Alignment_Source='Yang2011Lalo',
+                            )
