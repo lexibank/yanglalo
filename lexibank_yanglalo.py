@@ -129,13 +129,12 @@ class Dataset(BaseDataset):
                             for row in ds.add_lexemes(
                                 Language_ID=language,
                                 Parameter_ID=parameter,
-                                Form=form,
-                                Value=value,
+                                #Form=value,
+                                Value=form,
                                 Segments=segments,
                                 Source=['Yang2011Lalo'],
                                 Cognacy=cogid,
                                 ):
-                                print(row)
                                 ds.add_cognate(
                                     lexeme = row,
                                     Cognateset_ID=cogid,
