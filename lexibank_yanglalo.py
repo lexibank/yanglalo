@@ -14,52 +14,15 @@ import lingpy
 from sinopy.segments import get_structure
 
 # dataset specific cleaning
-def clear_value(text):
-    value = text.replace(';', ',')
-    value = value.replace('烂饭', '')
+def clear_value(value):
+    value = value.replace(';', ',')
+    value = value.replace(' / ', ',')
+    value = value.replace('kʰɛ ̥²¹', 'kʰɛ²¹')
+    value = value.replace('tʃʰe̠H du¹/²', 'tʃʰe̠Hdu¹/²')
+    value = value.replace('ʔvi̠ᶫ tu³/gu²', 'ʔvi̠ᶫtu³/gu²')
 
     return value
 
-
-# dataset specific cleaning
-def get_clear_tokens(value):
-    # TODO: move to orthographic profile later
-    replacements = [
-        ('H', '¹'), # superscript H is for aspiration
-        ('ᶫ', '³'),
-        ('ɤ̪', 'ɤ'),
-        ('(', ''), # keep everything in parentheses
-        (')', ''),
-    ]
-
-    forms = [form.strip() for form in value.split(',')]
-    forms = [form for form in forms if form]
-
-    for repl in replacements:
-        forms = [
-            form.replace(repl[0], repl[1]) for form in forms
-        ]
-
-    return forms
-
-
-def run_segmentation(form):
-    # perform segmentation with sinopy: extract
-    # syllabic information and then extract the
-    # segmented tokens (with the morpheme boundary)
-    syllables = [
-        syl[0] for syl in
-        get_structure(form, zipped=True)]
-    segments = [
-        [segment[1] for segment in syllable] + ['+']
-        for syllable in syllables
-    ]
-
-    # flatten the list of segments, as requested by
-    # lexibank, removing the final morpheme mark
-    segments = [seg for syl in segments for seg in syl]
-
-    return segments[:-1]
 
 class Dataset(BaseDataset):
     id = 'yanglalo'
@@ -115,22 +78,31 @@ class Dataset(BaseDataset):
                 parameter = entry['Parameter'].split('.')[0]
                 if parameter:
                     for language in languages:
+                        # basic preprocessing, stuff not in orthprof
                         value = clear_value(entry[language])
-                        forms = get_clear_tokens(value)
+
+                        # generate forms from value
+                        forms = [form.strip() for form in value.split(',')]
+                        forms = [form for form in forms if form]
+
+                        # segmentation
                         form_segments = [
-                            run_segmentation(form) for form in forms
+                            self.tokenizer(None, '^%s$' % form, column='IPA')
+                            for form in forms
                         ]
 
-                        # skip if form is empty
-                        if not forms:
-                            continue
-
                         for form, segments in zip(forms, form_segments):
+                            # prepare form for value
+                            value_form = form
+                            value_form = value_form.replace(',', '')
+                            value_form = value_form.replace('/', '')
+                            value_form = value_form.replace(';', '')
+
                             for row in ds.add_lexemes(
                                 Language_ID=language,
                                 Parameter_ID=parameter,
-                                #Form=value,
-                                Value=form,
+                                #Form=form,
+                                Value=value_form,
                                 Segments=segments,
                                 Source=['Yang2011Lalo'],
                                 Cognacy=cogid,
