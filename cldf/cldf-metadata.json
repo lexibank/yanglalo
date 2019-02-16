@@ -6,7 +6,6 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "yanglalo",
-    "dcat:accessURL": "https://github.com/lexibank/yanglalo",
     "rdf:ID": "yanglalo",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -16,14 +15,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
-                "concepticon_version": "pyconcepticon-1.4.0-75-g331a650"
+                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
+                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 9784,
             "tableSchema": {
                 "columns": [
                     {
@@ -118,6 +118,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 8,
             "tableSchema": {
                 "columns": [
                     {
@@ -163,6 +164,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:extent": 1001,
             "tableSchema": {
                 "columns": [
                     {
@@ -194,6 +196,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+            "dc:extent": 9784,
             "tableSchema": {
                 "columns": [
                     {

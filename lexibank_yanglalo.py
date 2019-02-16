@@ -6,25 +6,15 @@ import attr
 from clldutils.misc import slug
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import NonSplittingDataset
 from pylexibank.dataset import Concept, Language
+
+from tqdm import tqdm
 
 import csv
 import lingpy
-from sinopy.segments import get_structure
 
-# dataset specific cleaning
-def clear_value(value):
-    value = value.replace(';', ',')
-    value = value.replace(' / ', ',')
-    value = value.replace('kʰɛ ̥²¹', 'kʰɛ²¹')
-    value = value.replace('tʃʰe̠H du¹/²', 'tʃʰe̠Hdu¹/²')
-    value = value.replace('ʔvi̠ᶫ tu³/gu²', 'ʔvi̠ᶫtu³/gu²')
-
-    return value
-
-
-class Dataset(BaseDataset):
+class Dataset(NonSplittingDataset):
     id = 'yanglalo'
     dir = Path(__file__).parent
     concept_class = Concept
@@ -70,46 +60,37 @@ class Dataset(BaseDataset):
                     Concepticon_ID=concept['CONCEPTICON_ID'],
                     Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
                 )
-
             # add lexemes
-            for cogid, entry in enumerate(raw_entries):
+            for cogid, entry in tqdm(enumerate(raw_entries), desc='make-cldf'):
                 # get the parameter frm the number in source, skipping over
                 # non-published data
                 parameter = entry['Parameter'].split('.')[0]
                 if parameter:
                     for language in languages:
                         # basic preprocessing, stuff not in orthprof
-                        value = clear_value(entry[language])
-
-                        # generate forms from value
-                        forms = [form.strip() for form in value.split(',')]
-                        forms = [form for form in forms if form]
-
-                        # segmentation
-                        form_segments = [
-                            self.tokenizer(None, '^%s$' % form, column='IPA')
-                            for form in forms
-                        ]
-
-                        for form, segments in zip(forms, form_segments):
-                            # prepare form for value
-                            value_form = form
-                            value_form = value_form.replace(',', '')
-                            value_form = value_form.replace('/', '')
-                            value_form = value_form.replace(';', '')
-
-                            for row in ds.add_lexemes(
-                                Language_ID=language,
-                                Parameter_ID=parameter,
-                                #Form=form,
-                                Value=value_form,
-                                Segments=segments,
-                                Source=['Yang2011Lalo'],
-                                Cognacy=cogid,
-                                ):
-                                ds.add_cognate(
-                                    lexeme = row,
-                                    Cognateset_ID=cogid,
-                                    Source=['Yang2011Lalo'],
-                                    Alignment_Source='Yang2011Lalo',
+                        value = self.lexemes.get(
+                                entry[language],
+                                entry[language]
                                 )
+                        if value:
+
+                            # generate forms from value
+                            form = value.split(',')[0].strip()
+                            segments = self.tokenizer(None, '^'+form+'$',
+                                    column="IPA") 
+
+                        for row in ds.add_lexemes(
+                            Language_ID=language,
+                            Parameter_ID=parameter,
+                            Form=value,
+                            Value=form,
+                            Segments=segments,
+                            Source=['Yang2011Lalo'],
+                            Cognacy=cogid,
+                            ):
+                            ds.add_cognate(
+                                lexeme = row,
+                                Cognateset_ID=cogid,
+                                Source=['Yang2011Lalo'],
+                                Alignment_Source='',
+                            )
