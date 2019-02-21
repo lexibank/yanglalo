@@ -1,7 +1,7 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss
 1,sky,1732,SKY
 2,sun,1343,SUN
-3,sunshine,,
+3,sunshine,3276,SUNSHINE
 4,moon,1313,MOON
 5,star,1430,STAR
 6,cloud,1489,CLOUD
@@ -45,11 +45,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 44,yesterday,1174,YESTERDAY
 45,day before yesterday,1180,DAY BEFORE YESTERDAY
 46,three days ago,2333,THREE DAYS BEFORE NOW
-47,four days ago,,
+47,four days ago,3278,FOUR DAYS BEFORE NOW
 48,tomorrow,1329,TOMORROW
 49,day after tomorrow,1179,DAY AFTER TOMORROW
 50,three days from now,2332,THREE DAYS FROM NOW
-51,four days from now,,
+51,four days from now,3277,FOUR DAYS FROM NOW
 52,year,1226,YEAR
 53,new year,,
 54,this year,513,THIS YEAR
@@ -97,7 +97,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 96,otter,15,OTTER
 97,weasel,,
 98,pangolin,2508,PANGOLIN
-99,muntjak deer,,
+99,muntjak deer,3152,MUNTJACS
 100,sambar deer,,
 101,porcupine,2510,PORCUPINE
 102,rat; mouse,2139,MUROID (MOUSE OR RAT)
@@ -127,7 +127,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 126,insect,620,INSECT
 127,ant,587,ANT
 128,termite,883,TERMITE
-129,mantis,,
+129,mantis,3279,MANTIS
 130,roach,1575,COCKROACH
 131,fly,1504,FLY (INSECT)
 132,honeybee,665,BEE
@@ -151,7 +151,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 150,hoof,152,HOOF
 151,horn,1393,HORN (ANATOMY)
 152,tail,1220,TAIL
-153,tusk,,
+153,tusk,3280,TUSK
 154,(cocks)comb,188,COMB OF BIRD
 155,tree,906,TREE
 156,pine tree,1740,PINE
@@ -164,7 +164,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 163,millet,931,MILLET
 164,barley,932,BARLEY
 165,sorghum,347,SORGHUM
-166,job's tears,,
+166,job's tears,3281,JOB’S TEARS
 167,corn,506,MAIZE
 168,ear of grain,3244,EAR (OF GRAIN)
 169,peanut,2364,PEANUT
@@ -332,7 +332,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 331,blacksmith,1001,BLACKSMITH
 332,soldier,1941,SOLDIER
 333,bride,1266,BRIDE
-334,groom,,
+334,groom,3282,GROOM
 335,widow,1756,WIDOW
 336,widower,1981,WIDOWER
 337,blind,1653,BLIND
@@ -396,7 +396,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 395,granary,3025,BARN OR SHED
 396,shrine; temple,911,TEMPLE
 397,tomb; grave,1773,GRAVE
-398,graveyard,,
+398,graveyard,3284,GRAVEYARD
 399,head-wrap,,
 400,headdress,331,HEADDRESS
 401,hat,771,HAT
@@ -417,7 +417,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 416,blanket; quilt,806,BLANKET
 417,pillow,1044,PILLOW
 418,mat,195,MAT
-419,rice powder,,
+419,rice powder,3285,RICE FLOUR
 420,flour,1594,FLOUR
 421,porridge,2049,CONGEE
 422,oil,1484,OIL (ORGANIC SUBSTANCE)
@@ -469,7 +469,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 468,fine toothed comb,,
 469,bowl,1530,BOWL
 470,small bowl,2053,SMALL BOWL
-471,large bowl,,
+471,large bowl,3286,LARGE BOWL
 472,chopsticks,1987,CHOPSTICKS
 473,bed,1663,BED
 474,ladder,1464,LADDER
@@ -493,14 +493,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 492,deity,1944,GOD
 493,God,1944,GOD
 494,soul (1),811,SOUL
-495,spirit (evil),,
+495,spirit (evil),1973,DEMON
 496,boundary marker,,
 497,fence,1690,FENCE
 498,gun,1566,GUN
 499,bow,994,BOW
 500,arrow,977,ARROW
 501,arrow (head),,
-502,"cage (e.g., for ducks)",,
+502,"cage (e.g., for ducks)",3283,CAGE
 503,drum,908,DRUM
 504,gong,2502,GONG
 505,town,1391,TOWN
@@ -753,7 +753,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 752,lay (an egg),2464,LAY EGGS
 753,"brood, incubate",2075,BROOD (VERB)
 754,"germinate, sprout, bud",2076,SPROUT (VERB)
-755,bloom; blossom,,
+755,bloom; blossom,3287,BLOOM
 756,bear fruit,3054,BEAR FRUIT
 757,rot (fruit),,
 758,begin; start,1806,BEGIN
@@ -773,7 +773,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 772,"skin (animal), to",291,PULL OFF (SKIN)
 773,"peel (eggs, fruit)",275,PEEL
 774,clear field,,
-775,weed,,
+775,weed,3288,WEED
 776,stir,696,STIR
 777,weigh,1098,WEIGH
 778,soak; pickle,2069,SOAK (VERB)

@@ -6,6 +6,7 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "yanglalo",
+    "dcat:accessURL": "https://github.com/lexibank/yanglalo",
     "rdf:ID": "yanglalo",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -15,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb94b",
-                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-77-g9525d3d"
             }
         }
     ],

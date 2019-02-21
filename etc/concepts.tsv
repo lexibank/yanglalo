@@ -1,7 +1,7 @@
 NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTICON_GLOSS	SIMILARITY	SP_NOTE	SP_PROPOSAL	SP_COMMENT
 1	1	sky	天 (天空)	1,0 / 1,1 / 1,2	sky-1 / sky-2a / sky-2b	1732	SKY	2			
 2	2	sun	太阳	2,0 / 2,1	sun-2 / sun-3	1343	SUN	2			
-3	3	sunshine	阳光	3	sunshine				lacuna	SUNSHINE	
+3	3	sunshine	阳光	3	sunshine	3276	SUNSHINE		lacuna	SUNSHINE	
 4	4	moon	月亮	4,0 / 4,1	moon-1 / moon-2	1313	MOON	2			
 5	5	star	星星	5	star	1430	STAR	2			
 6	6	cloud	云	6	cloud	1489	CLOUD	2			
@@ -46,11 +46,11 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 45	44	yesterday	昨天	44	yesterday	1174	YESTERDAY	2			
 46	45	day before yesterday	前天	45	day before yesterday	1180	DAY BEFORE YESTERDAY	2			
 47	46	three days ago	大前天	46	three days ago	2333	THREE DAYS BEFORE NOW				
-48	47	four days ago	四天前	47	four days ago						
+48	47	four days ago	四天前	47	four days ago	3278	FOUR DAYS BEFORE NOW				
 49	48	tomorrow	明天	48	tomorrow	1329	TOMORROW	2			
 50	49	day after tomorrow	后天	49,0 / 49,1	day after tomorrow / day after tomorrow	1179	DAY AFTER TOMORROW	2			
 51	50	three days from now	大后天	50	three days from now	2332	THREE DAYS FROM NOW	2			
-52	51	four days from now	四天后	51	four days from now						
+52	51	four days from now	四天后	51	four days from now	3277	FOUR DAYS FROM NOW				
 53	52	year	年	52	year	1226	YEAR	2			
 54	53	new year	新年	53,1 / 53,0	new year / new year				lacuna	NEW YEAR	
 55	54	this year	今年	54,0 / 54,1	this year / this year	513	THIS YEAR	2			
@@ -98,7 +98,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 97	96	otter	水獭	96	otter	15	OTTER	2			
 98	97	weasel	黄鼠狼	97	weasel						
 99	98	pangolin	穿山甲	98,0 / 98,1 / 98,2	pangolin / pangolin / pangolin	2508	PANGOLIN	2			
-100	99	muntjak deer	麂子／赤鹿	99	muntjak deer						
+100	99	muntjak deer	麂子／赤鹿	99	muntjak deer	3152	MUNTJACS				
 101	100	sambar deer	水鹿/黑鹿	100	sambar deer						
 102	101	porcupine	豪猪/箭猪	101	porcupine	2510	PORCUPINE	2			
 103	102	rat; mouse	老鼠	102	rat; mouse	2139	MUROID (MOUSE OR RAT)	4			
@@ -128,7 +128,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 127	126	insect	昆虫	126,0 / 126,2	insect / insect	620	INSECT	2			
 128	127	ant	蚂蚁	127,0 / 127,1 / 127,2	ant / ant / ant	587	ANT	2			
 129	128	termite	白蚁	128,1 / 128,0	termite / termite	883	TERMITE	2			
-130	129	mantis	螳螂	129,1 / 129,0	mantis / mantis						
+130	129	mantis	螳螂	129,1 / 129,0	mantis / mantis	3279	MANTIS				
 131	130	roach	蟑螂	130	roach	1575	COCKROACH				
 132	131	fly	苍蝇	131,0 / 131,1	fly / fly	1504	FLY (INSECT)	2			
 133	132	honeybee	蜜蜂	132	honeybee	665	BEE	2			
@@ -152,7 +152,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 151	150	hoof	蹄	150	hoof	152	HOOF	2			
 152	151	horn	角	151	horn	1393	HORN (ANATOMY)	2			
 153	152	tail	尾巴	152,0 / 152,1	tail / tail	1220	TAIL	2			
-154	153	tusk	长牙	153	tusk			2			
+154	153	tusk	长牙	153	tusk	3280	TUSK	2			
 155	154	(cocks)comb	冠（鸡冠）	154	(cocks)comb	188	COMB OF BIRD	4			
 156	155	tree	树	155,0 / 155,1	tree / tree	906	TREE	2			
 157	156	pine tree	松树	156,0 / 156,1	pine tree / pine tree	1740	PINE	2			
@@ -165,7 +165,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 164	163	millet	稷	163	millet	931	MILLET	2			
 165	164	barley	大麦	164	barley	932	BARLEY	2			
 166	165	sorghum	高粱	165	sorghum	347	SORGHUM	2			
-167	166	job's tears	薏苡	166	job's tears						
+167	166	job's tears	薏苡	166	job's tears	3281	JOB’S TEARS				
 168	167	corn	玉米	167,0 / 167,1	corn / corn	506	MAIZE	2			
 169	168	ear of grain	穗子	168	ear of grain	3244	EAR (OF GRAIN)				
 170	169	peanut	花生	169	peanut	2364	PEANUT	2			
@@ -333,7 +333,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 332	331	blacksmith	铁匠/锻工	331	blacksmith	1001	BLACKSMITH	2			
 333	332	soldier	兵/士兵	332	soldier	1941	SOLDIER	2			
 334	333	bride	新娘	333	bride	1266	BRIDE	2			
-335	334	groom	新郎	334	groom				lacuna	GROOM	Cf. 1266 BRIDE
+335	334	groom	新郎	334	groom	3282	GROOM		lacuna	GROOM	Cf. 1266 BRIDE
 336	335	widow	寡妇	335	widow	1756	WIDOW	2			
 337	336	widower	寡郎	336	widower	1981	WIDOWER	2			
 339	337	blind	盲; 瞎子	337,1 / 337,1	blind-1 / blind-2	1653	BLIND	2			
@@ -400,7 +400,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 400	395	granary	仓（装粮食的柜子）	395	granary	3025	BARN OR SHED	2			
 401	396	shrine; temple	庙	396	shrine; temple	911	TEMPLE	4			
 402	397	tomb; grave	坟墓	397	tomb; grave	1773	GRAVE	4			
-403	398	graveyard	墓地	398,1 / 398,0	graveyard / graveyard				lacuna	GRAVEYARD	
+403	398	graveyard	墓地	398,1 / 398,0	graveyard / graveyard	3284	GRAVEYARD		lacuna	GRAVEYARD	
 404	399	head-wrap	头巾	399	head-wrap				lacuna	HEAD-WRAP	2130 HEADGEAR too general. Need not wrap around head.
 405	400	headdress	饰头巾	400	headdress	331	HEADDRESS	4			
 406	401	hat	帽子	401	hat	771	HAT	2			
@@ -421,7 +421,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 421	416	blanket; quilt	被子	416,3 / 416,0 / 416,1 / 416,2	blanket; quilt / blanket; quilt / blanket; quilt / blanket; quilt	806	BLANKET	4			
 422	417	pillow	枕头	417,1 / 417,0	pillow / pillow	1044	PILLOW	2			
 423	418	mat	(垫)席	418,0 / 418,1	mat / mat	195	MAT	2			
-424	419	rice powder	米粉	419	rice powder						
+424	419	rice powder	米粉	419	rice powder	3285	RICE FLOUR				
 425	420	flour	面粉	420,1 / 420,0	flour / flour	1594	FLOUR	2			
 426	421	porridge	粥	421	porridge	2049	CONGEE				
 427	422	oil	油	422	oil	1484	OIL (ORGANIC SUBSTANCE)	2			
@@ -473,7 +473,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 473	468	fine toothed comb	细密梳子	468	fine toothed comb						
 474	469	bowl	碗	469	bowl	1530	BOWL	2			
 475	470	small bowl	小碗	470	small bowl	2053	SMALL BOWL	2			
-476	471	large bowl	大碗	471	large bowl						
+476	471	large bowl	大碗	471	large bowl	3286	LARGE BOWL				
 477	472	chopsticks	筷子	472	chopsticks	1987	CHOPSTICKS	2			
 478	473	bed	床	473	bed	1663	BED	2			
 479	474	ladder	梯子	474,1 / 474,0	ladder / ladder	1464	LADDER	2			
@@ -497,14 +497,14 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 497	492	deity	神	492	deity	1944	GOD	4			
 498	493	God	上帝	493,0 / 493,1	God / God	1944	GOD	2			
 499	494	soul (1)	魂	494	soul (1)	811	SOUL	4			
-500	495	spirit (evil)	鬼	495	spirit (evil)				lacuna	SPIRIT (EVIL)	More general concept SPIRIT (SUPERNATURAL BEING) also missing
+500	495	spirit (evil)	鬼	495	spirit (evil)	1973	DEMON		lacuna	SPIRIT (EVIL)	More general concept SPIRIT (SUPERNATURAL BEING) also missing
 501	496	boundary marker	边界记号	496	boundary marker						
 502	497	fence	栅栏	497	fence	1690	FENCE	2			
 503	498	gun	枪	498	gun	1566	GUN	2			
 504	499	bow	弓	499,0 / 499,1	bow / bow	994	BOW	2			
 505	500	arrow	箭	500	arrow	977	ARROW	2			
 506	501	arrow (head)	箭头	501	arrow (head)			4			
-507	502	cage (e.g., for ducks)	笼	502	cage (e.g., for ducks)				lacuna	CAGE	
+507	502	cage (e.g., for ducks)	笼	502	cage (e.g., for ducks)	3283	CAGE		lacuna	CAGE	
 508	503	drum	鼓	503	drum	908	DRUM	2			
 509	504	gong	铜锣	504	gong	2502	GONG	2			
 510	505	town	城	505	town	1391	TOWN	2			
@@ -762,7 +762,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 762	753	brood, incubate	孵	753	brood, incubate	2075	BROOD (VERB)	4			
 763	754	germinate, sprout, bud	发(芽)	754	germinate, sprout, bud	2076	SPROUT (VERB)	4			
 764	754	bud on trees	发(芽)	754.1	bud on trees	1684	BUD				
-765	755	bloom; blossom	开(花)	755	bloom; blossom				lacuna	BLOOM	NB Action/Process, not Person/Thing
+765	755	bloom; blossom	开(花)	755	bloom; blossom	3287	BLOOM		lacuna	BLOOM	NB Action/Process, not Person/Thing
 766	756	bear fruit	结(果)	756	bear fruit	3054	BEAR FRUIT	2			
 767	757	rot (fruit)	腐烂	757	rot (fruit)			4	lacuna	ROT (OF FRUIT)	2907 ROT too general
 768	757	rot (meat)	腐烂	757.1	rot (meat)			4	lacuna	ROT (OF MEAT)	2907 ROT too general
@@ -783,7 +783,7 @@ NUMBER	NUMBER_IN_SOURCE	ENGLISH	CHINESE	NUMBERS	GLOSSES	CONCEPTICON_ID	CONCEPTIC
 783	772	skin (animal), to	剥皮	772	skin (animal), to	291	PULL OFF (SKIN)	4			
 784	773	peel (eggs, fruit)	剥	773	peel (eggs, fruit)	275	PEEL	4			
 785	774	clear field	除田	774	clear field						
-786	775	weed	除草	775	weed						
+786	775	weed	除草	775	weed	3288	WEED				
 787	776	stir	搅拌	776,0 / 776,1	stir / stir	696	STIR	2			
 788	777	weigh	称	777,0 / 777,1	weigh / weigh	1098	WEIGH	2			
 789	778	soak; pickle	泡	778	soak; pickle	2069	SOAK (VERB)	4			
