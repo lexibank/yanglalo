@@ -8,8 +8,7 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 ## Statistics
 
-
-
+[![Build Status](https://travis-ci.org/lexibank/yanglalo.svg?branch=master)](https://travis-ci.org/lexibank/yanglalo)
 ![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
