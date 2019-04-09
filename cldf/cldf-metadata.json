@@ -5,7 +5,8 @@
     "dc:identifier": "",
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:source": "sources.bib",
-    "dc:title": "yanglalo",
+    "dc:title": "Lalo regional varieties",
+    "dcat:accessURL": "https://github.com/lexibank/yanglalo",
     "rdf:ID": "yanglalo",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -15,8 +16,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
-                "concepticon_version": "v2.0"
+                "glottolog_version": "pyglottolog-1.2.1-135-gce9d923",
+                "concepticon_version": "pyconcepticon-1.4.0-112-g903cf66"
             }
         }
     ],
