@@ -2,11 +2,12 @@
 
 Cite the source dataset as
 
-> Yang, Cathryn (2011): Lalo regional varieties: {Phylogeny}, dialectometry and sociolinguistics. Bundoora: La Trobe University.
+> Yang, Cathryn (2011): Lalo regional varieties: Phylogeny, dialectometry and sociolinguistics. Bundoora: La Trobe University.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
 ## Statistics
+
 
 [![Build Status](https://travis-ci.org/lexibank/yanglalo.svg?branch=master)](https://travis-ci.org/lexibank/yanglalo)
 ![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
@@ -25,4 +26,3 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 - **Tokens:** 62,398
 - **Segments:** 210 (0 BIPA errors, 0 CTLS sound class errors, 209 CLTS modified)
 - **Inventory size (avg):** 113.38
-
