@@ -82,8 +82,8 @@ class Dataset(NonSplittingDataset):
                         for row in ds.add_lexemes(
                             Language_ID=language,
                             Parameter_ID=parameter,
-                            Form=value,
-                            Value=form,
+                            Form=form,
+                            Value=value,
                             Segments=segments,
                             Source=['Yang2011Lalo'],
                             Cognacy=cogid,
