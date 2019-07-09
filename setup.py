@@ -16,11 +16,11 @@ setup(
     zip_safe=False,
     entry_points={
         'lexibank.dataset': [
-            'bodtkhobwa=lexibank_yanglalo:Dataset',
+            'yanglalo=lexibank_yanglalo:Dataset',
         ]
     },
     install_requires=[
-        'pylexibank==1.1.1',
+        'pylexibank>=1.1.1',
         'segments==2.0.2'
     ],
     extras_require={
