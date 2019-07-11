@@ -21,7 +21,6 @@ setup(
     },
     install_requires=[
         'pylexibank>=1.1.1',
-        'segments==2.0.2'
     ],
     extras_require={
         'test': [
