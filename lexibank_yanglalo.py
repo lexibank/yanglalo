@@ -17,10 +17,6 @@ class Dataset(NonSplittingDataset):
         pass
 
     def cmd_install(self, **kw):
-        # cache languages
-
-        # cache concepts
-
         # read raw data for later addition
         filename = self.dir.joinpath("raw", "raw_data.tsv").as_posix()
         with open(filename) as csvfile:
@@ -43,17 +39,21 @@ class Dataset(NonSplittingDataset):
                 languages.append(language["ID"])
 
             # add concepts to dataset
-            for concept in self.concepts:
+            concept_map = {}
+            for concept in self.conceptlist.concepts.values():
+                concept_map[concept.attributes['number_in_source']] = concept.id
                 ds.add_concept(
-                    ID=concept["NUMBER_IN_SOURCE"],
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                    ID=concept.id,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
                 )
+
             # add lexemes
             for cogid, entry in tqdm(enumerate(raw_entries), desc="make-cldf"):
                 # get the parameter frm the number in source, skipping over
                 # non-published data
+                print(entry['Parameter'])
                 parameter = entry["Parameter"].split(".")[0]
                 if parameter:
                     for language in languages:
@@ -67,7 +67,7 @@ class Dataset(NonSplittingDataset):
 
                         for row in ds.add_lexemes(
                             Language_ID=language,
-                            Parameter_ID=parameter,
+                            Parameter_ID=concept_map[parameter],
                             Form=form,
                             Value=value,
                             Segments=segments,
