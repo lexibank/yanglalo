@@ -53,30 +53,25 @@ class Dataset(NonSplittingDataset):
             for cogid, entry in tqdm(enumerate(raw_entries), desc="make-cldf"):
                 # get the parameter frm the number in source, skipping over
                 # non-published data
-                print(entry['Parameter'])
                 parameter = entry["Parameter"].split(".")[0]
                 if parameter:
                     for language in languages:
                         # basic preprocessing, stuff not in orthprof
                         value = self.lexemes.get(entry[language], entry[language])
                         if value:
-
                             # generate forms from value
                             form = value.split(",")[0].strip()
-                            segments = self.tokenizer(None, "^" + form + "$", column="IPA")
 
-                        for row in ds.add_lexemes(
-                            Language_ID=language,
-                            Parameter_ID=concept_map[parameter],
-                            Form=form,
-                            Value=value,
-                            Segments=segments,
-                            Source=["Yang2011Lalo"],
-                            Cognacy=cogid,
-                        ):
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID=cogid,
-                                Source=["Yang2011Lalo"],
-                                Alignment_Source="",
-                            )
+                            for row in ds.add_lexemes(
+                                Language_ID=language,
+                                Parameter_ID=concept_map[parameter],
+                                Value=form,
+                              Source=["Yang2011Lalo"],
+                                Cognacy=cogid,
+                           ):
+                                ds.add_cognate(
+                                    lexeme=row,
+                                    Cognateset_ID=cogid,
+                                 Source=["Yang2011Lalo"],
+                                  Alignment_Source="",
+                               )
