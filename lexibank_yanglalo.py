@@ -1,25 +1,38 @@
 import csv
 
 from clldutils.path import Path
-from pylexibank.dataset import Concept, Language
-from pylexibank.dataset import NonSplittingDataset
-from tqdm import tqdm
+from clldutils.text import split_text
+from pylexibank.dataset import NonSplittingDataset, Language, Concept
+from pylexibank.util import pb
+import attr
+
+@attr.s
+class HLanguage(Language):
+    Location = attr.ib(default=None)
+    Source_ID = attr.ib(default=None)
+
+@attr.s
+class HConcept(Concept):
+    Chinese_Gloss = attr.ib(default=None)
+
 
 
 class Dataset(NonSplittingDataset):
     id = "yanglalo"
     dir = Path(__file__).parent
-    concept_class = Concept
-    language_class = Language
+    concept_class = HConcept
+    language_class = HLanguage
 
     def cmd_download(self, **kw):
         # nothing to do, as the raw data is in the repository
         pass
 
-    def cmd_install(self, **kw):
-        # cache languages
+    def clean_form(self, item, form):
+        if form:
+            form = split_text(form, separators=",")[0]
+            return form
 
-        # cache concepts
+    def cmd_install(self, **kw):
 
         # read raw data for later addition
         filename = self.dir.joinpath("raw", "raw_data.tsv").as_posix()
@@ -32,45 +45,32 @@ class Dataset(NonSplittingDataset):
             ds.add_sources(*self.raw.read_bib())
 
             # add languages to dataset
-            languages = []
-            for language in self.languages:
-                # add to dataset
-                ds.add_language(
-                    ID=language["ID"], Glottocode=language["GLOTTOLOG"], Name=language["NAME"]
-                )
 
-                # cache for later selecting the columns from the raw data
-                languages.append(language["ID"])
-
-            # add concepts to dataset
-            for concept in self.concepts:
+            languages = {k['Source_ID']: k['ID'] for k in self.languages}
+            ds.add_languages()
+            
+            concepts = {c.attributes['number_in_source']: c.id for c in
+                    self.conceptlist.concepts.values()}
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                    ID=concept["NUMBER_IN_SOURCE"],
-                    Name=concept["ENGLISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                )
+                        ID=concept.id,
+                        Name=concept.english,
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss,
+                        Chinese_Gloss = concept.attributes['chinese']
+                        )
             # add lexemes
-            for cogid, entry in tqdm(enumerate(raw_entries), desc="make-cldf"):
+            for cogid, entry in pb(enumerate(raw_entries), desc="cldfify",
+                    total=len(raw_entries)):
                 # get the parameter frm the number in source, skipping over
                 # non-published data
-                parameter = entry["Parameter"].split(".")[0]
+                parameter = entry["Parameter"].split('.')[0]
                 if parameter:
                     for language in languages:
-                        # basic preprocessing, stuff not in orthprof
-                        value = self.lexemes.get(entry[language], entry[language])
-                        if value:
-
-                            # generate forms from value
-                            form = value.split(",")[0].strip()
-                            segments = self.tokenizer(None, "^" + form + "$", column="IPA")
-
                         for row in ds.add_lexemes(
-                            Language_ID=language,
-                            Parameter_ID=parameter,
-                            Form=form,
-                            Value=value,
-                            Segments=segments,
+                            Language_ID=languages[language],
+                            Parameter_ID=concepts[parameter],
+                            Value=entry[language],
                             Source=["Yang2011Lalo"],
                             Cognacy=cogid,
                         ):

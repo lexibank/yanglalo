@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Yang, Cathryn (2011): Lalo regional varieties: Phylogeny, dialectometry and sociolinguistics. Bundoora: La Trobe University.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Yang-2011-1014"
+    ],
     "dc:identifier": "",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -19,8 +22,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
+                "glottolog_version": "v4.0",
+                "concepticon_version": "v2.1.0"
             }
         }
     ],
@@ -178,6 +181,14 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Location"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Source_ID"
                     }
                 ],
                 "primaryKey": [
@@ -210,6 +221,10 @@
                     {
                         "datatype": "string",
                         "name": "Concepticon_Gloss"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Chinese_Gloss"
                     }
                 ],
                 "primaryKey": [

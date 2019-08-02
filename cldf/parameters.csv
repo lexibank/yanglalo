@@ -1,1001 +1,1001 @@
-ID,Name,Concepticon_ID,Concepticon_Gloss
-1,sky,1732,SKY
-2,sun,1343,SUN
-3,sunshine,3276,SUNSHINE
-4,moon,1313,MOON
-5,star,1430,STAR
-6,cloud,1489,CLOUD
-7,wind,960,WIND
-8,rain,658,RAIN (PRECIPITATION)
-9,lightning,1654,LIGHTNING
-10,thunder,1150,THUNDER
-11,rainbow,1733,RAINBOW
-12,snow,784,SNOW
-13,water ,948,WATER
-14,fog,249,FOG
-15,frost,2034,FROST
-16,dew,1977,DEW
-17,hail,609,HAIL
-18,earth,2159,GROUND
-19,soil; dirt,1015,SOIL
-20,mud,640,MUD
-21,river ,666,RIVER
-22,ditch,2002,DITCH
-23,pond,2035,POND
-24,puddle,2290,PUDDLE
-25,well inside,954,WELL
-26,mountain (dirt),639,MOUNTAIN
-27,cliff,992,CLIFF
-28,valley,921,VALLEY
-29,cave,1155,CAVE
-30,hole (in ground),1667,HOLE
-31,gold,1369,GOLD
-32,silver,759,SILVER
-33,iron (ore),621,IRON
-34,tin,893,TIN (METAL)
-35,coal,2658,COAL
-36,stone,857,STONE
-37,sand,671,SAND
-38,fire,221,FIRE
-39,flame,889,FLAME
-40,smoke,778,SMOKE (EXHAUST)
-41,night,1233,NIGHT
-42,day,1225,DAY (NOT NIGHT)
-43,today,1283,TODAY
-44,yesterday,1174,YESTERDAY
-45,day before yesterday,1180,DAY BEFORE YESTERDAY
-46,three days ago,2333,THREE DAYS BEFORE NOW
-47,four days ago,3278,FOUR DAYS BEFORE NOW
-48,tomorrow,1329,TOMORROW
-49,day after tomorrow,1179,DAY AFTER TOMORROW
-50,three days from now,2332,THREE DAYS FROM NOW
-51,four days from now,3277,FOUR DAYS FROM NOW
-52,year,1226,YEAR
-53,new year,,
-54,this year,513,THIS YEAR
-55,last year,514,LAST YEAR
-56,year before last,2331,YEAR BEFORE LAST YEAR
-57,three years ago,,
-58,four years ago,,
-59,next year,515,NEXT YEAR
-60,year after next,2330,YEAR AFTER NEXT YEAR
-61,three years from now,,
-62,four years from now,,
-63,daytime,1225,DAY (NOT NIGHT)
-64,dawn,729,DAWN
-65,morning (early),1339,MORNING
-66,noon,12,MIDDAY
-67,afternoon,1807,AFTERNOON
-68,dusk/evening,1629,EVENING
-69,night(time),1233,NIGHT
-70,this evening,,
-71,this morning,,
-72,time,892,TIME
-73,cow,1007,COW
-74,buffalo (water),934,BUFFALO
-75,field cow,,
-76,horse,615,HORSE
-77,pig,1337,PIG
-78,sow,1351,SOW (FEMALE PIG)
-79,piglet,2564,PIGLET
-80,boar,1348,BOAR
-81,boar (wild),3154,WILD BOAR
-82,goat,1502,GOAT
-83,ram,1344,RAM
-84,sheep,1331,SHEEP
-85,dog,2009,DOG
-86,cat,1208,CAT
-87,rabbit,1136,RABBIT
-88,dragon,2038,DRAGON
-89,animal,619,ANIMAL
-90,wild animal,958,WILD ANIMAL
-91,bear,1820,BEAR
-92,tiger,846,TIGER
-93,leopard; panther,1139,LEOPARD
-94,wolf,522,WOLF
-95,monkey,1350,MONKEY
-96,otter,15,OTTER
-97,weasel,,
-98,pangolin,2508,PANGOLIN
-99,muntjak deer,3152,MUNTJACS
-100,sambar deer,,
-101,porcupine,2510,PORCUPINE
-102,rat; mouse,2139,MUROID (MOUSE OR RAT)
-103,squirrel,1628,SQUIRREL
-104,chicken,1318,CHICKEN
-105,rooster,1511,ROOSTER
-106,hen,1514,HEN
-107,duck,1360,DUCK
-108,goose,1187,GOOSE
-109,bird,937,BIRD
-110,swallow,3077,SWALLOW (BIRD)
-111,sparrow,1854,SPARROW
-112,crow,913,CROW
-113,magpie,2039,MAGPIE
-114,dove; pigeon,1853,DOVE
-115,pheasant,3060,PHEASANT
-116,eagle; hawk,2683,EAGLE OR HAWK
-117,owl,735,OWL
-118,bat,1793,BAT
-119,frog,503,FROG
-120,toad,894,TOAD
-121,fish,227,FISH
-122,snake,730,SNAKE
-123,lizard,632,LIZARD
-124,leech,2273,LEECH
-125,spider,843,SPIDER
-126,insect,620,INSECT
-127,ant,587,ANT
-128,termite,883,TERMITE
-129,mantis,3279,MANTIS
-130,roach,1575,COCKROACH
-131,fly,1504,FLY (INSECT)
-132,honeybee,665,BEE
-133,wasp,1517,WASP
-134,mosquito,1509,MOSQUITO
-135,dragonfly,2352,DRAGONFLY
-136,butterfly,1791,BUTTERFLY
-137,cricket,2354,CRICKET
-138,grasshopper,607,GRASSHOPPER
-139,flea,232,FLEA
-140,louse (clothing),1392,LOUSE
-141,centipede,1974,CENTIPEDE
-142,earthworm,2350,EARTHWORM
-143,worm,1219,WORM
-144,caterpillar,2247,CATERPILLAR
-145,maggot,2640,LARVA
-146,nest,539,NEST
-147,egg,744,EGG
-148,wing,1257,WING
-149,claw; talon,72,CLAW
-150,hoof,152,HOOF
-151,horn,1393,HORN (ANATOMY)
-152,tail,1220,TAIL
-153,tusk,3280,TUSK
-154,(cocks)comb,188,COMB OF BIRD
-155,tree,906,TREE
-156,pine tree,1740,PINE
-157,fir tree,1915,FIR
-158,willow tree,818,WILLOW
-159,bamboo,1927,BAMBOO
-160,bamboo shoot,2494,BAMBOO SHOOT
-161,wheat,1077,WHEAT
-162,buckwheat,2040,BUCKWHEAT
-163,millet,931,MILLET
-164,barley,932,BARLEY
-165,sorghum,347,SORGHUM
-166,job's tears,3281,JOB’S TEARS
-167,corn,506,MAIZE
-168,ear of grain,3244,EAR (OF GRAIN)
-169,peanut,2364,PEANUT
-170,walnut,2042,WALNUT
-171,cotton,1850,COTTON
-172,ramie,3063,RAMIE
-173,bean,832,BEAN
-174,melon,507,MELON
-175,gourd,411,GOURD
-176,cucumber,496,CUCUMBER
-177,eggplant,1146,AUBERGINE
-178,vegetable,924,VEGETABLES
-179,cabbage greens,774,CABBAGE
-180,radish,2365,RADISH
-181,garlic,2368,GARLIC
-182,ginger,2500,GINGER
-183,galangal,,
-184,chili pepper,919,CHILI PEPPER
-185,fruit,1507,FRUIT
-186,peach,2043,PEACH
-187,persimmon,2044,PERSIMMON
-188,banana,868,BANANA
-189,taro,351,TARO
-190,tobacco,974,TOBACCO
-191,grass,606,GRASS
-192,thatch (cogon grass),279,THATCH
-193,reed,659,REED
-194,mushroom,641,MUSHROOM
-195,seed,714,SEED
-196,root,670,ROOT
-197,stem; stalk,2628,PLANT STEM
-198,leaf,628,LEAF
-199,sprout; bud,1684,BUD
-200,flower,239,FLOWER
-201,wood,1803,WOOD
-202,board,1227,BOARD
-203,stick,1295,STICK
-204,branch,1531,BRANCH
-205,tree bark,1204,BARK
-206,unhulled rice,2749,UNHUSKED RICE
-207,rice (grains),926,RICE
-208,cooked rice,1191,COOKED RICE
-209,glutinous rice,2750,GLUTINOUS RICE
-210,rice seedling,926,RICE
-211,rice hulls,2501,RICE HUSK
-212,chaff,2363,CHAFF (HUSK)
-213,fruit peel,2373,SKIN (OF FRUIT)
-214,"shell (egg, etc)",598,SHELL
-215,thorn,124,THORN
-216,moss,637,MOSS
-217,fern,,
-218,yeast,967,YEAST
-219,ashes,646,ASH
-220,body,1480,BODY
-221,head,1256,HEAD
-222,brains,1583,BRAIN
-223,forehead,123,FOREHEAD
-224,head hair,2648,HAIR (HEAD)
-225,braid,1043,BRAID
-226,face,1560,FACE
-227,eyebrow,1173,EYEBROW
-228,eye,1248,EYE
-229,eyeball,1248,EYE
-230,tears,1651,TEAR (OF EYE)
-231,nose,1221,NOSE
-232,ear,1247,EAR
-233,cheeks,1730,CHEEK
-234,mouth,674,MOUTH
-235,lips,478,LIP
-236,teeth,1380,TOOTH
-237,front teeth,442,FRONT TOOTH (INCISOR)
-238,back teeth,1049,MOLAR TOOTH
-239,gums,139,GUMS
-240,tongue,1205,TONGUE
-241,beard; mustache,678,BEARD
-242,chin,1510,CHIN
-243,neck,1333,NECK
-244,throat,1346,THROAT
-245,shoulder,1482,SHOULDER
-246,joint,999,JOINT
-247,hand/arm,2121,ARM OR HAND
-248,hand,1277,HAND
-249,arm,1673,ARM
-250,palm (of hand),1183,PALM OF HAND
-251,wrist,799,WRIST
-252,elbow,981,ELBOW
-253,finger,1303,FINGER
-254,index finger,577,FOREFINGER
-255,pinkie finger,2774,LITTLE FINGER
-256,thumb,1781,THUMB
-257,fingernail,1258,FINGERNAIL
-258,buttocks,834,BUTTOCKS
-259,hip,1745,HIP
-260,foot/leg,2098,FOOT OR LEG
-261,leg,1297,LEG
-262,foot,1301,FOOT
-263,thigh,800,THIGH
-264,calf (of leg),498,CALF OF LEG
-265,sole (of foot),2666,SOLE (FOOT)
-266,heel,980,HEEL
-267,ankle (joint),803,ANKLE
-268,knee,1371,KNEE
-269,toe,1389,TOE
-270,big toe,,
-271,chest,1592,CHEST
-272,back,1291,BACK
-273,breast,1402,BREAST
-274,armpit,1886,ARMPIT
-275,skin,763,SKIN
-276,bone,1394,BONE
-277,rib,801,RIB
-278,stomach,819,STOMACH
-279,belly,1251,BELLY
-280,navel,1838,NAVEL
-281,waist,1681,WAIST
-282,kidney,489,KIDNEY
-283,intestines,1991,INTESTINES
-284,heart,1223,HEART
-285,liver,1224,LIVER
-286,lung,688,LUNG
-287,bladder?,1746,BLADDER
-288,gallbladder,,
-289,bile,1780,BILE
-290,sweat,125,SWEAT (SUBSTANCE)
-291,blood,946,BLOOD
-292,snot,208,NASAL MUCUS (SNOT)
-293,phlegm,3061,PHLEGM
-294,saliva,1503,SALIVA
-295,milk,635,MILK
-296,excrement,675,FAECES (EXCREMENT)
-297,urine,1142,URINE
-298,pus,1808,PUS
-299,sore (wound),51,SORE
-300,body hair; feathers,2381,FEATHER OR FUR OR HAIR
-301,penis,1222,PENIS
-302,vulva,1837,VULVA
-303,anus,1935,ANUS
-304,tendon,1137,TENDON
-305,breath,870,BREATH
-306,strength,202,STRENGTH
-307,person,683,PERSON
-308,male,1553,MALE
-309,female,1551,FEMALE
-310,Autonym,,
-311,Han Chinese,,
-313,Bai,,
-314,Dai,,
-315,child,2099,CHILD
-316,elderly person,725,OLD PERSON
-317,older man,406,OLD MAN
-318,older woman,907,OLD WOMAN
-319,boy,1366,BOY
-320,girl,1646,GIRL
-321,friend,1325,FRIEND
-322,enemy,1358,ENEMY
-323,host,1545,HOST
-324,guest,1782,GUEST
-325,lame person,2322,LAME PERSON
-326,official,,
-327,high official,,
-328,low official,,
-329,emperor,1508,KING
-330,doctor,597,PHYSICIAN
-331,blacksmith,1001,BLACKSMITH
-332,soldier,1941,SOLDIER
-333,bride,1266,BRIDE
-334,groom,3282,GROOM
-335,widow,1756,WIDOW
-336,widower,1981,WIDOWER
-337,blind,1653,BLIND
-338,deaf ,996,DEAF
-339,father's father,2560,PATERNAL GRANDFATHER
-340,father's mother,3015,PATERNAL GRANDMOTHER
-341,GP father,,
-342,GP mother,,
-343,father,1217,FATHER
-344,mother,1216,MOTHER
-345,wife's father,1055,FATHER-IN-LAW
-346,wife's mother,1050,MOTHER-IN-LAW
-347,older brother,1759,OLDER BROTHER
-348,older sister,1758,OLDER SISTER
-349,younger brother of a male,2416,YOUNGER BROTHER (OF MAN)
-350,younger sister of a female,2421,YOUNGER SISTER (OF WOMAN)
-351,siblings,1640,SIBLING
-352,oldest sibling,,
-353,second sibling,,
-354,third sibling,,
-355,husband,1200,HUSBAND
-356,wife,1199,WIFE
-357,son,1620,SON
-358,daughter,1357,DAUGHTER
-359,daughter-in-law,1057,DAUGHTER-IN-LAW
-360,son-in-law,1056,SON-IN-LAW
-361,brother's son,,
-362,brother's daughter,,
-363,sis' child (Mvpt),,
-364,son's son,2702,GRANDSON (SON'S SON)
-365,son's daughter,,
-366,ancestor,1669,ANCESTORS
-367,father's OB,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER)
-368,father's BW,,
-369,father's OS,3041,PATERNAL AUNT (FATHER'S OLDER SISTER)
-370,father's YB,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER)
-371,mother's OB,,
-372,mother's OS,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER)
-373,male suffix,,
-374,female suffix,,
-375,father+children (CLF),,
-376,mother+children (CLF),,
-377,grandfather+grandchildren (CLF),,
-378,grandmother+grandchildren (CLF),,
-379,house,1252,HOUSE
-380,home,2406,HOME
-381,wall,933,WALL (OF HOUSE)
-382,roof,769,ROOF
-383,tile (ceramic),,
-384,beam [main],1132,BEAM
-385,beam[small],1132,BEAM
-386,post; pillar,281,POST
-387,door,1567,DOOR
-388,room,1450,ROOM
-389,fire-pit,,
-390,charcoal,1188,CHARCOAL
-391,field; wet field,140,PADDY FIELD
-392,dry field,2794,FIELD (UPLAND)
-393,garden,586,GARDEN
-394,pen; fold,1470,FOLD
-395,granary,3025,BARN OR SHED
-396,shrine; temple,911,TEMPLE
-397,tomb; grave,1773,GRAVE
-398,graveyard,3284,GRAVEYARD
-399,head-wrap,,
-400,headdress,331,HEADDRESS
-401,hat,771,HAT
-402,earring,770,EARRING
-403,bracelet,1754,BRACELET
-404,ring (for finger),1374,RING
-405,clothing,1895,CLOTHES
-406,collar,2012,COLLAR
-407,sleeve,2953,SLEEVE
-408,button,757,BUTTON
-409,palm bark rain cape,,
-410,pants,809,TROUSERS
-411,belt,772,BELT
-412,shoes,1381,SHOE
-413,cloth (fabric),1616,CLOTH
-414,baby sling,,
-415,shoulder bag,,
-416,blanket; quilt,806,BLANKET
-417,pillow,1044,PILLOW
-418,mat,195,MAT
-419,rice powder,3285,RICE FLOUR
-420,flour,1594,FLOUR
-421,porridge,2049,CONGEE
-422,oil,1484,OIL (ORGANIC SUBSTANCE)
-423,lard,1282,FAT (FROM ANIMALS)
-424,salt,1274,SALT
-425,meat,2615,FLESH OR MEAT
-426,soup,1547,SOUP
-427,liquor,842,LIQUOR
-428,tea,1373,TEA
-429,sugar,862,SUGAR
-430,jaggery,,
-431,saw,1948,SAW
-432,knife,1352,KNIFE
-433,kitchen knife,2772,VEGETABLE KNIFE
-434,pointed knife,,
-435,sickle,341,SICKLE
-436,hatchet,677,AXE
-437,hoe (large),284,HOE
-438,plow,2154,PLOUGH (INSTRUMENT)
-439,yoke,14,YOKE
-440,thing,,
-441,loom,1787,LOOM
-442,needle,1382,NEEDLE (FOR SEWING)
-443,awl,278,AWL
-444,thread,1161,THREAD
-445,ball (of thread),1845,BALL
-446,rope; string,362,STRING
-447,chain,1627,CHAIN
-448,whip (horse whip),2630,WHIP
-449,winnowing basket,,
-450,bamboo sieve; sifter (fine),,
-451,whetstone,295,WHETSTONE
-452,millstone,2459,GRINDSTONE
-453,hammer,1481,HAMMER
-454,chisel,1979,CHISEL
-455,rice huller,,
-456,rice pounder,,
-457,mortar,224,MORTAR CRUSHER
-458,pestle,225,PESTLE
-459,medicine; herbal medicine,1372,MEDICINE
-460,bamboo basket,,
-461,broom,245,BROOM
-462,pot; pan; wok,1462,POT
-463,tub; bucket,2052,BUCKET
-464,"barrel, ceramic",2548,BARREL
-465,washbasin,915,SINK (BASIN)
-466,bag; sack,2468,BAG
-467,comb (regular),1475,COMB
-468,fine toothed comb,,
-469,bowl,1530,BOWL
-470,small bowl,2053,SMALL BOWL
-471,large bowl,3286,LARGE BOWL
-472,chopsticks,1987,CHOPSTICKS
-473,bed,1663,BED
-474,ladder,1464,LADDER
-475,firewood,10,FIREWOOD
-476,manure; fertilizer,2057,DUNG (ANIMAL FAECES)
-477,road,2457,PATH OR ROAD
-478,bridge,1011,BRIDGE
-479,market,633,MARKET
-480,money,1559,MONEY
-481,price,657,PRICE
-482,folksong,2059,FOLK SONG
-483,song,1096,SONG
-484,story,2060,STORY
-485,word (written),1599,WORD
-486,speech,1115,SPEECH
-487,sound; voice,1811,SOUND OR NOISE
-488,book,963,BOOK
-489,name,1405,NAME
-490,dream,2374,DREAM
-491,shadow,1388,SHADE
-492,deity,1944,GOD
-493,God,1944,GOD
-494,soul (1),811,SOUL
-495,spirit (evil),1973,DEMON
-496,boundary marker,,
-497,fence,1690,FENCE
-498,gun,1566,GUN
-499,bow,994,BOW
-500,arrow,977,ARROW
-501,arrow (head),,
-502,"cage (e.g., for ducks)",3283,CAGE
-503,drum,908,DRUM
-504,gong,2502,GONG
-505,town,1391,TOWN
-506,village,930,VILLAGE
-507,custom,1747,CUSTOM
-508,ritual tree,,
-509,invocation,,
-510,bell,2246,BELL
-511,flute,777,FLUTE
-512,gourd reed-organ,,
-513,pipe (yuantong),1124,PIPE
-514,trap,1075,TRAP (PITFALL)
-515,poison,655,POISON
-516,look at,1819,LOOK
-517,see,1409,SEE
-518,show,1039,SHOW
-519,listen,1608,LISTEN
-520,hear,1408,HEAR
-521,eat,1336,EAT
-522,feed,739,FEED
-523,feed animals,,
-524,drink,1401,DRINK
-525,give to drink,,
-526,bite,1403,BITE
-527,chew,321,CHEW
-528,lick,319,LICK
-529,savor,2190,TASTE
-530,swallow,897,SWALLOW
-531,spit,1440,SPIT
-532,vomit,1278,VOMIT
-533,suck,1421,SUCK
-534,blow (on),176,BLOW (WITH MOUTH)
-535,say,1458,SAY
-536,speak,1623,SPEAK
-537,tell,1711,TELL
-538,call; be called,180,CALL BY NAME
-539,ask,1309,ASK (INQUIRE)
-540,answer,1275,ANSWER
-541,send for; request,1828,ASK (REQUEST)
-542,smell,1586,SMELL (PERCEIVE)
-543,touch; feel; stroke,1892,TOUCH
-544,take,1749,TAKE
-545,grasp; grip,2021,GRASP
-546,grab,855,SEIZE
-547,"pick (e.g., fruit)",2148,PICK
-548,rub (with hands),1449,RUB
-549,rip; tear,1735,TEAR (SHRED)
-550,twist; wring,430,TWIST
-551,pick up,371,PICK UP
-552,catch; seize,702,CATCH
-553,"scatter; sprinkle (e.g., seed)",2064,SCATTER (SEEDS)
-554,throw away,,
-555,pitch (throw from side way),,
-556,toss (overhand),1456,THROW
-557,stretch; stretch out,214,STRETCH
-558,pound,354,POUND
-559,lift (over head),501,LIFT
-560,fold,1470,FOLD
-561,squeeze,1414,SQUEEZE
-562,pinch,378,PINCH
-563,massage,3119,MASSAGE (SOMEBODY)
-564,bend,2224,BEND (SOMETHING)
-565,pull a,1455,PULL
-566,push,1452,PUSH
-567,kick,1135,KICK
-568,kneel,66,KNEEL
-569,sit,1416,SIT
-570,"carry, on back",465,CARRY ON BACK
-571,"carry,  in arms",,
-572,"carry, from hand",412,CARRY IN HAND
-573,"carry, mid pole",,
-574,fall,1280,FALL
-575,lean (against),2219,LEAN (MEAT)
-576,spend night,,
-577,rest,168,REST
-578,sleep,1585,SLEEP
-579,put to sleep,,
-580,awake,825,AWAKE
-581,awaken,825,AWAKE
-582,do (work),813,DO
-583,labor; work,984,WORK (LABOUR)
-584,to plow,1921,PLOUGH
-585,dig (a hole),1418,DIG
-586,plant; grow,1486,PLANT (SOMETHING)
-587,water,3078,IRRIGATE
-588,slice; cut,,
-589,slice; cut,,
-590,split; chop; cleave,1437,SPLIT
-591,chop (down),463,FELL (A TREE)
-592,cut (reap),,
-593,whittle,,
-594,stab,1434,STAB
-595,pull up; pull out,2325,PULL OUT
-596,graze; herd (a flock),3058,GRAZE
-597,raise animals,,
-598,lead along,,
-599,buy,1869,BUY
-600,sell,1571,SELL
-601,count (number),1420,COUNT
-602,teach,709,TEACH
-603,study,1929,STUDY
-604,cook; boil,1100,COOK (SOMETHING)
-605,fry (stirfry),991,FRY
-606,steam,1193,STEAM
-607,hunt; go hunting,1435,HUNT
-608,shoot (a gun),1172,SHOOT
-609,hit (a target),1433,HIT
-610,kill,1417,KILL
-611,die,1494,DIE
-612,sharpen (grinding),251,SHARPEN (SOMETHING)
-613,mill (grinding),636,MILL
-614,winnow with a fan,2462,WINNOWING
-615,ladle out; spoon up,2788,LADLE (WATER)
-616,wear; put on,976,WEAR
-617,wear (hat); put on (hat),,
-618,wear (turban),,
-619,wear (upper clothes),,
-620,clothe,158,PUT ON
-621,take off,1755,UNDRESS
-622,roll up,,
-623,shave,231,SHAVE
-624,comb,2070,COMB (VERB)
-625,dye,157,DYE
-626,sew,1457,SEW
-627,mend; patch,2243,REPAIR
-628,weave,133,WEAVE
-629,plait; braid,1729,PLAIT OR BRAID OR WEAVE
-630,make the bed,,
-631,sweep,230,SWEEP
-632,open,1156,OPEN
-633,close,1046,SHUT
-634,shut,1046,SHUT
-635,put down; put/place,998,PUT
-636,release; let go; set free,1095,LET GO OR SET FREE
-637,hang,2884,HANG
-638,tie into a bundle,,
-639,tie; bind,1917,TIE
-640,untie,352,UNTIE
-641,load; pack (put in),1679,LOAD
-642,take out,,
-643,press; fill in; squeeze in; stuff,1913,PRESS
-644,bury; cover up,1719,BURY
-645,hide (thing),602,HIDE (CONCEAL)
-646,hide (self),2485,HIDE (ONESELF)
-647,choose,1750,CHOOSE
-648,pile up; heap up,1576,PILE UP
-649,nail,,
-650,want,1784,WANT
-651,get; obtain;,694,GET
-652,receive,694,GET
-653,lose,1660,LOSE
-654,seek (look for),1468,LOOK FOR
-655,use,2072,USE (VERB)
-656,play,1413,PLAY
-657,win,866,WIN
-658,sing,1261,SING
-659,dance,1879,DANCE
-660,borrow (money),1823,BORROW
-661,borrow (thing),1823,BORROW
-662,give back; return; repay,85,GIVE BACK
-663,owe,369,OWE
-664,compensate for; reimburse,,
-665,send-off; deliver,2033,DELIVER
-666,wait; await; expect,1590,WAIT (FOR)
-667,meet; come across,1831,MEET
-668,marry a husband,2163,MARRY (AS WOMAN)
-669,marry a wife,2164,MARRY (AS MAN)
-670,scold; curse,299,SCOLD
-671,fight,1423,FIGHT
-672,hit; beat,1433,HIT
-673,rob; loot,2073,ROB (VERB)
-674,steal,713,STEAL
-675,cheat,1902,BETRAY
-676,help,1897,HELP
-677,cure; treat; heal,499,CURE
-678,divide; separate; distribute,1119,DIVIDE
-679,laugh,1355,LAUGH
-680,cry,1839,CRY
-681,love,923,LOVE
-682,like; enjoy,1117,LIKE
-683,know; understand,1410,KNOW (SOMETHING)
-684,remember,707,REMEMBER
-685,forget,1523,FORGET
-686,think,1415,THINK (REFLECT)
-687,be angry,2223,BE ANGRY
-688,hate,1607,HATE
-689,fear,1419,FEAR (BE AFRAID)
-690,have courage,,
-691,can (well),972,BE ABLE
-692,affirmative,1268,YES
-693,is not,,
-694,have,773,HAVE
-695,not have; lack; without,2329,LACK (NOT HAVE)
-696,walk,1443,WALK
-697,run,1519,RUN
-698,ascend,705,GO UP (ASCEND)
-699,descend,2014,GO DOWN (DESCEND)
-700,come,1446,COME
-701,come up,,
-702,come down,,
-703,go,695,GO
-704,go up,705,GO UP (ASCEND)
-705,go down,2014,GO DOWN (DESCEND)
-706,climb,1102,CLIMB
-707,return,581,COME BACK
-708,arrive,1387,ARRIVE
-709,cross (over),574,TRANSIT
-710,go through,1742,TRAVERSE
-711,exit (come out),1107,GO OUT
-712,enter,749,ENTER
-713,move back,,
-714,flee; escape,956,FLEE
-715,chase,1435,HUNT
-716,step on,2065,STEP (VERB)
-717,jump; leap,1829,JUMP
-718,stride,,
-719,ride; ride on,367,RIDE
-720,EXIST; to be,1579,BE
-721,dry (in the sun),1786,DRY UP
-722,rain (V),1253,RAIN (RAINING)
-723,(of the wind) blow,175,BLOW (OF WIND)
-724,light (on fire),737,LIGHT (IGNITE)
-725,burn,2102,BURN
-726,burn up,,
-727,roast (in fire),1962,ROAST (SOMETHING)
-728,roast (over fire),1962,ROAST (SOMETHING)
-729,smoke,2859,SMOKE (EMIT SMOKE)
-730,explode,,
-731,flow,2003,FLOW
-732,overflow; spill,3130,SPILL (SOMETHING)
-733,float,1574,FLOAT
-734,crack open; split open,3080,SPLIT OPEN
-735,collapse; topple down,2894,TUMBLE (FALL DOWN)
-736,be short of; lack,2329,LACK (NOT HAVE)
-737,roll,827,ROLL
-738,revolve; rotate; spin,121,SPIN
-739,fall; drop,1280,FALL
-740,"snap in two (rope, string)",,
-741,break,680,BREAK (DESTROY OR GET DESTROYED)
-742,leak,2253,DRIP (EMIT LIQUID)
-743,boil,2493,BOIL
-744,change,1264,CHANGE
-745,birth,1195,GIVE BIRTH
-746,grow,479,GROW
-747,tremble; shiver,52,SHIVER
-748,swell,1573,SWELL
-749,fly,1441,FLY (MOVE THROUGH AIR)
-750,bark,1206,BARKING
-751,call; crow (of animals),2074,CROW (VERB)
-752,lay (an egg),2464,LAY EGGS
-753,"brood, incubate",2075,BROOD (VERB)
-754,"germinate, sprout, bud",2076,SPROUT (VERB)
-755,bloom; blossom,3287,BLOOM
-756,bear fruit,3054,BEAR FRUIT
-757,rot (fruit),,
-758,begin; start,1806,BEGIN
-759,stop,1928,CEASE
-760,remain,987,REMAIN
-761,write,1672,WRITE
-762,wash (self),1453,WASH
-763,get up,1602,WAKE UP
-764,shake,1909,SHAKE
-765,sink,2908,SINK (DISAPPEAR IN WATER)
-766,finish,1766,FINISH
-767,give; BEN,1447,GIVE
-768,destroy,681,DESTROY
-769,draw water (well),1911,DRAW (WATER)
-770,drain,,
-771,be standing,1442,STAND
-772,"skin (animal), to",291,PULL OFF (SKIN)
-773,"peel (eggs, fruit)",275,PEEL
-774,clear field,,
-775,weed,3288,WEED
-776,stir,696,STIR
-777,weigh,1098,WEIGH
-778,soak; pickle,2069,SOAK (VERB)
-779,drown,1904,DROWN
-780,accompany someone,1542,ACCOMPANY
-781,swim,1439,SWIM
-782,drill (a hole),1501,BORE
-783,insert,3071,INSERT
-784,drive out,,
-785,wither,2907,ROT
-786,cough,879,COUGH
-787,yawn,1028,YAWN
-788,sneeze,1621,SNEEZE
-789,hiccup,162,HICCOUGH
-790,belch,2245,BELCH
-791,fart,1159,FART
-792,defecate,676,SHIT (DEFECATE)
-793,urinate,592,PISS
-794,scratch,1436,SCRATCH
-795,live,1422,BE ALIVE
-796,exchange,2509,EXCHANGE
-797,butt,834,BUTTOCKS
-798,white,1335,WHITE
-799,black,163,BLACK
-800,red,156,RED
-801,yellow,1424,YELLOW
-802,blue,837,BLUE
-803,green,1425,GREEN
-804,grey,153,GREY
-805,sharp (point),1396,SHARP
-806,sharp (blade),1396,SHARP
-807,dull,379,BLUNT
-808,round,1395,ROUND
-809,flat,1633,FLAT
-810,steep,2717,STEEP
-811,situated straight,,
-812,situated crooked,,
-813,straight,1404,STRAIGHT
-814,crooked; bent,297,CROOKED
-815,thick; dense,1244,THICK
-816,thin; watery; sparse,207,SPARSE
-817,hard,1884,HARD
-818,soft,1856,SOFT
-819,bright; light,679,BRIGHT
-820,dim; dark,706,DARK
-821,clear (sky),,
-822,overcast,2341,CLOUDY
-823,full,1429,FULL
-824,beautiful,1427,BEAUTIFUL
-825,ugly,1548,UGLY
-826,fat ,1279,FAT (OBESE)
-827,fat; fatty (meat),2449,FAT (OF MEAT AND FOOD)
-828,lean,2219,LEAN (MEAT)
-829,skinny; thin,1400,THIN (SLIM)
-830,clean,704,CLEAN
-831,dirty,1230,DIRTY
-832,old ,2112,OLD (AGED)
-833,young,1207,YOUNG
-834,good,1035,GOOD
-835,bad,1292,BAD
-836,fast,1631,FAST
-837,slow,701,SLOW
-838,wet,1726,WET
-839,dry,1398,DRY
-840,new,1231,NEW
-841,old,2113,OLD (USED)
-842,raw; unripe,1959,RAW
-843,cooked; ripe,269,COOKED
-844,early,672,EARLY
-845,late,477,LATE
-846,easy,686,EASY
-847,difficult,584,DIFFICULT
-848,hot (temp.),1286,HOT
-849,cold (weather),2483,COLD (OF WEATHER)
-850,warm,1232,WARM
-851,cool,,
-852,sour,1906,SOUR
-853,sweet,717,SWEET
-854,bitter,887,BITTER
-855,hot (spicy),544,SPICY
-856,salty,1091,SALTY
-857,delicious,1813,TASTY
-858,insipid,1771,TASTELESS
-859,fragrant,376,FRAGRANT
-860,stinky,42,STINKING
-861,fishy (smell),,
-862,rotten,1728,ROTTEN
-863,full (stomach),106,SATIATED
-864,hungry,1533,BE HUNGRY
-865,thirsty,847,THIRSTY
-866,tired,1757,TIRED
-867,blessed; happy,2529,BLESSED
-868,sad,699,SAD
-869,ashamed,1894,ASHAMED
-870,itchy; ticklish,149,ITCHY
-871,sick,1847,SICK
-872,intelligent; clever,1310,CLEVER
-873,proud,174,PROUD
-874,stupid,1518,STUPID
-875,crazy,1899,MAD
-876,diligent,2077,DILIGENT
-877,busy,2755,BUSY
-878,capable,,
-879,lazy,1564,LAZY
-880,rich,712,RICH
-881,poor,1674,POOR
-882,alive,1422,BE ALIVE
-883,brave,3,BRAVE
-884,drunk,1463,DRUNK
-885,backwards,2911,BACKWARD
-886,different,2504,DIFFERENT
-887,same,200,SAME
-888,sticky,,
-889,slick,,
-890,tight,3053,TIGHT
-891,loose,2506,LOOSE
-892,expensive,1426,EXPENSIVE
-893,cheap,1887,CHEAP
-894,correct,1725,CORRECT (RIGHT)
-895,enough,1881,ENOUGH
-896,FAR,1406,FAR
-897,NEAR,1942,NEAR
-898,HIGH,1265,HIGH
-899,LOW,721,LOW
-900,LONG (distance),1203,LONG
-901,SHORT,1645,SHORT
-902,MANY,1198,MANY
-903,FEW,1242,FEW
-904,WIDE,1243,WIDE
-905,NARROW,1267,NARROW
-906,BIG,1202,BIG
-907,LITTLE,1246,SMALL
-908,DEEP,1593,DEEP
-909,SHALLOW,193,SHALLOW
-910,LIGHT,1052,LIGHT (WEIGHT)
-911,HEAVY,1210,HEAVY
-912,THICK (2d),1244,THICK
-913,THIN (2d),2308,THIN
-914,THICK (3d),1244,THICK
-915,THIN (3d),2308,THIN
-916,HOW FAR?,,
-917,HOW HIGH?,,
-918,HOW LONG?,2338,HOW LONG
-919,HOW WIDE?,,
-920,HOW BIG?,,
-921,HOW DEEP?,,
-922,HOW HEAVY?,,
-923,one,1493,ONE
-924,two,1498,TWO
-925,three,492,THREE
-926,four,1500,FOUR
-927,five,493,FIVE
-928,six,1703,SIX
-929,seven,1704,SEVEN
-930,eight,1705,EIGHT
-931,nine,1483,NINE
-932,ten,1515,TEN
-933,eleven,1706,ELEVEN
-934,twelve,1707,TWELVE
-935,twenty,1710,TWENTY
-936,twentyone,1734,TWENTY ONE
-937,hundred,1634,HUNDRED
-938,thousand,1843,THOUSAND
-939,half,816,HALF
-940,bowlful (MW),,
-941,arm spread (2 arms),,
-942,span (hand-width),,
-943,CLF.times,,
-944,1S,1209,I
-945,1PL,1212,WE
-946,1PL (inclusive),1131,WE (INCLUSIVE)
-947,2S,1215,THOU
-948,2PL,1213,YOU
-949,3S,262,HE OR SHE OR IT
-950,3PL,817,THEY
-951,3SR (another),,
-952,self,1993,SELF
-953,another (thing),197,OTHER
-954,POSS,,
-955,this (1),1214,THIS
-956,this kind,,
-957,here (1),136,HERE
-958,that one,78,THAT
-959,that (higher),78,THAT
-960,that (lower),78,THAT
-961,that (far),78,THAT
-962,there,1937,THERE
-963,in front,1883,IN FRONT OF
-964,on the other side,885,OPPOSITE
-965,behind,1686,BEHIND
-966,between,689,BETWEEN
-967,left,244,LEFT
-968,right,1019,RIGHT
-969,beside,1816,BESIDE
-970,side,682,SIDE
-971,upon,1741,ABOVE
-972,beneath,1485,BELOW OR UNDER
-973,inside,1606,INSIDE
-974,outside,762,OUTSIDE
-975,everywhere,2999,EVERYWHERE
-976,who?,1235,WHO
-977,what?,1236,WHAT
-978,where?,1237,WHERE
-979,why?,1270,WHY
-980,which (one)?,727,WHICH
-981,how?,1239,HOW
-982,how much?,531,HOW MUCH
-983,now,1376,NOW
-984,just now,84,JUST
-985,before (sequential),1882,BEFORE
-986,after,1685,AFTER
-987,before (temporal),1882,BEFORE
-988,formerly,1882,BEFORE
-989,already,2576,ALREADY
-990,immediately,1963,IMMEDIATELY
-991,frequently,1852,OFTEN
-992,slowly,2165,SLOWLY
-993,quickly,1631,FAST
-994,very,1311,VERY
-995,most,1198,MANY
-996,all,98,ALL
-997,again,204,AGAIN
-998,really; certainly,509,CERTAIN
-999,not (NEG),1240,NOT
-1000,don't,813,DO
-1001,each other,,
+ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
+Yang-2011-1014-1,sky,1732,SKY,天 (天空)
+Yang-2011-1014-2,sun,1343,SUN,太阳
+Yang-2011-1014-3,sunshine,3276,SUNSHINE,阳光
+Yang-2011-1014-4,moon,1313,MOON,月亮
+Yang-2011-1014-5,star,1430,STAR,星星
+Yang-2011-1014-6,cloud,1489,CLOUD,云
+Yang-2011-1014-7,wind,960,WIND,风
+Yang-2011-1014-8,rain,658,RAIN (PRECIPITATION),雨
+Yang-2011-1014-9,lightning,1654,LIGHTNING,闪电
+Yang-2011-1014-10,thunder,1150,THUNDER,雷
+Yang-2011-1014-11,rainbow,1733,RAINBOW,彩虹
+Yang-2011-1014-12,snow,784,SNOW,雪
+Yang-2011-1014-13,water,948,WATER,水
+Yang-2011-1014-14,fog,249,FOG,雾
+Yang-2011-1014-15,frost,2034,FROST,霜
+Yang-2011-1014-16,dew,1977,DEW,露
+Yang-2011-1014-17,hail,609,HAIL,雹 (雹暴)
+Yang-2011-1014-18,earth,2159,GROUND,地 (大地/草地)
+Yang-2011-1014-19,soil; dirt,1015,SOIL,土(干) (土壤)
+Yang-2011-1014-20,mud,640,MUD,泥(巴)
+Yang-2011-1014-21,river,666,RIVER,河
+Yang-2011-1014-22,ditch,2002,DITCH,沟
+Yang-2011-1014-23,pond,2035,POND,池塘
+Yang-2011-1014-24,puddle,2290,PUDDLE,小池塘
+Yang-2011-1014-26,well outside,954,WELL,井
+Yang-2011-1014-27,mountain (dirt),639,MOUNTAIN,山(土山)
+Yang-2011-1014-28,cliff,992,CLIFF,悬崖
+Yang-2011-1014-29,valley,921,VALLEY,(山)谷
+Yang-2011-1014-30,cave,1155,CAVE,(山)洞
+Yang-2011-1014-31,hole (in ground),1667,HOLE,洞
+Yang-2011-1014-32,gold,1369,GOLD,金
+Yang-2011-1014-33,silver,759,SILVER,银
+Yang-2011-1014-34,iron (ore),621,IRON,铁
+Yang-2011-1014-35,tin,893,TIN (METAL),锡
+Yang-2011-1014-36,coal,2658,COAL,煤
+Yang-2011-1014-37,stone,857,STONE,石头
+Yang-2011-1014-38,sand,671,SAND,沙
+Yang-2011-1014-39,fire,221,FIRE,火
+Yang-2011-1014-40,flame,889,FLAME,火焰
+Yang-2011-1014-41,smoke,778,SMOKE (EXHAUST),烟 (炊烟)
+Yang-2011-1014-42,night,1233,NIGHT,夜
+Yang-2011-1014-43,day,1260,DAY (24 HOURS),天
+Yang-2011-1014-44,today,1283,TODAY,今天
+Yang-2011-1014-45,yesterday,1174,YESTERDAY,昨天
+Yang-2011-1014-46,day before yesterday,1180,DAY BEFORE YESTERDAY,前天
+Yang-2011-1014-47,three days ago,2333,THREE DAYS BEFORE NOW,大前天
+Yang-2011-1014-48,four days ago,3278,FOUR DAYS BEFORE NOW,四天前
+Yang-2011-1014-49,tomorrow,1329,TOMORROW,明天
+Yang-2011-1014-50,day after tomorrow,1179,DAY AFTER TOMORROW,后天
+Yang-2011-1014-51,three days from now,2332,THREE DAYS FROM NOW,大后天
+Yang-2011-1014-52,four days from now,3277,FOUR DAYS FROM NOW,四天后
+Yang-2011-1014-53,year,1226,YEAR,年
+Yang-2011-1014-54,new year,,,新年
+Yang-2011-1014-55,this year,513,THIS YEAR,今年
+Yang-2011-1014-56,last year,514,LAST YEAR,去年
+Yang-2011-1014-57,year before last,2331,YEAR BEFORE LAST YEAR,前年
+Yang-2011-1014-58,three years ago,,,大前年
+Yang-2011-1014-59,four years ago,,,四年前
+Yang-2011-1014-60,next year,515,NEXT YEAR,明年
+Yang-2011-1014-61,year after next,2330,YEAR AFTER NEXT YEAR,后年
+Yang-2011-1014-62,three years from now,,,大后年
+Yang-2011-1014-63,four years from now,,,四年后
+Yang-2011-1014-64,daytime,1225,DAY (NOT NIGHT),白天
+Yang-2011-1014-65,dawn,729,DAWN,黎明
+Yang-2011-1014-66,morning (early),1339,MORNING,早晨
+Yang-2011-1014-67,noon,12,MIDDAY,中午
+Yang-2011-1014-68,afternoon,1807,AFTERNOON,下午
+Yang-2011-1014-69,dusk/evening,1629,EVENING,黄昏
+Yang-2011-1014-70,night(time),,,夜(里)/黑夜
+Yang-2011-1014-71,this evening,,,今晚
+Yang-2011-1014-72,this morning,,,今早
+Yang-2011-1014-73,time,892,TIME,时间
+Yang-2011-1014-74,cow,3044,BOVINE,牛
+Yang-2011-1014-75,buffalo (water),934,BUFFALO,水牛
+Yang-2011-1014-76,field cow,1153,CATTLE,黄牛
+Yang-2011-1014-77,horse,615,HORSE,马
+Yang-2011-1014-78,pig,1337,PIG,猪
+Yang-2011-1014-79,sow,1351,SOW (FEMALE PIG),母猪
+Yang-2011-1014-80,piglet,2564,PIGLET,小猪
+Yang-2011-1014-81,boar,1348,BOAR,公猪
+Yang-2011-1014-82,boar (wild),3154,WILD BOAR,野猪
+Yang-2011-1014-83,goat,1502,GOAT,山羊
+Yang-2011-1014-84,ram,1344,RAM,公羊
+Yang-2011-1014-85,sheep,1331,SHEEP,绵羊
+Yang-2011-1014-86,dog,2009,DOG,狗
+Yang-2011-1014-87,cat,1208,CAT,猫
+Yang-2011-1014-88,rabbit,1136,RABBIT,兔子
+Yang-2011-1014-89,dragon,2038,DRAGON,龙
+Yang-2011-1014-90,animal,619,ANIMAL,动物
+Yang-2011-1014-91,wild animal,958,WILD ANIMAL,野兽
+Yang-2011-1014-92,bear,1820,BEAR,熊
+Yang-2011-1014-93,tiger,846,TIGER,老虎
+Yang-2011-1014-94,leopard; panther,1139,LEOPARD,豹
+Yang-2011-1014-95,wolf,522,WOLF,狼
+Yang-2011-1014-96,monkey,1350,MONKEY,猴子
+Yang-2011-1014-97,otter,15,OTTER,水獭
+Yang-2011-1014-98,weasel,,,黄鼠狼
+Yang-2011-1014-99,pangolin,2508,PANGOLIN,穿山甲
+Yang-2011-1014-100,muntjak deer,3152,MUNTJACS,麂子／赤鹿
+Yang-2011-1014-101,sambar deer,,,水鹿/黑鹿
+Yang-2011-1014-102,porcupine,2510,PORCUPINE,豪猪/箭猪
+Yang-2011-1014-103,rat; mouse,2139,MUROID (MOUSE OR RAT),老鼠
+Yang-2011-1014-104,squirrel,1628,SQUIRREL,松鼠
+Yang-2011-1014-105,chicken,1318,CHICKEN,鸡
+Yang-2011-1014-106,rooster,1511,ROOSTER,公鸡
+Yang-2011-1014-107,hen,1514,HEN,母鸡
+Yang-2011-1014-108,duck,1360,DUCK,鸭子
+Yang-2011-1014-109,goose,1187,GOOSE,鹅
+Yang-2011-1014-110,bird,937,BIRD,鸟
+Yang-2011-1014-111,swallow,3077,SWALLOW (BIRD),燕子
+Yang-2011-1014-112,sparrow,1854,SPARROW,麻雀
+Yang-2011-1014-113,crow,913,CROW,乌鸦
+Yang-2011-1014-114,magpie,2039,MAGPIE,喜鹊
+Yang-2011-1014-115,dove; pigeon,1853,DOVE,鸽
+Yang-2011-1014-116,pheasant,3060,PHEASANT,野鸟/野鸡
+Yang-2011-1014-117,eagle; hawk,2683,EAGLE OR HAWK,老鹰
+Yang-2011-1014-118,owl,735,OWL,猫头鹰
+Yang-2011-1014-119,bat,1793,BAT,蝙蝠
+Yang-2011-1014-120,frog,503,FROG,青蛙
+Yang-2011-1014-121,toad,894,TOAD,癞蛤蟆
+Yang-2011-1014-122,fish,227,FISH,鱼
+Yang-2011-1014-123,snake,730,SNAKE,蛇
+Yang-2011-1014-124,lizard,632,LIZARD,蜥蜴／壁虎
+Yang-2011-1014-125,leech,2273,LEECH,蚂蟥/水蛭
+Yang-2011-1014-126,spider,843,SPIDER,蜘蛛
+Yang-2011-1014-127,insect,620,INSECT,昆虫
+Yang-2011-1014-128,ant,587,ANT,蚂蚁
+Yang-2011-1014-129,termite,883,TERMITE,白蚁
+Yang-2011-1014-130,mantis,3279,MANTIS,螳螂
+Yang-2011-1014-131,roach,1575,COCKROACH,蟑螂
+Yang-2011-1014-132,fly,1504,FLY (INSECT),苍蝇
+Yang-2011-1014-133,honeybee,665,BEE,蜜蜂
+Yang-2011-1014-134,wasp,1517,WASP,黄蜂
+Yang-2011-1014-135,mosquito,1509,MOSQUITO,蚊子
+Yang-2011-1014-136,dragonfly,2352,DRAGONFLY,蜻蜓
+Yang-2011-1014-137,butterfly,1791,BUTTERFLY,蝴蝶
+Yang-2011-1014-138,cricket,2354,CRICKET,蟋蟀
+Yang-2011-1014-139,grasshopper,607,GRASSHOPPER,蚱蜢
+Yang-2011-1014-140,flea,232,FLEA,跳蚤
+Yang-2011-1014-141,louse (clothing),1392,LOUSE,虱子(衣上)
+Yang-2011-1014-142,centipede,1974,CENTIPEDE,蜈蚣
+Yang-2011-1014-143,earthworm,2350,EARTHWORM,蚯蚓
+Yang-2011-1014-144,worm,1219,WORM,虫
+Yang-2011-1014-145,caterpillar,2247,CATERPILLAR,毛虫
+Yang-2011-1014-146,maggot,2640,LARVA,蛆/蛆虫
+Yang-2011-1014-147,nest,539,NEST,窝 (鸟窝)
+Yang-2011-1014-148,egg,744,EGG,蛋
+Yang-2011-1014-149,wing,1257,WING,翅膀
+Yang-2011-1014-150,claw; talon,72,CLAW,爪
+Yang-2011-1014-151,hoof,152,HOOF,蹄
+Yang-2011-1014-152,horn,1393,HORN (ANATOMY),角
+Yang-2011-1014-153,tail,1220,TAIL,尾巴
+Yang-2011-1014-154,tusk,3280,TUSK,长牙
+Yang-2011-1014-155,(cocks)comb,188,COMB OF BIRD,冠（鸡冠）
+Yang-2011-1014-156,tree,906,TREE,树
+Yang-2011-1014-157,pine tree,1740,PINE,松树
+Yang-2011-1014-158,fir tree,1915,FIR,杉树
+Yang-2011-1014-159,willow tree,818,WILLOW,柳树
+Yang-2011-1014-160,bamboo,1927,BAMBOO,竹子
+Yang-2011-1014-161,bamboo shoot,2494,BAMBOO SHOOT,竹笋
+Yang-2011-1014-162,wheat,1077,WHEAT,小麦
+Yang-2011-1014-163,buckwheat,2040,BUCKWHEAT,荞麦/荞子
+Yang-2011-1014-164,millet,931,MILLET,稷
+Yang-2011-1014-165,barley,932,BARLEY,大麦
+Yang-2011-1014-166,sorghum,347,SORGHUM,高粱
+Yang-2011-1014-167,job's tears,3281,JOB'S TEARS,薏苡
+Yang-2011-1014-168,corn,506,MAIZE,玉米
+Yang-2011-1014-169,ear of grain,3244,EAR (OF GRAIN),穗子
+Yang-2011-1014-170,peanut,2364,PEANUT,花生
+Yang-2011-1014-171,walnut,2042,WALNUT,核桃
+Yang-2011-1014-172,cotton,1850,COTTON,棉花
+Yang-2011-1014-173,ramie,3063,RAMIE,苎麻
+Yang-2011-1014-174,bean,832,BEAN,豆子
+Yang-2011-1014-175,melon,507,MELON,瓜
+Yang-2011-1014-176,gourd,411,GOURD,葫芦
+Yang-2011-1014-177,cucumber,496,CUCUMBER,黄瓜
+Yang-2011-1014-178,eggplant,1146,AUBERGINE,茄子
+Yang-2011-1014-179,vegetable,924,VEGETABLES,蔬菜
+Yang-2011-1014-180,cabbage greens,774,CABBAGE,青菜
+Yang-2011-1014-181,radish,2365,RADISH,萝卜
+Yang-2011-1014-182,garlic,2368,GARLIC,蒜
+Yang-2011-1014-183,ginger,2500,GINGER,姜
+Yang-2011-1014-184,galangal,,,高良姜 (山奈)
+Yang-2011-1014-185,chili pepper,919,CHILI PEPPER,辣椒
+Yang-2011-1014-186,fruit,1507,FRUIT,水果
+Yang-2011-1014-187,peach,2043,PEACH,桃子
+Yang-2011-1014-188,persimmon,2044,PERSIMMON,柿子
+Yang-2011-1014-189,banana,868,BANANA,香蕉
+Yang-2011-1014-190,taro,351,TARO,芋头
+Yang-2011-1014-191,tobacco,974,TOBACCO,烟/烟草
+Yang-2011-1014-192,grass,606,GRASS,草
+Yang-2011-1014-193,thatch (cogon grass),279,THATCH,茅草
+Yang-2011-1014-194,reed,659,REED,芦苇
+Yang-2011-1014-195,mushroom,641,MUSHROOM,菌子
+Yang-2011-1014-196,seed,714,SEED,种子
+Yang-2011-1014-197,root,670,ROOT,根
+Yang-2011-1014-198,stem; stalk,2628,PLANT STEM,茎
+Yang-2011-1014-199,leaf,628,LEAF,叶子
+Yang-2011-1014-200,sprout; bud,3358,SPROUT (SHOOT),芽(种子芽)
+Yang-2011-1014-201,flower,239,FLOWER,花
+Yang-2011-1014-202,wood,1803,WOOD,木
+Yang-2011-1014-203,board,1227,BOARD,板子
+Yang-2011-1014-204,stick,1295,STICK,棍子
+Yang-2011-1014-205,branch,1531,BRANCH,树枝
+Yang-2011-1014-206,tree bark,1204,BARK,树皮
+Yang-2011-1014-207,unhulled rice,2749,UNHUSKED RICE,谷子（稻谷）
+Yang-2011-1014-208,rice (grains),926,RICE,米
+Yang-2011-1014-209,cooked rice,1191,COOKED RICE,饭
+Yang-2011-1014-210,glutinous rice,2750,GLUTINOUS RICE,糯米
+Yang-2011-1014-211,rice seedling,,,秧苗
+Yang-2011-1014-212,rice hulls,2501,RICE HUSK,稻壳
+Yang-2011-1014-213,chaff,2363,CHAFF (HUSK),谷壳
+Yang-2011-1014-214,fruit peel,2373,SKIN (OF FRUIT),果皮
+Yang-2011-1014-215,"shell (egg, etc)",598,SHELL,皮/壳(蛋)
+Yang-2011-1014-216,thorn,124,THORN,刺
+Yang-2011-1014-217,moss,637,MOSS,苔(青苔)
+Yang-2011-1014-218,fern,,,蕨草
+Yang-2011-1014-219,yeast,967,YEAST,酵母
+Yang-2011-1014-220,ashes,646,ASH,灰(草木灰)
+Yang-2011-1014-221,body,1480,BODY,身体
+Yang-2011-1014-222,head,1256,HEAD,头
+Yang-2011-1014-223,brains,1583,BRAIN,脑髓
+Yang-2011-1014-224,forehead,123,FOREHEAD,额头
+Yang-2011-1014-225,head hair,2648,HAIR (HEAD),头发
+Yang-2011-1014-226,braid,1043,BRAID,辫子
+Yang-2011-1014-227,face,1560,FACE,脸
+Yang-2011-1014-228,eyebrow,1173,EYEBROW,眉毛
+Yang-2011-1014-229,eye,1248,EYE,眼睛
+Yang-2011-1014-230,eyeball,,,眼球
+Yang-2011-1014-231,tears,1651,TEAR (OF EYE),眼泪
+Yang-2011-1014-232,nose,1221,NOSE,鼻子
+Yang-2011-1014-233,ear,1247,EAR,耳朵
+Yang-2011-1014-234,cheeks,1730,CHEEK,颊
+Yang-2011-1014-235,mouth,674,MOUTH,嘴
+Yang-2011-1014-236,lips,478,LIP,嘴唇
+Yang-2011-1014-237,teeth,1380,TOOTH,牙齿
+Yang-2011-1014-238,front teeth,442,FRONT TOOTH (INCISOR),前牙
+Yang-2011-1014-239,back teeth,1049,MOLAR TOOTH,后牙
+Yang-2011-1014-240,gums,139,GUMS,齿龈
+Yang-2011-1014-241,tongue,1205,TONGUE,舌头
+Yang-2011-1014-242,beard; mustache,678,BEARD,胡子
+Yang-2011-1014-243,chin,1510,CHIN,下巴
+Yang-2011-1014-244,neck,1333,NECK,脖子
+Yang-2011-1014-245,throat,1346,THROAT,喉咙
+Yang-2011-1014-246,shoulder,1482,SHOULDER,肩膀
+Yang-2011-1014-247,joint,999,JOINT,关节
+Yang-2011-1014-248,hand/arm,2121,ARM OR HAND,手·胳臂
+Yang-2011-1014-249,hand,1277,HAND,手
+Yang-2011-1014-250,arm,1673,ARM,手臂
+Yang-2011-1014-251,palm (of hand),1183,PALM OF HAND,手掌
+Yang-2011-1014-252,wrist,799,WRIST,手腕
+Yang-2011-1014-253,elbow,981,ELBOW,肘
+Yang-2011-1014-254,finger,1303,FINGER,指/手指
+Yang-2011-1014-255,index finger,577,FOREFINGER,食指
+Yang-2011-1014-256,pinkie finger,2774,LITTLE FINGER,小手指
+Yang-2011-1014-257,thumb,1781,THUMB,拇指
+Yang-2011-1014-258,fingernail,1258,FINGERNAIL,指甲
+Yang-2011-1014-259,buttocks,834,BUTTOCKS,屁股
+Yang-2011-1014-260,hip,1745,HIP,臀部
+Yang-2011-1014-261,foot/leg,2098,FOOT OR LEG,脚·腿
+Yang-2011-1014-262,leg,1297,LEG,腿
+Yang-2011-1014-263,foot,1301,FOOT,脚
+Yang-2011-1014-264,thigh,800,THIGH,大腿
+Yang-2011-1014-265,calf (of leg),498,CALF OF LEG,小腿
+Yang-2011-1014-266,sole (of foot),2666,SOLE (FOOT),脚底
+Yang-2011-1014-267,heel,980,HEEL,脚后跟
+Yang-2011-1014-268,ankle (joint),803,ANKLE,踝
+Yang-2011-1014-269,knee,1371,KNEE,膝/膝盖
+Yang-2011-1014-270,toe,1389,TOE,趾/脚趾
+Yang-2011-1014-271,big toe,,,大趾
+Yang-2011-1014-272,chest,1592,CHEST,胸脯
+Yang-2011-1014-273,back,1291,BACK,脊背
+Yang-2011-1014-274,breast,1402,BREAST,乳房
+Yang-2011-1014-275,armpit,1886,ARMPIT,腋下/腋窝
+Yang-2011-1014-276,skin,763,SKIN,皮肤
+Yang-2011-1014-277,bone,1394,BONE,骨头
+Yang-2011-1014-278,rib,801,RIB,肋骨
+Yang-2011-1014-279,stomach,819,STOMACH,胃
+Yang-2011-1014-280,belly,1251,BELLY,肚子/腹部
+Yang-2011-1014-281,navel,1838,NAVEL,脐 (肚脐)
+Yang-2011-1014-282,waist,1681,WAIST,腰
+Yang-2011-1014-283,kidney,489,KIDNEY,肾/腰子
+Yang-2011-1014-284,intestines,1991,INTESTINES,肠子
+Yang-2011-1014-285,heart,1223,HEART,心
+Yang-2011-1014-286,liver,1224,LIVER,肝
+Yang-2011-1014-287,lung,688,LUNG,肺/肺脏
+Yang-2011-1014-288,bladder?,1746,BLADDER,膀胱
+Yang-2011-1014-289,gallbladder,,,胆/苦胆
+Yang-2011-1014-290,bile,1780,BILE,胆汁
+Yang-2011-1014-291,sweat,125,SWEAT (SUBSTANCE),汗
+Yang-2011-1014-292,blood,946,BLOOD,血
+Yang-2011-1014-293,snot,208,NASAL MUCUS (SNOT),鼻涕/粘液
+Yang-2011-1014-294,phlegm,3061,PHLEGM,痰
+Yang-2011-1014-295,saliva,1503,SALIVA,口水
+Yang-2011-1014-296,milk,635,MILK,奶
+Yang-2011-1014-297,excrement,675,FAECES (EXCREMENT),屎
+Yang-2011-1014-298,urine,1142,URINE,尿
+Yang-2011-1014-299,pus,1808,PUS,脓
+Yang-2011-1014-300,sore (wound),51,SORE,疮
+Yang-2011-1014-301,body hair; feathers,2381,FEATHER OR FUR OR HAIR,毛(翎毛)
+Yang-2011-1014-302,penis,1222,PENIS,阴茎
+Yang-2011-1014-303,vulva,1837,VULVA,女阴
+Yang-2011-1014-304,anus,1935,ANUS,肛门
+Yang-2011-1014-305,tendon,1137,TENDON,筋/腱
+Yang-2011-1014-306,breath,870,BREATH,呼吸
+Yang-2011-1014-307,strength,202,STRENGTH,力气
+Yang-2011-1014-308,person,683,PERSON,人
+Yang-2011-1014-309,male,1553,MALE,男人
+Yang-2011-1014-310,female,1551,FEMALE,女人
+Yang-2011-1014-311,Autonym,,,(自称)
+Yang-2011-1014-312,Han Chinese,,,汉族
+Yang-2011-1014-314,Bai,,,白族
+Yang-2011-1014-315,Dai,,,傣族
+Yang-2011-1014-316,child,2099,CHILD,儿童
+Yang-2011-1014-317,elderly person,725,OLD PERSON,老人
+Yang-2011-1014-318,older man,406,OLD MAN,老男人
+Yang-2011-1014-319,older woman,907,OLD WOMAN,老女人
+Yang-2011-1014-320,boy,1366,BOY,青年男人
+Yang-2011-1014-321,girl,1646,GIRL,青年女人
+Yang-2011-1014-322,friend,1325,FRIEND,朋友
+Yang-2011-1014-323,enemy,1358,ENEMY,敌人
+Yang-2011-1014-324,host,1545,HOST,主人
+Yang-2011-1014-325,guest,1782,GUEST,客人
+Yang-2011-1014-326,lame person,2322,LAME PERSON,瘸子/跛子
+Yang-2011-1014-327,official,3361,OFFICIAL,官
+Yang-2011-1014-328,high official,,,大官
+Yang-2011-1014-329,low official,,,小官
+Yang-2011-1014-330,emperor,1508,KING,皇帝
+Yang-2011-1014-331,doctor,597,PHYSICIAN,医生
+Yang-2011-1014-332,blacksmith,1001,BLACKSMITH,铁匠/锻工
+Yang-2011-1014-333,soldier,1941,SOLDIER,兵/士兵
+Yang-2011-1014-334,bride,1266,BRIDE,新娘
+Yang-2011-1014-335,groom,3282,GROOM,新郎
+Yang-2011-1014-336,widow,1756,WIDOW,寡妇
+Yang-2011-1014-337,widower,1981,WIDOWER,寡郎
+Yang-2011-1014-339,blind,1653,BLIND,盲; 瞎子
+Yang-2011-1014-340,deaf,996,DEAF,聋(子)
+Yang-2011-1014-341,father's father,2560,PATERNAL GRANDFATHER,爷爷
+Yang-2011-1014-342,father's mother,3015,PATERNAL GRANDMOTHER,奶奶
+Yang-2011-1014-343,GP father,,,祖父
+Yang-2011-1014-344,GP mother,,,祖母
+Yang-2011-1014-345,father,1217,FATHER,父亲
+Yang-2011-1014-346,mother,1216,MOTHER,母亲
+Yang-2011-1014-347,wife's father,1055,FATHER-IN-LAW,岳父
+Yang-2011-1014-348,wife's mother,1050,MOTHER-IN-LAW,岳母
+Yang-2011-1014-349,older brother,1759,OLDER BROTHER,哥哥
+Yang-2011-1014-350,older sister,1758,OLDER SISTER,姐姐
+Yang-2011-1014-352,younger brother of a female,2417,YOUNGER BROTHER (OF WOMAN),弟弟
+Yang-2011-1014-354,younger sister of a male,2420,YOUNGER SISTER (OF MAN),妹妹
+Yang-2011-1014-355,siblings,1640,SIBLING,兄弟姐妹
+Yang-2011-1014-356,oldest sibling,,,老大
+Yang-2011-1014-357,second sibling,,,老二
+Yang-2011-1014-359,youngest child,,,老幺
+Yang-2011-1014-360,husband,1200,HUSBAND,丈夫
+Yang-2011-1014-361,wife,1199,WIFE,妻子
+Yang-2011-1014-362,son,1620,SON,儿子
+Yang-2011-1014-363,daughter,1357,DAUGHTER,女儿 (姑娘)
+Yang-2011-1014-364,daughter-in-law,1057,DAUGHTER-IN-LAW,儿媳 (媳妇)
+Yang-2011-1014-365,son-in-law,1056,SON-IN-LAW,女婿
+Yang-2011-1014-366,brother's son,,,侄子
+Yang-2011-1014-367,brother's daughter,,,侄女
+Yang-2011-1014-368,sis' child (Mvpt),,,外甥/外甥女
+Yang-2011-1014-369,son's son,2702,GRANDSON (SON'S SON),孙子
+Yang-2011-1014-370,son's daughter,,,孙女
+Yang-2011-1014-371,ancestor,1669,ANCESTORS,祖先
+Yang-2011-1014-372,father's OB,2173,PATERNAL UNCLE (FATHER'S OLDER BROTHER),伯父
+Yang-2011-1014-373,father's BW,,,伯母
+Yang-2011-1014-374,father's OS,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),姑妈
+Yang-2011-1014-375,father's YB,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),叔叔
+Yang-2011-1014-376,mother's OB,,,舅舅
+Yang-2011-1014-377,mother's OS,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),姨母
+Yang-2011-1014-378,male suffix,,,公的
+Yang-2011-1014-379,female suffix,,,母的
+Yang-2011-1014-380,father+children (CLF),,,三父子
+Yang-2011-1014-381,mother+children (CLF),,,三母子
+Yang-2011-1014-382,grandfather+grandchildren (CLF),,,三爷孙
+Yang-2011-1014-383,grandmother+grandchildren (CLF),,,三奶孙
+Yang-2011-1014-384,house,1252,HOUSE,房子
+Yang-2011-1014-385,home,2406,HOME,家
+Yang-2011-1014-386,wall,933,WALL (OF HOUSE),墙壁
+Yang-2011-1014-387,roof,769,ROOF,房顶
+Yang-2011-1014-388,tile (ceramic),,,瓦片
+Yang-2011-1014-389,beam [main],1132,BEAM,梁(主)
+Yang-2011-1014-390,beam[small],1132,BEAM,梁(小)
+Yang-2011-1014-391,post; pillar,281,POST,柱子(大)
+Yang-2011-1014-392,door,1567,DOOR,门
+Yang-2011-1014-393,room,1450,ROOM,房间
+Yang-2011-1014-394,fire-pit,,,火塘
+Yang-2011-1014-395,charcoal,1188,CHARCOAL,木炭
+Yang-2011-1014-396,field; wet field,140,PADDY FIELD,田 (稻田)
+Yang-2011-1014-397,dry field,2794,FIELD (UPLAND),田 (旱田)
+Yang-2011-1014-398,garden,586,GARDEN,菜园
+Yang-2011-1014-399,pen; fold,851,STABLE,圈(牛圈)
+Yang-2011-1014-400,granary,3025,BARN OR SHED,仓（装粮食的柜子）
+Yang-2011-1014-401,shrine; temple,911,TEMPLE,庙
+Yang-2011-1014-402,tomb; grave,1773,GRAVE,坟墓
+Yang-2011-1014-403,graveyard,3284,GRAVEYARD,墓地
+Yang-2011-1014-404,head-wrap,,,头巾
+Yang-2011-1014-405,headdress,331,HEADDRESS,饰头巾
+Yang-2011-1014-406,hat,771,HAT,帽子
+Yang-2011-1014-407,earring,770,EARRING,耳环
+Yang-2011-1014-408,bracelet,1754,BRACELET,手镯
+Yang-2011-1014-409,ring (for finger),1374,RING,戒指
+Yang-2011-1014-410,clothing,1895,CLOTHES,衣服
+Yang-2011-1014-411,collar,2012,COLLAR,衣领
+Yang-2011-1014-412,sleeve,2953,SLEEVE,袖子
+Yang-2011-1014-413,button,757,BUTTON,钮扣
+Yang-2011-1014-414,palm bark rain cape,,,蓑衣
+Yang-2011-1014-415,pants,809,TROUSERS,裤子
+Yang-2011-1014-416,belt,772,BELT,裤带
+Yang-2011-1014-417,shoes,1381,SHOE,鞋
+Yang-2011-1014-418,cloth (fabric),1616,CLOTH,布
+Yang-2011-1014-419,baby sling,,,背兜
+Yang-2011-1014-420,shoulder bag,,,肩袋
+Yang-2011-1014-421,blanket; quilt,806,BLANKET,被子
+Yang-2011-1014-422,pillow,1044,PILLOW,枕头
+Yang-2011-1014-423,mat,195,MAT,(垫)席
+Yang-2011-1014-424,rice powder,3285,RICE FLOUR,米粉
+Yang-2011-1014-425,flour,1594,FLOUR,面粉
+Yang-2011-1014-426,porridge,2049,CONGEE,粥
+Yang-2011-1014-427,oil,1484,OIL (ORGANIC SUBSTANCE),油
+Yang-2011-1014-428,lard,1282,FAT (FROM ANIMALS),动物油
+Yang-2011-1014-429,salt,1274,SALT,盐
+Yang-2011-1014-430,meat,2615,FLESH OR MEAT,肉
+Yang-2011-1014-431,soup,1547,SOUP,汤 (菜汤)
+Yang-2011-1014-432,liquor,842,LIQUOR,酒
+Yang-2011-1014-433,tea,1373,TEA,茶 （茶水）
+Yang-2011-1014-434,sugar,862,SUGAR,糖
+Yang-2011-1014-435,jaggery,,,红糖
+Yang-2011-1014-436,saw,1948,SAW,锯子
+Yang-2011-1014-437,knife,1352,KNIFE,刀
+Yang-2011-1014-438,kitchen knife,2772,KITCHEN KNIFE,菜刀
+Yang-2011-1014-439,pointed knife,,,尖刀
+Yang-2011-1014-440,sickle,341,SICKLE,镰刀
+Yang-2011-1014-441,hatchet,677,AXE,斧头
+Yang-2011-1014-442,hoe (large),284,HOE,锄头
+Yang-2011-1014-443,plow,2154,PLOUGH (INSTRUMENT),犁
+Yang-2011-1014-444,yoke,14,YOKE,牛轭
+Yang-2011-1014-445,thing,,,东西
+Yang-2011-1014-446,loom,1787,LOOM,织布机
+Yang-2011-1014-447,needle,1382,NEEDLE (FOR SEWING),针
+Yang-2011-1014-448,awl,278,AWL,锥子
+Yang-2011-1014-449,thread,1161,THREAD,线 (缝衣用的)
+Yang-2011-1014-450,ball (of thread),1845,BALL,线球
+Yang-2011-1014-451,rope; string,362,STRING,绳子
+Yang-2011-1014-452,chain,1627,CHAIN,链子
+Yang-2011-1014-453,whip (horse whip),2630,WHIP,鞭子 (马鞭子)
+Yang-2011-1014-454,winnowing basket,2051,DUSTPAN,簸箕 (簸米用)
+Yang-2011-1014-455,bamboo sieve; sifter (fine),,,筛子(细的)
+Yang-2011-1014-456,whetstone,295,WHETSTONE,磨刀石
+Yang-2011-1014-457,millstone,2459,GRINDSTONE,石磨
+Yang-2011-1014-458,hammer,1481,HAMMER,锤子
+Yang-2011-1014-459,chisel,1979,CHISEL,凿子
+Yang-2011-1014-460,rice huller,,,碓
+Yang-2011-1014-461,rice pounder,,,米臼
+Yang-2011-1014-462,mortar,224,MORTAR CRUSHER,臼
+Yang-2011-1014-463,pestle,225,PESTLE,杵
+Yang-2011-1014-464,medicine; herbal medicine,1372,MEDICINE,药
+Yang-2011-1014-465,bamboo basket,3360,BAMBOO BASKET,箩筐 (背东西用)
+Yang-2011-1014-466,broom,245,BROOM,扫帚
+Yang-2011-1014-467,pot; pan; wok,1462,POT,锅 (炒菜的)
+Yang-2011-1014-468,tub; bucket,2052,BUCKET,桶
+Yang-2011-1014-469,"barrel, ceramic",2548,BARREL,土罐
+Yang-2011-1014-470,washbasin,915,SINK (BASIN),盆
+Yang-2011-1014-471,bag; sack,2468,BAG,袋子
+Yang-2011-1014-472,comb (regular),1475,COMB,梳子
+Yang-2011-1014-473,fine toothed comb,,,细密梳子
+Yang-2011-1014-474,bowl,1530,BOWL,碗
+Yang-2011-1014-475,small bowl,2053,SMALL BOWL,小碗
+Yang-2011-1014-476,large bowl,3286,LARGE BOWL,大碗
+Yang-2011-1014-477,chopsticks,1987,CHOPSTICKS,筷子
+Yang-2011-1014-478,bed,1663,BED,床
+Yang-2011-1014-479,ladder,1464,LADDER,梯子
+Yang-2011-1014-480,firewood,10,FIREWOOD,柴
+Yang-2011-1014-481,manure; fertilizer,2057,DUNG (ANIMAL FAECES),粪 (肥料)
+Yang-2011-1014-482,road,2457,PATH OR ROAD,路
+Yang-2011-1014-483,bridge,1011,BRIDGE,桥
+Yang-2011-1014-484,market,633,MARKET,街子(市场)
+Yang-2011-1014-485,money,1559,MONEY,钱
+Yang-2011-1014-486,price,657,PRICE,价钱 (价格)
+Yang-2011-1014-487,folksong,2059,FOLK SONG,民歌／山歌
+Yang-2011-1014-488,song,1096,SONG,歌
+Yang-2011-1014-489,story,2060,STORY,故事
+Yang-2011-1014-490,word (written),1599,WORD,字
+Yang-2011-1014-491,speech,1115,SPEECH,话
+Yang-2011-1014-492,sound; voice,1811,SOUND OR NOISE,声音
+Yang-2011-1014-493,book,963,BOOK,书
+Yang-2011-1014-494,name,1405,NAME,名字
+Yang-2011-1014-495,dream,2374,DREAM,梦
+Yang-2011-1014-496,shadow,1388,SHADE,影子
+Yang-2011-1014-497,deity,3231,DEITY,神
+Yang-2011-1014-498,God,1944,GOD,上帝
+Yang-2011-1014-499,soul (1),811,SOUL,魂
+Yang-2011-1014-500,spirit (evil),1973,DEMON,鬼
+Yang-2011-1014-501,boundary marker,,,边界记号
+Yang-2011-1014-502,fence,1690,FENCE,栅栏
+Yang-2011-1014-503,gun,1566,GUN,枪
+Yang-2011-1014-504,bow,994,BOW,弓
+Yang-2011-1014-505,arrow,977,ARROW,箭
+Yang-2011-1014-506,arrow (head),,,箭头
+Yang-2011-1014-507,"cage (e.g., for ducks)",3283,CAGE,笼
+Yang-2011-1014-508,drum,908,DRUM,鼓
+Yang-2011-1014-509,gong,2502,GONG,铜锣
+Yang-2011-1014-510,town,1391,TOWN,城
+Yang-2011-1014-511,village,930,VILLAGE,村(寨)
+Yang-2011-1014-512,custom,1747,CUSTOM,风俗
+Yang-2011-1014-513,ritual tree,,,龙树
+Yang-2011-1014-514,invocation,,,祈祷
+Yang-2011-1014-515,bell,2246,BELL,铃
+Yang-2011-1014-516,flute,777,FLUTE,笛子
+Yang-2011-1014-517,gourd reed-organ,,,芦笙
+Yang-2011-1014-518,pipe (yuantong),1124,PIPE,烟筒
+Yang-2011-1014-519,trap,1075,TRAP (PITFALL),陷阱
+Yang-2011-1014-520,poison,655,POISON,毒药
+Yang-2011-1014-521,look at,1819,LOOK,看
+Yang-2011-1014-522,see,1409,SEE,看见
+Yang-2011-1014-523,show,1039,SHOW,给看
+Yang-2011-1014-524,listen,1608,LISTEN,听
+Yang-2011-1014-525,hear,1408,HEAR,听见
+Yang-2011-1014-526,eat,1336,EAT,吃
+Yang-2011-1014-527,feed,739,FEED,喂（人、猪）
+Yang-2011-1014-528,feed animals,,,喂 (喂鸡)
+Yang-2011-1014-529,drink,1401,DRINK,喝
+Yang-2011-1014-530,give to drink,,,给喝
+Yang-2011-1014-531,bite,1403,BITE,咬
+Yang-2011-1014-532,chew,321,CHEW,嚼
+Yang-2011-1014-533,lick,319,LICK,舔
+Yang-2011-1014-534,savor,2190,TASTE,含
+Yang-2011-1014-535,swallow,897,SWALLOW,咽
+Yang-2011-1014-536,spit,1440,SPIT,吐 (吐口水)
+Yang-2011-1014-537,vomit,1278,VOMIT,呕吐
+Yang-2011-1014-538,suck,1421,SUCK,吸
+Yang-2011-1014-539,blow (on),176,BLOW (WITH MOUTH),吹 (吹火)
+Yang-2011-1014-540,say,1458,SAY,说
+Yang-2011-1014-541,speak,1623,SPEAK,讲
+Yang-2011-1014-542,tell,1711,TELL,告诉
+Yang-2011-1014-543,call; be called,180,CALL BY NAME,叫
+Yang-2011-1014-544,ask,1309,ASK (INQUIRE),问
+Yang-2011-1014-545,answer,1275,ANSWER,答 (回答)
+Yang-2011-1014-546,send for; request,1828,ASK (REQUEST),请
+Yang-2011-1014-547,smell,1586,SMELL (PERCEIVE),闻 (嗅)
+Yang-2011-1014-548,touch; feel; stroke,1892,TOUCH,摸 (摸摸刀口)
+Yang-2011-1014-549,take,1749,TAKE,拿 (拿书)
+Yang-2011-1014-550,grasp; grip,2021,GRASP,握(握刀把)
+Yang-2011-1014-551,grab,855,SEIZE,抓住
+Yang-2011-1014-552,"pick (e.g., fruit)",2148,PICK,摘 (摘果子)
+Yang-2011-1014-553,rub (with hands),1449,RUB,搓 (措绳子)
+Yang-2011-1014-554,rip; tear,1735,TEAR (SHRED),撕
+Yang-2011-1014-555,twist; wring,430,TWIST,拧 (拧毛巾)
+Yang-2011-1014-556,pick up,371,PICK UP,拾 (拾起)
+Yang-2011-1014-557,catch; seize,702,CATCH,捉 (捉鸡)
+Yang-2011-1014-558,"scatter; sprinkle (e.g., seed)",2064,SCATTER (SEEDS),撒 (撒种子)
+Yang-2011-1014-559,throw away,,,丢掉
+Yang-2011-1014-560,pitch (throw from side way),,,摔 (石头)
+Yang-2011-1014-561,toss (overhand),1456,THROW,投
+Yang-2011-1014-562,stretch; stretch out,214,STRETCH,伸 (伸手)
+Yang-2011-1014-563,pound,354,POUND,舂/捣碎
+Yang-2011-1014-564,lift (over head),501,LIFT,举起
+Yang-2011-1014-565,fold,1470,FOLD,折
+Yang-2011-1014-566,squeeze,1414,SQUEEZE,挤压/榨
+Yang-2011-1014-567,pinch,378,PINCH,捏
+Yang-2011-1014-568,massage,3119,MASSAGE (SOMEBODY),按摩
+Yang-2011-1014-569,bend,2224,BEND (SOMETHING),使弯曲
+Yang-2011-1014-571,pull b,1455,PULL,拉
+Yang-2011-1014-572,push,1452,PUSH,推
+Yang-2011-1014-573,kick,1135,KICK,踢
+Yang-2011-1014-574,kneel,66,KNEEL,跪
+Yang-2011-1014-575,sit,1416,SIT,坐
+Yang-2011-1014-576,"carry, on back",465,CARRY ON BACK,背 (背小孩)
+Yang-2011-1014-577,"carry,  in arms",,,抱 (抱小孩)
+Yang-2011-1014-578,"carry, from hand",412,CARRY IN HAND,提
+Yang-2011-1014-579,"carry, mid pole",,,担
+Yang-2011-1014-580,fall,2894,TUMBLE (FALL DOWN),跌 (跌倒)
+Yang-2011-1014-581,lean (against),,,靠 (人靠在树上)
+Yang-2011-1014-582,spend night,,,过夜
+Yang-2011-1014-583,rest,168,REST,休息
+Yang-2011-1014-584,sleep,1585,SLEEP,睡觉
+Yang-2011-1014-585,put to sleep,,,使睡
+Yang-2011-1014-586,awake,825,AWAKE,醒 (睡醒)
+Yang-2011-1014-587,awaken,3174,WAKE UP (SOMEONE),唤醒
+Yang-2011-1014-588,do (work),813,DO,做 (做工)
+Yang-2011-1014-589,labor; work,984,WORK (LABOUR),劳动
+Yang-2011-1014-590,to plow,1921,PLOUGH,犁 (犁地)
+Yang-2011-1014-591,dig (a hole),1418,DIG,挖 (挖洞)
+Yang-2011-1014-593,plant; grow,1486,PLANT (SOMETHING),种
+Yang-2011-1014-594,water,3078,IRRIGATE,浇 (浇菜)
+Yang-2011-1014-595,slice; cut,,,切 (切菜)
+Yang-2011-1014-596,slice; cut,,,切 (切苹果、西瓜)
+Yang-2011-1014-597,split; chop; cleave,1437,SPLIT,劈 (劈木柴)
+Yang-2011-1014-598,chop (down),463,FELL (A TREE),砍 (砍树)
+Yang-2011-1014-599,cut (reap),,,割 (割稻)
+Yang-2011-1014-600,whittle,,,削
+Yang-2011-1014-601,stab,1434,STAB,刺
+Yang-2011-1014-602,pull up; pull out,2325,PULL OUT,拔 (拔草)
+Yang-2011-1014-603,graze; herd (a flock),3058,GRAZE,放牧
+Yang-2011-1014-604,raise animals,,,饲养
+Yang-2011-1014-605,lead along,,,牵 (牵牛)
+Yang-2011-1014-606,buy,1869,BUY,买
+Yang-2011-1014-607,sell,1571,SELL,卖
+Yang-2011-1014-608,count (number),1420,COUNT,数 (数东西)
+Yang-2011-1014-610,teach/train,709,TEACH,教
+Yang-2011-1014-611,study,1929,STUDY,学
+Yang-2011-1014-612,cook; boil,1100,COOK (SOMETHING),煮
+Yang-2011-1014-613,fry (stirfry),991,FRY,炒
+Yang-2011-1014-614,steam,1193,STEAM,蒸
+Yang-2011-1014-615,hunt; go hunting,1435,HUNT,打猎
+Yang-2011-1014-616,shoot (a gun),1172,SHOOT,射
+Yang-2011-1014-617,hit (a target),1433,HIT,中 (射中)
+Yang-2011-1014-618,kill,1417,KILL,杀 (杀鸡)
+Yang-2011-1014-619,die,1494,DIE,死
+Yang-2011-1014-620,sharpen (grinding),251,SHARPEN (SOMETHING),磨 (磨刀)
+Yang-2011-1014-621,mill (grinding),636,MILL,磨 (磨米)
+Yang-2011-1014-622,winnow with a fan,2462,WINNOWING,簸 (簸米)
+Yang-2011-1014-623,ladle out; spoon up,2788,LADLE (WATER),舀 (舀水)
+Yang-2011-1014-624,wear; put on,976,WEAR,穿 (衣服)
+Yang-2011-1014-625,wear (hat); put on (hat),,,戴 (帽子)
+Yang-2011-1014-626,wear (turban),,,戴(头巾)
+Yang-2011-1014-627,wear (upper clothes),,,穿(上衣)
+Yang-2011-1014-628,clothe,158,PUT ON,给穿
+Yang-2011-1014-629,take off,1755,UNDRESS,脱 (脱衣服)
+Yang-2011-1014-630,roll up,,,卷 (卷烟)
+Yang-2011-1014-631,shave,231,SHAVE,剃 (头)
+Yang-2011-1014-632,comb,2070,COMB (VERB),梳 (梳头)
+Yang-2011-1014-633,dye,157,DYE,染 (染衣服)
+Yang-2011-1014-634,sew,1457,SEW,缝(缝衣服)
+Yang-2011-1014-635,mend; patch,2243,REPAIR,补 (补衣服)
+Yang-2011-1014-636,weave,133,WEAVE,编织
+Yang-2011-1014-637,plait; braid,1729,PLAIT OR BRAID OR WEAVE,编 (编辫子)
+Yang-2011-1014-638,make the bed,,,铺 (铺床)
+Yang-2011-1014-639,sweep,230,SWEEP,扫 (扫地)
+Yang-2011-1014-640,open,1156,OPEN,开 (开门)
+Yang-2011-1014-641,close,1046,SHUT,关
+Yang-2011-1014-642,shut,2063,CLOSE (EYES),闭 (闭眼)
+Yang-2011-1014-643,put down; put/place,998,PUT,放 (下) [放置]
+Yang-2011-1014-644,release; let go; set free,1095,LET GO OR SET FREE,放 (把鸟放走)
+Yang-2011-1014-645,hang,2884,HANG,挂 (挂在墙上)
+Yang-2011-1014-646,tie into a bundle,,,捆(绑)
+Yang-2011-1014-648,tie a belt,,,系
+Yang-2011-1014-649,untie,352,UNTIE,解 (解绳结)
+Yang-2011-1014-650,load; pack (put in),1679,LOAD,装 (装进袋里)
+Yang-2011-1014-651,take out,,,拿出
+Yang-2011-1014-652,press; fill in; squeeze in; stuff,1913,PRESS,塞 (塞在洞口)
+Yang-2011-1014-653,bury; cover up,1719,BURY,埋 (埋物)
+Yang-2011-1014-654,hide (thing),602,HIDE (CONCEAL),藏 (东西)
+Yang-2011-1014-655,hide (self),2485,HIDE (ONESELF),藏/躲 (自己)
+Yang-2011-1014-656,choose,1750,CHOOSE,挑选
+Yang-2011-1014-657,pile up; heap up,1576,PILE UP,堆 (堆积泥土)
+Yang-2011-1014-658,nail,,,钉(钉钉子)
+Yang-2011-1014-659,want,1784,WANT,要 (我要这个)
+Yang-2011-1014-660,get; obtain;,694,GET,得 (得到)
+Yang-2011-1014-661,receive,7,GATHER,收 (收起来)
+Yang-2011-1014-662,lose,1660,LOSE,遗失
+Yang-2011-1014-663,seek (look for),1468,LOOK FOR,找/寻找
+Yang-2011-1014-664,use,2072,USE (VERB),用 (使用)
+Yang-2011-1014-665,play,1413,PLAY,玩
+Yang-2011-1014-666,win,866,WIN,赢
+Yang-2011-1014-667,sing,1261,SING,唱（歌）
+Yang-2011-1014-668,dance,1879,DANCE,跳舞
+Yang-2011-1014-669,borrow (money),1823,BORROW,借 (借钱)
+Yang-2011-1014-670,borrow (thing),1823,BORROW,借(借东西）
+Yang-2011-1014-671,give back; return; repay,85,GIVE BACK,还 (还钱)
+Yang-2011-1014-672,owe,369,OWE,欠
+Yang-2011-1014-673,compensate for; reimburse,,,赔偿
+Yang-2011-1014-674,send-off; deliver,2033,DELIVER,送
+Yang-2011-1014-675,wait; await; expect,1590,WAIT (FOR),等(候)
+Yang-2011-1014-676,meet; come across,1831,MEET,遇见
+Yang-2011-1014-677,marry a husband,2163,MARRY (AS WOMAN),嫁
+Yang-2011-1014-678,marry a wife,2164,MARRY (AS MAN),娶
+Yang-2011-1014-679,scold; curse,299,SCOLD,骂
+Yang-2011-1014-680,fight,1423,FIGHT,打架
+Yang-2011-1014-681,hit; beat,353,STRIKE,打 (打人)
+Yang-2011-1014-682,rob; loot,2073,ROB (VERB),抢
+Yang-2011-1014-683,steal,713,STEAL,偷
+Yang-2011-1014-684,cheat,1902,BETRAY,骗
+Yang-2011-1014-685,help,1897,HELP,帮助
+Yang-2011-1014-686,cure; treat; heal,499,CURE,医治
+Yang-2011-1014-687,divide; separate; distribute,1119,DIVIDE,分
+Yang-2011-1014-688,laugh,1355,LAUGH,笑
+Yang-2011-1014-689,cry,1839,CRY,哭
+Yang-2011-1014-690,love,923,LOVE,爱 (爱小孩)
+Yang-2011-1014-691,like; enjoy,1117,LIKE,喜欢 (喜欢唱歌)
+Yang-2011-1014-692,know; understand,1410,KNOW (SOMETHING),懂; 知道
+Yang-2011-1014-693,remember,707,REMEMBER,记得
+Yang-2011-1014-694,forget,1523,FORGET,忘记
+Yang-2011-1014-695,think,1415,THINK (REFLECT),思考
+Yang-2011-1014-696,be angry,2223,BE ANGRY,生气
+Yang-2011-1014-697,hate,1607,HATE,恨
+Yang-2011-1014-698,fear,1419,FEAR (BE AFRAID),怕
+Yang-2011-1014-699,have courage,,,敢
+Yang-2011-1014-700,can (well),972,BE ABLE,会 (会做)
+Yang-2011-1014-701,affirmative,1268,YES,是 (这是什么)
+Yang-2011-1014-702,is not,1269,NO,不是(这不是我的)
+Yang-2011-1014-703,have,773,HAVE,有
+Yang-2011-1014-704,not have; lack; without,3363,NOT HAVE,没有(我没有书)
+Yang-2011-1014-705,walk,1443,WALK,走
+Yang-2011-1014-706,run,1519,RUN,跑
+Yang-2011-1014-707,ascend,705,GO UP (ASCEND),上 (上山)
+Yang-2011-1014-708,descend,2014,GO DOWN (DESCEND),下 (下山)
+Yang-2011-1014-709,come,1446,COME,来
+Yang-2011-1014-710,come up,,,上来
+Yang-2011-1014-711,come down,,,下来
+Yang-2011-1014-712,go,695,GO,去
+Yang-2011-1014-713,go up,705,GO UP (ASCEND),上去
+Yang-2011-1014-714,go down,2014,GO DOWN (DESCEND),下去
+Yang-2011-1014-715,climb,1102,CLIMB,爬(上)
+Yang-2011-1014-716,return,581,COME BACK,回
+Yang-2011-1014-717,arrive,1387,ARRIVE,到
+Yang-2011-1014-718,cross (over),574,TRANSIT,过 (过河)
+Yang-2011-1014-719,go through,1742,TRAVERSE,经过
+Yang-2011-1014-720,exit (come out),1107,GO OUT,出 (出去)
+Yang-2011-1014-721,enter,749,ENTER,进 (进来)
+Yang-2011-1014-722,move back,,,退
+Yang-2011-1014-723,flee; escape,956,FLEE,逃
+Yang-2011-1014-724,chase,1047,PURSUE,追 (追上)
+Yang-2011-1014-725,step on,2065,STEP (VERB),踩
+Yang-2011-1014-726,jump; leap,1829,JUMP,跳
+Yang-2011-1014-727,stride,,,跨 (跨小沟)
+Yang-2011-1014-728,ride; ride on,367,RIDE,骑 (骑马)
+Yang-2011-1014-729,EXIST; to be,1579,BE,在; 有
+Yang-2011-1014-730,dry (in the sun),1786,DRY UP,晒 (晒太阳)
+Yang-2011-1014-731,rain (V),1253,RAIN (RAINING),下雨
+Yang-2011-1014-732,(of the wind) blow,175,BLOW (OF WIND),刮风
+Yang-2011-1014-733,light (on fire),737,LIGHT (IGNITE),点 (点火)
+Yang-2011-1014-734,burn,2102,BURN,焚 (烧)
+Yang-2011-1014-735,burn up,,,烧掉
+Yang-2011-1014-736,roast (in fire),1962,ROAST (SOMETHING),烧(火里)
+Yang-2011-1014-737,roast (over fire),1962,ROAST (SOMETHING),烤(火上)
+Yang-2011-1014-738,smoke,2859,SMOKE (EMIT SMOKE),冒烟
+Yang-2011-1014-739,explode,,,爆炸
+Yang-2011-1014-740,flow,2003,FLOW,流 (水流)
+Yang-2011-1014-741,overflow; spill,3130,SPILL (SOMETHING),溢
+Yang-2011-1014-742,float,1574,FLOAT,浮 (浮在水面)
+Yang-2011-1014-743,crack open; split open,3080,SPLIT OPEN,裂开 (墙裂开)
+Yang-2011-1014-744,collapse; topple down,,,倒塌
+Yang-2011-1014-745,be short of; lack,2329,LACK (NOT HAVE),缺 (碗缺了一个口)
+Yang-2011-1014-746,roll,827,ROLL,滚 (石头滚)
+Yang-2011-1014-747,revolve; rotate; spin,121,SPIN,旋转
+Yang-2011-1014-748,fall; drop,1280,FALL,掉 (掉在地下)
+Yang-2011-1014-749,"snap in two (rope, string)",,,断 (绳子断了)
+Yang-2011-1014-750,break,680,BREAK (DESTROY OR GET DESTROYED),破 (罐子破了)
+Yang-2011-1014-751,leak,2253,DRIP (EMIT LIQUID),漏 (水桶漏水)
+Yang-2011-1014-752,boil,2493,BOIL,沸
+Yang-2011-1014-753,change,1264,CHANGE,变 (蛹变蛾)
+Yang-2011-1014-754,birth,1195,GIVE BIRTH,生 (生孩子)
+Yang-2011-1014-755,grow,479,GROW,长 (长大)
+Yang-2011-1014-756,tremble; shiver,52,SHIVER,发抖
+Yang-2011-1014-757,swell,1573,SWELL,肿
+Yang-2011-1014-758,fly,1441,FLY (MOVE THROUGH AIR),飞
+Yang-2011-1014-759,bark,1206,BARKING,吠 (狗叫)fei
+Yang-2011-1014-760,call; crow (of animals),2074,CROW (VERB),啼 (公鸡啼)
+Yang-2011-1014-761,lay (an egg),2464,LAY EGGS,生 (生蛋)
+Yang-2011-1014-762,"brood, incubate",2075,BROOD (VERB),孵
+Yang-2011-1014-764,bud on trees,1684,BUD,发(芽)
+Yang-2011-1014-765,bloom; blossom,3287,BLOOM,开(花)
+Yang-2011-1014-766,bear fruit,3054,BEAR FRUIT,结(果)
+Yang-2011-1014-768,rot (meat),,,腐烂
+Yang-2011-1014-769,begin; start,1806,BEGIN,开始
+Yang-2011-1014-770,stop,1928,CEASE,停
+Yang-2011-1014-771,remain,987,REMAIN,留下
+Yang-2011-1014-772,write,1672,WRITE,写
+Yang-2011-1014-773,wash (self),3371,WASH (ONESELF),洗(手)
+Yang-2011-1014-774,get up,1602,WAKE UP,起来
+Yang-2011-1014-775,shake,1909,SHAKE,摇动
+Yang-2011-1014-776,sink,1088,SINK (DESCEND),沉 (下)
+Yang-2011-1014-777,finish,1766,FINISH,完成
+Yang-2011-1014-778,give; BEN,1447,GIVE,给
+Yang-2011-1014-779,destroy,681,DESTROY,破坏
+Yang-2011-1014-780,draw water (well),1911,DRAW (WATER),吊（水）
+Yang-2011-1014-781,drain,,,排（水）
+Yang-2011-1014-782,be standing,1442,STAND,站 (站位)
+Yang-2011-1014-783,"skin (animal), to",291,PULL OFF (SKIN),剥皮
+Yang-2011-1014-784,"peel (eggs, fruit)",275,PEEL,剥
+Yang-2011-1014-785,clear field,,,除田
+Yang-2011-1014-786,weed,3288,WEED,除草
+Yang-2011-1014-787,stir,696,STIR,搅拌
+Yang-2011-1014-788,weigh,1098,WEIGH,称
+Yang-2011-1014-789,soak; pickle,2069,SOAK (VERB),泡
+Yang-2011-1014-790,drown,1904,DROWN,淹死/溺死
+Yang-2011-1014-791,accompany someone,1542,ACCOMPANY,陪
+Yang-2011-1014-792,swim,1439,SWIM,游泳
+Yang-2011-1014-793,drill (a hole),1501,BORE,钻 (钻孔)
+Yang-2011-1014-794,insert,3071,INSERT,插
+Yang-2011-1014-795,drive out,,,赶 (驱逐)
+Yang-2011-1014-796,wither,2907,ROT,枯（树叶枯）
+Yang-2011-1014-797,cough,879,COUGH,咳嗽
+Yang-2011-1014-798,yawn,1028,YAWN,打呵欠
+Yang-2011-1014-799,sneeze,1621,SNEEZE,打喷嚏
+Yang-2011-1014-800,hiccup,162,HICCOUGH,打嗝
+Yang-2011-1014-801,belch,2245,BELCH,打饱嗝
+Yang-2011-1014-802,fart,1159,FART,放屁
+Yang-2011-1014-803,defecate,676,SHIT (DEFECATE),解大便
+Yang-2011-1014-804,urinate,592,PISS,解小便
+Yang-2011-1014-805,scratch,1436,SCRATCH,挠/搔
+Yang-2011-1014-806,live,1422,BE ALIVE,活
+Yang-2011-1014-807,exchange,2509,EXCHANGE,交换
+Yang-2011-1014-808,butt,,,(用头)碰撞
+Yang-2011-1014-809,white,1335,WHITE,白
+Yang-2011-1014-810,black,163,BLACK,黑
+Yang-2011-1014-811,red,156,RED,红
+Yang-2011-1014-812,yellow,1424,YELLOW,黄
+Yang-2011-1014-813,blue,837,BLUE,蓝
+Yang-2011-1014-814,green,1425,GREEN,绿
+Yang-2011-1014-815,grey,153,GREY,灰色
+Yang-2011-1014-816,sharp (point),372,POINTED,尖 (笔嘴很尖)
+Yang-2011-1014-817,sharp (blade),1396,SHARP,快 (刀快)
+Yang-2011-1014-818,dull,379,BLUNT,钝 (刀钝)
+Yang-2011-1014-819,round,1395,ROUND,圆 (球很圆)
+Yang-2011-1014-820,flat,1633,FLAT,平 (路很平)
+Yang-2011-1014-821,steep,2717,STEEP,陡 (山很陡)
+Yang-2011-1014-822,situated straight,,,正 (帽子戴得正)
+Yang-2011-1014-823,situated crooked,,,歪 (帽子戴歪了)
+Yang-2011-1014-824,straight,1404,STRAIGHT,直 (棍子很直)
+Yang-2011-1014-825,crooked; bent,297,CROOKED,弯 (棍子弯)
+Yang-2011-1014-826,thick; dense,2239,DENSE,稠 (粥很稠)
+Yang-2011-1014-827,thin; watery; sparse,207,SPARSE,稀 (粥很稀)
+Yang-2011-1014-828,hard,1884,HARD,硬
+Yang-2011-1014-829,soft,1856,SOFT,软
+Yang-2011-1014-830,bright; light,679,BRIGHT,亮 (房子很亮)
+Yang-2011-1014-831,dim; dark,706,DARK,暗 (房子很暗)
+Yang-2011-1014-832,clear (sky),2340,SUNNY,晴
+Yang-2011-1014-833,overcast,2341,CLOUDY,阴
+Yang-2011-1014-834,full,1429,FULL,满
+Yang-2011-1014-835,beautiful,1427,BEAUTIFUL,美丽 {漂亮}
+Yang-2011-1014-836,ugly,1548,UGLY,丑
+Yang-2011-1014-837,fat,1279,FAT (OBESE),胖
+Yang-2011-1014-838,fat; fatty (meat),2449,FAT (OF MEAT AND FOOD),肥 (肉肥)
+Yang-2011-1014-839,lean,2219,LEAN (MEAT),瘦 (瘦肉)
+Yang-2011-1014-840,skinny; thin,1400,THIN (SLIM),瘦 (人瘦)
+Yang-2011-1014-841,clean,704,CLEAN,干净
+Yang-2011-1014-842,dirty,1230,DIRTY,脏
+Yang-2011-1014-843,old,2112,OLD (AGED),老 (老人)
+Yang-2011-1014-844,young,1207,YOUNG,年轻
+Yang-2011-1014-845,good,1035,GOOD,好 (东西好)
+Yang-2011-1014-846,bad,1292,BAD,坏 (人坏)
+Yang-2011-1014-847,fast,1631,FAST,快 (走得快)
+Yang-2011-1014-848,slow,701,SLOW,慢 (走得慢)
+Yang-2011-1014-849,wet,1726,WET,湿 (衣服湿)
+Yang-2011-1014-850,dry,1398,DRY,干 (衣服干)
+Yang-2011-1014-851,new,1231,NEW,新
+Yang-2011-1014-852,old,2113,OLD (USED),旧
+Yang-2011-1014-853,raw; unripe,1959,RAW,生 (生肉)
+Yang-2011-1014-854,cooked; ripe,269,COOKED,熟 (熟肉)
+Yang-2011-1014-855,early,672,EARLY,早 (来得早)
+Yang-2011-1014-856,late,477,LATE,迟 (来迟了)
+Yang-2011-1014-857,easy,686,EASY,容易
+Yang-2011-1014-858,difficult,584,DIFFICULT,难
+Yang-2011-1014-859,hot (temp.),1286,HOT,热
+Yang-2011-1014-861,cold (body),,,?
+Yang-2011-1014-862,warm,1232,WARM,暖和
+Yang-2011-1014-863,cool,,,凉快
+Yang-2011-1014-864,sour,1906,SOUR,酸
+Yang-2011-1014-865,sweet,717,SWEET,甜
+Yang-2011-1014-866,bitter,887,BITTER,苦
+Yang-2011-1014-867,hot (spicy),544,SPICY,辣
+Yang-2011-1014-868,salty,1091,SALTY,咸
+Yang-2011-1014-869,delicious,1813,TASTY,好吃
+Yang-2011-1014-870,insipid,1771,TASTELESS,没味道
+Yang-2011-1014-871,fragrant,376,FRAGRANT,香 (花香)
+Yang-2011-1014-873,really stinky,,,?
+Yang-2011-1014-874,fishy (smell),,,腥 (鱼腥)
+Yang-2011-1014-875,rotten,1728,ROTTEN,腐烂的
+Yang-2011-1014-876,full (stomach),106,SATIATED,饱
+Yang-2011-1014-877,hungry,1533,BE HUNGRY,饿
+Yang-2011-1014-878,thirsty,847,THIRSTY,渴
+Yang-2011-1014-879,tired,1757,TIRED,累 (疲乏/疲劳/疲倦)
+Yang-2011-1014-880,blessed; happy,2529,BLESSED,幸福 (日子好过)
+Yang-2011-1014-881,sad,699,SAD,忧愁
+Yang-2011-1014-882,ashamed,1894,ASHAMED,惭愧/害羞
+Yang-2011-1014-883,itchy; ticklish,149,ITCHY,痒
+Yang-2011-1014-884,sick,1847,SICK,病 (生病)
+Yang-2011-1014-885,intelligent; clever,1310,CLEVER,聪明
+Yang-2011-1014-886,proud,174,PROUD,骄傲
+Yang-2011-1014-887,stupid,1518,STUPID,愚蠢
+Yang-2011-1014-888,crazy,1899,MAD,疯狂
+Yang-2011-1014-889,diligent,2077,DILIGENT,勤(勤奋)
+Yang-2011-1014-890,busy,2755,BUSY,忙
+Yang-2011-1014-891,capable,,,能干(的)
+Yang-2011-1014-892,lazy,1564,LAZY,懒
+Yang-2011-1014-893,rich,712,RICH,富
+Yang-2011-1014-894,poor,1674,POOR,穷
+Yang-2011-1014-895,alive,1422,BE ALIVE,活着
+Yang-2011-1014-896,brave,3,BRAVE,勇敢
+Yang-2011-1014-897,drunk,1463,DRUNK,醉
+Yang-2011-1014-898,backwards,2911,BACKWARD,落后
+Yang-2011-1014-899,different,2504,DIFFERENT,不同
+Yang-2011-1014-900,same,200,SAME,一样 (相同)
+Yang-2011-1014-901,sticky,,,粘
+Yang-2011-1014-902,slick,,,(光)滑
+Yang-2011-1014-903,tight,3053,TIGHT,紧 (绑的紧)
+Yang-2011-1014-904,loose,2506,LOOSE,松 (绑的松)
+Yang-2011-1014-905,expensive,1426,EXPENSIVE,贵
+Yang-2011-1014-906,cheap,1887,CHEAP,便宜
+Yang-2011-1014-907,correct,1725,CORRECT (RIGHT),正确
+Yang-2011-1014-908,enough,1881,ENOUGH,足够
+Yang-2011-1014-909,FAR,1406,FAR,远
+Yang-2011-1014-910,NEAR,1942,NEAR,近
+Yang-2011-1014-911,HIGH,1265,HIGH,高
+Yang-2011-1014-912,LOW,721,LOW,低
+Yang-2011-1014-913,LONG (distance),1203,LONG,长
+Yang-2011-1014-914,SHORT,1645,SHORT,短
+Yang-2011-1014-915,MANY,1198,MANY,多
+Yang-2011-1014-916,FEW,1242,FEW,少
+Yang-2011-1014-917,WIDE,1243,WIDE,宽
+Yang-2011-1014-918,NARROW,1267,NARROW,窄
+Yang-2011-1014-919,BIG,1202,BIG,大
+Yang-2011-1014-920,LITTLE,1246,SMALL,小
+Yang-2011-1014-921,DEEP,1593,DEEP,深 (水深)
+Yang-2011-1014-922,SHALLOW,193,SHALLOW,浅 (水浅)
+Yang-2011-1014-923,LIGHT,1052,LIGHT (WEIGHT),轻
+Yang-2011-1014-924,HEAVY,1210,HEAVY,重
+Yang-2011-1014-925,THICK (2d),1244,THICK,厚
+Yang-2011-1014-926,THIN (2d),2249,THIN (OF SHAPE OF OBJECT),薄
+Yang-2011-1014-927,THICK (3d),2151,COARSE,粗 (粗大)
+Yang-2011-1014-928,THIN (3d),2308,THIN,细 (细小)
+Yang-2011-1014-929,HOW FAR?,,,有多远？
+Yang-2011-1014-930,HOW HIGH?,,,有多高？
+Yang-2011-1014-931,HOW LONG?,2338,HOW LONG,有多长？
+Yang-2011-1014-932,HOW WIDE?,,,有多宽？
+Yang-2011-1014-933,HOW BIG?,,,有多大？
+Yang-2011-1014-934,HOW DEEP?,,,有多深？
+Yang-2011-1014-935,HOW HEAVY?,,,有多重？
+Yang-2011-1014-936,one,1493,ONE,一
+Yang-2011-1014-937,two,1498,TWO,二
+Yang-2011-1014-938,three,492,THREE,三
+Yang-2011-1014-939,four,1500,FOUR,四
+Yang-2011-1014-940,five,493,FIVE,五
+Yang-2011-1014-941,six,1703,SIX,六
+Yang-2011-1014-942,seven,1704,SEVEN,七
+Yang-2011-1014-943,eight,1705,EIGHT,八
+Yang-2011-1014-944,nine,1483,NINE,九
+Yang-2011-1014-945,ten,1515,TEN,十
+Yang-2011-1014-946,eleven,1706,ELEVEN,十一
+Yang-2011-1014-947,twelve,1707,TWELVE,十二
+Yang-2011-1014-948,twenty,1710,TWENTY,二十
+Yang-2011-1014-949,twentyone,1734,TWENTY ONE,二十一
+Yang-2011-1014-950,hundred,1634,HUNDRED,百
+Yang-2011-1014-951,thousand,1843,THOUSAND,千
+Yang-2011-1014-952,half,816,HALF,半 (一半)
+Yang-2011-1014-953,bowlful (MW),,,碗
+Yang-2011-1014-954,arm spread (2 arms),,,庹(两臂伸直）pai
+Yang-2011-1014-955,span (hand-width),,,柞 (拇指-中指)
+Yang-2011-1014-956,CLF.times,,,次
+Yang-2011-1014-957,1S,1209,I,我
+Yang-2011-1014-958,1PL,1212,WE,我们
+Yang-2011-1014-959,1PL (inclusive),1131,WE (INCLUSIVE),咱们
+Yang-2011-1014-960,2S,1215,THOU,你
+Yang-2011-1014-961,2PL,1213,YOU,你们
+Yang-2011-1014-962,3S,262,HE OR SHE OR IT,他
+Yang-2011-1014-963,3PL,817,THEY,他们
+Yang-2011-1014-964,3SR (another),,,其他人／别人
+Yang-2011-1014-965,self,1993,SELF,自己
+Yang-2011-1014-966,another (thing),197,OTHER,另外
+Yang-2011-1014-967,POSS,,,的
+Yang-2011-1014-968,this (1),1214,THIS,这 (个)
+Yang-2011-1014-969,this kind,,,这种
+Yang-2011-1014-970,here (1),136,HERE,这里
+Yang-2011-1014-971,that one,78,THAT,那个
+Yang-2011-1014-972,that (higher),,,那 (上位)
+Yang-2011-1014-973,that (lower),,,那 (下位)
+Yang-2011-1014-974,that (far),,,那 (远位)
+Yang-2011-1014-975,there,1937,THERE,那里
+Yang-2011-1014-976,in front,1883,IN FRONT OF,前面
+Yang-2011-1014-977,on the other side,885,OPPOSITE,对面
+Yang-2011-1014-978,behind,1686,BEHIND,后面
+Yang-2011-1014-979,between,689,BETWEEN,中间
+Yang-2011-1014-980,left,244,LEFT,左边
+Yang-2011-1014-981,right,1019,RIGHT,右边
+Yang-2011-1014-982,beside,1816,BESIDE,旁边
+Yang-2011-1014-983,side,682,SIDE,边
+Yang-2011-1014-984,upon,1753,TOP,上面
+Yang-2011-1014-985,beneath,690,BOTTOM,下面
+Yang-2011-1014-986,inside,1606,INSIDE,里面
+Yang-2011-1014-987,outside,762,OUTSIDE,外面
+Yang-2011-1014-988,everywhere,2999,EVERYWHERE,到处
+Yang-2011-1014-989,who?,1235,WHO,谁?
+Yang-2011-1014-990,what?,1236,WHAT,什么?
+Yang-2011-1014-991,where?,1237,WHERE,哪里?
+Yang-2011-1014-992,why?,1270,WHY,为什么?
+Yang-2011-1014-993,which (one)?,727,WHICH,哪 (一个)?
+Yang-2011-1014-994,how?,1239,HOW,怎么?
+Yang-2011-1014-995,how much?,531,HOW MUCH,多少?
+Yang-2011-1014-996,now,1376,NOW,现在
+Yang-2011-1014-997,just now,84,JUST,刚才
+Yang-2011-1014-998,before (sequential),1882,BEFORE,先 (先去)
+Yang-2011-1014-999,after,1685,AFTER,后 (后去)
+Yang-2011-1014-1000,before (temporal),,,以前
+Yang-2011-1014-1001,formerly,2914,ONCE (IN THE PAST),从前
+Yang-2011-1014-1002,already,2576,ALREADY,已经
+Yang-2011-1014-1003,immediately,1963,IMMEDIATELY,立刻
+Yang-2011-1014-1004,frequently,1852,OFTEN,常常 (常常来)
+Yang-2011-1014-1005,slowly,2165,SLOWLY,慢慢 (慢慢走)
+Yang-2011-1014-1006,quickly,3365,QUICKLY,快快 (快快走)
+Yang-2011-1014-1007,very,1311,VERY,很 (很漂亮)
+Yang-2011-1014-1008,most,,,最 (最大)
+Yang-2011-1014-1009,all,98,ALL,都 (大家都来)
+Yang-2011-1014-1010,again,204,AGAIN,再 (明天再来)
+Yang-2011-1014-1011,really; certainly,509,CERTAIN,一定 (我一定去)
+Yang-2011-1014-1012,not (NEG),1240,NOT,不 (他不来)
+Yang-2011-1014-1013,don't,,,别 (别去)
+Yang-2011-1014-1014,each other,,,互相
