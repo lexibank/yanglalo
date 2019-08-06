@@ -28,7 +28,7 @@ class Dataset(NonSplittingDataset):
         pass
 
     def clean_form(self, item, form):
-        if form:
+        if form.strip() and form not in ['烂饭']:
             form = split_text(form, separators=",")[0]
             return form
 
