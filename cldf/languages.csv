@@ -1,9 +1,9 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Source_ID
-ProtoLalo,Proto-Lalo,,,,,,,,,Pla
-Qingyun,Qingyun,xish1235,,,,,,,"Dali Prefecture, Weishan County, Ma'anshan, Qingyun",CW-QY
-Shuizhuping,Shuizhuping,west1506,,,,,,,"Dali Prefecture, Yangbi County, Longtan, Shuizhuping",W-SZP
-Diaocao,Diaocao,dong1286,,,,,,,"Dali Prefecture, Dali Municipality, Shijiao qu Diaocao",E-DC
-Xuzhang,Xuzhang,xuzh1234,,,,,,,"Baoshan Prefecture, Longyang Area, Wafang, Xuzhang",XZ
-Mangdi,Mangdi,sout3210,,,,,,,"Lincang Prefecture, Gengma County, Hepai, Mangdi",MD
-Yijiacun,Yijiacun,ekaa1234,,,,,,,"Lincang Prefecture, Shuangjiang County, Heliu, Yijiacun",Eka
-Yangliu,Yangliu,yang1304,,,,,,,"Baoshan Prefecture, Longyang Area, Yangliu",YL
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Location,Source_ID,SubGroup
+ProtoLalo,Proto-Lalo,,,,,,,Sino-Tibetan,,Pla,Lalo
+Qingyun,Qingyun,xish1235,,,,,,Sino-Tibetan,"Dali Prefecture, Weishan County, Ma'anshan, Qingyun",CW-QY,Lalo
+Shuizhuping,Shuizhuping,west1506,,,,,,Sino-Tibetan,"Dali Prefecture, Yangbi County, Longtan, Shuizhuping",W-SZP,Lalo
+Diaocao,Diaocao,dong1286,,,,,,Sino-Tibetan,"Dali Prefecture, Dali Municipality, Shijiao qu Diaocao",E-DC,Lalo
+Xuzhang,Xuzhang,xuzh1234,,,,,,Sino-Tibetan,"Baoshan Prefecture, Longyang Area, Wafang, Xuzhang",XZ,Lalo
+Mangdi,Mangdi,sout3210,,,,,,Sino-Tibetan,"Lincang Prefecture, Gengma County, Hepai, Mangdi",MD,Lalo
+Yijiacun,Yijiacun,ekaa1234,,,,,,Sino-Tibetan,"Lincang Prefecture, Shuangjiang County, Heliu, Yijiacun",Eka,Lalo
+Yangliu,Yangliu,yang1304,,,,,,Sino-Tibetan,"Baoshan Prefecture, Longyang Area, Yangliu",YL,Lalo
