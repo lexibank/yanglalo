@@ -1,82 +1,72 @@
-import csv
-
-from clldutils.path import Path
-from clldutils.text import split_text
-from pylexibank.dataset import NonSplittingDataset, Language, Concept
+from pathlib import Path
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank import Language, Concept
+from pylexibank import FirstFormOnlySpec
 from pylexibank.util import pb
+
+from clldutils.misc import slug
 import attr
 
 @attr.s
-class HLanguage(Language):
+class CustomLanguage(Language):
     Location = attr.ib(default=None)
     Source_ID = attr.ib(default=None)
+    Family = attr.ib(default='Sino-Tibetan')
+    SubGroup = attr.ib(default='Lalo')
 
 @attr.s
-class HConcept(Concept):
+class CustomConcept(Concept):
     Chinese_Gloss = attr.ib(default=None)
 
 
 
-class Dataset(NonSplittingDataset):
+class Dataset(BaseDataset):
     id = "yanglalo"
     dir = Path(__file__).parent
-    concept_class = HConcept
-    language_class = HLanguage
+    concept_class = CustomConcept
+    language_class = CustomLanguage
+    form_spec = FirstFormOnlySpec(missing_data=('烂饭', '-'))
 
-    def cmd_download(self, **kw):
-        # nothing to do, as the raw data is in the repository
-        pass
-
-    def clean_form(self, item, form):
-        if form.strip() and form not in ['烂饭']:
-            form = split_text(form, separators=",")[0]
-            return form
-
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
 
         # read raw data for later addition
-        filename = self.dir.joinpath("raw", "raw_data.tsv").as_posix()
-        with open(filename) as csvfile:
-            reader = csv.DictReader(csvfile, delimiter="\t")
-            raw_entries = [row for row in reader]
+        raw_entries = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
 
         # add information to dataset
-        with self.cldf as ds:
-            ds.add_sources(*self.raw.read_bib())
+        args.writer.add_sources()
 
-            # add languages to dataset
+        # add languages to dataset
 
-            languages = {k['Source_ID']: k['ID'] for k in self.languages}
-            ds.add_languages()
-            
-            concepts = {c.attributes['number_in_source']: c.id for c in
-                    self.conceptlist.concepts.values()}
-            for concept in self.conceptlist.concepts.values():
-                ds.add_concept(
-                        ID=concept.id,
-                        Name=concept.english,
-                        Concepticon_ID=concept.concepticon_id,
-                        Concepticon_Gloss=concept.concepticon_gloss,
-                        Chinese_Gloss = concept.attributes['chinese']
-                        )
-            # add lexemes
-            for cogid, entry in pb(enumerate(raw_entries), desc="cldfify",
-                    total=len(raw_entries)):
-                # get the parameter frm the number in source, skipping over
-                # non-published data
-                parameter = entry["Parameter"].split('.')[0]
-                if parameter:
-                    for language in languages:
-                        for row in ds.add_lexemes(
-                            Language_ID=languages[language],
-                            Parameter_ID=concepts[parameter],
+        language_lookup = args.writer.add_languages(
+                lookup_factory="Source_ID")
+        concept_lookup = {}
+        for concept in self.conceptlist.concepts.values():
+            idx = concept.id.split('-')[-1]+'_'+slug(concept.english)
+            args.writer.add_concept(
+                    ID=idx,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss,
+                    Chinese_Gloss = concept.attributes['chinese']
+                    )
+            concept_lookup[concept.attributes['number_in_source']] = idx
+
+        for cogid, entry in pb(enumerate(raw_entries), desc="cldfify",
+                total=len(raw_entries)):
+            # get the parameter frm the number in source, skipping over
+            # non-published data
+            parameter = entry["Parameter"].split('.')[0]
+            if parameter in concept_lookup:
+                for language in language_lookup:
+                    for row in args.writer.add_forms_from_value(
+                            Language_ID=language_lookup[language],
+                            Parameter_ID=concept_lookup[parameter],
                             Value=entry[language],
                             Source=["Yang2011Lalo"],
-                            Cognacy=cogid,
-                        ):
-                            ds.add_cognate(
-                                lexeme=row,
-                                Cognateset_ID=cogid,
-                                Source=["Yang2011Lalo"],
-                                Alignment_Source="",
+                            Cognacy=cogid
+                            ):
+                        args.writer.add_cognate(
+                            lexeme=row,
+                            Cognateset_ID=cogid+1,
+                            Source=["Yang2011Lalo"]
                             )
