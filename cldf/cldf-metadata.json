@@ -11,37 +11,37 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Lalo Regional Varieties",
-    "dcat:accessURL": "https://github.com/lexibank/yanglalo/",
+    "dcat:accessURL": "https://github.com/lexibank/yanglalo",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
-            "rdf:about": "https://github.com/lexibank/yanglalo/",
-            "dc:created": "v1.0.1-10-g38045ec"
+            "rdf:about": "https://github.com/lexibank/yanglalo",
+            "dc:created": "v1.0.1-11-g4e4dd95"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/lingulist/glottolog-data",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.0"
+        },
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Concepticon",
+            "rdf:about": "https://github.com/concepticon/concepticon-data",
+            "dc:created": "v2.2.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts",
             "dc:created": "v1.4"
-        },
-        {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
-            "rdf:about": "https://github.com/concepticon/concepticon-data/",
-            "dc:created": "v2.1.0-109-g408e9f8"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.5.2"
+            "dc:description": "3.7.3"
         },
         {
             "dc:title": "python-packages",
