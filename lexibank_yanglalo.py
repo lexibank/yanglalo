@@ -30,7 +30,9 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         # read raw data for later addition
-        raw_entries = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
+        raw_entries = self.raw_dir.read_csv(
+            "raw_data.tsv", dicts=True, delimiter="\t"
+        )
 
         # add information to dataset
         args.writer.add_sources()
@@ -66,5 +68,7 @@ class Dataset(BaseDataset):
                         Cognacy=cogid,
                     ):
                         args.writer.add_cognate(
-                            lexeme=row, Cognateset_ID=cogid + 1, Source=["Yang2011Lalo"]
+                            lexeme=row,
+                            Cognateset_ID=cogid + 1,
+                            Source=["Yang2011Lalo"],
                         )

@@ -19,7 +19,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 18_earth,earth,2159,GROUND,地 (大地/草地)
 19_soildirt,soil; dirt,1015,SOIL,土(干) (土壤)
 20_mud,mud,640,MUD,泥(巴)
-21_river,river,666,RIVER,河
+21_river,river,3311,FLOWING BODY OF WATER,河
 22_ditch,ditch,2002,DITCH,沟
 23_pond,pond,2035,POND,池塘
 24_puddle,puddle,2290,PUDDLE,小池塘
@@ -72,13 +72,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 72_thismorning,this morning,,,今早
 73_time,time,892,TIME,时间
 74_cow,cow,3044,BOVINE,牛
-75_buffalowater,buffalo (water),934,BUFFALO,水牛
+75_buffalowater,buffalo (water),2516,WATER BUFFALO,水牛
 76_fieldcow,field cow,1153,CATTLE,黄牛
 77_horse,horse,615,HORSE,马
 78_pig,pig,1337,PIG,猪
 79_sow,sow,1351,SOW (FEMALE PIG),母猪
 80_piglet,piglet,2564,PIGLET,小猪
-81_boar,boar,1348,BOAR,公猪
+81_boar,boar,1348,BOAR (MALE PIG),公猪
 82_boarwild,boar (wild),3154,WILD BOAR,野猪
 83_goat,goat,1502,GOAT,山羊
 84_ram,ram,1344,RAM,公羊
@@ -454,14 +454,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 459_chisel,chisel,1979,CHISEL,凿子
 460_ricehuller,rice huller,,,碓
 461_ricepounder,rice pounder,,,米臼
-462_mortar,mortar,224,MORTAR CRUSHER,臼
+462_mortar,mortar,224,MORTAR,臼
 463_pestle,pestle,225,PESTLE,杵
 464_medicineherbalmedicine,medicine; herbal medicine,1372,MEDICINE,药
 465_bamboobasket,bamboo basket,3360,BAMBOO BASKET,箩筐 (背东西用)
 466_broom,broom,245,BROOM,扫帚
-467_potpanwok,pot; pan; wok,1462,POT,锅 (炒菜的)
+467_potpanwok,pot; pan; wok,2056,WOK,锅 (炒菜的)
 468_tubbucket,tub; bucket,2052,BUCKET,桶
-469_barrelceramic,"barrel, ceramic",2548,BARREL,土罐
+469_barrelceramic,"barrel, ceramic",2055,CLAY POT,土罐
 470_washbasin,washbasin,915,SINK (BASIN),盆
 471_bagsack,bag; sack,2468,BAG,袋子
 472_combregular,comb (regular),1475,COMB,梳子
@@ -492,7 +492,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 497_deity,deity,3231,DEITY,神
 498_god,God,1944,GOD,上帝
 499_soul1,soul (1),811,SOUL,魂
-500_spiritevil,spirit (evil),1973,DEMON,鬼
+500_spiritevil,spirit (evil),1175,GHOST,鬼
 501_boundarymarker,boundary marker,,,边界记号
 502_fence,fence,1690,FENCE,栅栏
 503_gun,gun,1566,GUN,枪
@@ -587,7 +587,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 594_water,water,3078,IRRIGATE,浇 (浇菜)
 595_slicecut,slice; cut,,,切 (切菜)
 596_slicecut,slice; cut,,,切 (切苹果、西瓜)
-597_splitchopcleave,split; chop; cleave,1437,SPLIT,劈 (劈木柴)
+597_splitchopcleave,split; chop; cleave,3151,CUT (WITH AXE),劈 (劈木柴)
 598_chopdown,chop (down),355,CUT DOWN,砍 (砍树)
 599_cutreap,cut (reap),,,割 (割稻)
 600_whittle,whittle,,,削
@@ -669,7 +669,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 678_marryawife,marry a wife,2164,MARRY (AS MAN),娶
 679_scoldcurse,scold; curse,299,SCOLD,骂
 680_fight,fight,1423,FIGHT,打架
-681_hitbeat,hit; beat,353,STRIKE,打 (打人)
+681_hitbeat,hit; beat,1433,HIT,打 (打人)
 682_robloot,rob; loot,2073,ROB (VERB),抢
 683_steal,steal,713,STEAL,偷
 684_cheat,cheat,1902,BETRAY,骗

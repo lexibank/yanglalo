@@ -30,3 +30,15 @@ Conceptlists in Concepticon:
 - **Tokens:** 53,082
 - **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 209 CLTS modified)
 - **Inventory size (avg):** 91.38
+
+# Contributors
+
+Name               | GitHub user | Role
+---                | ---         | ---
+Tiago Tresoldi     | @tresoldi   | maintainer
+Johann-Mattis List | @LinguList  | maintainer
+Cathryn Yang       |             | provided data in digital form
+Steve Pepper       |             | did initial concept and glottolog mapping
+
+
+
