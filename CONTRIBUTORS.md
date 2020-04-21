@@ -1,9 +1,10 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Tiago Tresoldi     | @tresoldi   | maintainer
-Johann-Mattis List | @LinguList  | maintainer
-Cathryn Yang       |             | provided data in digital form
-Steve Pepper       |             | did initial concept and glottolog mapping
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Cathryn Yang       |             | provided data in digital form | Author
+Steve Pepper       |             | did initial concept and glottolog mapping | Other
+Tiago Tresoldi     | @tresoldi   | maintainer | Author
+Johann-Mattis List | @LinguList  | maintainer | Author
+
 
