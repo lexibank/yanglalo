@@ -1,7 +1,7 @@
 {
     "title": "CLDF dataset derived from Yang's \"Lalo Regional Varieties\" from 2011",
     "url": "",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license": "CC-BY-4.0",
     "citation": "Yang, Cathryn (2011): Lalo regional varieties: Phylogeny, dialectometry and sociolinguistics. Bundoora: La Trobe University.",
     "conceptlist": "Yang-2011-1014"
 }

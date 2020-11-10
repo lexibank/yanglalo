@@ -1,0 +1,39 @@
+{
+    "title": "CLDF dataset derived from Yang's \"Lalo Regional Varieties\" from 2011",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Cathryn Yang"
+        },
+        {
+            "name": "Tiago Tresoldi"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Cathryn Yang",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Steve Pepper",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Yang, Cathryn (2011): Lalo regional varieties: Phylogeny, dialectometry and sociolinguistics. Bundoora: La Trobe University.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

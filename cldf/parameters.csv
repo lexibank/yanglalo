@@ -95,7 +95,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 95_wolf,wolf,522,WOLF,狼
 96_monkey,monkey,1350,MONKEY,猴子
 97_otter,otter,15,OTTER,水獭
-98_weasel,weasel,,,黄鼠狼
+98_weasel,weasel,3384,WEASEL,黄鼠狼
 99_pangolin,pangolin,2508,PANGOLIN,穿山甲
 100_muntjakdeer,muntjak deer,3152,MUNTJACS,麂子／赤鹿
 101_sambardeer,sambar deer,,,水鹿/黑鹿
@@ -208,14 +208,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 208_ricegrains,rice (grains),926,RICE,米
 209_cookedrice,cooked rice,1191,COOKED RICE,饭
 210_glutinousrice,glutinous rice,2750,GLUTINOUS RICE,糯米
-211_riceseedling,rice seedling,,,秧苗
+211_riceseedling,rice seedling,3767,RICE SEEDLING,秧苗
 212_ricehulls,rice hulls,2501,RICE HUSK,稻壳
 213_chaff,chaff,2363,CHAFF (HUSK),谷壳
 214_fruitpeel,fruit peel,2373,SKIN (OF FRUIT),果皮
 215_shelleggetc,"shell (egg, etc)",598,SHELL,皮/壳(蛋)
 216_thorn,thorn,124,THORN,刺
 217_moss,moss,637,MOSS,苔(青苔)
-218_fern,fern,,,蕨草
+218_fern,fern,3802,FERN,蕨草
 219_yeast,yeast,967,YEAST,酵母
 220_ashes,ashes,646,ASH,灰(草木灰)
 221_body,body,1480,BODY,身体
@@ -227,7 +227,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 227_face,face,1560,FACE,脸
 228_eyebrow,eyebrow,1173,EYEBROW,眉毛
 229_eye,eye,1248,EYE,眼睛
-230_eyeball,eyeball,,,眼球
+230_eyeball,eyeball,3807,EYEBALL,眼球
 231_tears,tears,1651,TEAR (OF EYE),眼泪
 232_nose,nose,1221,NOSE,鼻子
 233_ear,ear,1247,EAR,耳朵
@@ -261,7 +261,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 261_footleg,foot/leg,2098,FOOT OR LEG,脚·腿
 262_leg,leg,1297,LEG,腿
 263_foot,foot,1301,FOOT,脚
-264_thigh,thigh,800,THIGH,大腿
+264_thigh,thigh,471,UPPER LEG (THIGH),大腿
 265_calfofleg,calf (of leg),498,CALF OF LEG,小腿
 266_soleoffoot,sole (of foot),2666,SOLE (FOOT),脚底
 267_heel,heel,980,HEEL,脚后跟
@@ -308,8 +308,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 308_person,person,683,PERSON,人
 309_male,male,2106,MALE PERSON,男人
 310_female,female,2105,FEMALE PERSON,女人
-311_autonym,Autonym,,,(自称)
-312_hanchinese,Han Chinese,,,汉族
+311_autonym,Autonym,3433,AUTONYM (OF PEOPLE),(自称)
+312_hanchinese,Han Chinese,3373,HAN CHINESE,汉族
 314_bai,Bai,,,白族
 315_dai,Dai,,,傣族
 316_child,child,2099,CHILD,儿童
@@ -551,7 +551,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 556_pickup,pick up,371,PICK UP,拾 (拾起)
 557_catchseize,catch; seize,702,CATCH,捉 (捉鸡)
 558_scattersprinkleegseed,"scatter; sprinkle (e.g., seed)",2064,SCATTER (SEEDS),撒 (撒种子)
-559_throwaway,throw away,,,丢掉
+559_throwaway,throw away,3696,THROW AWAY,丢掉
 560_pitchthrowfromsideway,pitch (throw from side way),,,摔 (石头)
 561_tossoverhand,toss (overhand),1456,THROW,投
 562_stretchstretchout,stretch; stretch out,214,STRETCH,伸 (伸手)
@@ -595,7 +595,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 602_pulluppullout,pull up; pull out,2325,PULL OUT,拔 (拔草)
 603_grazeherdaflock,graze; herd (a flock),3058,GRAZE,放牧
 604_raiseanimals,raise animals,,,饲养
-605_leadalong,lead along,,,牵 (牵牛)
+605_leadalong,lead along,43,LEAD (GUIDE),牵 (牵牛)
 606_buy,buy,1869,BUY,买
 607_sell,sell,1571,SELL,卖
 608_countnumber,count (number),1420,COUNT,数 (数东西)
@@ -639,7 +639,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 648_tieabelt,tie a belt,,,系
 649_untie,untie,352,UNTIE,解 (解绳结)
 650_loadpackputin,load; pack (put in),1679,LOAD,装 (装进袋里)
-651_takeout,take out,,,拿出
+651_takeout,take out,3654,TAKE OUT,拿出
 652_pressfillinsqueezeinstuff,press; fill in; squeeze in; stuff,1913,PRESS,塞 (塞在洞口)
 653_burycoverup,bury; cover up,1719,BURY,埋 (埋物)
 654_hidething,hide (thing),602,HIDE (CONCEAL),藏 (东西)
@@ -885,7 +885,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 898_backwards,backwards,2911,BACKWARD,落后
 899_different,different,2504,DIFFERENT,不同
 900_same,same,200,SAME,一样 (相同)
-901_sticky,sticky,,,粘
+901_sticky,sticky,3703,STICKY,粘
 902_slick,slick,,,(光)滑
 903_tight,tight,3053,TIGHT,紧 (绑的紧)
 904_loose,loose,2506,LOOSE,松 (绑的松)
@@ -910,7 +910,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 923_light,LIGHT,1052,LIGHT (WEIGHT),轻
 924_heavy,HEAVY,1210,HEAVY,重
 925_thick2d,THICK (2d),1244,THICK,厚
-926_thin2d,THIN (2d),2249,THIN (OF SHAPE OF OBJECT),薄
+926_thin2d,THIN (2d),2306,THIN (OF LEAF AND CLOTH),薄
 927_thick3d,THICK (3d),2151,COARSE,粗 (粗大)
 928_thin3d,THIN (3d),2308,THIN,细 (细小)
 929_howfar,HOW FAR?,,,有多远？
@@ -984,7 +984,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 997_justnow,just now,84,JUST,刚才
 998_beforesequential,before (sequential),1882,BEFORE,先 (先去)
 999_after,after,1685,AFTER,后 (后去)
-1000_beforetemporal,before (temporal),,,以前
+1000_beforetemporal,before (temporal),1882,BEFORE,以前
 1001_formerly,formerly,2914,ONCE (IN THE PAST),从前
 1002_already,already,2576,ALREADY,已经
 1003_immediately,immediately,1963,IMMEDIATELY,立刻
