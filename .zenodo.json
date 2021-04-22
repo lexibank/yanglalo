@@ -8,12 +8,6 @@
     "creators": [
         {
             "name": "Cathryn Yang"
-        },
-        {
-            "name": "Tiago Tresoldi"
-        },
-        {
-            "name": "Johann-Mattis List"
         }
     ],
     "contributors": [
@@ -23,6 +17,14 @@
         },
         {
             "name": "Steve Pepper",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
             "type": "Other"
         }
     ],
