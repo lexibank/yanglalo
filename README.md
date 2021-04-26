@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Yang, Cathryn (2011): Lalo regional varieties: Phylogeny, dialectometry and sociolinguistics. Bundoora: La Trobe University.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -12,7 +12,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/yanglalo/.svg?branch=master)](https://travis-ci.org/lexibank/yanglalo/)
+[![CLDF validation](https://github.com/lexibank/yanglalo//workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/yanglalo//actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 87%](https://img.shields.io/badge/Glottolog-87%25-yellowgreen.svg "Glottolog: 87%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-green.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -37,8 +37,8 @@ Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Cathryn Yang       |             | provided data in digital form | Author, DataCollector
 Steve Pepper       |             | did initial concept and glottolog mapping | Other
-Tiago Tresoldi     | @tresoldi   | maintainer | Author
-Johann-Mattis List | @LinguList  | maintainer | Author
+Tiago Tresoldi     | @tresoldi   | maintainer | Other
+Johann-Mattis List | @LinguList  | maintainer | Other
 
 
 

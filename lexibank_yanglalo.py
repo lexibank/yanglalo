@@ -1,11 +1,11 @@
 from pathlib import Path
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank import Language, Concept
-from pylexibank import FormSpec
-from pylexibank.util import progressbar
 
-from clldutils.misc import slug
 import attr
+from clldutils.misc import slug
+from pylexibank import FormSpec
+from pylexibank import Language, Concept
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.util import progressbar
 
 
 @attr.s
@@ -30,16 +30,10 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         # read raw data for later addition
-        raw_entries = self.raw_dir.read_csv(
-            "raw_data.tsv", dicts=True, delimiter="\t"
-        )
-
-        # add information to dataset
+        raw_entries = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
         args.writer.add_sources()
-
-        # add languages to dataset
-
         language_lookup = args.writer.add_languages(lookup_factory="Source_ID")
+
         concept_lookup = {}
         for concept in self.conceptlists[0].concepts.values():
             idx = concept.id.split("-")[-1] + "_" + slug(concept.english)
@@ -68,7 +62,5 @@ class Dataset(BaseDataset):
                         Cognacy=cogid,
                     ):
                         args.writer.add_cognate(
-                            lexeme=row,
-                            Cognateset_ID=cogid + 1,
-                            Source=["Yang2011Lalo"],
+                            lexeme=row, Cognateset_ID=cogid + 1, Source=["Yang2011Lalo"]
                         )
