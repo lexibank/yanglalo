@@ -2,14 +2,11 @@ from pathlib import Path
 
 import attr
 from clldutils.misc import slug
-from pylexibank import FormSpec
-from pylexibank import Language, Concept
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.util import progressbar
+import pylexibank
 
 
 @attr.s
-class CustomLanguage(Language):
+class CustomLanguage(pylexibank.Language):
     Location = attr.ib(default=None)
     Source_ID = attr.ib(default=None)
     Family = attr.ib(default="Sino-Tibetan")
@@ -17,16 +14,16 @@ class CustomLanguage(Language):
 
 
 @attr.s
-class CustomConcept(Concept):
+class CustomConcept(pylexibank.Concept):
     Chinese_Gloss = attr.ib(default=None)
 
 
-class Dataset(BaseDataset):
+class Dataset(pylexibank.Dataset):
     id = "yanglalo"
     dir = Path(__file__).parent
     concept_class = CustomConcept
     language_class = CustomLanguage
-    form_spec = FormSpec(missing_data=("烂饭", "-"), first_form_only=True)
+    form_spec = pylexibank.FormSpec(missing_data=("烂饭", "-"), first_form_only=True)
 
     def cmd_makecldf(self, args):
         # read raw data for later addition
@@ -46,7 +43,7 @@ class Dataset(BaseDataset):
             )
             concept_lookup[concept.attributes["number_in_source"]] = idx
 
-        for cogid, entry in progressbar(
+        for cogid, entry in pylexibank.progressbar(
             enumerate(raw_entries), desc="cldfify", total=len(raw_entries)
         ):
             # get the parameter frm the number in source, skipping over

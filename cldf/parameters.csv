@@ -167,7 +167,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 167_jobstears,job's tears,3281,JOB'S TEARS,薏苡
 168_corn,corn,506,MAIZE,玉米
 169_earofgrain,ear of grain,3244,EAR (OF GRAIN),穗子
-170_peanut,peanut,2364,PEANUT,花生
+170_peanut,peanut,595,GROUNDNUT (PEANUT),花生
 171_walnut,walnut,2042,WALNUT,核桃
 172_cotton,cotton,1850,COTTON,棉花
 173_ramie,ramie,3063,RAMIE,苎麻
@@ -542,7 +542,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 547_smell,smell,1586,SMELL (PERCEIVE),闻 (嗅)
 548_touchfeelstroke,touch; feel; stroke,1892,TOUCH,摸 (摸摸刀口)
 549_take,take,1749,TAKE,拿 (拿书)
-550_graspgrip,grasp; grip,2021,GRASP,握(握刀把)
+550_graspgrip,grasp; grip,855,SEIZE,握(握刀把)
 551_grab,grab,855,SEIZE,抓住
 552_pickegfruit,"pick (e.g., fruit)",2148,PICK,摘 (摘果子)
 553_rubwithhands,rub (with hands),1449,RUB,搓 (措绳子)
@@ -867,7 +867,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 880_blessedhappy,blessed; happy,2529,BLESSED,幸福 (日子好过)
 881_sad,sad,699,SAD,忧愁
 882_ashamed,ashamed,1894,ASHAMED,惭愧/害羞
-883_itchyticklish,itchy; ticklish,149,ITCHY,痒
+883_itchyticklish,itchy; ticklish,3856,ITCH OR ITCHY OR ITCHING,痒
 884_sick,sick,1847,SICK,病 (生病)
 885_intelligentclever,intelligent; clever,1310,CLEVER,聪明
 886_proud,proud,174,PROUD,骄傲
