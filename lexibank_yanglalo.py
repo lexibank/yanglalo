@@ -21,6 +21,8 @@ class CustomConcept(pylexibank.Concept):
 class Dataset(pylexibank.Dataset):
     id = "yanglalo"
     dir = Path(__file__).parent
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     concept_class = CustomConcept
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(missing_data=("烂饭", "-"), first_form_only=True)

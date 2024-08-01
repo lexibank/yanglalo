@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 8
-- **Concepts:** 1,000
+- **Varieties:** 8 (linked to 7 different Glottocodes)
+- **Concepts:** 1,000 (linked to 877 different Concepticon concept sets)
 - **Lexemes:** 8,505
 - **Sources:** 1
 - **Synonymy:** 1.13
@@ -36,7 +36,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.03
 - **Invalid lexemes:** 0
 - **Tokens:** 53,082
-- **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 209 CLTS modified)
+- **Segments:** 209 (0 BIPA errors, 0 CLTS sound class errors, 209 CLTS modified)
 - **Inventory size (avg):** 91.38
 
 # Contributors
@@ -45,9 +45,8 @@ Name               | GitHub user | Description | Role
 ---                | ---         | --- | ---
 Cathryn Yang       |             | provided data in digital form | Author, DataCollector
 Steve Pepper       |             | did initial concept and glottolog mapping | Other
-Tiago Tresoldi     | @tresoldi   | maintainer | Other
-Johann-Mattis List | @LinguList  | maintainer | Other
-
+Tiago Tresoldi     | @tresoldi   | profile, code | Other
+Johann-Mattis List | @LinguList  | maintainer | Editor
 
 
 
