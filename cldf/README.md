@@ -13,7 +13,7 @@ property | value
 [dc:format](http://purl.org/dc/terms/format) | <ol><li>http://concepticon.clld.org/contributions/Yang-2011-1014</li></ol>
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/lexibank/yanglalo
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/yanglalo/tree/13d369c">lexibank/yanglalo v3.0-1-g13d369c</a></li><li><a href="https://github.com/glottolog/glottolog/tree/113434830e">Glottolog v5.0-18-g113434830e</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/81accb2e">Concepticon v3.2.0-17-g81accb2e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/lexibank/yanglalo/tree/47827ed">lexibank/yanglalo v3.0-2-g47827ed</a></li><li><a href="https://github.com/glottolog/glottolog/tree/113434830e">Glottolog v5.0-18-g113434830e</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/81accb2e">Concepticon v3.2.0-17-g81accb2e</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.3.0">CLTS v2.3.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.12.4</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | yanglalo
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -33,7 +33,7 @@ This is the basis for creating rows in CLDF representations of the data by
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 7013
+[dc:extent](http://purl.org/dc/terms/extent) | 7798
 
 
 ### Columns
@@ -84,7 +84,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 999
+[dc:extent](http://purl.org/dc/terms/extent) | 1000
 
 
 ### Columns
@@ -102,7 +102,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 7013
+[dc:extent](http://purl.org/dc/terms/extent) | 7798
 
 
 ### Columns

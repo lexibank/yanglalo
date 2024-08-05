@@ -21,23 +21,23 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/lexibank/yanglalo/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/yanglalo/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
+![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 90%](https://img.shields.io/badge/Concepticon-90%25-yellowgreen.svg "Concepticon: 90%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 98%](https://img.shields.io/badge/BIPA-98%25-green.svg "BIPA: 98%")
-![CLTS SoundClass: 98%](https://img.shields.io/badge/CLTS%20SoundClass-98%25-green.svg "CLTS SoundClass: 98%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 8 (linked to 7 different Glottocodes)
-- **Concepts:** 999 (linked to 877 different Concepticon concept sets)
-- **Lexemes:** 7,013
+- **Concepts:** 1,000 (linked to 877 different Concepticon concept sets)
+- **Lexemes:** 7,798
 - **Sources:** 1
 - **Synonymy:** 1.04
-- **Cognacy:** 7,013 cognates in 1,117 cognate sets (16 singletons)
+- **Cognacy:** 7,798 cognates in 1,118 cognate sets (10 singletons)
 - **Cognate Diversity:** 0.02
 - **Invalid lexemes:** 0
-- **Tokens:** 42,451
-- **Segments:** 209 (5 BIPA errors, 5 CLTS sound class errors, 204 CLTS modified)
-- **Inventory size (avg):** 89.75
+- **Tokens:** 47,169
+- **Segments:** 206 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
+- **Inventory size (avg):** 90.50
 
 # Contributors
 

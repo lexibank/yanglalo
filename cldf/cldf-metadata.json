@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/yanglalo",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-1-g13d369c",
+            "dc:created": "v3.0-2-g47827ed",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 7013,
+            "dc:extent": 7798,
             "tableSchema": {
                 "columns": [
                     {
@@ -239,7 +239,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 999,
+            "dc:extent": 1000,
             "tableSchema": {
                 "columns": [
                     {
@@ -275,7 +275,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 7013,
+            "dc:extent": 7798,
             "tableSchema": {
                 "columns": [
                     {

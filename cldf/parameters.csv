@@ -351,6 +351,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 355_siblings,siblings,1640,SIBLING,兄弟姐妹
 356_oldestsibling,oldest sibling,,,老大
 357_secondsibling,second sibling,,,老二
+359_youngestchild,youngest child,,,老幺
 360_husband,husband,1200,HUSBAND,丈夫
 361_wife,wife,1199,WIFE,妻子
 362_son,son,1620,SON,儿子
