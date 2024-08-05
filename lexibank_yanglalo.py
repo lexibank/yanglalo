@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 
 import attr
@@ -27,9 +28,21 @@ class Dataset(pylexibank.Dataset):
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(missing_data=("烂饭", "-"), first_form_only=True)
 
+    def cmd_download(self, args):
+        supp_material_url = "https://opal.latrobe.edu.au/ndownloader/articles/21844209/versions/1"
+        supp_material_sheet = "33403_SOURCE4_2_A.xlsx"
+
+        self.raw_dir.download_and_unpack(supp_material_url)
+        self.raw_dir.xlsx2csv(supp_material_sheet)
+
     def cmd_makecldf(self, args):
-        # read raw data for later addition
-        raw_entries = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
+        # _ = self.raw_dir.read_csv("33403_SOURCE4_2_A.cognatesets.csv", dicts=True)
+        wordl_english = self.raw_dir.read_csv("33403_SOURCE4_2_A.AppendixEwordlist.csv", dicts=True)
+        # _ = self.raw_dir.read_csv(
+        #     "33403_SOURCE4_2_A.AppendixFalphabeticalorder.csv", dicts=True
+        # )
+
+        _ = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
         args.writer.add_sources()
         language_lookup = args.writer.add_languages(lookup_factory="Source_ID")
 
@@ -46,11 +59,9 @@ class Dataset(pylexibank.Dataset):
             concept_lookup[concept.attributes["number_in_source"]] = idx
 
         for cogid, entry in pylexibank.progressbar(
-            enumerate(raw_entries), desc="cldfify", total=len(raw_entries)
+            enumerate(wordl_english), desc="cldfify", total=len(wordl_english)
         ):
-            # get the parameter frm the number in source, skipping over
-            # non-published data
-            parameter = entry["Parameter"].split(".")[0]
+            parameter = entry["No."]
             if parameter in concept_lookup:
                 for language in language_lookup:
                     for row in args.writer.add_forms_from_value(
