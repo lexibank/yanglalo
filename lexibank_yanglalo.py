@@ -1,9 +1,8 @@
-import argparse
 from pathlib import Path
 
 import attr
-from clldutils.misc import slug
 import pylexibank
+from clldutils.misc import slug
 
 
 @attr.s
@@ -36,13 +35,8 @@ class Dataset(pylexibank.Dataset):
         self.raw_dir.xlsx2csv(supp_material_sheet)
 
     def cmd_makecldf(self, args):
-        # _ = self.raw_dir.read_csv("33403_SOURCE4_2_A.cognatesets.csv", dicts=True)
         wordl_english = self.raw_dir.read_csv("33403_SOURCE4_2_A.AppendixEwordlist.csv", dicts=True)
-        # _ = self.raw_dir.read_csv(
-        #     "33403_SOURCE4_2_A.AppendixFalphabeticalorder.csv", dicts=True
-        # )
 
-        _ = self.raw_dir.read_csv("raw_data.tsv", dicts=True, delimiter="\t")
         args.writer.add_sources()
         language_lookup = args.writer.add_languages(lookup_factory="Source_ID")
 
