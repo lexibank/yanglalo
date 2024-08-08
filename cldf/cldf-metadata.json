@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/lexibank/yanglalo",
             "rdf:type": "prov:Entity",
-            "dc:created": "v3.0-3-g10b34e6",
+            "dc:created": "v3.0-4-g1d01969",
             "dc:title": "Repository"
         },
         {

@@ -30,9 +30,33 @@ class Dataset(pylexibank.Dataset):
     def cmd_download(self, args):
         supp_material_url = "https://opal.latrobe.edu.au/ndownloader/articles/21844209/versions/1"
         supp_material_sheet = "33403_SOURCE4_2_A.xlsx"
+        english_supplement = "33403_SOURCE4_2_A.AppendixEwordlist.csv"
 
         self.raw_dir.download_and_unpack(supp_material_url)
         self.raw_dir.xlsx2csv(supp_material_sheet)
+
+        # We do some very rough cleanup of the converted Excel sheets here.
+        cleanup = [
+            ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+            "Appendix E: Sample Lalo language data and Proto-Lalo reconstructions",
+            "A. Nature",
+            "B. Animals",
+            "C. Plants",
+            "D. Body Parts",
+            "E. Society",
+            "F. Material Culture",
+            "G. Verbs",
+            "H. Adjectives",
+            "I. Miscellaneous",
+        ]
+
+        with open(self.raw_dir / english_supplement, "r+") as f:
+            lines = f.readlines()
+            f.seek(0)
+            for line in lines:
+                if not any(c in line for c in cleanup):
+                    f.write(line)
+            f.truncate()
 
     def cmd_makecldf(self, args):
         wordl_english = self.raw_dir.read_csv("33403_SOURCE4_2_A.AppendixEwordlist.csv", dicts=True)
