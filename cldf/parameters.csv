@@ -369,7 +369,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 374_fathersos,father's OS,3041,PATERNAL AUNT (FATHER'S OLDER SISTER),姑妈
 375_fathersyb,father's YB,2174,PATERNAL UNCLE (FATHER'S YOUNGER BROTHER),叔叔
 376_mothersob,mother's OB,,,舅舅
-377_mothersos,mother's OS,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),姨母
+377_mothersos,mother's OS,2176,MATERNAL AUNT,姨母
 378_malesuffix,male suffix,,,公的
 379_femalesuffix,female suffix,,,母的
 380_fatherchildrenclf,father+children (CLF),,,三父子
@@ -556,7 +556,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 561_tossoverhand,toss (overhand),1456,THROW,投
 562_stretchstretchout,stretch; stretch out,214,STRETCH,伸 (伸手)
 563_pound,pound,354,POUND,舂/捣碎
-564_liftoverhead,lift (over head),501,LIFT,举起
+564_liftoverhead,lift (over head),1317,RAISE,举起
 565_fold,fold,1470,FOLD,折
 566_squeeze,squeeze,1414,SQUEEZE,挤压/榨
 567_pinch,pinch,378,PINCH,捏

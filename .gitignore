@@ -105,3 +105,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.idea/
+
+raw/33403_SOURCE4_2_A.xlsx
+raw/33403_SOURCE01_2_A.pdf
+raw/33403_SOURCE2_2_A.zip
